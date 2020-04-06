@@ -2,7 +2,7 @@
 title: OrthoDB
 description: The hierarchical catalog of orthologs mapping genomics to functional data
 published: true
-date: 2020-04-06T20:30:05.923Z
+date: 2020-04-06T20:30:33.637Z
 tags: tool, genome annotation
 ---
 
@@ -16,7 +16,7 @@ tags: tool, genome annotation
 
 
 ## Website
-- [OrthoDB *Main Page*](https://www.orthodb.org/?)
+- [OrthoDB *Main Page*](https://www.orthodb.org/)
 {.links-list}
 
 ## Citation
