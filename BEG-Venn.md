@@ -2,8 +2,8 @@
 title: Bioinformatics & Evolutionary Genomics Draw Venn Diagram
 description: 
 published: true
-date: 2020-03-31T20:41:55.882Z
-tags: 
+date: 2020-04-06T20:36:20.147Z
+tags: tool
 ---
 
 # Bioinformatics & Evolutionary Genomics Draw Venn Diagram
@@ -20,5 +20,5 @@ Downloading the figure in SVG format will allow you to further customise it with
 
 ## Citation
 
-- Unfortunately there is no publication yet describing this tool. In the meantime they would be grateful if you can mention the URL where one can access the tool. (http://bioinformatics.psb.ugent.be/webtools/Venn/)
+- Unfortunately there is no publication yet describing this tool. In the meantime they would be grateful if you can mention the URL where one can access the tool. http://bioinformatics.psb.ugent.be/webtools/Venn/
 {.grid-list}
