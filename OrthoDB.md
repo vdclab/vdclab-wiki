@@ -2,13 +2,18 @@
 title: OrthoDB
 description: The hierarchical catalog of orthologs mapping genomics to functional data
 published: true
-date: 2020-04-06T20:24:08.852Z
+date: 2020-04-06T20:29:06.426Z
 tags: tool, genome annotation
 ---
 
 # OrthoDB
 
+> OrthoDB presents a catalog of orthologous protein-coding genes across 64 vertebrates, 57 arthropods, 175 fungi, 14 basal metazoans, and 1115 bacteria. Orthology refers to the last common ancestor of the species under consideration, and thus OrthoDB explicitly delineates orthologs at each radiation along the species phylogeny. The database of orthologs presents available protein descriptors, together with Gene Ontology and InterPro attributes, which serve to provide general descriptive annotations of the orthologous groups, and facilitate comprehensive orthology database querying.
 {.is-info}
+
+> April, 6th, 2020 : Site seems not working with an error : `Network error: cannot load user Internal Server Error (500)`
+{.is-warning}
+
 
 ## Website
 - [OrthoDB *Main Page*](https://www.orthodb.org/?)
