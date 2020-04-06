@@ -2,7 +2,7 @@
 title: JGI GOLD (Genomes OnLine Database)
 description: GOLD (Genomes OnLine Database)
 published: true
-date: 2020-04-06T18:57:22.079Z
+date: 2020-04-06T19:49:45.979Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, projects, sequencing projects, project library, 2018
 ---
 
@@ -15,6 +15,12 @@ tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, projec
 
 - [JGI GOLD *Main page*](https://gold.jgi.doe.gov/)
 {.links-list}
+
+## Notes from users
+Registry for sequenced genomes, annotation and metadata done before submission to IMG
+
+## Help
+- Help tool provided under help tab, can report or send an issue directly to them 
 
 ## Citations 
 
