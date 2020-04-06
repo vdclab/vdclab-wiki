@@ -2,11 +2,11 @@
 title: MultAlan Multiple Sequence Alignment (MSA)
 description: 
 published: true
-date: 2020-04-06T21:26:32.283Z
+date: 2020-04-06T21:26:39.237Z
 tags: genomes, tool, sequence alignment, proteins
 ---
 
-# MultAlan Multiple Sequence Alignment (MSA)
+# MultAlin Multiple Sequence Alignment (MSA)
 
 >  This software will allow you to align simultaneously several biological sequences.
 &NewLine;
