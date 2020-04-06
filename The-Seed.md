@@ -1,19 +1,19 @@
 ---
-title: Home of the SEED
+title: The SEED
 description: 
 published: true
-date: 2020-04-06T19:02:58.886Z
+date: 2020-04-06T19:06:36.263Z
 tags: annotation, genomes
 ---
 
-# Home of the SEED
+# The SEED
 
 > With the growing number of available genomes, the need for an environment to support effective comparative analysis increases. The original SEED Project was started in 2003 by the Fellowship for Interpretation of Genomes (FIG) as a largely unfunded open source effort. Argonne National Laboratory and the University of Chicago joined the project, and now much of the activity occurs at those two institutions (as well as the University of Illinois at Urbana-Champaign, Hope college, San Diego State University, the Burnham Institute and a number of other institutions). The cooperative effort focuses on the development of the comparative genomics environment called the SEED and, more importantly, on the development of curated genomic data.
 {.is-info}
 
 ## Website
 
-- [Home of the SEED *Main Page*](http://www.theseed.org/wiki/Main_Page)
+- [The SEED *Home Page*](http://www.theseed.org/wiki/Main_Page)
 {.links-list}
 
 ## Citations
