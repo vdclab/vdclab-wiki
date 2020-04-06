@@ -2,7 +2,7 @@
 title: NCBI - YouTube Channel
 description: NCBI's YouTube channel featuring many video tutorials on using their site, tools & other resources.
 published: true
-date: 2020-04-06T17:43:06.219Z
+date: 2020-04-06T17:44:17.858Z
 tags: reference, resource reference, tutorial, video, social
 ---
 
@@ -22,5 +22,5 @@ This channel are video tutoriel meant to be use with their website:
 {.links-list}
 
 This website is also referenced in our wiki:
-- [Wiki page *NCBI explaination*](https://vdclab-wiki.herokuapp.com/NCBI/)
+- [Wiki page *NCBI explanation*](https://vdclab-wiki.herokuapp.com/NCBI/)
 {.links-list}
