@@ -2,8 +2,8 @@
 title: OrthoInspector
 description: OrthoInspector is a software suite for inference of orthologous relationships between protein coding-genes and an online resource to access and query precomputed orthology databases.
 published: true
-date: 2020-03-31T20:52:32.377Z
-tags: 
+date: 2020-04-06T20:34:00.431Z
+tags: database
 ---
 
 # OrthoInspector
@@ -19,9 +19,9 @@ Each protein page offers a fully searchable list of orthologs and inparalogs acr
 
 ## Website
 
-- [OrthoInspector *Main Page*](https://lbgi.fr/orthoinspectorv3/)
+- [OrthoInspector *Version 3*](https://lbgi.fr/orthoinspectorv3/)
 {.links-list}
 
 ## Citation
-- [OrthoInspector 3.0: open portal for comparative genomics.](https://academic.oup.com/nar/article/47/D1/D411/5150236) Nevers Y, Kress A, Defosset A, Ripp R, Linard B, Thompson JD, Poch O, Lecompte O. Nucleic Acids Research. 2018 Oct 31
+- Nevers Y, Kress A, Defosset A, Ripp R, Linard B, Thompson JD, Poch O, Lecompte O., [OrthoInspector 3.0: open portal for comparative genomics.](https://academic.oup.com/nar/article/47/D1/D411/5150236)  Nucleic Acids Research. 2018 Oct 31
 {.grid-list}
