@@ -2,13 +2,13 @@
 title: Orphan Enzyme Project
 description: The Orphan Enzymes Project (OEP) is dedicated to connecting modern genome sequencing methods with a century of “orphaned” information about enzymes. The goal of the project is to associate an amino-acid sequence with every known orphan enzyme.
 published: true
-date: 2020-04-01T19:55:14.314Z
-tags: 
+date: 2020-04-06T19:08:06.911Z
+tags: proteins, sequnce analysis
 ---
 
 # Orphan Enzyme Project
 
-
+>The Orphan Enzymes Project (OEP) is dedicated to connecting modern genome sequencing methods with a century of “orphaned” information about enzymes. The goal of the project is to associate an amino-acid sequence with every known orphan enzyme.
 {.is-info}
 
 ## Website
