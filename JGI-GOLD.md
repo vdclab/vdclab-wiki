@@ -2,7 +2,7 @@
 title: JGI GOLD (Genomes OnLine Database)
 description: GOLD (Genomes OnLine Database)
 published: true
-date: 2020-04-06T18:51:27.016Z
+date: 2020-04-06T18:57:22.079Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, projects, sequencing projects, project library, 2018
 ---
 
@@ -17,4 +17,6 @@ tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, projec
 {.links-list}
 
 ## Citations 
+
+- Supratim Mukherjee, [Genomes OnLine database (GOLD) v.7: updates and new features](https://academic.oup.com/nar/article/47/D1/D649/5144132) Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D649–D659
 
