@@ -2,8 +2,8 @@
 title: NCBI - Microbial Genomes
 description: Public database for microbial genomic data
 published: true
-date: 2020-04-01T17:07:47.578Z
-tags: 
+date: 2020-04-06T18:13:40.583Z
+tags: registry, annotation, genomics, genomes, projects, sequencing projects, project library, annotation tools
 ---
 
 # NCBI - Microbial Genomes
@@ -15,3 +15,18 @@ tags:
 
 - [Microbial Genomes *Main page*](https://www.ncbi.nlm.nih.gov/genome/microbes/)
 {.links-list}
+
+
+## Citation
+
+- Tatiana Tatusova et. al, [RefSeq microbial genomes database: new representation and annotation strategy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965038/). Nucleic Acids Res. 2014 Jan 1; 42(Database issue): D553–D559 
+
+- Correction to article: Tatiana Tatusova et. al,  [RefSeq microbial genomes database: new representation and annotation strategy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4402550/) Nucleic Acids Res. 2015 Apr 20; 43(7): 3872
+
+
+
+
+
+
+
+
