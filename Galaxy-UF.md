@@ -2,8 +2,8 @@
 title: UF Galaxy
 description: A web-based framework for accessible, reproducible, and transparent biological computing.
 published: true
-date: 2020-04-01T17:54:51.598Z
-tags: 
+date: 2020-04-06T19:16:49.291Z
+tags: tool
 ---
 
 # UF Galaxy
@@ -14,6 +14,5 @@ tags:
 ## Website
 
 - [UF Galaxy *Login/Main Page*](https://galaxy.rc.ufl.edu/)
+- [Help *Help Page*](https://help.rc.ufl.edu/doc/Galaxy)
 {.links-list}
-
-{.grid-list}
