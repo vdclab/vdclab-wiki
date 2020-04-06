@@ -2,8 +2,8 @@
 title: Pubseed Subsystem Editor
 description: 
 published: true
-date: 2020-04-01T20:11:06.951Z
-tags: 
+date: 2020-04-06T18:23:41.343Z
+tags: tool
 ---
 
 # Pubseed Subsystem Editor
@@ -13,7 +13,7 @@ tags:
 
 ## Website
 
-- [Pubseed Subsystem Editor *Main Page*](https://pubseed.theseed.org//SubsysEditor.cgi)
+- [Pubseed Subsystem Editor *Main Page*](https://pubseed.theseed.org/SubsysEditor.cgi)
 {.links-list}
 
 
