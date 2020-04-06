@@ -2,18 +2,18 @@
 title: Stitch
 description: Chemical-Protein Interaction Networks
 published: true
-date: 2020-04-06T18:21:03.084Z
+date: 2020-04-06T18:22:49.308Z
 tags: proteins, database
 ---
 
-# Stitch
+# STITCH
 
 > STITCH is a database of known and predicted interactions between chemicals and proteins. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.
 {.is-info}
 
 ## Website
 
-- [Stitch *Main Page*](http://stitch.embl.de/)
+- [STITCH *Main Page*](http://stitch.embl.de/)
 {.links-list}
 
 ## Citations
