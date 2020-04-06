@@ -2,12 +2,13 @@
 title: BioVenn
 description: A web application for the comparison and visualization of biological lists using area-proportional Venn diagrams.
 published: true
-date: 2020-03-31T20:45:27.888Z
-tags: 
+date: 2020-04-06T20:35:21.469Z
+tags: tool
 ---
 
 # BioVenn
 
+> A web application for the comparison and visualization of biological lists using area-proportional Venn diagrams.
 {.is-info}
 
 ## Website
