@@ -2,19 +2,19 @@
 title: MicrobesOnline
 description: 
 published: true
-date: 2020-04-01T20:16:31.860Z
-tags: 
+date: 2020-04-06T18:19:56.301Z
+tags: annotation, genomes, tool
 ---
 
 # MicrobesOnline
 
 > MicrobesOnline highlights:
--3707 genomes, including 1752 bacteria, 94 archaea, and 119 eukaryotes
--Gene Expression Data for 113 organisms with 27581 total comparisons
--Fitness Data for 4 organisms with 2030 total comparisons
--Annotate your favorite genes
--Host your pre-release genome or functional data privately
--Public programmatic access to our SQL database
+• 3707 genomes, including 1752 bacteria, 94 archaea, and 119 eukaryotes
+• Gene Expression Data for 113 organisms with 27581 total comparisons
+• Fitness Data for 4 organisms with 2030 total comparisons
+• Annotate your favorite genes
+• Host your pre-release genome or functional data privately
+• Public programmatic access to our SQL database
 {.is-info}
 
 ## Website
