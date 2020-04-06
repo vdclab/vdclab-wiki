@@ -2,16 +2,18 @@
 title:  KEGG Annotation
 description: KO-based annotation for linking genomes to phenotypes.
 published: true
-date: 2020-04-01T16:45:03.634Z
-tags: 
+date: 2020-04-06T20:19:22.249Z
+tags: annotation, genomes, metagenomes
 ---
 
 # KEGG Annotation
 
 > The KEGG database contains three main components for genome/metagenome annotation:
-the collection of internally annotated gene catalogs for the complete genomes (called KEGG organisms) and additional protein sequences in the KEGG GENES database
-the knowledge base of high-level functions represented as the molecular interaction, reaction and relation networks in the KEGG PATHWAY, BRITE and MODULE databases, and
-the knowledge base of molecular-level functions associated with ortholog groups in the KO database, where most KO entries are defined in a context-dependent manner as nodes of the KEGG molecular networks.
+&NewLine;
+	• the collection of internally annotated gene catalogs for the complete genomes (called KEGG organisms) and additional protein sequences in the KEGG GENES database
+	• the knowledge base of high-level functions represented as the molecular interaction, reaction and relation networks in the KEGG PATHWAY, BRITE and MODULE databases, and
+	• the knowledge base of molecular-level functions associated with ortholog groups in the KO database, where most KO entries are defined in a context-dependent manner as nodes of the KEGG molecular networks.
+&NewLine;
 In general, KO entries (identified by K numbers) also represent sequence similarity groups. Thus, the sequence similarity search of a query genome against KEGG GENES is a search for most appropriate K numbers, and the assigned set of K numbers can be used to reconstruct KEGG pathway maps, BRITE hierarchies and KEGG modules, enabling interpretation of high-level functions
 {.is-info}
 
