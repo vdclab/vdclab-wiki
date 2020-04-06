@@ -2,7 +2,7 @@
 title: Home of the SEED
 description: 
 published: true
-date: 2020-04-06T19:01:02.224Z
+date: 2020-04-06T19:02:58.886Z
 tags: annotation, genomes
 ---
 
@@ -14,7 +14,6 @@ tags: annotation, genomes
 ## Website
 
 - [Home of the SEED *Main Page*](http://www.theseed.org/wiki/Main_Page)
-- [Pubseed *Subsystem Editor*](https://pubseed.theseed.org/SubsysEditor.cgi)
 {.links-list}
 
 ## Citations
