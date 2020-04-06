@@ -2,7 +2,7 @@
 title: String
 description: Protein-Protein Interaction Networks Functional Enrichment Analysis
 published: true
-date: 2020-04-06T18:11:34.910Z
+date: 2020-04-06T18:12:32.205Z
 tags: proteins, database
 ---
 
@@ -28,17 +28,17 @@ When using STRING, please consult (and cite) the following references:
 &NewLine;
 -	Franceschini A, Lin J, von Mering C, Jensen LJ. [SVD-phy: improved prediction of protein functional associations through singular value decomposition of phylogenetic profiles.](https://www.ncbi.nlm.nih.gov/pubmed/26614125) Bioinformatics. 2015 Nov; btv696.
 &NewLine;
--	Franceschini A, Szklarczyk D, Frankild S, Kuhn M, Simonovic M, Roth A, Lin J, Minguez P, Bork P, von Mering C, Jensen LJ. [STRING v9.1: protein-protein interaction networks, with increased coverage and integration.](https://www.ncbi.nlm.nih.gov/pubmed/23203871) Nucleic Acids Res. 2013 Jan; 41:D808-15.PubMed
+-	Franceschini A, Szklarczyk D, Frankild S, Kuhn M, Simonovic M, Roth A, Lin J, Minguez P, Bork P, von Mering C, Jensen LJ. [STRING v9.1: protein-protein interaction networks, with increased coverage and integration.](https://www.ncbi.nlm.nih.gov/pubmed/23203871) Nucleic Acids Res. 2013 Jan; 41:D808-15.
 &NewLine;
--	Szklarczyk D, Franceschini A, Kuhn M, Simonovic M, Roth A, Minguez P, Doerks T, Stark M, Muller J, Bork P, Jensen LJ, von Mering C. [The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored.](https://www.ncbi.nlm.nih.gov/pubmed/21045058) Nucleic Acids Res. 2011 Jan; 39:D561-8.PubMed
+-	Szklarczyk D, Franceschini A, Kuhn M, Simonovic M, Roth A, Minguez P, Doerks T, Stark M, Muller J, Bork P, Jensen LJ, von Mering C. [The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored.](https://www.ncbi.nlm.nih.gov/pubmed/21045058) Nucleic Acids Res. 2011 Jan; 39:D561-8.
 &NewLine; 
--	Jensen LJ, Kuhn M, Stark M, Chaffron S, Creevey C, Muller J, Doerks T, Julien P, Roth A, Simonovic M, Bork P, von Mering C. [STRING 8--a global view on proteins and their functional interactions in 630 organisms.](https://www.ncbi.nlm.nih.gov/pubmed/18940858) Nucleic Acids Res. 2009 Jan; 37:D412-6.PubMed
+-	Jensen LJ, Kuhn M, Stark M, Chaffron S, Creevey C, Muller J, Doerks T, Julien P, Roth A, Simonovic M, Bork P, von Mering C. [STRING 8--a global view on proteins and their functional interactions in 630 organisms.](https://www.ncbi.nlm.nih.gov/pubmed/18940858) Nucleic Acids Res. 2009 Jan; 37:D412-6.
 &NewLine;
 -	von Mering C, Jensen LJ, Kuhn M, Chaffron S, Doerks T, Krueger B, Snel B, Bork P. [STRING 7--recent developments in the integration and prediction of protein interactions.](https://www.ncbi.nlm.nih.gov/pubmed/17098935) Nucleic Acids Res. 2007 Jan; 35:D358-62.PubMed
 &NewLine; 
--	von Mering C, Jensen LJ, Snel B, Hooper SD, Krupp M, Foglierini M, Jouffre N, Huynen MA, Bork P. [STRING: known and predicted protein-protein associations, integrated and transferred across organisms.](https://www.ncbi.nlm.nih.gov/pubmed/15608232) Nucleic Acids Res. 2005 Jan; 33:D433-7.PubMed
+-	von Mering C, Jensen LJ, Snel B, Hooper SD, Krupp M, Foglierini M, Jouffre N, Huynen MA, Bork P. [STRING: known and predicted protein-protein associations, integrated and transferred across organisms.](https://www.ncbi.nlm.nih.gov/pubmed/15608232) Nucleic Acids Res. 2005 Jan; 33:D433-7.
 &NewLine; 
--	von Mering C, Huynen M, Jaeggi D, Schmidt S, Bork P, Snel B. [STRING: a database of predicted functional associations between proteins.](https://www.ncbi.nlm.nih.gov/pubmed/12519996) Nucleic Acids Res. 2003 Jan; 31:258-61.PubMed
+-	von Mering C, Huynen M, Jaeggi D, Schmidt S, Bork P, Snel B. [STRING: a database of predicted functional associations between proteins.](https://www.ncbi.nlm.nih.gov/pubmed/12519996) Nucleic Acids Res. 2003 Jan; 31:258-61.
 &NewLine;  
--	Snel B, Lehmann G, Bork P, Huynen MA. [STRING: a web-server to retrieve and display the repeatedly occurring neighbourhood of a gene.](https://www.ncbi.nlm.nih.gov/pubmed/10982861) Nucleic Acids Res. 2000 Sep 15;28(18):3442-4.PubMed
+-	Snel B, Lehmann G, Bork P, Huynen MA. [STRING: a web-server to retrieve and display the repeatedly occurring neighbourhood of a gene.](https://www.ncbi.nlm.nih.gov/pubmed/10982861) Nucleic Acids Res. 2000 Sep 15;28(18):3442-4.
 {.grid-list}
