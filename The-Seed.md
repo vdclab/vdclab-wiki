@@ -2,7 +2,7 @@
 title: Home of the SEED
 description: 
 published: true
-date: 2020-04-06T19:00:22.184Z
+date: 2020-04-06T19:01:02.224Z
 tags: annotation, genomes
 ---
 
@@ -19,8 +19,5 @@ tags: annotation, genomes
 
 ## Citations
 
-- We request that groups using the SEED cite:
-Overbeek, R., Begley, T., Butler, R. M., Choudhuri, J. V., Chuang, H. Y., Cohoon, M., ... & Fonstein, M. (2005). [The subsystems approach to genome annotation and its use in the project to annotate 1000 genomes.](https://academic.oup.com/nar/article/33/17/5691/1067791) Nucleic acids research, 33(17), 5691-5702.
-- We request that groups using the RAST server cite:
-Aziz, R. K., Bartels, D., Best, A. A., DeJongh, M., Disz, T., Edwards, R. A., ... & Meyer, F. (2008). [The RAST Server: rapid annotations using subsystems technology.](https://link.springer.com/article/10.1186/1471-2164-9-75) BMC genomics, 9(1), 75.
+- Overbeek, R., Begley, T., Butler, R. M., Choudhuri, J. V., Chuang, H. Y., Cohoon, M., ... & Fonstein, M. (2005). [The subsystems approach to genome annotation and its use in the project to annotate 1000 genomes.](https://academic.oup.com/nar/article/33/17/5691/1067791) Nucleic acids research, 33(17), 5691-5702.
 {.grid-list}
