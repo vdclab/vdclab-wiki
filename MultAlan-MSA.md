@@ -1,8 +1,8 @@
 ---
-title: MultAlan Multiple Sequence Alignment (MSA)
+title: MultAlin Multiple Sequence Alignment (MSA)
 description: 
 published: true
-date: 2020-04-06T21:26:39.237Z
+date: 2020-04-06T21:26:49.146Z
 tags: genomes, tool, sequence alignment, proteins
 ---
 
