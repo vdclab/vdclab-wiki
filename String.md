@@ -2,18 +2,18 @@
 title: String
 description: Protein-Protein Interaction Networks Functional Enrichment Analysis
 published: true
-date: 2020-04-06T18:12:32.205Z
+date: 2020-04-06T18:22:29.964Z
 tags: proteins, database
 ---
 
-# String
+# STRING
 
 > STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.
 {.is-info}
 
 ## Website
 
-- [String *Main Page*](http://string.embl.de/)
+- [STRING *Main Page*](http://string.embl.de/)
 {.links-list}
 
 ## Citations
