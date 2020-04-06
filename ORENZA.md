@@ -2,8 +2,8 @@
 title: ORENZA : a database of ORphan ENZyme Activities
 description: ORENZA provides an accurate and up to date list of Enzyme Activities for which no sequences are available in the main sequence protein databases.
 published: true
-date: 2020-04-01T19:39:12.387Z
-tags: 
+date: 2020-04-06T19:12:30.119Z
+tags: database
 ---
 
 # ORENZA : a database of ORphan ENZyme Activities
@@ -18,5 +18,5 @@ ORENZA is a relationnal database of ORphan ENZyme Activities and this web site a
 
 ## Citation
 
-- ORENZA: a web resource for studying ORphan ENZyme Activities. Lespinet O and Labedan B [BMC Bioinformatics. 2006 Oct 6;7:436.](http://www.orenza.universite-paris-saclay.fr/biblio/ORENZA_2006.pdf)
+- Lespinet O and Labedan B, [ORENZA: a web resource for studying ORphan ENZyme Activities](http://www.orenza.universite-paris-saclay.fr/biblio/ORENZA_2006.pdf). BMC Bioinformatics. 2006 Oct 6;7:436
 {.grid-list}
