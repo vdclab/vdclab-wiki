@@ -1,0 +1,26 @@
+---
+title: RegPrecise
+description: The RegPrecise is a database for capturing, visualization and analysis of transcription factor regulons that were reconstructed by the comparative genomic approach in a wide variety of prokaryotic genomes.
+published: true
+date: 2020-04-07T20:32:19.598Z
+tags: genomics, database
+---
+
+# RegPrecise
+
+> The RegPrecise is a database for capturing, visualization and analysis of transcription factor regulons that were reconstructed by the comparative genomic approach.
+&NewLine;
+The primary object of the database is a single regulon in a particular genome, which is described by the identified transcription factor (TF), its DNA binding site model (a profile), as well as the set of regulated genes, operons and associated transcription factor binding sites (TFBSs).
+&NewLine;
+The key idea of comparative genomics approach is that the analysis of regulons of a particular TF should be carried out in several genomes simultaneously. Therefore RegPrecise provides a special object of the higher hierarchy - regulog, which represents a collection of regulons of the same TF inferred in a set of closely related genomes.
+{.is-info}
+
+## Website
+
+- [RegPrecise *Main Page*](http://regprecise.sbpdiscovery.org:8080/WebRegPrecise/)
+{.links-list}
+
+## Citation
+
+- [RegPrecise 3.0 - A resource for genome-scale exploration of transcriptional regulation in bacteria.](https://www.ncbi.nlm.nih.gov/pubmed/24175918) Novichkov PS, Kazakov AE, Ravcheev DA, Leyn SA, Kovaleva GY, Sutormin RA, Kazanov MD, Riehl W, Arkin AP, Dubchak I, Rodionov DA. BMC Genomics. 2013 Nov 1;14:745
+{.grid-list}
