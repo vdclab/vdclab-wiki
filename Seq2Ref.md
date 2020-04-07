@@ -2,7 +2,7 @@
 title: Seq2Ref
 description: Server dedicated to enabling functional interpretation through analysis of protein sequence similarity
 published: true
-date: 2020-04-07T17:15:03.831Z
+date: 2020-04-07T17:15:34.111Z
 tags: tool, sequence analysis, sequence alignment, proteins, comparative genomics, sequence similarity, functional association, literature
 ---
 
@@ -18,10 +18,6 @@ tags: tool, sequence analysis, sequence alignment, proteins, comparative genomic
 
 ## Notes from Users
 This should be the first step to be done when working a new gene. It allows to extract papers on several members of a protein family. It is important however to check the links manually.
-
-### Similar ressources
-- [PaperBLAST *wiki page*](https://vdclab-wiki.herokuapp.com/en/PaperBLAST/)
-{.links-list}
 
 ## Citation
 
