@@ -2,13 +2,13 @@
 title: eFP visualization of Polysomal mRNAs ("Translatomes") in Discrete Cell Populations of Arabidopsis Seedlings: Control and Hypoxia Stressed
 description: This eFP viewer provides a schematic representation of data for Arabidopsis seedlings.
 published: true
-date: 2020-04-07T19:09:44.545Z
+date: 2020-04-07T19:10:28.850Z
 tags: resource center
 ---
 
 # eFP visualization of Polysomal mRNAs ("Translatomes") in Discrete Cell Populations of Arabidopsis Seedlings: Control and Hypoxia Stressed
 
-> This eFP viewer provides a schematic representation of data for Arabidopsis seedlings. The data are based on the abundance of individual mRNAs associated with ribosomes (translatomes) and total cellular mRNAs (transcriptomes). The translatomes were obtained by immunoprecipitation of ribosomes by use of a FLAG-epitope tagged ribosomal protein L18, driven by promoters expressed in specific cells or regions of seedlings. Thirteen promoter:FLAG-RPL18 lines were used (Table 1). The region of the seedling where each promoter is expressed is schematically represented by eFP.
+> This eFP viewer provides a schematic representation of data for Arabidopsis seedlings. The data are based on the abundance of individual mRNAs associated with ribosomes (translatomes) and total cellular mRNAs (transcriptomes). The translatomes were obtained by immunoprecipitation of ribosomes by use of a FLAG-epitope tagged ribosomal protein L18, driven by promoters expressed in specific cells or regions of seedlings. Thirteen promoter:FLAG-RPL18 lines were used. The region of the seedling where each promoter is expressed is schematically represented by eFP.
 {.is-info}
 
 ## Website
