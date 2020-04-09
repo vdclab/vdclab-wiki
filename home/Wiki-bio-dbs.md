@@ -2,8 +2,8 @@
 title: Wikipedia Topic Page - List of Biological Databases
 description: Wikipedia's page dedicated to biological databases (up to 2018*)
 published: true
-date: 2020-04-01T15:51:55.103Z
-tags: 
+date: 2020-04-09T16:03:59.415Z
+tags: reference, wiki, resource reference
 ---
 
 # Wikipedia: List of Biological Databases
@@ -16,3 +16,11 @@ tags:
 - [Wikipedia page *Main page*](https://en.wikipedia.org/wiki/List_of_biological_databases)
 {.links-list}
 
+## Notes from users
+A natural, approachable place to start for beginners in bioinformatics and for those who want to revisit to review or add to the collections of available (and no longer available) resources for accessing biological data. The page is organized by categories of data/biological information type (e.g., amino acid sequences, nucleotide sequences, etc.). This list also includes research interest-specific databases; for example, it has a subcategories specific to antimicrobial resistance and radiological data. 
+
+## Ease of use
+Very easy to use, to search, to explore. However, proceed with caution, as this information is not as well-curated as official bioinformatic field-specific resources (e.g., bioinformatics.org).
+
+## Citation
+See resource, as citations for information taken from this page should be those linked in the text and/or listed on the page; always use reference most proximal to the source of the original information.
