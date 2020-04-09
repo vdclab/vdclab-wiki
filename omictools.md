@@ -2,8 +2,8 @@
 title: OmicX - OmicTools
 description: An online community & aggregating resource of bioinformatic software, platforms & tools
 published: true
-date: 2020-04-01T16:20:38.542Z
-tags: 
+date: 2020-04-09T16:42:37.382Z
+tags: reference, aggregator, community, resource reference
 ---
 
 # OmicX - OmicTools
@@ -15,3 +15,13 @@ tags:
 
 - [OmicTools *Main page*](https://omictools.com/)
 {.links-list}
+
+
+## Notes from users
+Free access to pages are limited to a certain number per day, but users can register for paid accounts. Often, paid accounts appear to be done through contracts with universities, institutes and/or companies who wish to have full-access to the tool and its features.
+
+## Ease of use
+Very easy to use platform; typical user interface, highly searchable.
+
+## Citation
+Because the platform is a corporate/for-profit entity, there is no need to list a specific publication. Terms & user agreement fail to specify necessity or quality of any attribution.
