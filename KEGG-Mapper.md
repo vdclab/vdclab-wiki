@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-04-10T18:23:15.886Z
+date: 2020-04-10T18:23:38.443Z
 tags: tool, resource center, database
 ---
 
@@ -15,7 +15,7 @@ tags: tool, resource center, database
 
 ## Website
 
-- [KEGG Mapper * Main Page*](https://www.genome.jp/kegg/tool/map_pathway2.html)
+- [KEGG Mapper *Main Page*](https://www.genome.jp/kegg/tool/map_pathway2.html)
 {.links-list}
 
 ## Citation
