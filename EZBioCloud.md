@@ -2,7 +2,7 @@
 title: EZBioCloud
 description: A user-friendly search tool and genome browser for bacteria.
 published: true
-date: 2020-04-10T13:37:45.675Z
+date: 2020-04-10T15:05:33.618Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxonomy, sequence analysis, genes, 16s rrna, rdna, genome browser, microbiome, taxonomic profiling, phyolgeny
 ---
 
@@ -15,6 +15,15 @@ tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxono
 
 - [EZBioCloud *Dashboard*](https://www.ezbiocloud.net/dashboard)
 {.links-list}
+
+## Notes from users 
+
+This should be the first step to be done when working a new gene. It allows to extract papers on several members of a protein family. It is important however to check the links manually. Searches also will miss some references that are not open access and have not mentioned the protein Locus_tag in the abstract/title.  
+
+## Ease of use 
+
+No specific help, but very easy to use and self-explanatory 
+
 
 ## Citation
 
