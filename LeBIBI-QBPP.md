@@ -2,7 +2,7 @@
 title: LeBIBI - QBPP (Quick Bioinformatic Phylogeny of Prokaryotes)
 description: A tool for strictly prokaryotic phylogenetic analyses using 16S and 23S rDNA sequences and specific protein-coding genes of interest. Platform for quick phylogeny queries "for the impatients."
 published: true
-date: 2020-04-10T17:35:12.731Z
+date: 2020-04-10T19:26:07.919Z
 tags: archaea, bacteria, tool, sequence analysis, sequence alignment, genes, phylogeny, proteins, rdna, archa
 ---
 
@@ -15,7 +15,9 @@ tags: archaea, bacteria, tool, sequence analysis, sequence alignment, genes, phy
 {.is-info}
 
 ## User Note
->Platforms BLAST does not select sequences on a phylogenetic basis => some sequences that are not phylogenetically close to the query may pollute the result, be cautious
+
+Platforms BLAST does not select sequences on a phylogenetic basis => some sequences that are not phylogenetically close to the query may pollute the result, be cautious
+
 ## Website
 
 - [LeBIBI - QBPP *Main page*](https://umr5558-bibiserv.univ-lyon1.fr/lebibi/lebibi.cgi)
