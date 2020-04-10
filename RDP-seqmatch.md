@@ -2,7 +2,7 @@
 title: RDP - Seqmatch
 description: A sequence alignment & matching workflow by the Ribosomal Database Project (RDP). Also has tree-builder function and "ASSIGNGEN" for use in teaching 16S-related phylogeny.
 published: true
-date: 2020-04-10T17:21:55.461Z
+date: 2020-04-10T17:22:04.774Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
