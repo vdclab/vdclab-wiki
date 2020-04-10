@@ -1,0 +1,24 @@
+---
+title: ConsensusPathDB
+description: ConsensusPathDB integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways.
+published: true
+date: 2020-04-10T18:00:29.865Z
+tags: genes, proteins, metabolics
+---
+
+# ConsensusPathDB
+
+> ConsensusPathDB-human integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways. Data originate from currently 32 public resources for interactions and interactions that we have curated from the literature. The interaction data are integrated in a complementary manner (avoiding redundancies), resulting in a seamless interaction network containing different types of interactions.
+{.is-info}
+
+## Website
+
+- [ConsensusPathDB *Main Page*](http://cpdb.molgen.mpg.de/)
+{.links-list}
+
+## Citations
+
+- Kamburov, A. et al. (2013) [The ConsensusPathDB interaction database: 2013 update.](https://academic.oup.com/nar/article/41/D1/D793/1053502) Nucleic Acids Res.
+-	Kamburov, A. et al. (2011) [ConsensusPathDB: toward a more complete picture of cell biology.](https://academic.oup.com/nar/article/39/suppl_1/D712/2507354) Nucleic Acids Res.
+-	Kamburov, A. et al. (2009) [ConsensusPathDB--a database for integrating human interaction networks.](https://academic.oup.com/nar/article/37/suppl_1/D623/1005985) Nucleic Acids
+{.grid-list}
