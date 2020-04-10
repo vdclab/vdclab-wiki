@@ -2,8 +2,8 @@
 title: EZBioCloud
 description: A user-friendly search tool and genome browser for bacteria.
 published: true
-date: 2020-04-01T23:26:36.934Z
-tags: 
+date: 2020-04-10T13:37:45.675Z
+tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxonomy, sequence analysis, genes, 16s rrna, rdna, genome browser, microbiome, taxonomic profiling, phyolgeny
 ---
 
 # EZBioCloud
@@ -16,7 +16,7 @@ tags:
 - [EZBioCloud *Dashboard*](https://www.ezbiocloud.net/dashboard)
 {.links-list}
 
-## Citation(s) <- 's' if more than one
+## Citation
 
 - Yoon, S. H., Ha, S. M., Kwon, S., Lim, J., Kim, Y., Seo, H. and Chun, J. (2017). [Introducing EzBioCloud: A taxonomically united database of 16S rRNA and whole genome assemblies](http://www.ncbi.nlm.nih.gov/pubmed/28005526). Int J Syst Evol Microbiol. 67:1613-1617
 {.grid-list}
