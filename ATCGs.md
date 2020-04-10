@@ -2,8 +2,8 @@
 title: ATGCs (Alignable Tight Genomic Clusters)
 description: A catalog of closely related prokaryotic genomes
 published: true
-date: 2020-04-01T23:41:51.673Z
-tags: 
+date: 2020-04-10T15:07:13.502Z
+tags: reference, aggregator, annotation, genomics, archaea, bacteria, genes, cog, evolution, comparative genomics
 ---
 
 # ATGCs (Alignable Tight Genomic Clusters)
@@ -15,6 +15,12 @@ tags:
 
 - [ATGCs *Main page*](http://dmk-brain.ecn.uiowa.edu/ATGC/atgc_list.html)
 {.links-list}
+
+## Notes from users 
+
+
+
+## Ease of use 
 
 ## Citation
 
