@@ -2,7 +2,7 @@
 title: proGenomes 2
 description: Search and exploration tool for bacterial/archaeal genomes using non-redundant, high quality representative genomes. Search/explore genomes by species cluster, habitat, or phylogenetic markers. Can also classify a new genome using species clustering.
 published: true
-date: 2020-04-10T17:13:10.561Z
+date: 2020-04-10T17:14:53.902Z
 tags: annotation, genomics, genomes, annotation tools, archaea, bacteria, pangenomes, taxonomy, species clusters, genome sets, ecology, 2019
 ---
 
