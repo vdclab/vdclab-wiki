@@ -2,8 +2,8 @@
 title: Curated BLAST for Genomes
 description: Search specifically tailored to an organism/genome and select characterization description terms
 published: true
-date: 2020-04-06T20:00:07.674Z
-tags: reference, annotation, genomes, tool, sequence matching, functional association, specialized search, data capture, text search, metabolic reconstruction, metabolism, homology, proteomes
+date: 2020-04-10T16:57:41.408Z
+tags: reference, annotation, 2019, tool, sequence matching, functional association, specialized search, data capture, text search, metabolic reconstruction, metabolism, homology
 ---
 
 # Curated BLAST
