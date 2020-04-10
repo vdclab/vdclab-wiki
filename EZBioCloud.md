@@ -2,7 +2,7 @@
 title: EZBioCloud
 description: A user-friendly search tool and genome browser for bacteria.
 published: true
-date: 2020-04-10T15:49:07.779Z
+date: 2020-04-10T16:57:50.315Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxonomy, sequence analysis, genes, 16s rrna, rdna, genome browser, microbiome, taxonomic profiling, phyolgeny
 ---
 
@@ -28,9 +28,12 @@ A website with several cloud based services available that draw from several uni
 **EzBioCloud 16S Database for QIIME and MOTHUR packages:** Whole database including 16S sequences and complete taxonomic hierarchy can be downloaded for the use with QIIME & MOTHUR packages. This database is usually different from EzBioCloud 16S database that is updated more frequently. Sequences and taxonomic hierarchy of EzBioCloud Microbiome Database are directly linked to this database
 
 ## Ease of use 
+The website is very modern and pleasant to look at and has several tabs at the top of the page that classify their services.
+**Resources:** a list of databases offered by EZBioCloud
+**Apps:** web-based software specialized for Identification of Prokaryotes, Microbiome/Metagenomics, and Genomics.
+**Tools:** tools to assist with larger bioinformatic studies, such as the Average Nucleotide Identity Calculator. These tools are available online or as standalone software.
 
-
-
+This website offers a wide variety of apps and tools to in a user friendly format to conduct genomics based projects. 
 
 ## Citation
 
