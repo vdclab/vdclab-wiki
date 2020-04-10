@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-04-06T16:13:49.730Z
+date: 2020-04-10T00:35:54.841Z
 tags: template, help
 ---
 
@@ -12,6 +12,9 @@ tags: template, help
 &NewLine;
 Plus if you need a blank line in the description you just put `&NewLine;` (edit the page to see what is the extra blank thing) and you have a blank line. It will no be pretty in the markdown but will be on the page
 {.is-info}
+
+> Month, Day, Year: Warning this a warning box in case there is a problem with the website like that we can see (explain the problem you encounter)
+{.is-warning}
 
 ## Website(s) <- 's' if more than one
 
