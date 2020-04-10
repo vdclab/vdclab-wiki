@@ -2,8 +2,8 @@
 title: NCBI - Tutorials
 description: Home page of NCBI's tutorials and guides to using their many resources.
 published: true
-date: 2020-04-10T15:07:26.603Z
-tags: reference, resource reference, tutorial
+date: 2020-04-10T15:11:51.053Z
+tags: reference, resource reference, tool, tutorial
 ---
 
 # NCBI - Tutorials
