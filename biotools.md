@@ -2,7 +2,7 @@
 title: Bio tools
 description: A resource dedicated to information about software, servers and other platforms used in analyzing biological data.
 published: true
-date: 2020-04-07T14:03:36.195Z
+date: 2020-04-10T13:34:22.124Z
 tags: reference, aggregator, resource reference, registry
 ---
 
@@ -27,7 +27,9 @@ The registry should help the efficient discovery and use of tools and thus provi
 
 
 ## Help 
--Issues page: https://github.com/bio-tools/biotoolsRegistry/issues 
+
+- [Github *Issues page*](https://github.com/bio-tools/biotoolsRegistry/issues )
+{.links-list}
 
 ## Citations
 - Ison, J. et al. (2015). [Tools and data services registry: a community effort to document bioinformatics resources.](https://academic.oup.com/nar/article/44/D1/D38/2502620) Nucleic Acids Research. doi: 10.1093/nar/gkv1116
