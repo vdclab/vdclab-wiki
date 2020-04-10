@@ -2,7 +2,7 @@
 title: PIQMIe
 description: Proteomics Identifications & Quantitations Data Management & Integration Service (PIQMIe) is a web server for semi-quantitative proteomics data management and analysis.
 published: true
-date: 2020-04-10T00:21:04.122Z
+date: 2020-04-10T00:23:16.240Z
 tags: tool, proteomes
 ---
 
@@ -25,4 +25,5 @@ Using the web interface, users are presented with a concise summary of their pro
 ## Citation
 
 - Kuzniar, A., & Kanaar, R. (2014). [PIQMIe: a web server for semi-quantitative proteomics data management and analysis.](https://academic.oup.com/nar/article/42/W1/W100/2438327) Nucleic acids research, 42(W1), W100-W106.
+- Kuzniar A, Laffeber C, Eppink B, Bezstarosti K, Dekkers D, et al. (2017) [Semi-quantitative proteomics of mammalian cells upon short-term exposure to non-ionizing electromagnetic fields](https://doi.org/10.1371/journal.pone.0170762). PLOS ONE 12(2): e0170762
 {.grid-list}
