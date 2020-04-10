@@ -2,8 +2,8 @@
 title: PaperBLAST
 description: Curated BLAST allowing the retrieval of published data starting from BLAST of a protein sequence
 published: true
-date: 2020-04-03T19:29:04.397Z
-tags: 
+date: 2020-04-10T13:29:16.897Z
+tags: reference, annotation, tool, sequence analysis, proteins, sequence similarity, specialized search, data capture, homolog discovery, literature
 ---
 
 # PaperBLAST
