@@ -2,13 +2,14 @@
 title: LeBIBI - QBPP (Quick Bioinformatic Phylogeny of Prokaryotes)
 description: A tool for strictly prokaryotic phylogenetic analyses using 16S and 23S rDNA sequences and specific protein-coding genes of interest. 
 published: true
-date: 2020-04-10T17:32:05.133Z
+date: 2020-04-10T17:32:29.599Z
 tags: bacteria, tool, sequence analysis, sequence alignment, genes, phylogeny, proteins, rdna
 ---
 
 # LeBIBI - QBPP
 
 > The Quick Bioinformatic Phylogeny of Prokaryotes web-server a.k.a. leBIBI-QBPP a.k.a. leBIBI is exclusively devoted to phylogenetic analysis of Archaea and Bacteria using nucleic acid sequences. The BIBI-engine uses SSUrDNA (16S), LSUrDNA (23S) and some protein-coding genes of interest for Prokaryotes phylogeny.
+{.is-info}
 
 >Additional Feature: MUBII Detection of mutations toward resistance in Mycobacterium tuberculosis from a sequence (Sanger or Sanger-like)
 {.is-info}
