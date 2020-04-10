@@ -1,8 +1,8 @@
 ---
 title: LeBIBI - QBPP (Quick Bioinformatic Phylogeny of Prokaryotes)
-description: A tool for phylogenetic analyses of prokaryotic sequences through bioinformatic methods
+description: A tool for strictly prokaryotic phylogenetic analyses using 16S and 23S rDNA sequences and specific protein-coding genes of interest. 
 published: true
-date: 2020-04-10T17:27:05.654Z
+date: 2020-04-10T17:32:05.133Z
 tags: bacteria, tool, sequence analysis, sequence alignment, genes, phylogeny, proteins, rdna
 ---
 
@@ -13,6 +13,8 @@ tags: bacteria, tool, sequence analysis, sequence alignment, genes, phylogeny, p
 >Additional Feature: MUBII Detection of mutations toward resistance in Mycobacterium tuberculosis from a sequence (Sanger or Sanger-like)
 {.is-info}
 
+## User Note
+>Platforms BLAST does not select sequences on a phylogenetic basis => some sequences that are not phylogenetically close to the query may pollute the result, be cautious
 ## Website
 
 - [LeBIBI - QBPP *Main page*](https://umr5558-bibiserv.univ-lyon1.fr/lebibi/lebibi.cgi)
