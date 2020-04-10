@@ -2,7 +2,7 @@
 title: PIQMIe
 description: Proteomics Identifications & Quantitations Data Management & Integration Service (PIQMIe) is a web server for semi-quantitative proteomics data management and analysis.
 published: true
-date: 2020-04-09T19:10:27.858Z
+date: 2020-04-10T00:21:04.122Z
 tags: tool, proteomes
 ---
 
@@ -13,9 +13,13 @@ tags: tool, proteomes
 Using the web interface, users are presented with a concise summary of their proteomics experiments in numerical and graphical forms, as well as with a searchable protein grid and interactive visualization tools to aid in the rapid assessment of the experiments and in the identification of proteins of interest.
 {.is-info}
 
+> April, 9th, 2020: Link seems broken
+{.is-warning}
+
+
 ## Website
 
-- [PIQMIe *Main Page (WARNING: LINK CURRENTLY BROKEN)*](http://piqmie.biotools.nl/)
+- [PIQMIe *Main Page*](http://piqmie.biotools.nl/)
 {.links-list}
 
 ## Citation
