@@ -2,8 +2,8 @@
 title: Bio tools
 description: A resource dedicated to information about software, servers and other platforms used in analyzing biological data.
 published: true
-date: 2020-04-10T20:47:16.013Z
-tags: reference, aggregator, resource reference, registry
+date: 2020-04-13T13:43:00.203Z
+tags: reference, aggregator, community, resource reference, registry
 ---
 
 # Bio tools
