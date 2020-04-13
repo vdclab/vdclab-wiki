@@ -2,7 +2,7 @@
 title: DiVenn
 description: Venn diagram is widely used to compare gene lists between multiple experiments.
 published: true
-date: 2020-04-13T14:23:55.783Z
+date: 2020-04-13T14:24:09.177Z
 tags: tool, data visualization, data vi
 ---
 
@@ -20,5 +20,5 @@ tags: tool, data visualization, data vi
 
 ## Citation
 
-- Sun, Liang*, Sufen Dong, Yinbing Ge, Jose P. Fonseca, Zachary Robinson, Kirankumar Mysore, Perdeep Mehta. ["DiVenn: An Interactive and Integrated Web-based Visualization Tool for Comparing Gene Lists."](https://www.frontiersin.org/articles/10.3389/fgene.2019.00421/full) Frontiers in Genetics 10 (2019):421.
+- Sun, Liang, Sufen Dong, Yinbing Ge, Jose P. Fonseca, Zachary Robinson, Kirankumar Mysore, Perdeep Mehta. ["DiVenn: An Interactive and Integrated Web-based Visualization Tool for Comparing Gene Lists."](https://www.frontiersin.org/articles/10.3389/fgene.2019.00421/full) Frontiers in Genetics 10 (2019):421.
 {.grid-list}
