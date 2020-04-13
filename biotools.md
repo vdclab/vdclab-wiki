@@ -2,7 +2,7 @@
 title: Bio tools
 description: A resource dedicated to information about software, servers and other platforms used in analyzing biological data.
 published: true
-date: 2020-04-13T13:46:00.613Z
+date: 2020-04-13T18:30:46.995Z
 tags: reference, aggregator, community, resource reference, registry
 ---
 
@@ -23,7 +23,7 @@ All the bio.tools data and technical components are available under open license
 {.links-list}
 
 ## Notes from user
-The registry should help the efficient discovery and use of tools and thus provide a useful support for life science projects
+The registry should help the efficient discovery and use of tools and thus provide a useful support for life science projects. It should be checked but many specialized tools are missing particulatly for microbes.
 
 
 ## Help 
