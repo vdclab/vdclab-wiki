@@ -2,7 +2,7 @@
 title: Curated BLAST for Genomes
 description: Search specifically tailored to an organism/genome and select characterization description terms
 published: true
-date: 2020-04-10T16:57:41.408Z
+date: 2020-04-13T19:00:19.905Z
 tags: reference, annotation, 2019, tool, sequence matching, functional association, specialized search, data capture, text search, metabolic reconstruction, metabolism, homology
 ---
 
@@ -17,7 +17,7 @@ tags: reference, annotation, 2019, tool, sequence matching, functional associati
 {.links-list}
 
 ## Notes from Users
-This is an advance anotation tool. It does not just look at the best match to annotate but also replace the annotation in metabolic pathway contexts.
+This is an advanced anotation tool. It does not just look at the best match to annotate but also replace the annotation in metabolic pathway contexts.Can also be used to find a gene in a genome when not much information is available.
 
 ## Citation
 
