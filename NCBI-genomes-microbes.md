@@ -2,7 +2,7 @@
 title: NCBI - Microbial Genomes
 description: Public database for microbial genomic data
 published: true
-date: 2020-04-10T13:36:33.218Z
+date: 2020-04-13T18:42:51.189Z
 tags: registry, annotation, genomics, genomes, projects, sequencing projects, project library, annotation tools
 ---
 
@@ -17,7 +17,7 @@ tags: registry, annotation, genomics, genomes, projects, sequencing projects, pr
 {.links-list}
 
 ## Notes from users 
-Access to Refseq, annotation tools, data submission and others. 
+Access to Refseq, annotation tools, data submission and others. Good start for beginner. 
 
 ## Help 
 
