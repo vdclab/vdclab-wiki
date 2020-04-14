@@ -2,15 +2,13 @@
 title: HawkDock
 description: HawkDock: a web server for the structural prediction and analysis of protein-protein complex.
 published: true
-date: 2020-04-14T20:26:06.887Z
+date: 2020-04-14T20:27:16.982Z
 tags: tool, proteins, prediction
 ---
 
 # HawkDock
 
-> Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
-&NewLine;
-Plus if you need a blank line in the description you just put `&NewLine;` (edit the page to see what is the extra blank thing) and you have a blank line. It will no be pretty in the markdown but will be on the page
+> The HawkDock server is a powerful tool to predict the binding structures and identify the key residues of PPIs. 
 {.is-info}
 
 
