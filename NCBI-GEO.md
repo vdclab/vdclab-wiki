@@ -2,7 +2,7 @@
 title: NCBI Gene Expression Omnibus (GEO)
 description: GEO is a public functional genomics data repository supporting MIAME-compliant data submissions.
 published: true
-date: 2020-04-06T20:52:08.652Z
+date: 2020-04-14T20:52:34.476Z
 tags: tool
 ---
 
@@ -14,18 +14,15 @@ tags: tool
 ## Website
 
 - [Gene Expression Omnibus (GEO) *Main Page*](https://www.ncbi.nlm.nih.gov/geo/)
+{.links-list}
+
+## Help
+
 - [GEO2R: Analyze GEO Data *Youtube Video Tutorial*](https://www.youtube.com/watch?v=EUPmGWS8ik0)
 {.links-list}
 
 ## Citations
 
-- Citing GEO:
--Original Paper:
-Edgar R, Domrachev M, Lash AE. Gene Expression Omnibus: NCBI gene expression and hybridization array data repository [Nucleic Acids Res. 2002 Jan 1;30(1):207-10](https://academic.oup.com/nar/article/30/1/207/1332640)
--Latest Paper:
-Barrett T, Wilhite SE, Ledoux P, Evangelista C, Kim IF, Tomashevsky M, Marshall KA, Phillippy KH, Sherman PM, Holko M, Yefanov A, Lee H, Zhang N, Robertson CL, Serova N, Davis S, Soboleva A. NCBI GEO: archive for functional genomics data sets--update. [Nucleic Acids Res. 2013 Jan;41(Database issue):D991-5.](https://academic.oup.com/nar/article/41/D1/D991/1067995)
-- Citing your GEO submission:
--"The data discussed in this publication have been deposited in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through GEO Series accession number GSExxx (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSExxx)."
--	Citing data you find in GEO:
--In addition to citing one of the GEO database papers listed above for general use of GEO, if applicable, you should cite the original paper and the accession number used to identify the experiment(s) in GEO. That way the original generators of the data sets will get credit and allow readers to locate the source. The original paper (if available) is listed under the 'Citation' section of the Series and DataSet records.
+- Edgar R, Domrachev M, Lash AE. [Gene Expression Omnibus: NCBI gene expression and hybridization array data repository](https://academic.oup.com/nar/article/30/1/207/1332640) Nucleic Acids Res. 2002 Jan 1;30(1):207-10
+- Barrett T, Wilhite SE, Ledoux P, Evangelista C, Kim IF, Tomashevsky M, Marshall KA, Phillippy KH, Sherman PM, Holko M, Yefanov A, Lee H, Zhang N, Robertson CL, Serova N, Davis S, Soboleva A. [NCBI GEO: archive for functional genomics datasets](https://academic.oup.com/nar/article/41/D1/D991/1067995). Nucleic Acids Res. 2013 Jan;41(Database issue):D991-5.
 {.grid-list}
