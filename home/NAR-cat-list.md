@@ -2,7 +2,7 @@
 title: NAR Database Summary Paper Category List
 description: An online reference affiliated with the Oxford University Press (Nucleic Acids Research) that is intermittently updated. 
 published: true
-date: 2020-04-13T18:27:31.609Z
+date: 2020-04-14T20:01:17.060Z
 tags: 2014, publisher affiliated, reference, aggregator, resource reference, 2017
 ---
 
@@ -28,7 +28,7 @@ This resource serves best the user that is seeking specific categories of databa
 
 ## Citation
 
-- Michael Y Galperin, Xosé M Fernández-Suárez, Daniel J Rigden, [The 24th annual Nucleic Acids Research database issue: a look back and upcoming changes](https://doi.org/10.1093/nar/gkw1188), Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D1–D11.
+- Rigden DJ, Fernández XM, [The 27th annual Nucleic Acids Research database issue and molecular biology database collection](https://doi.org/10.1093/nar/gkz1161), Nucleic Acids Research, Volume 48, Issue D1, January 2020, Pages D1–D8.
 {.grid-list}
 
 
