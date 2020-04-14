@@ -2,7 +2,7 @@
 title: Database of Interacting Proteins
 description:  The DIP database catalogs experimentally determined interactions between proteins.
 published: true
-date: 2020-04-08T20:04:18.298Z
+date: 2020-04-14T21:47:49.268Z
 tags: proteins, database
 ---
 
@@ -18,5 +18,5 @@ tags: proteins, database
 
 ## Citation
 
-- [The Database of Interacting Proteins: 2004 update.](https://www.ncbi.nlm.nih.gov/pubmed/14681454) Salwinski L, Miller CS, Smith AJ, Pettit FK, Bowie JU, Eisenberg D NAR 32(Database issue):D449-51 (2004)
+- Smith AJ, Pettit FK, Bowie JU, Eisenberg D [The Database of Interacting Proteins: 2004 update.](https://www.ncbi.nlm.nih.gov/pubmed/14681454) Salwinski L, Miller CS,  NAR 32(Database issue):D449-51 (2004)
 {.grid-list}
