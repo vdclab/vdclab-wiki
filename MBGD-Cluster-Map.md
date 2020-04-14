@@ -2,7 +2,7 @@
 title: Microbial Genome Database (MBGD) Cluster Map
 description: MBGD is a workbench system for comparative analysis of completely sequenced microbial genomes. 
 published: true
-date: 2020-04-06T20:19:32.623Z
+date: 2020-04-14T20:43:48.903Z
 tags: species clusters, tool
 ---
 
@@ -18,13 +18,8 @@ tags: species clusters, tool
 
 ## Citations
 
-Please cite the following references when you refer to MBGD in your published work:
-
--	Uchiyama, I MBGD: microbial genome database for comparative analysis [Nucleic Acids Res. 31, 58-62, 2003.](https://www.ncbi.nlm.nih.gov/pubmed/12519947)
-
--	Uchiyama, I MBGD: a platform for microbial comparative genomics based on the automated construction of orthologous groups [Nucleic Acids Res. 35, D343-D346, 2007.](https://www.ncbi.nlm.nih.gov/pubmed/17135196)
-
--	Uchiyama, I, Higuchi, T., Kawai, M. MBGD update 2010: toward a comprehensive resource for exploring microbial genome diversity [Nucleic Acids Res. 35, D361-D365, 2010.](https://www.ncbi.nlm.nih.gov/pubmed/19906735)
-
--	Uchiyama I, Mihara M, Nishide H, Chiba H. MBGD update 2013: the microbial genome database for exploring the diversity of microbial world. [Nucleic Acids Res. 41, D631-D635, 2013.](https://www.ncbi.nlm.nih.gov/pubmed/23118485)
-
+-	Uchiyama, I [MBGD: microbial genome database for comparative analysis](https://www.ncbi.nlm.nih.gov/pubmed/12519947) Nucleic Acids Res. 31, 58-62, 2003.
+-	Uchiyama, I [MBGD: a platform for microbial comparative genomics based on the automated construction of orthologous groups](https://www.ncbi.nlm.nih.gov/pubmed/17135196) Nucleic Acids Res. 35, D343-D346, 2007.
+-	Uchiyama, I, Higuchi, T., Kawai, M. [MBGD update 2010: toward a comprehensive resource for exploring microbial genome diversity](https://www.ncbi.nlm.nih.gov/pubmed/19906735) Nucleic Acids Res. 35, D361-D365, 2010.
+-	Uchiyama I, Mihara M, Nishide H, Chiba H. [MBGD update 2013: the microbial genome database for exploring the diversity of microbial world](https://www.ncbi.nlm.nih.gov/pubmed/23118485). Nucleic Acids Res. 41, D631-D635, 2013.
+{.grid-list}
