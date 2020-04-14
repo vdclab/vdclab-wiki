@@ -2,7 +2,7 @@
 title: NCBI  Conserved Domains and Protein Classification
 description: Contains resources that can be used to help elucidate protein function.
 published: true
-date: 2020-04-06T19:00:09.734Z
+date: 2020-04-14T19:23:56.843Z
 tags: resource center
 ---
 
@@ -13,7 +13,7 @@ tags: resource center
 
 ## Website
 
-- [NCBI Conserved Domains and Protein Classification *Resource Page*](https://url_of_the_website)
+- [NCBI Conserved Domains and Protein Classification *Resource Page*](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml)
 {.links-list}
 
 ## Citation
