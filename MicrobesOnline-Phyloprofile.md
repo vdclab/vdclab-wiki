@@ -2,7 +2,7 @@
 title: Find MicrobesOnline Ortholog Groups by Phyletic Pattern
 description: 
 published: true
-date: 2020-04-06T19:39:27.763Z
+date: 2020-04-14T19:43:59.954Z
 tags: genomes, tool
 ---
 
@@ -13,7 +13,7 @@ tags: genomes, tool
 
 ## Website
 
-- [MicrobesOnline Find Ortholog Groups by Phyletic Patterns *Main Page*](http://www.microbesonline.org/cgi-bin/matchphyloprofile.cgie)
+- [MicrobesOnline Find Ortholog Groups by Phyletic Patterns *Main Page*](http://www.microbesonline.org/cgi-bin/matchphyloprofile.cgi)
 {.links-list}
 
 ## Citation
