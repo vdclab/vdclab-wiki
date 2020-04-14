@@ -2,7 +2,7 @@
 title: JGI - Integrated Microbial Genomes Phylogeny 
 description: 
 published: true
-date: 2020-04-14T19:41:56.030Z
+date: 2020-04-14T19:42:09.656Z
 tags: genomes, tool, phylogeny
 ---
 
