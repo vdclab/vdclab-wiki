@@ -2,7 +2,7 @@
 title: RegPrecise
 description: The RegPrecise is a database for capturing, visualization and analysis of transcription factor regulons that were reconstructed by the comparative genomic approach in a wide variety of prokaryotic genomes.
 published: true
-date: 2020-04-07T20:32:19.598Z
+date: 2020-04-14T21:41:06.220Z
 tags: genomics, database
 ---
 
@@ -22,5 +22,5 @@ The key idea of comparative genomics approach is that the analysis of regulons o
 
 ## Citation
 
-- [RegPrecise 3.0 - A resource for genome-scale exploration of transcriptional regulation in bacteria.](https://www.ncbi.nlm.nih.gov/pubmed/24175918) Novichkov PS, Kazakov AE, Ravcheev DA, Leyn SA, Kovaleva GY, Sutormin RA, Kazanov MD, Riehl W, Arkin AP, Dubchak I, Rodionov DA. BMC Genomics. 2013 Nov 1;14:745
+- Novichkov PS, Kazakov AE, Ravcheev DA, Leyn SA, Kovaleva GY, Sutormin RA, Kazanov MD, Riehl W, Arkin AP, Dubchak I, Rodionov DA.[RegPrecise 3.0 - A resource for genome-scale exploration of transcriptional regulation in bacteria.](https://www.ncbi.nlm.nih.gov/pubmed/24175918)  BMC Genomics. 2013 Nov 1;14:745
 {.grid-list}
