@@ -2,7 +2,7 @@
 title: OrthoMCL
 description: OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences.
 published: true
-date: 2020-04-14T20:40:42.324Z
+date: 2020-04-14T20:41:10.640Z
 tags: proteins
 ---
 
