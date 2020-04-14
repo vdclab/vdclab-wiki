@@ -2,7 +2,7 @@
 title: OrthoMCL
 description: OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences.
 published: true
-date: 2020-04-06T20:02:22.735Z
+date: 2020-04-14T20:40:42.324Z
 tags: proteins
 ---
 
@@ -22,9 +22,9 @@ In a recent assessment (Chen, et al. 2007), the performance of seven widely used
 
 ## Citations
 
-- Li Li, Christian J. Stoeckert, Jr., and David S. Roos OrthoMCL: Identification of Ortholog Groups for Eukaryotic Genomes Genome Res. 2003 13: 2178-2189. [Abstract](https://genome.cshlp.org/content/13/9/2178.abstract) [Full Text](https://genome.cshlp.org/content/13/9/2178.full)
--	Feng Chen, Aaron J. Mackey, Christian J. Stoeckert, Jr., and David S. Roos OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups Nucleic Acids Res. 2006 34: D363-8. [Full Text](https://academic.oup.com/nar/article/34/suppl_1/D363/1133676)
+- Li Li, Christian J. Stoeckert, Jr., and David S. Roos [OrthoMCL: Identification of Ortholog Groups for Eukaryotic Genomes](https://genome.cshlp.org/content/13/9/2178.full) Genome Res. 2003 13: 2178-2189.
+-	Feng Chen, Aaron J. Mackey, Christian J. Stoeckert, Jr., and David S. Roos [OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups](https://academic.oup.com/nar/article/34/suppl_1/D363/1133676) Nucleic Acids Res. 2006 34: D363-8.
 -	Please cite this paper if you publish research results benefited from OrthoMCL-DB: 
-	Feng Chen, Aaron J. Mackey, Jeroen K. Vermunt, and David S. Roos Assessing Performance of Orthology Detection Strategies Applied to Eukaryotic Genomes PLoS ONE 2007 2(4): e383. [Full Text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000383)
--	Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S. and Stoeckert, C. J. Using OrthoMCL to Assign Proteins to OrthoMCL-DB Groups or to Cluster Proteomes Into New Ortholog Groups Current Protocols in Bioinformatics. 2011 35:6.12.1–6.12.19. [Full Text](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/0471250953.bi0612s35)
+	Feng Chen, Aaron J. Mackey, Jeroen K. Vermunt, and David S. Roos [Assessing Performance of Orthology Detection Strategies Applied to Eukaryotic Genomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000383) PLoS ONE 2007 2(4): e383.
+-	Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S. and Stoeckert, C. J. [Using OrthoMCL to Assign Proteins to OrthoMCL-DB Groups or to Cluster Proteomes Into New Ortholog Groups](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/0471250953.bi0612s35) Current Protocols in Bioinformatics. 2011 35:6.12.1–6.12.19. 
 {.grid-list}
