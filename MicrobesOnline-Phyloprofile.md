@@ -2,13 +2,15 @@
 title: Find MicrobesOnline Ortholog Groups by Phyletic Pattern
 description: 
 published: true
-date: 2020-04-14T19:43:59.954Z
+date: 2020-04-14T19:59:14.447Z
 tags: genomes, tool
 ---
 
 # Find MicrobesOnline Ortholog Groups by Phyletic Pattern
 
+> The genome selector lets you choose which genomes you are interested in. Type the first few letters of the genome name (e.g., "esc" for Escherichia coli) to get a short list of candidates, and then double-click on the ones you want. Your current selection is shown in the middle box.
 
+The genome selector also lets you choose phylogenetic groups of genomes. For example, if you want to search for the presence of a specific capability across the Gammaproteobacteria, type "gamm", double-click on "Gammaproteobacteria", and then type in your keyword at the right. You can search all available genomes by selecting "cellular organisms". Other high-level groups include "Bacteria" and "Archaea".
 {.is-info}
 
 ## Website
