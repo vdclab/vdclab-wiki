@@ -2,7 +2,7 @@
 title: RegulonDB
 description: RegulonDB is the primary database on transcriptional regulation in Escherichia coli K-12 containing knowledge manually curated from original scientific publications, complemented with high throughput datasets and comprehensive computational predictions.
 published: true
-date: 2020-04-07T18:11:57.860Z
+date: 2020-04-14T21:24:09.979Z
 tags: bacteria, database, transcriptomes
 ---
 
@@ -24,6 +24,5 @@ To this already complex picture, we have to add the more recent high throughput 
 
 ## Citation
 
-- RegulonDB v 10.5: tackling challenges to unify classic and high throughput knowledge of gene regulation in E. coli K-12. Alberto Santos-Zavaleta, Heladia Salgado, Socorro Gama-Castro, Mishael Sánchez-Pérez, Laura Gómez-Romero, Daniela Ledezma-Tejeida, Jair Santiago García-Sotelo, Kevin Alquicira-Hernández, Luis José Muñiz-Rascado, Pablo Peña-Loredo, Cecilia Ishida-Gutiérrez, David A Velázquez-Ramírez, Víctor Del Moral-Chávez, César Bonavides-Martínez, Carlos-Francisco Méndez-Cruz, James Galagan, Julio Collado-Vides Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019, Pages D212?D220, doi: [https://doi.org/10.1093/nar/gky1077](https://academic.oup.com/nar/article/47/D1/D212/5160972)
-	PMID: [30395280](https://www.ncbi.nlm.nih.gov/pubmed/30395280) PMC: [PMC6324031](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324031/)
+- Alberto Santos-Zavaleta, et al. [RegulonDB v 10.5: tackling challenges to unify classic and high throughput knowledge of gene regulation in E. coli K-12](https://academic.oup.com/nar/article/47/D1/D212/5160972). Nucleic Acids Research, Volume 47, Issue D1, 08 January 2019
 {.grid-list}
