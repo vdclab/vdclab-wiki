@@ -2,13 +2,13 @@
 title: Xfam
 description: List of the Fam databases
 published: true
-date: 2020-04-15T19:37:49.191Z
+date: 2020-04-15T19:38:35.308Z
 tags: 
 ---
 
 # Xfam
 
-> Main website that list all the Fam database that exist: Pfam, Rfam, Dfam, Treefam, and Antifam.
+> List of all the Fam database that exist: Pfam, Rfam, Dfam, Treefam, and Antifam.
 {.is-info}
 
 ## Websites
