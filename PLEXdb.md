@@ -2,13 +2,13 @@
 title: PLEXdb
 description: PLEXdb.org is a Plant Expression Database, integrating new and rapidly expanding gene expression profile data sets with traditional structural genomics and phenotypic data.
 published: true
-date: 2020-04-15T18:46:14.358Z
+date: 2020-04-15T18:46:39.594Z
 tags: tool, gene expression
 ---
 
 # PLEXdb
 
-> PLEXdb.org is a Plant Expression Database, integrating new and rapidly expanding gene expression profile data sets with traditional structural genomics and phenotypic data. The collaboration between PlantGDB and PLEXdb aims to provide better sequence annotation and analysis tool to faciliate the study of large-scale plant gene expression.
+> PLEXdb is a Plant Expression Database, integrating new and rapidly expanding gene expression profile data sets with traditional structural genomics and phenotypic data. The collaboration between PlantGDB and PLEXdb aims to provide better sequence annotation and analysis tool to faciliate the study of large-scale plant gene expression.
 {.is-info}
 
 
