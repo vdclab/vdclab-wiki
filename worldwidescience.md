@@ -2,7 +2,7 @@
 title: WorldWideScience
 description: A specialized search engine for global scientific literature
 published: true
-date: 2020-04-15T18:58:32.348Z
+date: 2020-04-15T18:59:06.146Z
 tags: reference, annotation, specialized search, data capture, text search
 ---
 
