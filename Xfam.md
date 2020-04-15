@@ -2,7 +2,7 @@
 title: Xfam
 description: List of the Fam databases
 published: true
-date: 2020-04-15T18:33:33.159Z
+date: 2020-04-15T18:39:50.066Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Treefam: Treefam is a database composed of phylogenetic trees inferred from anim
 Antifam: AntiFam is a collection of hidden Markov models (HMMs) designed to identify spurious open reading frames (ORFs).
 {.is-info}
 
-## Website
+## Websites
 
 - [Xfam *Main Page*](http://xfam.org/)
 - [Pfam *Main Page*](http://pfam.xfam.org/)
@@ -31,7 +31,7 @@ Antifam: AntiFam is a collection of hidden Markov models (HMMs) designed to iden
 - [Antifam *Main Page*](ftp://ftp.ebi.ac.uk/pub/databases/Pfam/AntiFam)
 {.links-list}
 
-## Citation
+## Citations
 
 - [The Pfam protein families database in 2019:](https://academic.oup.com/nar/article/47/D1/D427/5144153) S. El-Gebali, J. Mistry, A. Bateman, S.R. Eddy, A. Luciani, S.C. Potter, M. Qureshi, L.J. Richardson, G.A. Salazar, A. Smart, E.L.L. Sonnhammer, L. Hirsh, L. Paladin, D. Piovesan, S.C.E. Tosatto, R.D. Finn Nucleic Acids Research (2019)  doi: 10.1093/nar/gky995
 -	[Rfam 13.0: shifting to a genome-centric resource for non-coding RNA families.](https://academic.oup.com/nar/article/46/D1/D335/4588106) Ioanna Kalvari, Joanna Argasinska, Natalia Quinones-Olvera, Eric P. Nawrocki, Elena Rivas, Sean R. Eddy, Alex Bateman, Robert D. Finn, Anton I. Petrov Nucleic Acids Research (2017)  10.1093/nar/gkx1038
