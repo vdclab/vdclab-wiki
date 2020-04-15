@@ -2,8 +2,8 @@
 title: EMBL-EBI - EMBOSS Seqret
 description: Sequence reformatting tool
 published: true
-date: 2020-04-02T01:20:15.796Z
-tags: 
+date: 2020-04-15T19:03:01.679Z
+tags: tool, genes, proteins, sequence format, dna, rna
 ---
 
 # EMBL-EBI - EMBOSS Seqret
@@ -15,6 +15,15 @@ tags:
 
 - [EMBOSS Seqret *Main page*](https://www.ebi.ac.uk/Tools/sfc/emboss_seqret/)
 {.links-list}
+
+## Notes from users 
+
+Simple sequence conversion tool with a diverse set of functions. Site also recommends reading [The EMBL-EBI search and sequence analysis tools APIs in 2019](http://europepmc.org/article/MED/30976793) for informed used of available tools.
+
+## Ease of use 
+
+Very easy to use and self-explanatory 
+
 
 ## Citation
 
