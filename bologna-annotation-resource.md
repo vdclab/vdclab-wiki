@@ -2,7 +2,7 @@
 title: Bologna Annotation Resource
 description:  BAR 3.0 Bologna Annotation Resource Protein functional and structural annotation
 published: true
-date: 2020-04-15T18:42:44.454Z
+date: 2020-04-15T18:43:14.319Z
 tags: annotation, annotation tools, tool, hmm profile, clustering
 ---
 
@@ -25,7 +25,7 @@ Categories of search terms are used to yield clusters matching those classifying
 
 ## Ease of use 
 
-No specific help, but very easy to use and self-explanatory 
+Very easy to use and self-explanatory 
 
 ## Citations
 
