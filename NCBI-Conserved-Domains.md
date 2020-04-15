@@ -2,7 +2,7 @@
 title: NCBI  Conserved Domains and Protein Classification
 description: Contains resources that can be used to help elucidate protein function.
 published: true
-date: 2020-04-15T18:20:38.534Z
+date: 2020-04-15T19:05:58.370Z
 tags: resource center
 ---
 
@@ -10,17 +10,17 @@ tags: resource center
 
 > Contains resources that can be used to help elucidate protein function:
 &NewLine;
--Conserved Domain Database (CDD): CDD is a protein annotation resource that consists of a collection of well-annotated multiple sequence alignment models for ancient domains and full-length proteins.
+**Conserved Domain Database (CDD)**: CDD is a protein annotation resource that consists of a collection of well-annotated multiple sequence alignment models for ancient domains and full-length proteins.
 &NewLine;
--CD-Search: CD-Search is NCBI's interface to searching the Conserved Domain Database with protein or nucleotide query sequences. It uses RPS-BLAST, a variant of PSI-BLAST, to quickly scan a set of pre-calculated position-specific scoring matrices (PSSMs) with a protein query.
+**CD-Search**: CD-Search is NCBI's interface to searching the Conserved Domain Database with protein or nucleotide query sequences. It uses RPS-BLAST, a variant of PSI-BLAST, to quickly scan a set of pre-calculated position-specific scoring matrices (PSSMs) with a protein query.
 &NewLine;
--Batch CD-Search: Batch CD-Search serves as both a web application and a script interface for a conserved domain search on multiple protein sequences, accepting up to 4,000 proteins in a single job. It enables you to view a graphical display of the concise or full search result for any individual protein from your input list, or to download the results for the complete set of proteins.
+**Batch CD-Search**: Batch CD-Search serves as both a web application and a script interface for a conserved domain search on multiple protein sequences, accepting up to 4,000 proteins in a single job. It enables you to view a graphical display of the concise or full search result for any individual protein from your input list, or to download the results for the complete set of proteins.
 &NewLine;
--CDTree: 	CDTree is a helper application for your web browser that allows you to interactively view and examine conserved domain hierarchies curated at NCBI. CDTree works with Cn3D as its alignment viewer/editor, it is used in the CDD curation process and is a both classification and research tool for functional annotation and the study of protein and protein domain families.
+**CDTree**: 	CDTree is a helper application for your web browser that allows you to interactively view and examine conserved domain hierarchies curated at NCBI. CDTree works with Cn3D as its alignment viewer/editor, it is used in the CDD curation process and is a both classification and research tool for functional annotation and the study of protein and protein domain families.
 &NewLine;
--Conserved Domain Architecture Retrieval Tool (CDART): Conserved Domain Architecture Retrieval Tool (CDART) performs similarity searches of the Entrez Protein database based on domain architecture, defined as the sequential order of conserved domains in protein queries. CDART finds protein similarities across significant evolutionary distances using sensitive domain profiles rather than direct sequence similarity.
+**Conserved Domain Architecture Retrieval Tool (CDART)**: Conserved Domain Architecture Retrieval Tool (CDART) performs similarity searches of the Entrez Protein database based on domain architecture, defined as the sequential order of conserved domains in protein queries. CDART finds protein similarities across significant evolutionary distances using sensitive domain profiles rather than direct sequence similarity.
 &NewLine;
--Subfamily Protein Architecture Labeling Engine (SPARCLE): The Subfamily Protein Architecture Labeling Engine (SPARCLE) is a resource for the functional characterization and labeling of protein sequences that have been grouped by their characteristic domain architecture.
+**Subfamily Protein Architecture Labeling Engine (SPARCLE)**: The Subfamily Protein Architecture Labeling Engine (SPARCLE) is a resource for the functional characterization and labeling of protein sequences that have been grouped by their characteristic domain architecture.
 {.is-info}
 
 ## Website
