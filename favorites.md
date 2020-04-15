@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-04-15T19:00:50.665Z
+date: 2020-04-15T19:01:46.222Z
 tags: reference, resource reference
 ---
 
@@ -27,4 +27,5 @@ tags: reference, resource reference
 # To be categorized
 
 - [EZBioCloud *Genome browser*](https://vdclab-wiki.herokuapp.com/EZBioCloud/)
+- [PaperBlast *Sequence to paper*](https://vdclab-wiki.herokuapp.com/PaperBLAST/)
 {.links-list}
