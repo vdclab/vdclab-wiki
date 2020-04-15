@@ -2,32 +2,52 @@
 title: Xfam
 description: List of the Fam databases
 published: true
-date: 2020-04-15T19:22:20.459Z
+date: 2020-04-15T19:37:29.667Z
 tags: 
 ---
 
 # Xfam
 
 > Main website that list all the Fam database that exist: Pfam, Rfam, Dfam, Treefam, and Antifam.
-&NewLine;
-**Pfam**: The Pfam database is a large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs).
-&NewLine;
-**Rfam**: The Rfam database is a collection of RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance models (CMs).
-&NewLine;
-**Dfam**: The Dfam database is a collection of DNA tranposable element families, each represented by multiple sequence alignments, consensus sequences, and hidden Markov models. The Dfam database is hosted by the Institute for Systems Biology, Seattle, US.
-&NewLine;
-**Treefam**: Treefam is a database composed of phylogenetic trees inferred from animal genomes. It provides orthology/parology predictions as well the evolutionary history of genes.
-&NewLine;
-**Antifam**: AntiFam is a collection of hidden Markov models (HMMs) designed to identify spurious open reading frames (ORFs).
 {.is-info}
 
 ## Websites
 
 - [Xfam *Main Page*](http://xfam.org/)
+{.links-list}
+
+### PFam
+
+**Pfam**: The Pfam database is a large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs).
+
 - [Pfam *Main Page*](http://pfam.xfam.org/)
+{.links-list}
+
+### RFam
+
+**Rfam**: The Rfam database is a collection of RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance models (CMs).
+
 - [Rfam *Main Page*](http://rfam.xfam.org/)
+{.links-list}
+
+### dFam
+
+**Dfam**: The Dfam database is a collection of DNA tranposable element families, each represented by multiple sequence alignments, consensus sequences, and hidden Markov models. The Dfam database is hosted by the Institute for Systems Biology, Seattle, US.
+
 - [dfam *Main Page*](https://www.dfam.org/)
+{.links-list}
+
+### TreeFam
+
+**Treefam**: Treefam is a database composed of phylogenetic trees inferred from animal genomes. It provides orthology/parology predictions as well the evolutionary history of genes.
+
 - [Treefam *Main Page*](http://www.treefam.org/)
+{.links-list}
+
+### AntiFam
+
+**Antifam**: AntiFam is a collection of hidden Markov models (HMMs) designed to identify spurious open reading frames (ORFs).
+
 - [Antifam *Main Page*](ftp://ftp.ebi.ac.uk/pub/databases/Pfam/AntiFam)
 {.links-list}
 
