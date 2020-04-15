@@ -2,7 +2,7 @@
 title: PubTator
 description: Web-based tool for accelerating manual literature curation
 published: true
-date: 2020-04-15T18:29:35.602Z
+date: 2020-04-15T18:29:45.149Z
 tags: reference, annotation, tool, specialized search, data capture, text-mining
 ---
 
@@ -19,7 +19,7 @@ tags: reference, annotation, tool, specialized search, data capture, text-mining
 
 ## Notes from users 
 
-Helpful more specialized, text-based searches; efficacy of results will be determined by terms used, as with any search engine.
+Helpful for more specialized, text-based searches; efficacy of results will be determined by terms used, as with any search engine.
 
 ## Ease of use 
 
