@@ -2,8 +2,8 @@
 title: WorldWideScience
 description: A specialized search engine for global scientific literature
 published: true
-date: 2020-04-02T01:00:04.850Z
-tags: 
+date: 2020-04-15T18:58:32.348Z
+tags: reference, annotation, specialized search, data capture, text search
 ---
 
 # World Wide Science
@@ -15,3 +15,11 @@ tags:
 
 - [WorldWideScience *Main page*](https://worldwidescience.org/)
 {.links-list}
+
+## Notes from users 
+
+Although this tool improves the acquisition of data overall, and through overcoming barriers caused by linguistic differences in publishing, synonyms can still be lost to translations. Moreover, select sources appear to demonstrate structural or informational representation issues causing incorrect hits to be returned, even with high-specificity of search terms. 
+
+## Ease of use 
+
+No specific help, but very easy to use and self-explanatory 
