@@ -2,8 +2,8 @@
 title: Bologna Annotation Resource
 description:  BAR 3.0 Bologna Annotation Resource Protein functional and structural annotation
 published: true
-date: 2020-03-03T15:41:16.118Z
-tags: 
+date: 2020-04-15T18:42:44.454Z
+tags: annotation, annotation tools, tool, hmm profile, clustering
 ---
 
 # BAR 3.0 Bologna Annotation Resource
@@ -18,6 +18,14 @@ tags:
 
 - [Bologna Annotation Resource *Version 3.0*](https://bar.biocomp.unibo.it/bar3/)
 {.links-list}
+
+## Notes from users 
+
+Categories of search terms are used to yield clusters matching those classifying terms, accessions or IDs. Sequences (FASTA format) can also be used to initiate a search. Caution is advised, as the accuracy of this tool's results is highly-dependent upon the accuracy of annotation in UniProt, from which it pulls and pools information. Creators of site also provide several other bioinformatic services, tools: [Bologna Biocomputing Group](http://www.biocomp.unibo.it/predictors.html)
+
+## Ease of use 
+
+No specific help, but very easy to use and self-explanatory 
 
 ## Citations
 
