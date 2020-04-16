@@ -2,8 +2,8 @@
 title: UniProt Mapping
 description: 
 published: true
-date: 2020-03-27T20:47:16.287Z
-tags: 
+date: 2020-04-16T15:25:36.304Z
+tags: tool
 ---
 
 # UniProt Mapping
@@ -15,6 +15,13 @@ tags:
 
 ## Website
 
-- [UniProt Mapping *Main Page*](http://www.uniprot.org/mapping/)
+- [UniProt Mapping *Main Page*](https://www.uniprot.org/uploadlists/)
+- [UniProt Mapping *Help Section*](https://www.uniprot.org/help/uploadlists)
+- [Video Tuturiel *Youtube Tutoriel*](https://www.youtube.com/watch?v=kLdgjqWoMZc)
 {.links-list}
 
+## Notes from Users
+Very usufull tool when you want to swap ID from a database to another. Very large amount of different database proposed, including NCBI and patricdb.
+
+## Ease of Use
+Have a list of identifier ready organized in column. Copy and paste them in the input section. Select the database it come from and the database identifier you want. Enjoy your results.
