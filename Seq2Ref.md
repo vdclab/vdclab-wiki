@@ -2,7 +2,7 @@
 title: Seq2Ref
 description: Server dedicated to enabling functional interpretation through analysis of protein sequence similarity
 published: true
-date: 2020-04-16T18:06:50.587Z
+date: 2020-04-16T18:07:12.827Z
 tags: tool, sequence analysis, sequence alignment, proteins, comparative genomics, sequence similarity, functional association, literature
 ---
 
