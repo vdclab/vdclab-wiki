@@ -2,7 +2,7 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T19:44:04.491Z
+date: 2020-04-16T20:03:44.329Z
 tags: annotation, tool, 2009
 ---
 
@@ -14,11 +14,11 @@ tags: annotation, tool, 2009
 ## Website
 
 - [bioDBnet *Main Page*](https://biodbnet-abcc.ncifcrf.gov/)
-- [db2db *handles all the conversions from one database identifier to another*](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
-- [dbWalk *lets you walk through your own bioDBnet path*](https://biodbnet-abcc.ncifcrf.gov/db/dbWalk.php)
-- [dbReport *reports every possible information that it can get for a particular identifier*](https://biodbnet-abcc.ncifcrf.gov/db/dbReport.php)
-- [dbFind *finds the type of identifiers and converts all into a chosen database identifier type*](https://biodbnet-abcc.ncifcrf.gov/db/dbFind.php)
-- [dbOrtho *converts identifiers from one organism into homolog identifiers of a different organism*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrtho.php)
+- [db2db *Main Tool*](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
+- [dbWalk *db2db choose your path*](https://biodbnet-abcc.ncifcrf.gov/db/dbWalk.php)
+- [dbReport *db2db all output*](https://biodbnet-abcc.ncifcrf.gov/db/dbReport.php)
+- [dbFind *db2db mixed or unknown input*](https://biodbnet-abcc.ncifcrf.gov/db/dbFind.php)
+- [dbOrtho *orthologues search*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrtho.php)
 - [dbAnnot *provides different types of annotations for various biological identifiers*](https://biodbnet-abcc.ncifcrf.gov/db/dbAnnot.php)
 - [dbOrg *provides downloadable files of organism wide conversions*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrg.php)
 - [Help *Examples of Use*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/examples.php)
@@ -26,11 +26,21 @@ tags: annotation, tool, 2009
 {.links-list}
 
 ## Notes from Users 
-#### db2db
+### db2db
 Enter your list of IDs, select the database they come from, then the database Id you want them converted to. The result comes as a table you can export.
+### dbWalk
+Same tool as db2db, except that you choose the path of convesrion from a database to another. Path are easy to add and remove but a comprehension of database organisation is required to use this tool.
+### dbReport
+Same tool as db2db, except that you don't choose the output database. Instead you get the ID in all databases.
+### dbFind
+Same tool as db2db, except that you don't specify the input database. The tool will automatically detect the database of origins. It also allows to have a list of mixed origins for the IDs.
+### dbOrtho
+Same tool as db2db, except that you can specify your species of entry and specify a species of output for orthologue searches.
+### dbAnnot
+### dbOrg
 
 ## Ease of Use
-
+All these tools are really easy to use, and the output is also really easy to get.
 ## Citation
 
 - Mudunuri,U., Che,A., Yi,M. and Stephens,R.M. (2009) [bioDBnet: the biological database network.](http://bioinformatics.oxfordjournals.org/content/25/4/555.full.pdf+html) Bioinformatics, 25, 555-556.
