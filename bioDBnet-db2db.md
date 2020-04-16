@@ -2,8 +2,8 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T20:31:25.358Z
-tags: annotation, tool, 2009
+date: 2020-04-16T20:35:31.011Z
+tags: annotation, tool, gene, protein, 2009
 ---
 
 # bioDBnet Database to Database Conversions
