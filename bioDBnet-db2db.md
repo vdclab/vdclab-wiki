@@ -2,7 +2,7 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T20:03:44.329Z
+date: 2020-04-16T20:31:25.358Z
 tags: annotation, tool, 2009
 ---
 
@@ -19,8 +19,8 @@ tags: annotation, tool, 2009
 - [dbReport *db2db all output*](https://biodbnet-abcc.ncifcrf.gov/db/dbReport.php)
 - [dbFind *db2db mixed or unknown input*](https://biodbnet-abcc.ncifcrf.gov/db/dbFind.php)
 - [dbOrtho *orthologues search*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrtho.php)
-- [dbAnnot *provides different types of annotations for various biological identifiers*](https://biodbnet-abcc.ncifcrf.gov/db/dbAnnot.php)
-- [dbOrg *provides downloadable files of organism wide conversions*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrg.php)
+- [dbAnnot *genome annotation*](https://biodbnet-abcc.ncifcrf.gov/db/dbAnnot.php)
+- [dbOrg *precomputed convertion of whole organisms*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrg.php)
 - [Help *Examples of Use*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/examples.php)
 - [FAQs *Frequently Asked Questions*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/faq.php)
 {.links-list}
@@ -37,8 +37,9 @@ Same tool as db2db, except that you don't specify the input database. The tool w
 ### dbOrtho
 Same tool as db2db, except that you can specify your species of entry and specify a species of output for orthologue searches.
 ### dbAnnot
+Use the dbFind tool to match genes in a genome of your choice (TaxId from NCBI as entry).
 ### dbOrg
-
+precuputed converstion of whole genome of specific organisms.
 ## Ease of Use
 All these tools are really easy to use, and the output is also really easy to get.
 ## Citation
