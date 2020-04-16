@@ -2,8 +2,8 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-03-27T20:39:22.911Z
-tags: 
+date: 2020-04-16T19:31:16.294Z
+tags: annotation, tool
 ---
 
 # bioDBnet Database to Database Conversions
@@ -13,7 +13,16 @@ tags:
 
 ## Website
 
-- [bioDBnet Database to Database Conversions *Main Page*](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
+- [bioDBnet *Main Page*](https://biodbnet-abcc.ncifcrf.gov/)
+- [db2db *handles all the conversions from one database identifier to another*](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
+- [dbWalk *lets you walk through your own bioDBnet path*](https://biodbnet-abcc.ncifcrf.gov/db/dbWalk.php)
+- [dbReport *reports every possible information that it can get for a particular identifier*](https://biodbnet-abcc.ncifcrf.gov/db/dbReport.php)
+- [dbFind *finds the type of identifiers and converts all into a chosen database identifier type*](https://biodbnet-abcc.ncifcrf.gov/db/dbFind.php)
+- [dbOrtho *converts identifiers from one organism into homolog identifiers of a different organism*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrtho.php)
+- [dbAnnot *provides different types of annotations for various biological identifiers*](https://biodbnet-abcc.ncifcrf.gov/db/dbAnnot.php)
+- [dbOrg *provides downloadable files of organism wide conversions*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrg.php)
+- [Help *Examples of Use*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/examples.php)
+- [FAQs *Frequently Asked Questions*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/faq.php)
 {.links-list}
 
 ## Citation
