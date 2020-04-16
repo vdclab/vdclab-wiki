@@ -2,8 +2,8 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T19:31:57.880Z
-tags: annotation, tool
+date: 2020-04-16T19:44:04.491Z
+tags: annotation, tool, 2009
 ---
 
 # bioDBnet Database to Database Conversions
@@ -26,6 +26,8 @@ tags: annotation, tool
 {.links-list}
 
 ## Notes from Users 
+#### db2db
+Enter your list of IDs, select the database they come from, then the database Id you want them converted to. The result comes as a table you can export.
 
 ## Ease of Use
 
