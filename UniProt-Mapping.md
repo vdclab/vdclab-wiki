@@ -2,7 +2,7 @@
 title: UniProt Mapping
 description: 
 published: true
-date: 2020-04-16T15:33:17.403Z
+date: 2020-04-16T15:33:25.222Z
 tags: tool, protein
 ---
 
@@ -21,7 +21,7 @@ tags: tool, protein
 {.links-list}
 
 ## Notes from Users
-Very usufull tool when you want to swap ID from a database to another. Very large amount of different database proposed, including NCBI and patricdb.
+Very usufull tool when you want to swap ID from a database to another. Very large amount of different databases proposed, including NCBI and patricdb.
 
 ## Ease of Use
 Have a list of identifiers ready and organized in column. Copy and paste them in the input section. Select the database it come from and the database identifier you want. Enjoy your results.
