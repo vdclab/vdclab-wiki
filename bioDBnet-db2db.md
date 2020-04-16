@@ -2,7 +2,7 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T19:31:16.294Z
+date: 2020-04-16T19:31:57.880Z
 tags: annotation, tool
 ---
 
@@ -24,6 +24,10 @@ tags: annotation, tool
 - [Help *Examples of Use*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/examples.php)
 - [FAQs *Frequently Asked Questions*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/faq.php)
 {.links-list}
+
+## Notes from Users 
+
+## Ease of Use
 
 ## Citation
 
