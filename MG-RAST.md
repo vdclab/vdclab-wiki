@@ -2,19 +2,27 @@
 title: Metagenomic Rapid Annotations using Subsystems Technology
 description: MG-RAST (the Metagenomics RAST) server is an automated analysis platform for metagenomes providing quantitative insights into microbial populations based on sequence data. 
 published: true
-date: 2020-03-27T19:07:01.370Z
-tags: 
+date: 2020-04-16T13:26:24.268Z
+tags: metagenomics, metagenomes, annotation tools, tool, sequence analysis, prediction, 2008, orthology
 ---
 
 # Metagenomic Rapid Annotations using Subsystems Technology (MG-RAST)
 
-> MG-RAST is an open-source web application server that suggests automatic phylogenetic and functional analysis of metagenomes. It is also one of the biggest repositories for metagenomic data. The name is an abbreviation of Metagenomic Rapid Annotations using Subsystems Technology. The pipeline automatically produces functional assignments to the sequences that belong to the metagenome by performing sequence comparisons to databases in both nucleotide and amino-acid levels. The applications supplies phylogenetic and functional assignments of the metagenome being analysed, as well as tools for comparing different metagenomes. It also provides a RESTful API for programmatic access. 
+> MG-RAST is an open-source web application server that suggests automatic phylogenetic and functional analysis of metagenomes. It is also one of the biggest repositories for metagenomic data.  The pipeline automatically produces functional assignments to the sequences that belong to the metagenome by performing sequence comparisons to databases in both nucleotide and amino-acid levels. The applications supplies phylogenetic and functional assignments of the metagenome being analysed, as well as tools for comparing different metagenomes. 
 {.is-info}
 
 ## Website
 
 - [MG-RAST *Main Page*](http://metagenomics.anl.gov/)
+- [User Manual *MG-RAST Help Section*](https://help.mg-rast.org/user_manual.html)
 {.links-list}
+
+## Notes from Users
+This tool takes a nucleotide sequence as an entry, detects the ORF and assigns them an anotation by sequence similarity. It detects also the rRNA and tRNA. Metagenome data, assembled or not, can also be used as an input.
+For people versed into coding, this tool also provides command lines.
+> This tool has not been updated since 2017
+{.is-warning}
+
 
 ## Citation
 
