@@ -1,0 +1,27 @@
+---
+title: IQ TREE
+description: IQ TREE: Efficient software for phylogenomic inference
+published: true
+date: 2020-04-16T17:15:08.750Z
+tags: phylogeny, mapping
+---
+
+# IQ-TREE
+
+> IQ TREE: Efficient software for phylogenomic inference
+Key Features:
+-**Efficient search algorithm:** Fast and effective stochastic algorithm to reconstruct phylogenetic trees by maximum likelihood. IQ-TREE compares favorably to RAxML and PhyML in terms of likelihood while requiring similar amount of computing time.
+-**Ultrafast bootstrap:** An ultrafast bootstrap approximation (UFBoot) to assess branch supports. UFBoot is 10 to 40 times faster than RAxML rapid bootstrap and obtains less biased support values.
+-**Ultrafast model selection:** An ultrafast and automatic model selection (ModelFinder) which is 10 to 100 times faster than jModelTest and ProtTest. ModelFinder also finds best-fit partitioning scheme like PartitionFinder.
+-**Big Data Analysis:** Supporting huge datasets with thousands of sequences or millions of alignment sites via checkpointing, safe numerical and low memory mode. Multicore CPUs and parallel MPI system are utilized to speedup analysis.
+-**Phylogenetic testing:** Several fast branch tests like SH-aLRT and aBayes test (Anisimova et al., 2011) and tree topology tests like the approximately unbiased (AU) test. 
+{.is-info}
+
+
+
+## Websites
+
+- [IQ-TREE *Main Page*](http://www.iqtree.org/)
+- [IQ-TREE How to Cite *Reference Page*](http://www.iqtree.org/doc/Home#how-to-cite-iq-tree)
+{.links-list}
+
