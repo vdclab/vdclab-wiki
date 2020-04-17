@@ -1,0 +1,19 @@
+---
+title: Entrez Help - Summary Matrices
+description: This document provides summary tables for the Entrez Nucleotide, Protein, Genome, Structure, and Popset data domains.
+published: true
+date: 2020-04-17T19:12:29.533Z
+tags: tool, tutorial
+---
+
+# Entrez Help - Summary Matrices
+
+> This document provides summary tables for the Entrez Nucleotide, Protein, Genome, Structure, and Popset data domains.
+{.is-info}
+
+
+
+## Website
+
+- [Summary Matrices *Entrez Help Page*](https://www.ncbi.nlm.nih.gov/entrez/query/static/help/Summary_Matrices.html)
+{.links-list}
