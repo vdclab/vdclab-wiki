@@ -2,7 +2,7 @@
 title: EZBioCloud
 description: A user-friendly search tool and genome browser for bacteria.
 published: true
-date: 2020-04-10T17:17:31.584Z
+date: 2020-04-17T17:29:48.576Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxonomy, sequence analysis, genes, 16s rrna, rdna, genome browser, microbiome, taxonomic profiling, phyolgeny
 ---
 
@@ -17,23 +17,10 @@ tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxono
 {.links-list}
 
 ## Notes from users 
-A website with several cloud based services available that draw from several unique databases. The list of databases are described by their creators below.
-
-**EzBioCloud 16S Database:** 16S rRNA gene provides the taxonomic framework for the whole EzBioCloud database. Basically, all species or subspecies are represented by single 16S sequence, usually from type strains. Hierarchical classification is based on 16S-maximum likelihood phylogeny
-
-**EzBioCloud Genome Database:** All genome sequences included in EzBioCloud were processed by the same annotation pipeline, so can be directly compared without a problem of incompatibility. Genomes were validated by various QC processes, and taxonomic identities were checked by our TrueBac TM ID service. All genomes in this database are labeled with taxonomic names that are always present in EzBioCloud 16S Database
-
-**EzBioCloud Microbiome Database:** An MTP (Microbiome Taxonomic Profile) is a unit of data containing the taxonomic profile of a metagenomic sample. We compiled 16S microbiome data, which are publicly available, into this database. To access this database, you need to use EzBioCloud system.
-
-**EzBioCloud 16S Database for QIIME and MOTHUR packages:** Whole database including 16S sequences and complete taxonomic hierarchy can be downloaded for the use with QIIME & MOTHUR packages. This database is usually different from EzBioCloud 16S database that is updated more frequently. Sequences and taxonomic hierarchy of EzBioCloud Microbiome Database are directly linked to this database
+A website with several cloud based services available that draw from several unique databases.
 
 ## Ease of use 
-The website is divided into separate sections that the user can easily navigate though by using the tabs at the top of the site. The tabs navigate to either the Apps, Tools, or Resources pages. Here is a breif description of each:
-**Tools:** Web based or downloadable standalone software that can be used for more simple tasks in a bioinformatic study. An example of one of the tools available is the Average Nucleotide Identity calculator that can be used to compare two prokaryotic genomes.
-**Apps:** These web based apps are meant for larger scale datasets and can be used to conduct large scale genomics based projects. 
-**Resources:** The unique databases that EZBioCloud curates which contain a data for 16S sequences , Contaminated Genomes, and Taxonomic outlines of the human microbiome.
-
-The website is pelasant to look at and easy to navigate which make it a good choice for in-depth genomics studies.
+The website is divided into separate sections that the user can easily navigate though by using the tabs at the top of the site. The tabs navigate to either the Apps, Tools, or Resources pages.The website is pelasant to look at and easy to navigate which make it a good choice for in-depth genomics studies.
 
 
 
