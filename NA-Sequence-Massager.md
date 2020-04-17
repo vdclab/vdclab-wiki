@@ -2,7 +2,7 @@
 title: Nucleic Acid Sequence Massager
 description: Reformatting tool for nucleic acid sequences
 published: true
-date: 2020-04-17T13:50:35.131Z
+date: 2020-04-17T13:53:33.489Z
 tags: tool, genes, sequence format, dna, rna
 ---
 
@@ -24,5 +24,5 @@ tags: tool, genes, sequence format, dna, rna
 
 Can email the genome dynamic group directly 
 
-## Reference
-No reference indicated/found
+## Citation
+No citation indicated/found
