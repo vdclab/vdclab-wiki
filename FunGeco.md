@@ -2,7 +2,7 @@
 title: FunGeco
 description: Functional potential of bacterial genomes and microbiomes from gene context information.
 published: true
-date: 2020-04-17T18:33:43.021Z
+date: 2020-04-17T18:34:55.246Z
 tags: genomes, gene neighborhood
 ---
 
@@ -19,14 +19,12 @@ tags: genomes, gene neighborhood
 
 
 
-## Website(s) <- 's' if more than one
+## Website
 
-- [Website name *Description that will be here*](https://url_of_the_website)
-- [If two website *Short description of the link*](https://url_of_the_website)
+- [FunGeco *Main Page*](https://web.rniapps.net/fungeco/)
 {.links-list}
 
-## Citation(s) <- 's' if more than one
+## Citation
 
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
+- Swadha Anand, Bhusan K Kuntal, Anwesha Mohapatra, Vineet Bhatt, Sharmila S Mande, [FunGeCo: a web-based tool for estimation of functional potential of bacterial genomes and microbiomes using gene context information,](https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btz957/5688743?redirectedFrom=fulltext) Bioinformatics, , btz957
 {.grid-list}
