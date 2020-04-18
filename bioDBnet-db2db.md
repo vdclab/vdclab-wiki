@@ -2,7 +2,7 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-16T20:35:31.011Z
+date: 2020-04-18T02:11:18.555Z
 tags: annotation, tool, gene, protein, 2009
 ---
 
@@ -33,7 +33,7 @@ Same tool as db2db, except that you choose the path of convesrion from a databas
 ### dbReport
 Same tool as db2db, except that you don't choose the output database. Instead you get the ID in all databases.
 ### dbFind
-Same tool as db2db, except that you don't specify the input database. The tool will automatically detect the database of origins. It also allows to have a list of mixed origins for the IDs.
+Same tool as db2db, except that you don't specify the input database. The tool will automatically detect the database of origins. It also allows to have a list of mixed origins for the IDs. Sometimes it is the only tool that allows to map Ids.
 ### dbOrtho
 Same tool as db2db, except that you can specify your species of entry and specify a species of output for orthologue searches.
 ### dbAnnot
