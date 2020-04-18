@@ -2,7 +2,7 @@
 title: LinkDB
 description: DBGET/LinkDB is designed to be a network distributed database system with an open architecture, which is suitable for incorporating local databases or establishing a specialized server environment.
 published: true
-date: 2020-04-16T19:13:42.331Z
+date: 2020-04-18T02:05:47.635Z
 tags: 2014, tool, 1998
 ---
 
@@ -26,6 +26,7 @@ LinkDB contains all cross-reference links, original and reverse links, extracted
 
 > Last update in 2014
 {.is-warning}
+> It is really useful to map all the Ids from one database into another. 
 
 
 
