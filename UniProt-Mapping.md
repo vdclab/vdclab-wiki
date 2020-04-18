@@ -2,7 +2,7 @@
 title: UniProt Mapping
 description: 
 published: true
-date: 2020-04-18T01:48:09.969Z
+date: 2020-04-18T01:52:07.921Z
 tags: tool, protein
 ---
 
@@ -21,7 +21,7 @@ tags: tool, protein
 {.links-list}
 
 ## Notes from Users
-Very usuful tool when you want to swap IDs from a database to another. Many different databases  are included, including NCBI and patricdb.
+Very usuful tool when you want to swap IDs from a database to another. Many different databases  are included, including NCBI and patricdb. When you want to map "bxxxx" numbers for E. col K12 , choose From "gene name" to "UniprotKb" and choose organism Escherichia coli (strain K12) (ECOLI) [83333]. Other wise it does not work.
 
 ## Ease of Use: Very Easy
 Have a list of identifiers ready and organized in column. Copy and paste them in the input section. Select the database it come from and the database identifier you want. Enjoy your results.
