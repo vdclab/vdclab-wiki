@@ -2,8 +2,8 @@
 title: Genoscope - Microscope
 description: Microbial Genome Annotation & Analysis Platform
 published: true
-date: 2020-04-02T02:07:20.441Z
-tags: 
+date: 2020-04-20T15:29:48.820Z
+tags: annotation, genomics, genomes, annotation tools, tool, genes, phylogeny, proteins, comparative genomics, metabolic reconstruction
 ---
 
 # Genoscope - Microscope
@@ -17,6 +17,12 @@ The MicroScope web interface (MaGe, for « Magnifying Genomes » ) has been spec
 
 - [Microscope *Main page*](https://mage.genoscope.cns.fr/microscope/home/index.php)
 {.links-list}
+
+## Notes from User
+- Integrates RNA-seq, metabalomics and comparative genomics tools
+
+## Help 
+- [Contact MicroScope](https://mage.genoscope.cns.fr/microscope/about/contact.php?)
 
 ## Citation
 
