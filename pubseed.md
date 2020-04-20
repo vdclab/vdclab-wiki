@@ -2,8 +2,8 @@
 title: PubSEED (The SEED)
 description: PubSEED (The SEED) provide consistent and accurate genome annotations across thousands of genomes
 published: true
-date: 2020-04-06T19:07:11.599Z
-tags: annotation, annotation tools, tool
+date: 2020-04-20T15:56:26.943Z
+tags: annotation, genomics, annotation tools, tool, database
 ---
 
 # PubSEED
@@ -17,6 +17,11 @@ tags: annotation, annotation tools, tool
 - [PubSEED *Subsystem Editor*](https://pubseed.theseed.org/SubsysEditor.cgi)
 {.links-list}
 
+## Notes from User
+- Genome browser, subsystems of functionally annotated proteins
+
+## Help
+- Email: info@theseed.org
 ## Citation
 
 - Overbeek, R., Begley, T., Butler, R. M., Choudhuri, J. V., Chuang, H. Y., Cohoon, M., ... & Fonstein, M. (2005). [The subsystems approach to genome annotation and its use in the project to annotate 1000 genomes.](https://academic.oup.com/nar/article/33/17/5691/1067791) Nucleic acids research, 33(17), 5691-5702.
