@@ -2,8 +2,8 @@
 title: Sequence Manipulation Suite
 description: A suite of bioinformatic tools enabling varieties of analysis and reformatting/conversion
 published: true
-date: 2020-04-02T01:52:17.350Z
-tags: 
+date: 2020-04-20T13:50:46.330Z
+tags: tool, sequence analysis, sequence alignment, genes, proteins, sequence format, dna, rna, pattern recognition, pattern extraction, feature identification
 ---
 
 # Sequence Manipulation Suite
@@ -19,6 +19,13 @@ tags:
 
 - [Sequence Manipulation Suite *Main page*](https://www.bioinformatics.org/sms2/)
 {.links-list}
+
+## Notes from User
+File conversion, sequence analysis and sequence figures.
+
+## Help 
+Send questions and comments to stothard@ualberta.ca. (Email listed on website).
+
 
 ## Citation
 
