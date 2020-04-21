@@ -2,7 +2,7 @@
 title: Nucleic Acid Sequence Massager
 description: Reformatting tool for nucleic acid sequences
 published: true
-date: 2020-04-17T13:53:33.489Z
+date: 2020-04-21T17:28:59.533Z
 tags: tool, genes, sequence format, dna, rna
 ---
 
@@ -19,6 +19,7 @@ tags: tool, genes, sequence format, dna, rna
 ## Notes from user
 - Easy to use
 - Can use to clean up sequences if non-ATCG letters are present
+- Many useful operations such as eliminating blanks, remiving line breaks
 
 ## Help
 
