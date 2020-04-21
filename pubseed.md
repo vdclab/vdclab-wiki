@@ -2,7 +2,7 @@
 title: PubSEED (The SEED)
 description: PubSEED (The SEED) provide consistent and accurate genome annotations across thousands of genomes
 published: true
-date: 2020-04-21T18:01:00.519Z
+date: 2020-04-21T18:05:37.773Z
 tags: annotation, genomics, annotation tools, tool, database
 ---
 
@@ -19,7 +19,7 @@ tags: annotation, genomics, annotation tools, tool, database
 
 ## Notes from User
 - Genome browser, subsystems of functionally annotated proteins
-- One of the best genome tool to discover gene function by comparative genomics. It was visionary and has never been matched. Unfortunately, It has not been updated in years so new genomes (last five years at least)
+- One of the best genome tool to discover gene function by comparative genomics. It was visionary and has never been matched. Unfortunately, it has not been updated in over years so new genomes. 
 - Sill very powerful to vizualize gene neigbhorhoods and if one knows how to build Subsystems also very useful.
 
 ## Help
