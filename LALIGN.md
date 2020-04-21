@@ -2,14 +2,13 @@
 title: LALIGN Server
 description: Find multiple matching subsegments in two sequences.
 published: true
-date: 2020-04-21T18:22:55.585Z
+date: 2020-04-21T18:23:21.181Z
 tags: tool, sequence matching
 ---
 
 # LALIGN Server
 
-> LALIGN is a program that compare two sequences looking for local sequence similarities. LALIGN uses code developed by X. Huang
-and W. Miller (Adv. Appl. Math. (1991) 12:337-357) for the "sim" program. While search reports only the best alignment between the query sequence and the library sequence, LALIGN will report a specified number of alignments (the default is 10) between the two sequences and also shows the actual local alignments between the two sequences and their scores.
+> LALIGN is a program that compare two sequences looking for local sequence similarities. LALIGN uses code developed by X. Huang and W. Miller (Adv. Appl. Math. (1991) 12:337-357) for the "sim" program. While search reports only the best alignment between the query sequence and the library sequence, LALIGN will report a specified number of alignments (the default is 10) between the two sequences and also shows the actual local alignments between the two sequences and their scores.
 &NewLine;
 The LALIGN/plalign/fasta programs use a standard text format sequence file. Lines beginning with '>' or ';' are considered comments and ignored; sequences can be upper or lower case, blanks,tabs and unrecognizable characters are ignored. LALIGN/plalign expect sequences to use the single letter amino acid codes.
 {.is-info}
