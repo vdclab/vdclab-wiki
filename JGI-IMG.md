@@ -2,11 +2,11 @@
 title: JGI - Integrated Microbial Genomes/Microbiomes
 description: A comprehensive sequence database for microbes, microbiomes
 published: true
-date: 2020-04-21T17:35:48.710Z
+date: 2020-04-21T17:49:48.983Z
 tags: reference, registry, annotation, genomics, genomes, metagenomes, projects, sequencing projects, project library, tool, genes, phylogeny, proteins, microbiome
 ---
 
-# JGI - Integrated Microbial Genomes/Microbiomes
+# JGI/IMG - Integrated Microbial Genomes/Microbiomes
 
 > The Integrated Microbial Genomes (IMG) system serves as a community resource for analysis and annotation of genome and metagenome datasets in a comprehensive comparative context. The IMG data warehouse integrates genome and metagenome datasets provided by IMG users with a comprehensive set of publicly available genome and metagenome datasets. 
 {.is-info}
