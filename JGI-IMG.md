@@ -2,7 +2,7 @@
 title: JGI - Integrated Microbial Genomes/Microbiomes
 description: A comprehensive sequence database for microbes, microbiomes
 published: true
-date: 2020-04-21T17:35:01.436Z
+date: 2020-04-21T17:35:48.710Z
 tags: reference, registry, annotation, genomics, genomes, metagenomes, projects, sequencing projects, project library, tool, genes, phylogeny, proteins, microbiome
 ---
 
