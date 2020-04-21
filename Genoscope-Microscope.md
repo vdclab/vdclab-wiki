@@ -2,7 +2,7 @@
 title: Genoscope - Microscope
 description: Microbial Genome Annotation & Analysis Platform
 published: true
-date: 2020-04-21T17:47:12.926Z
+date: 2020-04-21T17:48:12.301Z
 tags: annotation, genomics, genomes, annotation tools, tool, genes, phylogeny, proteins, comparative genomics, metabolic reconstruction
 ---
 
@@ -19,7 +19,8 @@ The MicroScope web interface (MaGe, for « Magnifying Genomes » ) has been spec
 {.links-list}
 
 ## Notes from User
-- One of the best platform for genome annoation of microbial genome
+- One of the best platform for genome annotation of microbial genome
+- Metabolic reconstruction tools
 - Complex searches are very elaborate but not intuitive 
 - RNA-seq analysis available but with a few weeks work around
 - Integrates a lot of cool tools for pathogenecity islands or pangenomes
