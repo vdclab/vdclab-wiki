@@ -2,8 +2,8 @@
 title: NCBI Prokaryotic Genome Annotation Pipeline
 description: The NCBI Prokaryotic Genome Annotation Pipeline (PGAP) is designed to annotate bacterial and archaeal genomes (chromosomes and plasmids).
 published: true
-date: 2020-03-27T20:47:46.465Z
-tags: 
+date: 2020-04-22T19:59:10.143Z
+tags: annotation, archaea, bacteria
 ---
 
 # NCBI Prokaryotic Genome Annotation Pipeline (PGAP)
@@ -19,6 +19,12 @@ NCBI has developed an automatic prokaryotic genome annotation pipeline that comb
 
 - [NCBI Prokaryotic Genome Annotation Pipeline*Main Page*](https://www.ncbi.nlm.nih.gov/genome/annotation_prok/)
 {.links-list}
+
+## Notes from users
+The annotation pipeline for NCBI which includes automatic annotation based on homology.
+
+## Ease of use
+The service has specific format requirements based on the sequence submitted, make sure to follow the instructions.
 
 ## Citations
 
