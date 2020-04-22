@@ -2,8 +2,8 @@
 title: KBase
 description: A collaborative, open environment for systems biology of plants, microbes and their communities.
 published: true
-date: 2020-03-27T20:48:02.454Z
-tags: 
+date: 2020-04-22T16:23:13.257Z
+tags: annotation, tool, transcriptomics
 ---
 
 # KBase
@@ -17,6 +17,12 @@ KBase is the first large-scale bioinformatics system that enables users to uploa
 
 - [KBase *Main Page*](https://kbase.us/)
 {.links-list}
+
+## Notes from users 
+Large scale bioinformatics research in one platform thanks to their unified graphical interface.
+
+## Ease of use
+The website is well maintained and very modern. Lots of emphasis is given to ease of use and simplicity.
 
 ## Citation
 
