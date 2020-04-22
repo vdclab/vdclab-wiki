@@ -2,8 +2,8 @@
 title: Genoscope Microscope Services
 description: (Short Description Needed)
 published: true
-date: 2020-04-22T19:47:14.374Z
-tags: annotation, genomics
+date: 2020-04-22T19:51:23.554Z
+tags: annotation, genomics, genomes, annotation tools, comparative genomics
 ---
 
 # Genoscope Microscope Services
