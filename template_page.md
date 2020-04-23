@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-04-23T18:46:48.830Z
+date: 2020-04-23T18:48:16.486Z
 tags: template, help
 ---
 
