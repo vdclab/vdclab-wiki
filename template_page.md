@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-04-10T00:35:54.841Z
+date: 2020-04-23T18:46:48.830Z
 tags: template, help
 ---
 
@@ -22,8 +22,15 @@ Plus if you need a blank line in the description you just put `&NewLine;` (edit 
 - [If two website *Short description of the link*](https://url_of_the_website)
 {.links-list}
 
+- [Video test](https://www.dropbox.com/s/8zbe01mp0c70w4f/First_lecture.mp4?dl=0)
+{.links-list}
+
+
 ## Citation(s) <- 's' if more than one
 
 - Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
 - Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
 {.grid-list}
+
+
+
