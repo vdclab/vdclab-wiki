@@ -1,8 +1,8 @@
 ---
-title: RDP - Seqmatch
-description: A sequence alignment & matching workflow by the Ribosomal Database Project (RDP). Also has tree-builder function and "ASSIGNGEN" for use in teaching 16S-related phylogeny.
+title: RDP - Ribosomal Database Project
+description: RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. 
 published: true
-date: 2020-04-10T17:22:04.774Z
+date: 2020-04-24T13:20:33.757Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
@@ -20,6 +20,15 @@ tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence ma
 
 - [Help *Help page*](http://rdp.cme.msu.edu/seqmatch/seqmatch_help.jsp)
 {.links-list}
+
+## User Notes
+
+Classifier now provides gene copy number adjustment for 16S gene sequences. The 16S gene copy number data is provided by rrnDB website.
+
+FunGene is a functional gene pipeline and repository.  Genes that have functional roles in antibiotic resistance, for example, can be found/deposited here. 
+
+MlxS Google Sheet helps you analyze/manage your metadata and choose an appropriate marker gene for analysis
+
 
 ## Citation
 
