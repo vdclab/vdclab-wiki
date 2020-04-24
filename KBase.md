@@ -2,7 +2,7 @@
 title: KBase
 description: A collaborative, open environment for systems biology of plants, microbes and their communities.
 published: true
-date: 2020-04-24T15:20:37.272Z
+date: 2020-04-24T15:22:30.838Z
 tags: annotation, genomics, tool, sequence analysis, functional association, transcriptomics, function
 ---
 
