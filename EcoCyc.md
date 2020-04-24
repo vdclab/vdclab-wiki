@@ -2,7 +2,7 @@
 title: EcoCyc
 description: EcoCyc is a scientific database for the bacterium Escherichia coli K-12 MG1655. 
 published: true
-date: 2020-04-10T18:28:52.385Z
+date: 2020-04-24T18:39:57.805Z
 tags: bacteria, tool, resource center, database
 ---
 
@@ -18,6 +18,7 @@ EcoCyc provides tools for navigating, visualizing, and analyzing the underlying 
 ## Website
 
 - [EcoCyc *Main Page*](https://ecocyc.org/)
+- [EcoCyc Regulatory Overview *Regulatory Overview of Escherichia coli K-12 substr. MG1655 (EcoCyc)*](https://ecocyc.org/overviewsWeb/regOv.shtml)
 {.links-list}
 
 ## Citation
