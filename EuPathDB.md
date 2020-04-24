@@ -2,13 +2,13 @@
 title: EuPathDB
 description: The EuPathDB Bioinformatics Resource Center provides a portal for accessing genomic-scale datasets associated with the diverse eukaryotic microbes.
 published: true
-date: 2020-03-27T20:49:35.882Z
-tags: 
+date: 2020-04-24T16:09:04.515Z
+tags: genomics, tool, sequence analysis, genes, proteins, resource center, database, eukaryotes, transcriptomics, prediction, proteomics, function
 ---
 
 # EuPathDB
 
-> EuPathDB (formerly ApiDB) is an integrated database covering the eukaryotic pathogens in the genera listed in their Data Summary page.
+> EuPathDB (formerly ApiDB) is an integrated database covering the 405 eukaryotic pathogens listed in their Data Summary page.
 While these organisms are supported by a taxon-specific database/website built upon the same infrastructure, the EuPathDB portal offers an entry point to all of these resources, and the opportunity to leverage orthology for searches across genera.
 &NewLine;
 The EuPathDB databases are funded by NIAID and they have strict guidelines as to which organisms they can support. EuPathDB is one of four NIH funded bioinformatics resource centers. Mainly they are to incorporate any eukaryotic pathogen that is deemed emerging or re-emerging. They also have some organisms that are not on the list, those were either added in the past on the behest of the community and additional funding (such as TrichDB), organisms that are related to emerging or re-emerging pathogen (such as Plasmodium or Neospora) and the trypanosomatids (funded as a pilot project by the Bill and Melinda Gates foundation).
@@ -20,6 +20,11 @@ The EuPathDB family of databases is expected to expand further over the coming y
 
 - [EuPathDB *Main Page*](https://eupathdb.org/eupathdb/)
 {.links-list}
+
+## User Notes
+> Users personal experimental data (RNA-seq, ChIP-seq, Variants, etc) can be analyzed using the free EuPathDB-dedicated Galaxy site, preloaded with EuPathDB genomes and workflows and hosted by Globus Genomics.
+>
+> The database assists users to easily create and save multi-step search strategies which could be very convenient for publishing and teaching purposes. 
 
 ## Citation
 
