@@ -1,8 +1,8 @@
 ---
 title: GenomeNet
-description: Japanese network of database and computational services for genome research and related research areas in biomedical sciences
+description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-04-24T15:40:21.684Z
+date: 2020-04-24T15:41:55.180Z
 tags: genomics, genomes, genes, proteins
 ---
 
