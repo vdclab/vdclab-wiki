@@ -2,13 +2,13 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. 
 published: true
-date: 2020-04-24T13:20:33.757Z
+date: 2020-04-24T13:25:43.916Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
-# RDP - Seqmatch
+# RDP - Ribosomal Database Project
 
-> Sequence Match finds the nearest neighbors of your query sequences by picking up those database sequences that have the highest numbers of the shared 7-mers ("word") with the specific query sequence. It is not based on any alignment. There is no bit-saved score or E-value generated but a S_ab score that is the percentage of shared words between sequences compared. 
+> RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. Analysis tools include: Hierarchy Browser, Classifier, Probe Match, FunGene, MlxS GoogleSheets, Library Compare, Sequence Match, RDPipeline, Aligner, Tree Builder and RDP Open Source. 
 {.is-info}
 
 ## Website
@@ -22,6 +22,8 @@ tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence ma
 {.links-list}
 
 ## User Notes
+
+There are tutorials available for each analysis tool included in the RDP suite. 
 
 Classifier now provides gene copy number adjustment for 16S gene sequences. The 16S gene copy number data is provided by rrnDB website.
 
