@@ -2,8 +2,8 @@
 title: FUNGIpath
 description: FUNGIpath is a web service dedicated to the exploration of fungal metabolism.
 published: true
-date: 2020-04-24T16:54:23.886Z
-tags: annotation, genomics, genomes, tool, fungi, eukaryotes, metabolism, protein, orthology, protein family, proteomics
+date: 2020-04-24T19:17:55.193Z
+tags: annotation, genomics, genomes, tool, fungi, eukaryotes, metabolism, protein, orthology, protein family, proteomics, metabolic pathways
 ---
 
 # FUNGIpath
