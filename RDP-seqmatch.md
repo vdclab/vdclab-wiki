@@ -2,7 +2,7 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. 
 published: true
-date: 2020-04-24T13:26:31.488Z
+date: 2020-04-24T13:30:46.174Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
@@ -13,6 +13,7 @@ tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence ma
 
 ## Website
 
+- [RDP *Platform*](http://rdp.cme.msu.edu/index.jsp){.links-list}
 - [Seqmatch *Tool*](http://rdp.cme.msu.edu/seqmatch/seqmatch_intro.jsp)
 {.links-list}
 
