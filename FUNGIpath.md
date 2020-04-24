@@ -2,8 +2,8 @@
 title: FUNGIpath
 description: FUNGIpath is a web service dedicated to the exploration of fungal metabolism.
 published: true
-date: 2020-03-27T20:49:06.803Z
-tags: 
+date: 2020-04-24T16:51:17.878Z
+tags: annotation, genomes, tool, eukaryotes
 ---
 
 # FUNGIpath
@@ -19,6 +19,13 @@ There are 165 species for which data are currently available in FUNGIpath (v.4.0
 - [MaRiO Pipeline *Main Page*](http://bim.i2bc.paris-saclay.fr/mario/)
 {.links-list}
 
+## User Notes
+
+> Pathways (KEGG and MetaCyc) can be explored to determine the presence/absense of each pathway enzyme among the database genomes as well as percent coverage by phylum, subphylum and class.  
+>
+>Users can search for orthologous proteins and upload fasta-formatted fungal genomes for annotation.
+>
+>Users can tailor searches to allow, include, or exclude select species genomes. 
 ## Citations
 
 - You can find the annotation pipeline and additional informations in the publication: [FUNGIpath: a tool to assess fungal metabolic pathways predicted by orthology.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2829015/) Grossetete S, Labedan B, Lespinet O. BMC Genomics 2010;11:81.
