@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-23T23:09:00.529Z
+date: 2020-04-24T21:06:49.179Z
 tags: 
 ---
 
@@ -28,6 +28,11 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 ## Editing help
 
 - [Editing help page *help page to edit a page step by step*](https://vdclab-wiki.herokuapp.com/en/edit_page)
+{.links-list}
+
+## Task guideline
+
+- [Guideline *Step by step what to do when a task is done*](https://vdclab-wiki.herokuapp.com/en/Task_guideline)
 {.links-list}
 
 ## Markdown help
