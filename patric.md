@@ -2,8 +2,8 @@
 title: PATRIC
 description: PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases.
 published: true
-date: 2020-04-24T15:02:19.486Z
-tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins, data capture, metabolic reconstruction, analysis tools, database, transcriptomics, data visualization, proteomics
+date: 2020-04-24T19:16:52.301Z
+tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins, data capture, metabolic reconstruction, analysis tools, database, transcriptomics, data visualization, proteomics, phages
 ---
 
 # PATRIC
