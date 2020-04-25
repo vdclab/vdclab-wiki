@@ -2,7 +2,7 @@
 title: The ConSurf Server
 description: Server for the Identification of Functional Regions in Proteins
 published: true
-date: 2020-04-14T20:36:25.294Z
+date: 2020-04-25T17:41:19.997Z
 tags: tool, proteins, sequence identity
 ---
 
@@ -16,7 +16,6 @@ tags: tool, proteins, sequence identity
 ## Website
 
 - [The ConSurf Server *Main Page*](https://consurf.tau.ac.il/)
-- [The ConSurf Server Citations *Reference Page*](https://consurf.tau.ac.il/credits.php)
 {.links-list}
 
 ## Citations
