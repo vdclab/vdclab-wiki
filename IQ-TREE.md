@@ -2,7 +2,7 @@
 title: IQ TREE
 description: IQ TREE: Efficient software for phylogenomic inference
 published: true
-date: 2020-04-16T17:15:08.750Z
+date: 2020-04-25T17:48:53.449Z
 tags: phylogeny, mapping
 ---
 
@@ -22,6 +22,10 @@ Key Features:
 ## Websites
 
 - [IQ-TREE *Main Page*](http://www.iqtree.org/)
+{.links-list}
+
+## Citations
+
 - [IQ-TREE How to Cite *Reference Page*](http://www.iqtree.org/doc/Home#how-to-cite-iq-tree)
 {.links-list}
 
