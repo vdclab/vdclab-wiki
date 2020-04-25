@@ -2,7 +2,7 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-04-13T14:04:31.730Z
+date: 2020-04-25T17:27:05.583Z
 tags: annotation tools, database, data visualization
 ---
 
@@ -21,7 +21,7 @@ Plus if you need a blank line in the description you just put `&NewLine;` (edit 
 {.links-list}
 
 ## Citations
-DAVID users may publish or otherwise publicly disclose the results of using DAVID. Please acknowledge DAVID in your publications by citing the following two references:
+
 - Huang DW, Sherman BT, Lempicki RA. [Systematic and integrative analysis of large gene lists using DAVID Bioinformatics Resources.](https://www.nature.com/articles/nprot.2008.211) Nature Protoc. 2009;4(1):44-57.
 - Huang DW, Sherman BT, Lempicki RA. [Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists.](https://academic.oup.com/nar/article/37/1/1/1026684) Nucleic Acids Res. 2009;37(1):1-13.
 {.grid-list}
