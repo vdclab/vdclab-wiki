@@ -2,7 +2,7 @@
 title: Phyre
 description: Phyre is a free web-based services for protein structure prediction.
 published: true
-date: 2020-04-13T18:01:50.149Z
+date: 2020-04-25T17:34:10.177Z
 tags: tool, proteins, data visualization
 ---
 
@@ -20,5 +20,5 @@ tags: tool, proteins, data visualization
 
 ## Citation
 
-- [The Phyre2 web portal for protein modeling, prediction and analysis.](https://www.nature.com/articles/nprot.2015.053) Kelley LA et al. Nature Protocols 10, 845-858 (2015)
+- Kelley LA et al. [The Phyre2 web portal for protein modeling, prediction and analysis.](https://www.nature.com/articles/nprot.2015.053) Nature Protocols 10, 845-858 (2015)
 {.grid-list}
