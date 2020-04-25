@@ -2,7 +2,7 @@
 title: IQ TREE
 description: IQ TREE: Efficient software for phylogenomic inference
 published: true
-date: 2020-04-25T17:48:53.449Z
+date: 2020-04-25T17:54:41.984Z
 tags: phylogeny, mapping
 ---
 
@@ -22,6 +22,9 @@ Key Features:
 ## Websites
 
 - [IQ-TREE *Main Page*](http://www.iqtree.org/)
+- [IQ-TREE *Their webserver*](http://iqtree.cibiv.univie.ac.at/)
+- [IQ-TREE *Los almos lab webserver*](https://www.hiv.lanl.gov/content/sequence/IQTREE/iqtree.html)
+- [IQ-TREE *CIPRES Science Gateway*](https://www.phylo.org/)
 {.links-list}
 
 ## Citations
