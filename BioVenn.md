@@ -2,8 +2,8 @@
 title: BioVenn
 description: A web application for the comparison and visualization of biological lists using area-proportional Venn diagrams.
 published: true
-date: 2020-04-06T20:35:21.469Z
-tags: tool
+date: 2020-04-27T18:03:35.646Z
+tags: tool, data visualization, 2008, co-occurrence
 ---
 
 # BioVenn
@@ -15,6 +15,12 @@ tags: tool
 
 - [BioVenn *Main Page*](http://www.biovenn.nl/)
 {.links-list}
+
+## Notes from Users
+Read the paper to learn the tool. You can enter lists of ID form a few database that are the most used. All the text is dragable to place it where you want (centered by defaults). You control a lot of options.
+
+## Ease of use
+Very intuitive tool. Try and get a Venn diagram in about 5-10 minutes.
 
 ## Citation
 
