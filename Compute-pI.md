@@ -1,0 +1,24 @@
+---
+title: Compute pI/Mw
+description: Compute pI/Mw is a tool which allows the computation of the theoretical pI (isoelectric point) and Mw (molecular weight) for a list of UniProt Knowledgebase (Swiss-Prot or TrEMBL) entries or for user entered sequences.
+published: true
+date: 2020-04-27T22:23:44.665Z
+tags: tool, proteins
+---
+
+# Compute pI/Mw
+
+> Compute pI/Mw is a tool which allows the computation of the theoretical pI (isoelectric point) and Mw (molecular weight) for a list of UniProt Knowledgebase (Swiss-Prot or TrEMBL) entries or for user entered sequences.
+{.is-info}
+
+ 
+
+## Website 
+
+- [Compute pI/Mw Tool *Main Page*](https://web.expasy.org/compute_pi/)
+ {.links-list}
+
+## Citation 
+
+- Gasteiger, E., Hoogland, C., Gattiker, A., Wilkins, M. R., Appel, R. D., & Bairoch, A. (2005). [Protein identification and analysis tools on the ExPASy server.](https://link.springer.com/protocol/10.1385/1-59259-890-0:571) In The proteomics protocols handbook (pp. 571-607). Humana press.
+{.grid-list}
