@@ -2,8 +2,8 @@
 title: T-COFFEE Simple Multiple Sequence Alignment (MSA)
 description: T-Coffee is a multiple sequence alignment package. You can use T-Coffee to align sequences or to combine the output of your favorite alignment methods (Clustal, Mafft, Probcons, Muscle, etc.) into one unique alignment (M-coffee).
 published: true
-date: 2020-03-30T21:06:39.960Z
-tags: 
+date: 2020-04-27T14:44:35.781Z
+tags: tool, sequence alignment, proteins, dna, rna
 ---
 
 # T-COFFEE Simple Multiple Sequence Alignment (MSA)
@@ -18,6 +18,13 @@ T-Coffee can align Protein, DNA and RNA sequences. It is also able to combine se
 
 - [T-COFFEE *Main Page*](http://tcoffee.crg.cat/apps/tcoffee/index.html)
 {.links-list}
+
+## Notes from User
+Easy to use interface which combines tools
+
+## Help
+[Google Help Page](https://groups.google.com/forum/#!forum/tcoffee)
+
 
 ## Citations
 
