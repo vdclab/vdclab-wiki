@@ -2,8 +2,8 @@
 title: PATRIC Basic Local Alignment Search Tool
 description: 
 published: true
-date: 2020-03-27T18:59:26.746Z
-tags: 
+date: 2020-04-27T14:15:45.982Z
+tags: genomes, archaea, bacteria, tool, proteins, rna, gene, phages
 ---
 
 # PATRIC Basic Local Alignment Search Tool (BLAST)
@@ -15,6 +15,11 @@ tags:
 
 - [PATRIC BLAST *Main Page*](https://www.patricbrc.org/app/BLAST)
 {.links-list}
+
+## Notes from User
+- Bacteria, phages and archaea focused genomes
+## Help 
+[BLAST Tutuorial](https://docs.patricbrc.org/user_guides/services/blast.html)
 
 ## Citations
 
