@@ -2,7 +2,7 @@
 title: Genomic tRNA Database
 description: This genomic tRNA database contains tRNA gene predictions made by the program tRNAscan-SE on complete or nearly complete genomes.
 published: true
-date: 2020-04-23T18:58:30.895Z
+date: 2020-04-28T20:13:03.040Z
 tags: genomes, rna, database, prediction
 ---
 
@@ -18,6 +18,10 @@ Inevitably with automated sequence analysis, we find exceptions to general ident
 ## Website 
 
 - [Genomic tRNA Database *Main Page*](http://lowelab.ucsc.edu/GtRNAdb/)
+ {.links-list}
+
+## Citation
+
 - [Genomic tRNA Database Citations *Reference Page*](http://lowelab.ucsc.edu/GtRNAdb/credits-citation.html)
  {.links-list}
 
