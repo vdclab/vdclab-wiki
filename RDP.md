@@ -2,7 +2,7 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides a suite of analysis tools to the scientific community, including Sequence Match (SeqMatch) which is similar to BLASTn, but chooses nearest neighbors based on 7mer/"word" matches rather than alignment-based methods. 
 published: true
-date: 2020-04-28T11:50:11.591Z
+date: 2020-04-28T11:53:30.523Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
