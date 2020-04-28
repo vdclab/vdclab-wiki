@@ -2,7 +2,7 @@
 title: KBase
 description: A collaborative, open environment for systems biology of plants, microbes and their communities.
 published: true
-date: 2020-04-24T15:22:30.838Z
+date: 2020-04-28T12:25:26.594Z
 tags: annotation, genomics, tool, sequence analysis, functional association, transcriptomics, function
 ---
 
@@ -19,10 +19,12 @@ KBase is the first large-scale bioinformatics system that enables users to uploa
 {.links-list}
 
 ## Notes from users 
-Large scale bioinformatics research in one platform thanks to their unified graphical interface.
+- The idea is to allow pipelines to be built by one user and the easily used by others and to be able to keep track of everything. 
+- Very useful for models, genome annoation and RNAseq analysis.
 
 ## Ease of use
-The website is well maintained and very modern. Lots of emphasis is given to ease of use and simplicity.
+- Training to get started is needed.
+
 
 ## Citation
 
