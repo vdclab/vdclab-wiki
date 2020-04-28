@@ -2,7 +2,7 @@
 title: EuPathDB
 description: The EuPathDB Bioinformatics Resource Center provides a portal for accessing genomic-scale datasets associated with the diverse eukaryotic microbes.
 published: true
-date: 2020-04-28T11:36:28.196Z
+date: 2020-04-28T11:36:38.020Z
 tags: genomics, tool, sequence analysis, genes, proteins, resource center, database, eukaryotes, transcriptomics, prediction, proteomics, function
 ---
 
@@ -23,7 +23,6 @@ The EuPathDB family of databases is expected to expand further over the coming y
 
 ## User Notes
 - Users personal experimental data (RNA-seq, ChIP-seq, Variants, etc) can be analyzed using the free EuPathDB-dedicated Galaxy site, preloaded with EuPathDB genomes and workflows and hosted by Globus Genomics.
->
 -  The database assists users to easily create and save multi-step search strategies which could be very convenient for publishing and teaching purposes. 
 
 ## Citation
