@@ -2,7 +2,7 @@
 title: Genoscope Microscope Services
 description: (Short Description Needed)
 published: true
-date: 2020-04-22T19:51:23.554Z
+date: 2020-04-28T12:18:36.753Z
 tags: annotation, genomics, genomes, annotation tools, comparative genomics
 ---
 
@@ -17,10 +17,14 @@ Data conservation and backups (during the whole duration of the service).  Compu
 
 
 ## Notes from users
-A large collection of genomes and annotated genes. Tools for comparitive genomics and also some unique features like minimal gene sets. 
+- Limited set of genomes but I think it is the best integarted platform to annoate a microbial genomes for an "annoation group" 
+- Many intergrated tools for comparative genomics such as AntoSmash, Or pathogenicity island finders   and  and also some unique features like minimal and pangenomes sets. 
 
 ## Ease of Use
-Website is not modern and some tools require downloads. The online services for genome browsing is functional.
+- Things can get complicated as many windows open
+- Java issues make it sometimes very fustrating 
+- Making the patwhays tools linked to BioCyc is also tricky as the if you have not looded the genome a few days ahaead they do not work .
+- Tutorials 
 
 ## Website
 
