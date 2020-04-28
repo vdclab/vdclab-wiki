@@ -2,8 +2,8 @@
 title: AnnoTree
 description: AnnoTree is a web tool for visualization of genome annotations across large phylogenetic trees.
 published: true
-date: 2020-04-28T18:58:30.925Z
-tags: tool, genome annotation
+date: 2020-04-28T19:03:29.143Z
+tags: taxonomy, 2019, tool, data visualization, orthology
 ---
 
 # AnnoTree
