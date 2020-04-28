@@ -2,7 +2,7 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides a suite of analysis tools to the scientific community, including Sequence Match (SeqMatch) which is similar to BLASTn, but chooses nearest neighbors based on 7mer/"word" matches rather than alignment-based methods. 
 published: true
-date: 2020-04-24T19:02:17.314Z
+date: 2020-04-28T11:47:07.466Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
@@ -24,13 +24,13 @@ tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence ma
 
 ## User Notes
 
-There are tutorials available for each analysis tool included in the RDP suite. 
+- There are tutorials available for each analysis tool included in the RDP suite. 
 
-Classifier now provides gene copy number adjustment for 16S gene sequences. The 16S gene copy number data is provided by rrnDB website.
+- Classifier now provides gene copy number adjustment for 16S gene sequences. The 16S gene copy number data is provided by rrnDB website.
 
-FunGene is a functional gene pipeline and repository.  Genes that have functional roles in antibiotic resistance, for example, can be found/deposited here. 
+- FunGene is a functional gene pipeline and repository.  Genes that have functional roles in antibiotic resistance, for example, can be found/deposited here. 
 
-MlxS Google Sheet helps you analyze/manage your metadata and choose an appropriate marker gene for analysis
+- MlxS Google Sheet helps you analyze/manage your metadata and choose an appropriate marker gene for analysis
 
 
 ## Citation
