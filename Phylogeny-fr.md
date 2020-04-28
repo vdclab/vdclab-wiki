@@ -2,11 +2,11 @@
 title: Phylogeny.fr
 description: Phylogeny.fr is a free, simple to use web service dedicated to reconstructing and analysing phylogenetic relationships between molecular sequences.
 published: true
-date: 2020-04-28T11:56:42.335Z
+date: 2020-04-28T11:56:55.610Z
 tags: phylogeny, sequence similarity
 ---
 
-# Phylogenyfr
+# Phylogeny.fr
 
 > Phylogeny.fr is a free, simple to use web service dedicated to reconstructing and analysing phylogenetic relationships between molecular sequences.
 &NewLine;
