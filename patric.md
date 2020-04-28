@@ -2,7 +2,7 @@
 title: PATRIC
 description: PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases.
 published: true
-date: 2020-04-28T11:27:10.246Z
+date: 2020-04-28T11:32:51.045Z
 tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins, data capture, metabolic reconstruction, analysis tools, database, transcriptomics, data visualization, proteomics, phages
 ---
 
@@ -20,9 +20,9 @@ tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins,
 - This platform is updated every 3 months with the new genomes from NCBI so quite up to date.
 - Great Genome annoation tool from Fasta files to integrated genome in PAtric in a few hours.
 - Genome amd Feature groups are a great tool to keep track of data you need for your projects
-- Many useful tools such as trees, proteome comparisons and pathway comoarisons 
-- Extensive tuturials and help through the Help tab
-
+- Many useful tools such as trees, proteome comparisons and pathway comoarisons. 
+- Extensive tutorials and help are available through the Help tab.
+{.is-info}
 ## Citations
 
 ### If you use PATRIC web resources to assist in research publications or proposals please cite
