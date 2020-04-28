@@ -2,7 +2,7 @@
 title: GenomeNet
 description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-04-24T15:41:55.180Z
+date: 2020-04-28T11:31:26.397Z
 tags: genomics, genomes, genes, proteins
 ---
 
@@ -21,7 +21,8 @@ tags: genomics, genomes, genes, proteins
 {.links-list}
 
 ## User Notes
-The GenomeNet service has been developed by the Kanehisa Laboratory in Kyoto University as part of the research projects. See the archive of the Kanehisa Laboratory. 
+- The GenomeNet service has been developed by the Kanehisa Laboratory in Kyoto University as part of the research projects. See the archive of the Kanehisa Laboratory. 
+- This is part of the KEGG network of sites/tools, as always useful but often cryptic, you have to explore to discover the cool tools.
 {.is-info}
 ## Citation
 
