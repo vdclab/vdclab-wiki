@@ -2,7 +2,7 @@
 title: NGPhylogeny
 description: Free, simple to use web service dedicated to reconstructing and analysing phylogenetic relationships between molecular sequences.
 published: true
-date: 2020-04-28T11:59:23.272Z
+date: 2020-04-28T12:01:08.575Z
 tags: tool, phylogeny
 ---
 
