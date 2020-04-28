@@ -2,8 +2,8 @@
 title: OrthoInspector
 description: OrthoInspector is a software suite for inference of orthologous relationships between protein coding-genes and an online resource to access and query precomputed orthology databases.
 published: true
-date: 2020-04-28T14:18:40.305Z
-tags: database
+date: 2020-04-28T14:38:33.155Z
+tags: 2018, tool, taxonomic profiling, orthology, 2011, 2015, model organism
 ---
 
 # OrthoInspector
