@@ -2,7 +2,7 @@
 title: Joint Genome Institute Integrated Microbial Genomes / Virus
 description: The IMG/VR system serves as a starting point for the sequence analysis of viral fragments derived from metagenomic samples.
 published: true
-date: 2020-04-24T15:21:43.301Z
+date: 2020-04-28T12:10:56.412Z
 tags: genomics, genomes, taxonomy, tool, sequence analysis, gene neighborhood
 ---
 
@@ -18,10 +18,15 @@ IMG/M is also open to scientists worldwide for the annotation, analysis, and dis
 {.links-list}
 
 ## Notes from users 
-Genome browser that can be used for finding specific genes/functions or to compare genomes. The website also offers searchable OMICS data.
+- Genome browser that can be used for finding specific genes/functions or to compare genomes.
+- The website also offers searchable OMICS data.
+- Finding genes is painful, poor user interface in general but they have tools and genomes that no one else has. 
 
 ## Ease of use
-Offers a quick search function and also a more in-depth broswer. Has an outdated look but is quite functional. Able to filter protein function data with Pfam, KEGG, phenotypes, and other types of annotations from other websites. 
+- Offers a quick search function and also a more in-depth broswer. Has an outdated look but is quite functional. 
+- Able to filter protein function data with Pfam, KEGG, phenotypes, and other types of annotations from other websites. 
+- Clunky and poor graphics
+
 
 ## Citation
 
