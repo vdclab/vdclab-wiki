@@ -2,7 +2,7 @@
 title: FungiDB
 description: FungiDB belongs to the EuPathDB family of databases and is an integrated genomic and functional genomic database for the kingdom Fungi.
 published: true
-date: 2020-04-24T16:30:43.809Z
+date: 2020-04-28T11:37:15.450Z
 tags: genomics, taxonomy, tool, genes, proteins, resource center, database, eukaryotes, metabolism, prediction, proteomics, function
 ---
 
@@ -19,10 +19,9 @@ FungiDB integrates whole genome sequence and annotation and also includes experi
 {.links-list}
 
 ## User Notes
-> Site has a variety of tutorials for users to access.
->
->FungiDB is integrated into the EuPathDB database, but contains additional, non-pathogenic organisms.
->Like EuPathDB, users can create and save multi-step search strategies.
+- Site has a variety of tutorials for users to access.
+- FungiDB is integrated into the EuPathDB database, but contains additional, non-pathogenic organisms.
+- Like EuPathDB, users can create and save multi-step search strategies.
 
 ## Citation
 
