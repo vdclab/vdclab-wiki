@@ -2,7 +2,7 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides a suite of analysis tools to the scientific community, including Sequence Match (SeqMatch) which is similar to BLASTn, but chooses nearest neighbors based on 7mer/"word" matches rather than alignment-based methods. 
 published: true
-date: 2020-04-28T11:53:30.523Z
+date: 2020-04-28T16:03:43.743Z
 tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
 ---
 
@@ -36,20 +36,24 @@ tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence ma
 ## Citation
 ###### If you download data or use software available from RDP, please cite us in the following way:
 - Cole, J. R., et. al. 2014. [Ribosomal Database Project: data and tools for high throughput rRNA analysis](https://www.ncbi.nlm.nih.gov/pubmed/24288368) Nucl. Acids Res. 42(Database issue):D633-D642; doi: 10.1093/nar/gkt1244 [PMID: 24288368]
+{.grid-list}
 
 ## Usage Citations
 
 #### If you use RDP's Classifier, please cite:
 
 - Wang, Q, G. M. Garrity, J. M. Tiedje, and J. R. Cole. 2007. [Naïve Bayesian Classifier for Rapid Assignment of rRNA Sequences into the New Bacterial Taxonomy.] Appl Environ Microbiol. 73(16):5261-5267; doi: 10.1128/AEM.00062-07 [PMID: 17586664]
+{.grid-list}
 
 #### If you use RDP's FrameBot, please cite:
 
 - Wang, Q., J. F. Quensen III, J. A. Fish, T.-K. Lee, Y. Sun, J. M. Tiedje, J. R. Cole. 2013. [Ecological patterns of nifH genes in four terrestrial climatic zones explored with targeted metagenomics using FrameBot, a new informatics tool.] mBio 4:e00592-13; doi: 10.1128/mBio.00592-13
+{.grid-list}
 
 #### If you use RDP's FunGene, please cite:
 
 - Fish, J. A., B. Chai, Q. Wang, Y. Sun, C. T. Brown, J. M. Tiedje, and J. R. Cole. 2013. [FunGene: the Functional Gene Pipeline and Repository.] Front. Microbiol. 4:291; doi: 10.3389/fmicb.2013.00291
+{.grid-list}
 
 #### If you use RDP's Xander, please cite:
 
