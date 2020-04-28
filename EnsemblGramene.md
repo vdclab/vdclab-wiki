@@ -2,7 +2,7 @@
 title: Ensembl Gramene
 description: Gramene is a curated, open-source, integrated data resource for comparative functional genomics in crops and model plant species.
 published: true
-date: 2020-04-23T19:10:10.251Z
+date: 2020-04-28T23:01:05.686Z
 tags: aggregator, comparative genomics, genome annotation
 ---
 
@@ -17,6 +17,10 @@ tags: aggregator, comparative genomics, genome annotation
 
 - [Ensembl Gramene *Main Page*](http://ensembl.gramene.org/Zea_mays/Info/Index)
 - [Gramene *Main Page*](http://www.gramene.org/)
+{.links-list}
+
+## Citations
+
 - [How to Cite *Reference Page*](http://www.gramene.org/cite)
 {.links-list}
 
