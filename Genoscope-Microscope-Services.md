@@ -2,7 +2,7 @@
 title: Genoscope Microscope Services
 description: (Short Description Needed)
 published: true
-date: 2020-04-28T12:18:36.753Z
+date: 2020-04-28T12:20:37.763Z
 tags: annotation, genomics, genomes, annotation tools, comparative genomics
 ---
 
@@ -22,9 +22,9 @@ Data conservation and backups (during the whole duration of the service).  Compu
 
 ## Ease of Use
 - Things can get complicated as many windows open
-- Java issues make it sometimes very fustrating 
+- Java issues make it sometimes very fustrating. 
 - Making the patwhays tools linked to BioCyc is also tricky as the if you have not looded the genome a few days ahaead they do not work .
-- Tutorials 
+- Extensive [Tutorials](https://microscope.readthedocs.io/en/v3.14.0/) available.
 
 ## Website
 
