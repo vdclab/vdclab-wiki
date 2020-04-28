@@ -2,7 +2,7 @@
 title: NGPhylogeny
 description: Free, simple to use web service dedicated to reconstructing and analysing phylogenetic relationships between molecular sequences.
 published: true
-date: 2020-04-28T11:57:58.798Z
+date: 2020-04-28T11:59:23.272Z
 tags: tool, phylogeny
 ---
 
@@ -20,6 +20,7 @@ tags: tool, phylogeny
 - Good for range of users: complete workflows to advanced options
 - Can be used as GUI or on personal server
 - Combines many phylogeny tools 
+- This the new version of [Phylogeny.fr ](http://www.phylogeny.fr/), some features such as BlastExplorer have disappeared.
 
 ## Help 
 [Github page for site](https://github.com/C3BI-pasteur-fr/ngphylogeny-django) 
