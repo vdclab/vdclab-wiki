@@ -2,7 +2,7 @@
 title: Venny
 description: An interactive tool for comparing lists with Venn's diagrams
 published: true
-date: 2020-04-06T21:03:18.802Z
+date: 2020-04-29T16:42:06.964Z
 tags: tool
 ---
 
@@ -15,6 +15,12 @@ tags: tool
 
 - [Venny *Main Page*](https://bioinfogp.cnb.csic.es/tools/venny/index.html)
 {.links-list}
+
+## Notes from users 
+Quick simple Venn diagram generator.
+
+## Ease of use
+The tool is bare bones and simply looks for shared items between lists.
 
 ## Citation
 
