@@ -2,7 +2,7 @@
 title: Venny
 description: An interactive tool for comparing lists with Venn's diagrams
 published: true
-date: 2020-04-29T16:42:06.964Z
+date: 2020-04-29T16:42:34.988Z
 tags: tool
 ---
 
