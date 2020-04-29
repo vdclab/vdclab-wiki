@@ -2,8 +2,8 @@
 title: The MEME Suite
 description: The MEME Suite allows you to discover novel motifs in collections of unaligned nucleotide or protein sequences, and to perform a wide variety of other motif-based analyses.
 published: true
-date: 2020-03-31T20:06:48.036Z
-tags: 
+date: 2020-04-29T15:55:08.412Z
+tags: tool, sequence analysis
 ---
 
 # The MEME Suite
@@ -17,6 +17,12 @@ The MEME Suite supports motif-based analysis of DNA, RNA and protein sequences. 
 
 - [The MEME Suite *Main Page*](http://meme-suite.org/index.html)
 {.links-list}
+
+## Notes from users 
+A large source of tools that include Motif discovery, enrichment, and comparison.
+
+## Ease of use
+The website lacks a modern look but there are guides by the authors for most of their tools.
 
 ## Citation
 
