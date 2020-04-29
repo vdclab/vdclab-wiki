@@ -2,8 +2,8 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-04-29T16:29:11.049Z
-tags: genomes, proteins, database
+date: 2020-04-29T16:30:13.619Z
+tags: proteins, analysis tools, database, protein family, function
 ---
 
 # ExPASy PROSITE
