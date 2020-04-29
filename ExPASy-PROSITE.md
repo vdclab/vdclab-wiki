@@ -2,7 +2,7 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-04-29T16:30:13.619Z
+date: 2020-04-29T16:31:16.260Z
 tags: proteins, analysis tools, database, protein family, function
 ---
 
