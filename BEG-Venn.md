@@ -2,7 +2,7 @@
 title: Bioinformatics & Evolutionary Genomics Draw Venn Diagram
 description: 
 published: true
-date: 2020-04-29T17:23:32.247Z
+date: 2020-04-29T17:27:49.130Z
 tags: tool
 ---
 
@@ -19,7 +19,7 @@ Downloading the figure in SVG format will allow you to further customise it with
 {.links-list}
 
 ## Notes from users 
-Quick simple Venn diagram generator.
+Quick and simple Venn diagram generator.
 
 ## Ease of use
 The tool has a simple interface that allows for many additional lists but lacks aesthetics. 
