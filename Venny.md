@@ -2,7 +2,7 @@
 title: Venny
 description: An interactive tool for comparing lists with Venn's diagrams
 published: true
-date: 2020-04-29T16:42:34.988Z
+date: 2020-04-29T17:27:47.192Z
 tags: tool
 ---
 
@@ -17,7 +17,7 @@ tags: tool
 {.links-list}
 
 ## Notes from users 
-Quick simple Venn diagram generator.
+Quick and simple Venn diagram generator.
 
 ## Ease of use
 The tool is bare bones and simply looks for shared items between lists.
