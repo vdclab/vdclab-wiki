@@ -2,8 +2,8 @@
 title: OrthoDB
 description: The hierarchical catalog of orthologs mapping genomics to functional data
 published: true
-date: 2020-04-29T13:44:26.190Z
-tags: tool, genome annotation
+date: 2020-04-29T14:01:53.182Z
+tags: annotation, 2018, database, homology, 2010, orthology, protein family, 2015, 2016, 2012, 2007, data export
 ---
 
 # OrthoDB
@@ -18,7 +18,9 @@ tags: tool, genome annotation
 
 ## Notes from Users
 This website gives a lot of informations of proteines families. The distribution of the family in the tree of life is very cool.
-This database has been done base on blast results, I wuld recomand to check by yourself if you want to work on a individual of the the family other than your input.
+> This database has been done base on several methods of clustering/annotation, these make the families robusts and trustworthies.
+{.is-success}
+
 
 ## Ease of use
 Enter your gene/proteine name or id and get a result. The help section is very detailed.
@@ -27,5 +29,8 @@ Enter your gene/proteine name or id and get a result. The help section is very d
 
 
 ## Citation
-- Kriventseva EK et al, [OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs](https://academic.oup.com/nar/article/47/D1/D807/5160989), NAR, Nov 2018, doi:10.1093/nar/gky1053. PMID:30395283
+- Evgenia V Kriventseva, Dmitry Kuznetsov, Fredrik Tegenfeldt, Mosè Manni, Renata Dias, Felipe A Simão, Evgeny M Zdobnov, [OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs](https://academic.oup.com/nar/article/47/D1/D807/5160989), NAR, Nov 2018, doi:10.1093/nar/gky1053. PMID:30395283
+- Evgeny M Zdobnov, Fredrik Tegenfeldt, Dmitry Kuznetsov, Robert M Waterhouse, Felipe A Simão, Panagiotis Ioannidis, Mathieu Seppey, Alexis Loetscher, Evgenia V Kriventseva, [OrthoDB v9. 1: cataloging evolutionary and functional annotations for animal, fungal, plant, archaeal, bacterial and viral orthologs](https://academic.oup.com/nar/article/45/D1/D744/2605742) Nucleic acids research 45 (D1), D744-D749, 2016
+- Evgenia V Kriventseva, Fredrik Tegenfeldt, Tom J Petty, Robert M Waterhouse, Felipe A Simão, Igor A Pozdnyakov, Panagiotis Ioannidis, Evgeny M Zdobnov, [OrthoDB v8: update of the hierarchical catalog of orthologs and the underlying free software](https://academic.oup.com/nar/article/43/D1/D250/2439459) Nucleic acids research 43 (D1), D250-D256, 2015
+- 
 {.grid-list}
