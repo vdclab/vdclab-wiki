@@ -2,7 +2,7 @@
 title: KEGG Ortholog Cluster
 description: 
 published: true
-date: 2020-04-29T14:22:06.283Z
+date: 2020-04-29T14:23:47.064Z
 tags: tool, database
 ---
 
@@ -27,5 +27,5 @@ tags: tool, database
 
 
 ## Citation
-- Nakaya, A., Katayama, T., Itoh, M., Hiranuka, K., Kawashima, S., Moriya, Y., ... & Yoshizawa, A. C. (2012). [KEGG OC: a large-scale automatic construction of taxonomy-based ortholog clusters.](https://academic.oup.com/nar/article/41/D1/D353/1071089) Nucleic acids research, 41(D1), D353-D357.
+- Nakaya A, Katayama T, Itoh M, Hiranuka K, Kawashima S, Moriya Y, Okuda S, Tanaka M, Tokimatsu T, Yamanishi Y, Yoshizawa AC, Kanehisa M, Goto S. (2013). [KEGG OC: a large-scale automatic construction of taxonomy-based ortholog clusters.](https://academic.oup.com/nar/article/41/D1/D353/1071089) Nucleic acids research, 41(D1), D353-D357.
 {.grid-list}
