@@ -2,7 +2,7 @@
 title: KEGG Ortholog Cluster
 description: 
 published: true
-date: 2020-04-29T14:23:47.064Z
+date: 2020-04-29T14:41:44.921Z
 tags: tool, database
 ---
 
@@ -21,9 +21,18 @@ tags: tool, database
 {.links-list}
 
 ## Notes from Users
+Group of orthologs done on completely sequenced genomes. You will get a list of KEGG proteins entries and a distribution in the tree of life of the family. Once you identified your family, you are linked to other KEGG tools. 
+
+> You cannot extract the sequences from here.
+{.is-warning}
+
+> not updated since 2018
+{.is-warning}
 
 
 ## Ease of use
+Enter the name or id of protein and get your results.  You can also serach by using the sequence of your protein as an entry. For a KEGG tool/database it is somewhat easy to use.
+
 
 
 ## Citation
