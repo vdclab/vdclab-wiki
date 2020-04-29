@@ -2,7 +2,7 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-04-06T21:11:44.924Z
+date: 2020-04-29T16:29:11.049Z
 tags: genomes, proteins, database
 ---
 
@@ -14,6 +14,12 @@ tags: genomes, proteins, database
 ## Website
 - [PROSITE *Main Page*](https://prosite.expasy.org/)
 {.links-list}
+
+## Notes from users 
+Part of the suite of protein analysis tools available from ExPASy. 
+
+## Ease of use
+PROSITE allows the user to search for domains and protein families alone or within a given protein. PROSITE can search within protiens with as little information as an accession number/identifier or within a FASTA format sequence.
 
 ## Citations
 
