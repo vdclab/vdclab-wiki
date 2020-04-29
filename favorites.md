@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-04-15T19:01:46.222Z
+date: 2020-04-29T21:07:31.025Z
 tags: reference, resource reference
 ---
 
@@ -16,6 +16,7 @@ tags: reference, resource reference
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/home/NAR-cat-list/)
 - [JGI-GOLD *Genomes OnLine Database*](https://vdclab-wiki.herokuapp.com/JGI-GOLD/)
 - [proGenomes2 *Reference genome sets*](https://vdclab-wiki.herokuapp.com/proGenomes2/)
+- [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 {.links-list}
 
 # Tutorial
