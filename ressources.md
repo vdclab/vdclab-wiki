@@ -2,7 +2,7 @@
 title: Ressources
 description: This page list all the pages of the wiki of the ressources
 published: true
-date: 2020-04-30T01:33:14.513Z
+date: 2020-04-30T02:04:14.975Z
 tags: category, ca
 ---
 
@@ -22,4 +22,5 @@ tags: category, ca
 ## General Resources
 
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
+- [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
 {.links-list}
