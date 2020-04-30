@@ -2,8 +2,8 @@
 title: ORFfinder
 description: ORF finder searches for open reading frames (ORFs) in the DNA sequence you enter.
 published: true
-date: 2020-04-23T18:49:38.922Z
-tags: specialized search, dna
+date: 2020-04-23T18:49:40.398Z
+tags: 
 ---
 
 # ORFfinder

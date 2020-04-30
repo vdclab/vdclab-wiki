@@ -2,8 +2,8 @@
 title: Online Structure Alignment Resources
 description: Web page dedicated to various tools and resources used in online structure alignments.
 published: true
-date: 2020-04-15T19:31:45.674Z
-tags: resource reference, resource center
+date: 2020-04-15T19:31:47.088Z
+tags: 
 ---
 
 # Online Structure Alignment Resources

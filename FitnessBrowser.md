@@ -2,8 +2,8 @@
 title: Fitness Browser
 description: Browse thousands of genome-wide fitness experiments for diverse bacteria from the Deutschbauer lab, the Arkin lab, and collaborators.
 published: true
-date: 2020-04-08T21:22:58.057Z
-tags: fitness, browser
+date: 2020-04-08T21:22:59.497Z
+tags: 
 ---
 
 # Fitness Browser

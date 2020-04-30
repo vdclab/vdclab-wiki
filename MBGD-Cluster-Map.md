@@ -2,8 +2,8 @@
 title: Microbial Genome Database (MBGD) Cluster Map
 description: MBGD is a workbench system for comparative analysis of completely sequenced microbial genomes. 
 published: true
-date: 2020-04-14T20:43:48.903Z
-tags: species clusters, tool
+date: 2020-04-14T20:43:50.140Z
+tags: 
 ---
 
 # Microbial Genome Database (MBGD) Cluster Map

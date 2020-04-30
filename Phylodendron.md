@@ -2,8 +2,8 @@
 title: Phylodendron
 description: Phylogenetic tree printer.
 published: true
-date: 2020-04-28T19:29:30.610Z
-tags: tool, phylogeny, data visualization
+date: 2020-04-28T19:29:32.513Z
+tags: 
 ---
 
 # Phylodendron

@@ -2,8 +2,8 @@
 title: DBD-Hunter
 description: DNA-Binding Domain Hunter (DBD-Hunter) is a knowledge-based method for predicting DNA-binding proteins function from protein structure.
 published: true
-date: 2020-04-14T19:41:35.221Z
-tags: tool, proteins, prediction
+date: 2020-04-14T19:41:37.629Z
+tags: 
 ---
 
 # DBD-Hunter

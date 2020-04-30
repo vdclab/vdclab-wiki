@@ -2,8 +2,8 @@
 title: BioNumbers
 description: In BioNumbers we aim to enable you to find in one minute any useful molecular biology number that can be important for your research.
 published: true
-date: 2020-04-20T20:27:59.804Z
-tags: tool, database
+date: 2020-04-20T20:28:01.973Z
+tags: 
 ---
 
 # BioNumbers

@@ -2,8 +2,8 @@
 title: Emili Lab Databases & Links
 description: Emili Lab research findings accessed via public databases, and their own dedicated web portals and publications.
 published: true
-date: 2020-04-09T18:31:07.392Z
-tags: resource center, proteomes
+date: 2020-04-09T18:31:08.704Z
+tags: 
 ---
 
 # Emili Lab Databases & Links

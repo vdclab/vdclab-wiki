@@ -2,8 +2,8 @@
 title: Genome Browser Gateway
 description: Genome Browser Gateway: A mature web tool for rapid and reliable display of any requested portion of the genome at any scale, together with several dozen aligned annotation tracks.
 published: true
-date: 2020-04-22T19:30:53.915Z
-tags: tool, genome browser, genome annotation
+date: 2020-04-22T19:30:55.647Z
+tags: 
 ---
 
 # Genome Browser Gateway

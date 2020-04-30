@@ -2,8 +2,8 @@
 title: Heatmapper
 description: Heatmapper is a free online application for visualizing various types of data as heat maps.
 published: true
-date: 2020-04-13T17:18:22.916Z
-tags: tool, data visualization
+date: 2020-04-13T17:18:25.379Z
+tags: 
 ---
 
 # Heatmapper

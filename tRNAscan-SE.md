@@ -2,8 +2,8 @@
 title: tRNAscan-SE
 description: Searching for tRNA genes in genomic sequence.
 published: true
-date: 2020-04-23T18:41:19.038Z
-tags: genes, rna
+date: 2020-04-23T18:41:20.789Z
+tags: 
 ---
 
 # tRNAscan-SE

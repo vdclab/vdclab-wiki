@@ -2,8 +2,8 @@
 title: The SEED
 description: 
 published: true
-date: 2020-04-06T19:06:43.905Z
-tags: annotation, genomes
+date: 2020-04-06T19:06:45.418Z
+tags: 
 ---
 
 # The SEED

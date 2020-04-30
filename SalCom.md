@@ -2,8 +2,8 @@
 title: SalCom
 description: Welcome to SalCom, the HintonLab Salmonella enterica serovar Typhimurium Gene Expression Compendium.
 published: true
-date: 2020-04-07T18:22:53.238Z
-tags: bacteria, genes
+date: 2020-04-07T18:22:54.476Z
+tags: 
 ---
 
 # SalCom

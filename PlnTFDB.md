@@ -2,8 +2,8 @@
 title: PlnTFDB
 description: PlnTFDB (3.0) is a public database arising from efforts to identify and catalogue all Plant genes involved in transcriptional control.
 published: true
-date: 2020-04-24T18:56:43.396Z
-tags: database, transcriptomes
+date: 2020-04-24T18:56:48.068Z
+tags: 
 ---
 
 # PlnTFDB

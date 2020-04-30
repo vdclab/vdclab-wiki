@@ -2,8 +2,8 @@
 title: KEGG PATHWAY Database
 description: KEGG PATHWAY is a collection of manually drawn pathway maps representing our knowledge on molecular interaction, reaction and relation networks.
 published: true
-date: 2020-04-20T19:28:09.082Z
-tags: database, mapping
+date: 2020-04-20T19:28:10.545Z
+tags: 
 ---
 
 # KEGG PATHWAY Database

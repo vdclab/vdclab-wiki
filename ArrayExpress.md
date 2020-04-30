@@ -2,8 +2,8 @@
 title: ArrayExpress
 description: ArrayExpress Archive of Functional Genomics Data stores data from high-throughput functional genomics experiments, and provides these data for reuse to the research community.
 published: true
-date: 2020-04-14T21:13:05.733Z
-tags: genomes, database 
+date: 2020-04-14T21:13:08.063Z
+tags: 
 ---
 
 # ArrayExpress

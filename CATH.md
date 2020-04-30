@@ -2,8 +2,8 @@
 title: CATH
 description: CATH is a classification of protein structures downloaded from the Protein Data Bank.
 published: true
-date: 2020-04-22T19:10:21.944Z
-tags: database, protein family
+date: 2020-04-22T19:10:23.736Z
+tags: 
 ---
 
 # CATH

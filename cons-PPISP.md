@@ -2,8 +2,8 @@
 title: cons-PPISP
 description: cons-PPISP: consensus protein-protein interaction site predictor.
 published: true
-date: 2020-04-14T20:12:05.964Z
-tags: tool, proteins, prediction
+date: 2020-04-14T20:12:08.024Z
+tags: 
 ---
 
 # cons-PPISP

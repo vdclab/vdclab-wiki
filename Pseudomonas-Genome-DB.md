@@ -2,8 +2,8 @@
 title: Pseudomonas Genome Database
 description: The Pseudomonas Genome Database collaborates with an international panel of expert Pseudomonas researchers to provide high quality updates to the PAO1 genome annotation and make cutting edge genome analysis data available.
 published: true
-date: 2020-04-20T18:47:40.089Z
-tags: database, genome annotation
+date: 2020-04-20T18:47:42.525Z
+tags: 
 ---
 
 # Pseudomonas Genome Database

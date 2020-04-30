@@ -2,8 +2,8 @@
 title: PyMOL
 description: Educational-use-only PyMOL available at no cost to teachers and high school and college students (including online courses, homeschooling, etc.) for classroom instruction, homework assignments, and to provide a means for creating high quality figures.
 published: true
-date: 2020-04-29T17:56:27.604Z
-tags: resource reference, data visualization
+date: 2020-04-29T17:56:28.935Z
+tags: 
 ---
 
 # Educational-Use-Only PyMOL

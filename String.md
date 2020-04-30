@@ -2,8 +2,8 @@
 title: String
 description: Protein-Protein Interaction Networks Functional Enrichment Analysis
 published: true
-date: 2020-04-06T18:22:29.964Z
-tags: proteins, database
+date: 2020-04-06T18:22:32.356Z
+tags: 
 ---
 
 # STRING

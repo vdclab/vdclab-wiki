@@ -2,8 +2,8 @@
 title: Serial Pattern of Expression Levels Locator (SPELL) - S. cerevisiae
 description: SPELL is a query-driven search engine for large gene expression microarray compendia.
 published: true
-date: 2020-04-07T18:35:10.820Z
-tags: tool, specialized search
+date: 2020-04-07T18:35:12.075Z
+tags: 
 ---
 
 # Serial Pattern of Expression Levels Locator (SPELL) - S. cerevisiae

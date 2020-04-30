@@ -2,8 +2,8 @@
 title: GeneMark
 description: A family of gene prediction programs.
 published: true
-date: 2020-04-28T20:12:32.147Z
-tags: tool, gene, prediction
+date: 2020-04-28T20:12:33.582Z
+tags: 
 ---
 
 # GeneMark

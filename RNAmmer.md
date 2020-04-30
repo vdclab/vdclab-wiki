@@ -2,8 +2,8 @@
 title: RNAmmer
 description: The RNAmmer 1.2 server predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences.
 published: true
-date: 2020-04-23T18:44:39.872Z
-tags: genomes, rna, prediction
+date: 2020-04-23T18:44:41.367Z
+tags: 
 ---
 
 # RNAmmer

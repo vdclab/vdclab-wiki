@@ -2,7 +2,7 @@
 title: Xfam
 description: List of the Fam databases
 published: true
-date: 2020-04-15T19:44:16.453Z
+date: 2020-04-15T19:44:18.192Z
 tags: 
 ---
 

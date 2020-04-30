@@ -2,8 +2,8 @@
 title: PDBeMotif
 description: PDBeMotif is an extremely fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB) by combining protein sequence, chemical structure and 3D data in a single search.
 published: true
-date: 2020-04-15T19:48:14.680Z
-tags: tool, proteins, database
+date: 2020-04-15T19:48:17.700Z
+tags: 
 ---
 
 # PDBeMotif

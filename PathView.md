@@ -2,8 +2,8 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-04-10T18:39:10.574Z
-tags: tool
+date: 2020-04-10T18:39:12.808Z
+tags: 
 ---
 
 # PathView

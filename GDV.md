@@ -2,8 +2,8 @@
 title: The NCBI Genome Data Viewer (GDV)
 description: The NCBI Genome Data Viewer (GDV) is a genome browser supporting the exploration and analysis of eukaryotic RefSeq genome assemblies.
 published: true
-date: 2020-04-22T19:36:33.711Z
-tags: genome browser
+date: 2020-04-22T19:36:35.227Z
+tags: 
 ---
 
 # The NCBI Genome Data Viewer (GDV)

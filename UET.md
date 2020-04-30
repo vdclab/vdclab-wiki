@@ -2,8 +2,8 @@
 title: Universal Evolutionary Trace (UET)
 description: The UET (Universal Evolutionary Trace) database offers pre-computed ET analyses for the protein structure databank, and on-the-fly analysis of any UNIPROT or amino acid sequence in FASTA format.
 published: true
-date: 2020-04-15T19:08:46.165Z
-tags: proteins, functional association, database
+date: 2020-04-15T19:08:47.872Z
+tags: 
 ---
 
 # Universal Evolutionary Trace (UET)

@@ -2,8 +2,8 @@
 title: Bioinformatics Club Bioinformatics Course
 description: 
 published: true
-date: 2020-04-06T19:31:12.049Z
-tags: resource
+date: 2020-04-06T19:31:13.635Z
+tags: 
 ---
 
 # Bioinformatics Club Bioinformatics Course

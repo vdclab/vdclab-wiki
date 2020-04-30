@@ -2,8 +2,8 @@
 title: Quest for Orthologs
 description: List of orthology databases.
 published: true
-date: 2020-04-06T19:56:12.365Z
-tags: aggregator, resource reference, database
+date: 2020-04-06T19:56:13.716Z
+tags: 
 ---
 
 # Quest for Orthologs 

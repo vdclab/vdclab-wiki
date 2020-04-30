@@ -2,8 +2,8 @@
 title: Galaxy @ Pasteur
 description: A public Galaxy platform at Pasteur used as an execution engine for web services.
 published: true
-date: 2020-04-21T19:15:30.459Z
-tags: tool, proteins, prediction
+date: 2020-04-21T19:15:32.739Z
+tags: 
 ---
 
 # Galaxy @ Pasteur

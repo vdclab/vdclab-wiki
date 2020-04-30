@@ -2,8 +2,8 @@
 title: Primer-BLAST
 description: A tool for finding specific primers.
 published: true
-date: 2020-04-27T21:44:12.898Z
-tags: tool
+date: 2020-04-27T21:44:14.278Z
+tags: 
 ---
 
 # Primer-BLAST

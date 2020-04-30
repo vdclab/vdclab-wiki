@@ -2,8 +2,8 @@
 title: Structural Classification of Proteins — extended (SCOPe)
 description: SCOPe (Structural Classification of Proteins — extended) is a database developed at the Berkeley Lab and UC Berkeley to extend the development and maintenance of SCOP.
 published: true
-date: 2020-04-22T19:05:04.076Z
-tags: database, protein family
+date: 2020-04-22T19:05:05.383Z
+tags: 
 ---
 
 # Structural Classification of Proteins — extended (SCOPe)

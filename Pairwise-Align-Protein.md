@@ -2,8 +2,8 @@
 title: Pairwise Align Protein
 description: Pairwise Align Protein accepts two protein sequences and determines the optimal global alignment. Use Pairwise Align Protein to look for conserved sequence regions.
 published: true
-date: 2020-04-20T21:01:15.682Z
-tags: tool, sequence alignment, protein
+date: 2020-04-20T21:01:17.732Z
+tags: 
 ---
 
 # Pairwise Align Protein

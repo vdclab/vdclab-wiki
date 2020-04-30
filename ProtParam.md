@@ -2,8 +2,8 @@
 title: ProtParam
 description: ProtParam is a tool which allows the computation of various physical and chemical parameters for a given protein stored in Swiss-Prot or TrEMBL or for a user entered protein sequence. 
 published: true
-date: 2020-04-27T22:04:31.355Z
-tags: tool, proteins
+date: 2020-04-27T22:04:32.786Z
+tags: 
 ---
 
 # ProtParam

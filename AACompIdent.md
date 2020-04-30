@@ -2,8 +2,8 @@
 title: AACompIdent Tool
 description: AACompIdent is a tool which allows the identification of a protein from its amino acid composition. It searches the Swiss-Prot and / or TrEMBL databases for proteins, whose amino acid compositions are closest to the amino acid composition given.
 published: true
-date: 2020-04-27T22:31:02.863Z
-tags: tool, proteins, sequence identity
+date: 2020-04-27T22:31:04.528Z
+tags: 
 ---
 
 # AACompIdent Tool

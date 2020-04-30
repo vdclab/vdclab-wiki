@@ -2,8 +2,8 @@
 title: CD-Search
 description: CD-Search is NCBI's interface to searching the Conserved Domain Database with protein or nucleotide query sequences.
 published: true
-date: 2020-04-21T19:34:36.732Z
-tags: proteins, database
+date: 2020-04-21T19:34:39.099Z
+tags: 
 ---
 
 # CD-Search

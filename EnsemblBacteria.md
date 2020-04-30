@@ -2,8 +2,8 @@
 title: Ensembl Bacteria
 description: Ensembl Bacteria is a browser for bacterial and archaeal genomes.
 published: true
-date: 2020-04-22T19:46:29.133Z
-tags: archaea, bacteria, genome browser
+date: 2020-04-22T19:46:37.823Z
+tags: 
 ---
 
 # Ensembl Bacteria

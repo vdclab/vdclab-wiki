@@ -2,8 +2,8 @@
 title: ENDscript
 description: ENDscript is a friendly Web server, which extracts and renders a comprehensive analysis of primary to quaternary protein structure information in an automated way.
 published: true
-date: 2020-04-15T19:38:02.438Z
-tags: tool, proteins, prediction
+date: 2020-04-15T19:38:04.865Z
+tags: 
 ---
 
 # ENDscript

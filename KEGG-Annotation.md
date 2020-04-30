@@ -2,8 +2,8 @@
 title:  KEGG Annotation
 description: KO-based annotation for linking genomes to phenotypes.
 published: true
-date: 2020-04-06T20:19:22.249Z
-tags: annotation, genomes, metagenomes
+date: 2020-04-06T20:19:23.671Z
+tags: 
 ---
 
 # KEGG Annotation

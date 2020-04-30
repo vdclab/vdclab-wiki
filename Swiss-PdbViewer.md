@@ -2,8 +2,8 @@
 title: Swiss PDB Viewer
 description: Swiss-PdbViewer (aka DeepView) is an application that provides a user friendly interface allowing to analyze several proteins at the same time.
 published: true
-date: 2020-04-29T17:47:03.435Z
-tags: analysis tools, protein
+date: 2020-04-29T17:47:05.381Z
+tags: 
 ---
 
 # Swiss PDB Viewer

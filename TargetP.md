@@ -2,8 +2,8 @@
 title: TargetP - 2.0
 description: Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway, or other
 published: true
-date: 2020-04-28T18:37:26.206Z
-tags: tool, prediction, protein
+date: 2020-04-28T18:37:28.080Z
+tags: 
 ---
 
 # TargetP - 2.0

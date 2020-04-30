@@ -2,8 +2,8 @@
 title: ProDom
 description:  ProDom is a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.
 published: true
-date: 2020-04-22T18:51:06.205Z
-tags: database, protein family
+date: 2020-04-22T18:51:08.283Z
+tags: 
 ---
 
 # ProDom

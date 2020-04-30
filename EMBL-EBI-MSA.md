@@ -2,8 +2,8 @@
 title: European Bioinformatics Institute Multiple Sequence Alignment 
 description: Multiple Sequence Alignment (MSA) is generally the alignment of three or more biological sequences (protein or nucleic acid) of similar length. From the output, homology can be inferred and the evolutionary relationships between the sequences studied.
 published: true
-date: 2020-04-27T14:37:00.125Z
-tags: aggregator, tool, sequence alignment, resource center
+date: 2020-04-27T14:37:02.413Z
+tags: 
 ---
 
 # European Bioinformatics Institute (EBI) Multiple Sequence Alignment (MSA)

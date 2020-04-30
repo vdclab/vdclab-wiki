@@ -2,8 +2,8 @@
 title: UCSF Chimera
 description: UCSF Chimera is a program for the interactive visualization and analysis of molecular structures and related data, including density maps, trajectories, and sequence alignments.
 published: true
-date: 2020-04-29T17:50:48.294Z
-tags: sequence alignment, proteins, data visualization
+date: 2020-04-29T17:50:49.686Z
+tags: 
 ---
 
 # UCSF Chimera

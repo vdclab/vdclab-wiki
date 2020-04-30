@@ -2,8 +2,8 @@
 title: InterMine
 description: InterMine integrates biological data sources, making it easy to query and analyse data.
 published: true
-date: 2020-04-14T21:59:14.615Z
-tags: tool, database
+date: 2020-04-14T21:59:16.249Z
+tags: 
 ---
 
 # InterMine

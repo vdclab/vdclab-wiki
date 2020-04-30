@@ -2,8 +2,8 @@
 title: Joint Genome Institute Phytozome
 description: Phytozome - a hub for accessing, visualizing and analyzing plant genomes.
 published: true
-date: 2020-04-06T18:30:43.177Z
-tags: genomes, eukaryotes
+date: 2020-04-06T18:30:44.846Z
+tags: 
 ---
 
 # Joint Genome Institute Phytozome

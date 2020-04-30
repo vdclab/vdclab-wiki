@@ -2,8 +2,8 @@
 title: InterPro
 description: InterPro provides functional analysis of proteins by classifying them into families and predicting domains and important sites.
 published: true
-date: 2020-04-21T19:38:06.004Z
-tags: proteins, protein family
+date: 2020-04-21T19:38:08.412Z
+tags: 
 ---
 
 # InterPro

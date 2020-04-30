@@ -2,8 +2,8 @@
 title: GeneMANIA
 description: GeneMANIA help you predict the functions of your favorite genes and gene sets.
 published: true
-date: 2020-04-09T19:20:47.450Z
-tags: genomics, tool
+date: 2020-04-09T19:20:48.801Z
+tags: 
 ---
 
 # GeneMANIA

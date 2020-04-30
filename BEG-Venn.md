@@ -2,8 +2,8 @@
 title: Bioinformatics & Evolutionary Genomics Draw Venn Diagram
 description: 
 published: true
-date: 2020-04-29T17:29:01.501Z
-tags: tool
+date: 2020-04-29T17:29:03.274Z
+tags: 
 ---
 
 # Bioinformatics & Evolutionary Genomics Draw Venn Diagram

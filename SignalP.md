@@ -2,8 +2,8 @@
 title: SignalP - 5.0
 description: Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences.
 published: true
-date: 2020-04-28T18:25:09.509Z
-tags: tool, proteins, prediction
+date: 2020-04-28T18:25:11.393Z
+tags: 
 ---
 
 # SignalP - 5.0

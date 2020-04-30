@@ -2,8 +2,8 @@
 title: EcoliNet
 description: EcoliNet is a probabilistic functional gene network for Escherichia coli.
 published: true
-date: 2020-04-09T19:16:55.194Z
-tags: genomics, bacteria
+date: 2020-04-09T19:16:56.562Z
+tags: 
 ---
 
 # EcoliNet

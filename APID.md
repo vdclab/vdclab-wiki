@@ -2,8 +2,8 @@
 title: Agile Protein Interactomes DataServer
 description: The Agile Protein Interactomes DataServer (APID) is a dataserver that gives a thorough collection of protein interactomes for more than 400 organisms based in the integration of known experimentally validated protein-protein physical interactions (PPIs).
 published: true
-date: 2020-04-08T20:21:05.067Z
-tags: proteins
+date: 2020-04-08T20:21:06.626Z
+tags: 
 ---
 
 # Agile Protein Interactomes DataServer (APID)

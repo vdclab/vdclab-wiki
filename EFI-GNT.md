@@ -2,8 +2,8 @@
 title: EFI - GENOME NEIGHBORHOOD TOOL
 description: EFI-GNT allows exploration of the genome neighborhoods for sequence similarity network (SSN) clusters in order to facilitate the assignment of function within protein families and superfamilies.
 published: true
-date: 2020-04-17T18:17:28.729Z
-tags: sequence similarity, gene neighborhood
+date: 2020-04-17T18:17:30.293Z
+tags: 
 ---
 
 # EFI - GENOME NEIGHBORHOOD TOOL

@@ -2,8 +2,8 @@
 title: Sequence Similarity Searching
 description: Sequence Similarity Searching is a method of searching sequence databases by using alignment to a query sequence.
 published: true
-date: 2020-04-21T18:39:19.586Z
-tags: sequence similarity, database
+date: 2020-04-21T18:39:21.082Z
+tags: 
 ---
 
 # Sequence Similarity Searching

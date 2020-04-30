@@ -2,8 +2,8 @@
 title: I-TASSER
 description: I-TASSER (Iterative Threading ASSEmbly Refinement) is a hierarchical approach to protein structure and function prediction.
 published: true
-date: 2020-04-14T18:47:23.570Z
-tags: tool, proteins
+date: 2020-04-14T18:47:24.940Z
+tags: 
 ---
 
 # Iterative Threading ASSEmbly Refinement (I-TASSER)

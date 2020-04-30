@@ -2,8 +2,8 @@
 title: Compact graphical representation of phylogenetic data and metadata with GraPhlAn
 description: Research article describing GraPhlAn (Graphical Phylogenetic Analysis), a computational tool that produces high-quality, compact visualizations of microbial genomes and metagenomes.
 published: true
-date: 2020-04-16T17:02:54.783Z
-tags: tool, data visualization, data mapping
+date: 2020-04-16T17:02:56.800Z
+tags: 
 ---
 
 # Compact graphical representation of phylogenetic data and metadata with GraPhlAn

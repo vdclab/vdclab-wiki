@@ -2,8 +2,8 @@
 title: Integrative Multi-species Prediction (IMP)
 description: Analyze your experimental results in the functional context of gene-gene networks from multiple organisms.
 published: true
-date: 2020-04-09T19:30:18.111Z
-tags: tool, genes
+date: 2020-04-09T19:30:20.017Z
+tags: 
 ---
 
 # Integrative Multi-species Prediction (IMP)

@@ -2,8 +2,8 @@
 title: PlantGDB
 description: PlantGDB: resources for comparative plant genomics.
 published: true
-date: 2020-04-24T18:19:08.377Z
-tags: annotation tools, genome browser, comparative genomics, database
+date: 2020-04-24T18:19:12.551Z
+tags: 
 ---
 
 # PlantGDB

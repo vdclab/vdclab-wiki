@@ -2,8 +2,8 @@
 title: EchoBASE
 description: EchoBASE an integrated post-genomic database for E.coli.
 published: true
-date: 2020-04-10T18:13:45.013Z
-tags: bacteria, tool, database
+date: 2020-04-10T18:13:46.915Z
+tags: 
 ---
 
 # EchoBASE

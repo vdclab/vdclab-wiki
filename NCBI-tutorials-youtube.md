@@ -2,8 +2,8 @@
 title: NCBI - YouTube Channel
 description: NCBI's YouTube channel featuring many video tutorials on using their site, tools & other resources.
 published: true
-date: 2020-04-16T18:02:39.935Z
-tags: reference, resource reference, tutorial, video, social, 2010
+date: 2020-04-16T18:02:41.304Z
+tags: 
 ---
 
 # NCBI - YouTube Channel

@@ -2,8 +2,8 @@
 title: ReadSeq
 description: Readseq reads and converts biosequences between a selection of common biological sequence formats, including EMBL, GenBank and fasta sequence formats.
 published: true
-date: 2020-04-20T20:03:33.944Z
-tags: tool, sequence format
+date: 2020-04-20T20:03:35.549Z
+tags: 
 ---
 
 # ReadSeq

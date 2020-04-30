@@ -2,8 +2,8 @@
 title: UniProt
 description: The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 published: true
-date: 2020-04-18T18:44:38.284Z
-tags: resource center, proteomes
+date: 2020-04-18T18:44:39.715Z
+tags: 
 ---
 
 # UniProt

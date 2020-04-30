@@ -2,8 +2,8 @@
 title: AmiGO
 description: AmiGO 2 is a project to create the next generation of AmiGO--the current official web-based set of tools for searching and browsing the Gene Ontology database.
 published: true
-date: 2020-04-13T14:10:56.606Z
-tags: genes, database
+date: 2020-04-13T14:10:58.439Z
+tags: 
 ---
 
 # AmiGO

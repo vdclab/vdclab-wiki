@@ -2,8 +2,8 @@
 title: LAST Web Service
 description: LAST finds similar regions between sequences.
 published: true
-date: 2020-04-21T18:01:19.428Z
-tags: tool, sequence similarity
+date: 2020-04-21T18:01:21.673Z
+tags: 
 ---
 
 # LAST Web Service

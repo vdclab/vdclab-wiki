@@ -2,8 +2,8 @@
 title: Colombos
 description: Colombos is a web based portal for exploring and analyzing comprehensive organism-specific cross-platform expression compendia of bacterial organisms.
 published: true
-date: 2020-04-06T21:21:45.061Z
-tags: annotation, bacteria, genes
+date: 2020-04-06T21:21:46.583Z
+tags: 
 ---
 
 # Colombos

@@ -2,8 +2,8 @@
 title: Internet Resources for Molecular Biologists
 description: Online tools and resources for molecular biologists. 
 published: true
-date: 2020-04-17T18:51:05.174Z
-tags: tool, resource center
+date: 2020-04-17T18:51:06.705Z
+tags: 
 ---
 
 # Internet Resources for Molecular Biologists

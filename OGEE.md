@@ -2,8 +2,8 @@
 title: Online Gene Essentiality (OGEE)
 description: OGEE aims to enhance our understanding of the essentiality of genes.
 published: true
-date: 2020-04-14T21:50:57.289Z
-tags: genes, database
+date: 2020-04-14T21:50:58.969Z
+tags: 
 ---
 
 # Online Gene Essentiality (OGEE)

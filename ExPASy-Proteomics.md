@@ -2,8 +2,8 @@
 title: ExPASy Proteomics
 description: Bioinformatic resources for proteomics.
 published: true
-date: 2020-04-27T22:18:33.041Z
-tags: resource center, proteomics
+date: 2020-04-27T22:18:34.267Z
+tags: 
 ---
 
 # ExPASy Proteomics

@@ -2,8 +2,8 @@
 title: Structural Alignment Tools
 description: Proteopedia's web page describing various structural alignment tools and resources.
 published: true
-date: 2020-04-15T19:19:35.116Z
-tags: wiki, resource reference, resource center
+date: 2020-04-15T19:19:36.599Z
+tags: 
 ---
 
 # Proteopedia's Structural Alignment Tools Wiki

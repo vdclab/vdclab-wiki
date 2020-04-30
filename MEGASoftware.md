@@ -2,8 +2,8 @@
 title: MEGA Software
 description: Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations.
 published: true
-date: 2020-04-28T19:18:24.002Z
-tags: tool, sequence analysis, proteins, dna
+date: 2020-04-28T19:18:25.660Z
+tags: 
 ---
 
 # MEGA Software

@@ -2,8 +2,8 @@
 title: Illustrator for Biological Sequences (IBS)
 description: We present a new tool called Illustrator for Biological Sequences (IBS) for assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences.
 published: true
-date: 2020-04-17T18:43:31.083Z
-tags: tool, data visualization
+date: 2020-04-17T18:43:32.915Z
+tags: 
 ---
 
 # Illustrator for Biological Sequences (IBS)

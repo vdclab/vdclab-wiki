@@ -2,8 +2,8 @@
 title: Primer3Plus
 description: Primer3Plus: pick primers from a DNA sequence.
 published: true
-date: 2020-04-27T21:48:31.777Z
-tags: tool
+date: 2020-04-27T21:48:33.375Z
+tags: 
 ---
 
 # Primer3Plus

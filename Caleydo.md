@@ -2,8 +2,8 @@
 title: Caleydo
 description: Caleydo is a community of researchers at JKU Linz, the University of Utah, and Harvard Medical School that focuses on biological data visualization.
 published: true
-date: 2020-04-13T13:31:28.626Z
-tags: tool, data visualization
+date: 2020-04-13T13:31:30.046Z
+tags: 
 ---
 
 # Caleydo

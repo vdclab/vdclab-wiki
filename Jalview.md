@@ -2,8 +2,8 @@
 title: Jalview
 description: Jalview is a free, open source program developed for the interactive editing, analysis and visualization of multiple sequence alignments. Also works with sequence annotation, secondary structure information, phylogenetic trees and 3D molecular structures.
 published: true
-date: 2020-04-06T21:24:32.995Z
-tags: genomes, tool, sequence alignment, proteins, sequence annotation
+date: 2020-04-06T21:24:35.155Z
+tags: 
 ---
 
 # Jalview

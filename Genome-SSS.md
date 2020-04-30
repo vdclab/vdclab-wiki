@@ -2,8 +2,8 @@
 title: Genome Sequence Similarity Search
 description: Sequence Similarity Searching is a method of searching sequence databases by using alignment to a query sequence.
 published: true
-date: 2020-04-21T18:58:12.325Z
-tags: tool, sequence similarity
+date: 2020-04-21T18:58:14.408Z
+tags: 
 ---
 
 # Genome Sequence Similarity Search

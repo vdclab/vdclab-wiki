@@ -2,8 +2,8 @@
 title: CyanoEXpress
 description: CyanoEXpress is a user-friendly web-server, which enables interactive exploration of curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803.
 published: true
-date: 2020-04-07T18:28:09.475Z
-tags: tool, genes
+date: 2020-04-07T18:28:11.132Z
+tags: 
 ---
 
 # CyanoEXpress

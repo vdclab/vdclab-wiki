@@ -2,8 +2,8 @@
 title: NCBI iCn3D
 description: iCn3D ("I see in 3D") is a WebGL-based viewer for interactive viewing of three-dimensional macromolecular structures and chemicals on the web, without the need to install a separate application.
 published: true
-date: 2020-04-13T17:47:18.127Z
-tags: tool, proteins, data visualization
+date: 2020-04-13T17:47:22.100Z
+tags: 
 ---
 
 # NCBI iCn3D

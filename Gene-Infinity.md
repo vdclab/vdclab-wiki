@@ -2,8 +2,8 @@
 title: Gene Infinity - The Web Bench
 description: The Web Bench is an online place to find information and resources needed in molecular biology and biochemistry in a rapid and timely manner.
 published: true
-date: 2020-04-20T19:55:37.179Z
-tags: resource center
+date: 2020-04-20T19:55:38.693Z
+tags: 
 ---
 
 # Gene Infinity - The Web Bench

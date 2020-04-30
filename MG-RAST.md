@@ -2,8 +2,8 @@
 title: Metagenomic Rapid Annotations using Subsystems Technology
 description: MG-RAST (the Metagenomics RAST) server is an automated analysis platform for metagenomes providing quantitative insights into microbial populations based on sequence data. 
 published: true
-date: 2020-04-16T13:35:20.971Z
-tags: metagenomics, metagenomes, annotation tools, tool, sequence analysis, prediction, 2008, orthology
+date: 2020-04-16T13:35:22.460Z
+tags: 
 ---
 
 # Metagenomic Rapid Annotations using Subsystems Technology (MG-RAST)

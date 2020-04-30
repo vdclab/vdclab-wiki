@@ -2,8 +2,8 @@
 title: plprot
 description: plprot - a plastid protein database-integrates data from large scale proteome analyses of different plastid types.
 published: true
-date: 2020-04-28T18:52:20.624Z
-tags: proteins, database, proteomes
+date: 2020-04-28T18:52:22.790Z
+tags: 
 ---
 
 # plprot

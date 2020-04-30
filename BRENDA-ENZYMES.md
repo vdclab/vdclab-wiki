@@ -2,8 +2,8 @@
 title: BRENDA ENZYMES
 description: BRENDA is the main collection of enzyme functional data available to the scientific community.
 published: true
-date: 2020-04-20T19:17:45.869Z
-tags: database, protein
+date: 2020-04-20T19:17:47.291Z
+tags: 
 ---
 
 # BRENDA ENZYMES

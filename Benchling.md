@@ -2,8 +2,8 @@
 title: Benchling
 description: Benchling offers an electronic notebook and a suite of sequence design tools for free to academics.
 published: true
-date: 2020-04-27T22:10:41.398Z
-tags: sequencing projects, resource center
+date: 2020-04-27T22:10:42.867Z
+tags: 
 ---
 
 # Benchling

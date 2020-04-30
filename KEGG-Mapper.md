@@ -2,8 +2,8 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-04-10T18:23:38.443Z
-tags: tool, resource center, database
+date: 2020-04-10T18:23:40.442Z
+tags: 
 ---
 
 # KEGG Mapper

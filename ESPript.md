@@ -2,8 +2,8 @@
 title: ESPript
 description: ESPript, 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
 published: true
-date: 2020-04-15T19:42:36.283Z
-tags: sequence matching, prediction, structural alignment
+date: 2020-04-15T19:42:37.850Z
+tags: 
 ---
 
 # ESPript

@@ -2,8 +2,8 @@
 title: ApE - A Plasmid Editor
 description: A Plasmid Editor.
 published: true
-date: 2020-04-27T21:53:09.216Z
-tags: tool, data visualization
+date: 2020-04-27T21:53:10.739Z
+tags: 
 ---
 
 # ApE - A Plasmid Editor

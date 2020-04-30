@@ -2,8 +2,8 @@
 title: Pathway Commons
 description: Access and discover data integrated from public pathway and interactions databases.
 published: true
-date: 2020-04-13T14:20:26.123Z
-tags: resource center, database
+date: 2020-04-13T14:20:27.472Z
+tags: 
 ---
 
 # Pathway Commons

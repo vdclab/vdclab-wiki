@@ -2,8 +2,8 @@
 title: Stitch
 description: Chemical-Protein Interaction Networks
 published: true
-date: 2020-04-06T18:22:49.308Z
-tags: proteins, database
+date: 2020-04-06T18:22:50.623Z
+tags: 
 ---
 
 # STITCH

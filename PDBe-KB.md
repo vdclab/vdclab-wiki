@@ -2,8 +2,8 @@
 title: Protein Data Bank in Europe - Knowledge Base (PDBe-KB)
 description: PDBe-KB (Protein Data Bank in Europe - Knowledge Base) is a community-driven resource managed by the PDBe team, collating functional annotations and predictions for structure data in the PDB archive.
 published: true
-date: 2020-04-15T19:51:44.899Z
-tags: annotation, proteins, prediction
+date: 2020-04-15T19:51:46.769Z
+tags: 
 ---
 
 # Protein Data Bank in Europe - Knowledge Base (PDBe-KB)

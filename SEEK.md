@@ -2,8 +2,8 @@
 title: SEEK
 description: SEEK is a computational gene co-expression search engine.
 published: true
-date: 2020-04-07T20:22:44.533Z
-tags: genes, co-expression
+date: 2020-04-07T20:22:45.825Z
+tags: 
 ---
 
 # SEEK

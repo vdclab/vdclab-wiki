@@ -2,8 +2,8 @@
 title: Clustering and Functional Annotation over ChlamyNet
 description: ChlamyNET is a web-based tool for the exploration of a gene co-expression network representing the Chlamydomonas transcriptome under relevant physiolocial conditions.
 published: true
-date: 2020-04-07T20:04:31.863Z
-tags: tool, co-expression
+date: 2020-04-07T20:04:33.487Z
+tags: 
 ---
 
 # Clustering and Functional Annotation over ChlamyNet

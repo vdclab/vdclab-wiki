@@ -2,8 +2,8 @@
 title: The ConSurf Server
 description: Server for the Identification of Functional Regions in Proteins
 published: true
-date: 2020-04-25T17:41:19.997Z
-tags: tool, proteins, sequence identity
+date: 2020-04-25T17:41:21.464Z
+tags: 
 ---
 
 # The ConSurf Server

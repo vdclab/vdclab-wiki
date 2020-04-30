@@ -2,8 +2,8 @@
 title: ELIXIR Microbial Metabolism Resource
 description: ELIXIR coordinates and develops life science resources across Europe so that researchers can more easily find, analyse and share data, exchange expertise, and implement best practices. 
 published: true
-date: 2020-04-06T20:31:14.724Z
-tags: resource reference
+date: 2020-04-06T20:31:16.482Z
+tags: 
 ---
 
 # ELIXIR Microbial Metabolism Resource

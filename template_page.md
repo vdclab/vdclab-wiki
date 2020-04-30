@@ -2,8 +2,8 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-04-23T18:51:11.975Z
-tags: template, help
+date: 2020-04-23T18:51:13.341Z
+tags: 
 ---
 
 # Name of the website

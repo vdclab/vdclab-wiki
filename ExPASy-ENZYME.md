@@ -2,8 +2,8 @@
 title: ExPASy ENZYME
 description: ENZYME is a repository of information relative to the nomenclature of enzymes.
 published: true
-date: 2020-04-20T19:01:44.213Z
-tags: protein
+date: 2020-04-20T19:01:46.973Z
+tags: 
 ---
 
 # ExPASy ENZYME

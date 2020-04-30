@@ -2,8 +2,8 @@
 title: EcoGene
 description: EcoGene is a database and website devoted to continuously improving the structural and functional annotation of Escherichia coli K-12, one of the most well understood model organisms, represented by the MG1655(Seq) genome sequence and annotations.
 published: true
-date: 2020-04-25T19:52:28.503Z
-tags: annotation tools, database
+date: 2020-04-25T19:52:30.194Z
+tags: 
 ---
 
 # EcoGene

@@ -2,8 +2,8 @@
 title: UCSC Archaeal Genome Browser
 description: The UCSC Archaeal Genome Browser is a window on the biology of more than 100 microbial species from the domain Archaea.
 published: true
-date: 2020-04-22T19:17:01.070Z
-tags: archaea, rna, genome annotation, gene expression
+date: 2020-04-22T19:17:03.131Z
+tags: 
 ---
 
 # UCSC Archaeal Genome Browser

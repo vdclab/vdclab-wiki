@@ -2,8 +2,8 @@
 title: RPFdb
 description: RPFdb is a public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data.
 published: true
-date: 2020-04-09T18:49:09.839Z
-tags: rna, database
+date: 2020-04-09T18:49:11.220Z
+tags: 
 ---
 
 # RPFdb

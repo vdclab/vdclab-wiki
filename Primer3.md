@@ -2,8 +2,8 @@
 title: Primer3
 description: Pick primers from a DNA sequence.
 published: true
-date: 2020-04-27T21:40:58.186Z
-tags: tool
+date: 2020-04-27T21:40:59.673Z
+tags: 
 ---
 
 # Primer3

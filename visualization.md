@@ -2,8 +2,8 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-04-30T03:08:54.630Z
-tags: category
+date: 2020-04-30T03:08:56.409Z
+tags: 
 ---
 
 # Visualization

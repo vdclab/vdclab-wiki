@@ -2,8 +2,8 @@
 title: PlantTFDB
 description: Plant transcription factor database, a portal for the functional and evolutionary study of plant transcription factors.
 published: true
-date: 2020-04-24T18:52:52.068Z
-tags: database, transcriptomes
+date: 2020-04-24T18:52:55.520Z
+tags: 
 ---
 
 # PlantTFDB

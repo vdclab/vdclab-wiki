@@ -2,8 +2,8 @@
 title: meta-PPISP
 description: meta-PPISP: a meta server for protein-protein interaction site prediction
 published: true
-date: 2020-04-14T19:49:29.393Z
-tags: tool, proteins, prediction
+date: 2020-04-14T19:49:31.452Z
+tags: 
 ---
 
 # meta-PPISP

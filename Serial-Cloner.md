@@ -2,8 +2,8 @@
 title: Serial-Cloner
 description: Serial-Cloner provides tools with an intuitive interface that assists you in DNA cloning, sequence analysis and visualization.
 published: true
-date: 2020-04-27T22:01:12.151Z
-tags: tool, sequence analysis, data visualization
+date: 2020-04-27T22:01:13.571Z
+tags: 
 ---
 
 # Serial-Cloner

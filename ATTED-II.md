@@ -2,8 +2,8 @@
 title: ATTED - II
 description: ATTED - II provides co-regulated gene relationships to estimate gene function.
 published: true
-date: 2020-04-07T18:54:43.878Z
-tags: annotation, genes
+date: 2020-04-07T18:54:45.125Z
+tags: 
 ---
 
 # ATTED-II

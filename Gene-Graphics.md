@@ -2,8 +2,8 @@
 title: Gene Graphics
 description: Gene Graphics is an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 published: true
-date: 2020-04-16T17:31:26.025Z
-tags: data visualization, gene neighborhood
+date: 2020-04-16T17:31:27.437Z
+tags: 
 ---
 
 # Gene Graphics

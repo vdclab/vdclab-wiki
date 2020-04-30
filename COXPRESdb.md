@@ -2,8 +2,8 @@
 title: COXPRESdb
 description: COXPRESdb provides co-regulated gene relationships to estimate gene function.
 published: true
-date: 2020-04-07T18:45:19.983Z
-tags: annotation, genes
+date: 2020-04-07T18:45:21.171Z
+tags: 
 ---
 
 # COXPRESdb

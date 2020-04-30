@@ -2,8 +2,8 @@
 title: InnateDB
 description: InnateDB is a publicly available database of the genes, proteins, experimentally-verified interactions and signaling pathways involved in the innate immune response of humans, mice and bovines to microbial infection.
 published: true
-date: 2020-04-13T13:45:25.993Z
-tags: genes, proteins, database, eukaryotes
+date: 2020-04-13T13:45:27.439Z
+tags: 
 ---
 
 # InnateDB

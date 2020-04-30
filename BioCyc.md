@@ -2,8 +2,8 @@
 title: BioCyc
 description: BioCyc is a collection of 17043 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
 published: true
-date: 2020-04-10T18:34:31.752Z
-tags: bacteria, tool, resource center, database
+date: 2020-04-10T18:34:33.187Z
+tags: 
 ---
 
 # BioCyc Database Collection

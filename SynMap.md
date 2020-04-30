@@ -2,8 +2,8 @@
 title: SynMap
 description: SynMap generates a syntenic dotplot between two organisms and identifies syntenic regions.
 published: true
-date: 2020-04-21T18:07:28.307Z
-tags: tool, data visualization
+date: 2020-04-21T18:07:30.336Z
+tags: 
 ---
 
 # SynMap

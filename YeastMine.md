@@ -2,8 +2,8 @@
 title: YeastMine
 description: Search and retrieve S. cerevisiae data with YeastMine, populated by SGD and powered by InterMine.
 published: true
-date: 2020-04-13T13:59:16.006Z
-tags: tool, genes, proteins
+date: 2020-04-13T13:59:17.933Z
+tags: 
 ---
 
 # YeastMine

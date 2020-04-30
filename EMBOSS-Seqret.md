@@ -2,8 +2,8 @@
 title: EMBL-EBI - EMBOSS Seqret
 description: Sequence reformatting tool
 published: true
-date: 2020-04-15T19:21:10.177Z
-tags: tool, genes, proteins, sequence format, dna, rna
+date: 2020-04-15T19:21:11.712Z
+tags: 
 ---
 
 # EMBL-EBI - EMBOSS Seqret

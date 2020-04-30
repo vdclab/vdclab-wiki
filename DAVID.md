@@ -2,8 +2,8 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-04-25T17:27:05.583Z
-tags: annotation tools, database, data visualization
+date: 2020-04-25T17:27:07.332Z
+tags: 
 ---
 
 # The Database for Annotation, Visualization and Integrated Discovery (DAVID)

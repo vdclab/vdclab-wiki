@@ -2,8 +2,8 @@
 title: The Bio-Analytic Resource for Plant Biology
 description: Web-based tools for visualizing functional genomics and other data.
 published: true
-date: 2020-04-07T19:32:22.005Z
-tags: genomes, tool
+date: 2020-04-07T19:32:23.898Z
+tags: 
 ---
 
 # The Bio-Analytic Resource for Plant Biology

@@ -2,8 +2,8 @@
 title: Enzyme Function Initiative 
 description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach.
 published: true
-date: 2020-04-14T19:19:44.996Z
-tags: tool, proteins
+date: 2020-04-14T19:19:46.390Z
+tags: 
 ---
 
 # Enzyme Function Initiative 

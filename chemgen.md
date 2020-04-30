@@ -2,8 +2,8 @@
 title: PortEco E.coli Genetics/Phenotypes
 description: Website that allows the searching of growth data (strains/condition) of various E. coli. 
 published: true
-date: 2020-04-08T20:51:31.605Z
-tags: resource reference
+date: 2020-04-08T20:51:32.941Z
+tags: 
 ---
 
 # PortEco E.coli Genetics/Phenotypes

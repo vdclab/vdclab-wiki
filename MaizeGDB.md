@@ -2,8 +2,8 @@
 title: MaizeGDB
 description: MaizeGDB is a community-oriented, long-term, federally funded informatics service to researchers focused on the crop plant and model organism Zea mays.
 published: true
-date: 2020-04-23T19:07:59.784Z
-tags: resource reference
+date: 2020-04-23T19:08:01.506Z
+tags: 
 ---
 
 # MaizeGDB

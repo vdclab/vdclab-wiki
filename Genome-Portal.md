@@ -2,8 +2,8 @@
 title: JGI Genome Portal
 description: The JGI Genome Portal provides unified access to all JGI genomic databases and analytical tools.
 published: true
-date: 2020-04-23T19:15:22.168Z
-tags: database, genome annotation
+date: 2020-04-23T19:15:23.937Z
+tags: 
 ---
 
 # JGI Genome Portal

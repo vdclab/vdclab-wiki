@@ -2,8 +2,8 @@
 title: DBD-Threader
 description: DBD-Threader is a program for predicting the DNA-binding function of a protein.
 published: true
-date: 2020-04-14T19:37:17.474Z
-tags: tool, proteins, prediction
+date: 2020-04-14T19:37:18.949Z
+tags: 
 ---
 
 # DBD-Threader

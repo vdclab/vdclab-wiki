@@ -2,8 +2,8 @@
 title:  PSORTb v3.0.2
 description: PSORTb v3.0.2 is the most precise bacterial localization prediction tool available.
 published: true
-date: 2020-04-28T18:32:47.791Z
-tags: tool, prediction
+date: 2020-04-28T18:32:49.277Z
+tags: 
 ---
 
 #  PSORTb v3.0.2

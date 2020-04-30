@@ -2,8 +2,8 @@
 title: Tasks guideline
 description: guideline for the task managment
 published: true
-date: 2020-04-24T21:04:12.495Z
-tags: tutorial, tut
+date: 2020-04-24T21:04:14.283Z
+tags: 
 ---
 
 # Task guideline

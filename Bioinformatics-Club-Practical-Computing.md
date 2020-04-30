@@ -2,8 +2,8 @@
 title: Bioinformatics Club Practical Computing for Biologists
 description: Blog-page with helpful links and resources to complement Practical Computing for Biologists by Casey W. Dunn and Steven Haddock.
 published: true
-date: 2020-04-06T19:48:21.967Z
-tags: resource center
+date: 2020-04-06T19:48:23.446Z
+tags: 
 ---
 
 # Bioinformatics Club IJM: Practical Computing for Biologists

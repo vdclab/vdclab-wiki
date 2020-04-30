@@ -2,8 +2,8 @@
 title: Reverse Complement
 description: Reverse Complement converts a DNA sequence into its reverse, complement, or reverse-complement counterpart.
 published: true
-date: 2020-04-20T20:20:46.597Z
-tags: tool, sequence format, dna
+date: 2020-04-20T20:20:48.884Z
+tags: 
 ---
 
 # Reverse Complement

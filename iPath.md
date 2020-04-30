@@ -2,8 +2,8 @@
 title: Interactive Pathways Explorer (iPath)
 description: Interactive Pathways Explorer (iPath) is a web-based tool for the visualization, analysis and customization of various pathway maps.
 published: true
-date: 2020-04-20T19:41:44.659Z
-tags: analysis tools, data visualization
+date: 2020-04-20T19:41:46.220Z
+tags: 
 ---
 
 # Interactive Pathways Explorer (iPath)

@@ -2,8 +2,8 @@
 title: Joint Genome Institute Integrated Microbial Genomes / Virus
 description: The IMG/VR system serves as a starting point for the sequence analysis of viral fragments derived from metagenomic samples.
 published: true
-date: 2020-04-28T12:11:55.729Z
-tags: genomics, genomes, taxonomy, tool, sequence analysis, gene neighborhood
+date: 2020-04-28T12:11:57.716Z
+tags: 
 ---
 
 # Joint Genome Institute Integrated Microbial Genomes / Virus

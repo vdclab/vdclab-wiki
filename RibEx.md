@@ -2,8 +2,8 @@
 title: RibEx: Riboswitch Explorer
 description: A web-server for the prediction of riboswitches and other conserved regulatory elements.
 published: true
-date: 2020-04-08T19:19:10.454Z
-tags: sequencing projects, tool
+date: 2020-04-08T19:19:11.943Z
+tags: 
 ---
 
 # RibEx: Riboswitch Explorer

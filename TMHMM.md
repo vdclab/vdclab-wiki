@@ -2,8 +2,8 @@
 title: TMHMM Server v. 2.0
 description: Prediction of transmembrane helices in proteins.
 published: true
-date: 2020-04-28T18:16:37.414Z
-tags: tool, proteins, prediction
+date: 2020-04-28T18:16:39.063Z
+tags: 
 ---
 
 # TMHMM Server v. 2.0

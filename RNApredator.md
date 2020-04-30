@@ -2,8 +2,8 @@
 title: RNAPredator
 description: RNAPredator: a bacterial sRNA target prediction webserver
 published: true
-date: 2020-04-24T18:24:18.561Z
-tags: tool, rna, database, prediction
+date: 2020-04-24T18:24:22.228Z
+tags: 
 ---
 
 # RNAPredator

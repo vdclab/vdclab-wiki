@@ -2,8 +2,8 @@
 title: The Cell Map
 description: The Cell Map: storing and visualizing genetic interactions in S. cerevisiae
 published: true
-date: 2020-04-14T21:53:00.834Z
-tags: proteomes
+date: 2020-04-14T21:53:02.412Z
+tags: 
 ---
 
 # The Cell Map

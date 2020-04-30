@@ -2,8 +2,8 @@
 title: XSuLT
 description: XSuLT is used to annotate an alignment with structural information in the form of formatting styles.
 published: true
-date: 2020-04-15T19:34:54.705Z
-tags: structural alignment
+date: 2020-04-15T19:34:56.602Z
+tags: 
 ---
 
 # XSuLT

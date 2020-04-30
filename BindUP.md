@@ -2,8 +2,8 @@
 title: BindUP
 description: BindUP - predicting DNA and RNA binding proteins using the electrostatic patches on the protein surface.
 published: true
-date: 2020-04-14T19:25:55.652Z
-tags: tool, proteins
+date: 2020-04-14T19:25:56.950Z
+tags: 
 ---
 
 # BindUP

@@ -2,8 +2,8 @@
 title: JPred
 description: A Protein Secondary Structure Prediction Server.
 published: true
-date: 2020-04-29T18:15:33.106Z
-tags: tool, prediction, protein
+date: 2020-04-29T18:15:35.202Z
+tags: 
 ---
 
 # JPred 4

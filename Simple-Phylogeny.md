@@ -2,8 +2,8 @@
 title: Simple Phylogeny
 description: This tool provides access to phylogenetic tree generation methods from the ClustalW2 package.
 published: true
-date: 2020-04-28T19:09:44.735Z
-tags: phylogeny, data visualization
+date: 2020-04-28T19:09:46.186Z
+tags: 
 ---
 
 # Simple Phylogeny

@@ -2,8 +2,8 @@
 title: Database of Interacting Proteins
 description:  The DIP database catalogs experimentally determined interactions between proteins.
 published: true
-date: 2020-04-14T21:47:49.268Z
-tags: proteins, database
+date: 2020-04-14T21:47:50.747Z
+tags: 
 ---
 
 # Database of Interacting Proteins (DIP)

@@ -2,8 +2,8 @@
 title: JET2 Viewer
 description: JET2 Viewer is a very large knowledge base containing JET2 predictions of protein binding sites for more than 40 000 chains, occurring in Protein Data Bank (PDB) structures.
 published: true
-date: 2020-04-15T19:02:54.672Z
-tags: tool, proteins, prediction
+date: 2020-04-15T19:02:56.046Z
+tags: 
 ---
 
 # JET2 Viewer

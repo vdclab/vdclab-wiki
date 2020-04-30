@@ -2,8 +2,8 @@
 title: GBrowse
 description: GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
 published: true
-date: 2020-04-22T19:23:07.619Z
-tags: database, genome annotation
+date: 2020-04-22T19:23:09.075Z
+tags: 
 ---
 
 # GBrowse

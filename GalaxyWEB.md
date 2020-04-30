@@ -2,8 +2,8 @@
 title: GalaxyWEB
 description: GalaxyWEB is a web server for protein structure prediction, refinement, and related methods.
 published: true
-date: 2020-04-14T19:12:01.739Z
-tags: tool, proteins, prediction
+date: 2020-04-14T19:12:03.926Z
+tags: 
 ---
 
 # GalaxyWEB

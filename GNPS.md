@@ -2,8 +2,8 @@
 title: GNPS: Global Natural Products Social Molecular Networking
 description: GNPS is a web-based mass spectrometry ecosystem that aims to be an open-access knowledge base for community-wide organization and sharing of raw, processed, or annotated fragmentation mass spectrometry data (MS/MS).
 published: true
-date: 2020-04-09T18:44:14.120Z
-tags: annotation, resource center
+date: 2020-04-09T18:44:15.673Z
+tags: 
 ---
 
 # GNPS: Global Natural Products Social Molecular Networking

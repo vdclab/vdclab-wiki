@@ -2,8 +2,8 @@
 title: PCAGO
 description: PCAGO helps you analyzing your RNA-Seq read counts with principal component analysis (PCA).
 published: true
-date: 2020-04-13T17:32:16.359Z
-tags: annotation tools
+date: 2020-04-13T17:32:19.826Z
+tags: 
 ---
 
 # PCAGO
