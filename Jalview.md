@@ -2,18 +2,33 @@
 title: Jalview
 description: Jalview is a free, open source program developed for the interactive editing, analysis and visualization of multiple sequence alignments. Also works with sequence annotation, secondary structure information, phylogenetic trees and 3D molecular structures.
 published: true
-date: 2020-04-06T21:24:35.155Z
-tags: 
+date: 2020-04-30T13:31:03.725Z
+tags: genomes, tool, sequence alignment, proteins, sequence annotation
 ---
 
 # Jalview
 
-> Jalview is a free program for multiple sequence alignment editing, visualisation and analysis. Use it to view and edit sequence alignments, analyse them with phylogenetic trees and principal components analysis (PCA) plots and explore molecular structures and annotation.
+> Jalview is an free, open source software program for multiple sequence alignment editing, visualisation and analysis. Use it to view and edit sequence alignments, analyse them with phylogenetic trees and principal components analysis (PCA) plots and explore molecular structures and annotation.
+>
+>Jalview has built in DNA, RNA and protein sequence and structure visualisation and analysis capabilities. It uses Jmol to view 3D structures, and VARNA to display RNA secondary structure. The Jalview Desktop can also connect with databases and analysis services, and provides a graphical interface to the alignment and analysis services provided by the JavA Bioinformatics Analysis Web Services framework.
 {.is-info}
+
+## User Notes
+> Jalview has both a web-based version and a downloadable desktop app. 
+>
+>In order to install the latest version of Jalview (2.11.1.0) you first need to either download a separate installer or install using Conda, via the Miniconda download. 
+{.is-info}
+
+## Ease of Use
+> Jalview offers training courses (for dates of previous/upcoming trainings, see link below) as well as posted training videos, making it fairly user-friendly.
+{.is-info}
+- [Jalview Training *Online Training Videos*](http://www.jalview.org/training/Training-Videos)
+{.links-list}
 
 ## Website
 
 - [Jalview *Main Page*](http://www.jalview.org/)
+- [Jalview Help *Help Page*](http://www.jalview.org/Help)
 {.links-list}
 
 ## Citation
