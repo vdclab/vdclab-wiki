@@ -1,0 +1,25 @@
+---
+title: Ressources
+description: This page list all the pages of the wiki of the ressources
+published: true
+date: 2020-04-30T01:33:14.513Z
+tags: category, ca
+---
+
+# Ressources
+
+## Eukaryote Resources
+
+- [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
+{.links-list}
+
+### Fungi Ressources
+
+- [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
+- [FUNGIpath *orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+{.links-list}
+
+## General Resources
+
+- [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
+{.links-list}
