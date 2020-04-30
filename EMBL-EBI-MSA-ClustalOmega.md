@@ -2,8 +2,8 @@
 title: EBI : Clustal Omega
 description: Clustal Omega is a new multiple sequence alignment program that uses seeded guide trees and HMM profile-profile techniques to generate alignments between three or more sequences.
 published: true
-date: 2020-04-30T11:46:49.705Z
-tags: genomes, tool, sequence alignment, proteins
+date: 2020-04-30T11:51:31.417Z
+tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics, conservation
 ---
 
 # European Bioinformatics Institute Multiple Sequence Alignment (MSA): Clustal Omega
