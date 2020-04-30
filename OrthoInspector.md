@@ -2,8 +2,8 @@
 title: OrthoInspector
 description: OrthoInspector is a software suite for inference of orthologous relationships between protein coding-genes and an online resource to access and query precomputed orthology databases.
 published: true
-date: 2020-04-29T14:59:22.694Z
-tags: 
+date: 2020-04-30T13:02:47.231Z
+tags: 2018, tool, phylogeny, taxonomic profiling, orthology, 2011, 2015, model organism
 ---
 
 # OrthoInspector
@@ -26,7 +26,7 @@ Each protein page offers a fully searchable list of orthologs and inparalogs acr
 ## Notes from Users
 This database is linked to Uniprot. It will show you the distribution of a protein familly through the tree of life. You can enter by the UniprotID or by entering your protein sequence.
 They also have a phylogenetic profiling tools that scans the Uniprot database.
-These tools works with the annotation of Uniprot rather than sequences, so if any error are entered in Uniprot you may miss it. 
+These tools works with the annotation of Uniprot rather than sequences, so if any error is entered in Uniprot you may miss it. 
 
 ## Ease of Use
 Very easy to use, should be on the first website to use when starting to work on a protein familly.
