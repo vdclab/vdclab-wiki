@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-04-30T02:34:33.882Z
+date: 2020-04-30T02:45:13.872Z
 tags: category, cat
 ---
 
@@ -16,4 +16,5 @@ tags: category, cat
 ## Integrated Prokaryotic Genome Analysis Platforms
 
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
+- [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 {.links-list}
