@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-04-30T02:45:13.872Z
+date: 2020-04-30T03:06:38.015Z
 tags: category, cat
 ---
 
