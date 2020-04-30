@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-04-30T02:34:39.215Z
+date: 2020-04-30T02:38:51.661Z
 tags: reference, resource reference
 ---
 
@@ -10,6 +10,11 @@ tags: reference, resource reference
 
 > Here you can find a selection of the tools and website presented on this wiki. The selection is based on the favorite websites of Valérie de Crécy.
 {.is-info}
+
+# Annotation
+
+- [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
+{.links-list}
 
 # Databases
 
