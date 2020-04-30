@@ -2,7 +2,7 @@
 title: WebLogo 3
 description: WebLogo is a web-based application designed to make the generation of sequence logos easy and painless.
 published: true
-date: 2020-04-30T14:01:33.522Z
+date: 2020-04-30T14:05:07.008Z
 tags: tool, sequence analysis, data visualization, conservation
 ---
 
@@ -10,7 +10,7 @@ tags: tool, sequence analysis, data visualization, conservation
 
 > A sequence logo is a graphical representation of an amino acid or nucleic acid multiple sequence alignment and is a useful way to visualize and present consensus sequences. In general, a sequence logo provides a richer and more precise description of, for example, a binding site, than an ordinary consensus sequence would.
 &NewLine;
-WebLogo is a web-based application designed to make the generation of sequence logos easy and painless.
+WebLogo is a web-based application designed to take multiple sequence alignments and generate a graphical representation of the consensus sequence (i.e. the sequence logo).
 {.is-info}
 
 ## User Notes
