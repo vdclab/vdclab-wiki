@@ -2,8 +2,8 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-04-30T03:06:38.015Z
-tags: category, cat
+date: 2020-04-30T03:10:10.150Z
+tags: category
 ---
 
 # Platform
