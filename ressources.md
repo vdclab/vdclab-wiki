@@ -2,18 +2,18 @@
 title: Ressources
 description: This page list all the pages of the wiki of the ressources
 published: true
-date: 2020-04-30T03:10:28.354Z
+date: 2020-04-30T03:54:18.222Z
 tags: category
 ---
 
-# Ressources
+# Resources
 
 ## Eukaryote Resources
 
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 {.links-list}
 
-### Fungi Ressources
+### Fungi Resources
 
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FUNGIpath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
