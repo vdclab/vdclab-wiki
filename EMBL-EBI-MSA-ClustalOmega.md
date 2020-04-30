@@ -2,7 +2,7 @@
 title: EBI : Clustal Omega
 description: Clustal Omega is a new multiple sequence alignment program that uses seeded guide trees and HMM profile-profile techniques to generate alignments between three or more sequences.
 published: true
-date: 2020-04-30T11:51:31.417Z
+date: 2020-04-30T13:09:30.756Z
 tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics, conservation
 ---
 
@@ -11,14 +11,21 @@ tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomi
 > Clustal Omega is a multiple sequence alignment program that uses seeded guide trees and HMM profile-profile techniques to generate alignments between three or more sequences. It produces biologically meaningful multiple sequence alignments of divergent sequences. Evolutionary relationships can be seen via viewing Cladograms or Phylograms. Clustal Omega improves on ClustalW mainly through increased alignment accuracy and improved scaling to many sequences.
 {.is-info}
 
+## User Notes
+> Clustal Omega doesn't perform pairwise alignment (you must input at least 3 sequences) and there is currently a limit of 4000 sequences or a maximum file size of 4MB of data.
+>
+> Clustal Omega can perform MSA's of proteins, DNA and RNA.
+{.is-info}
+
+## Ease of Use 
+> Website is straightforward and easy to use, with an extensive help page (see below).
+{.is-info}
+
 ## Website
 
 - [Clustal Omega *Main Page*](https://www.ebi.ac.uk/Tools/msa/clustalo/)
+- [Clustal Omega Help *Help and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Clustal+Omega+Help+and+Documentation)
 {.links-list}
-
-## User Notes
-> Clustal Omega doesn't perform pairwise alignment (you must input at least 3 sequences) and there is currently a limit of 4000 sequences or a maximum file size of 4MB of data.
-{.is-info}
 
 ## Citations
 
