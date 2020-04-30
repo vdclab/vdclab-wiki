@@ -2,7 +2,7 @@
 title: PubMed Advanced Search Builder
 description: This video demonstrates how to use the Pubmed Advanced Search Builder.
 published: true
-date: 2020-04-30T17:08:33.111Z
+date: 2020-04-30T17:08:45.012Z
 tags: resource reference, tutorial, video, specialized search, data capture
 ---
 
