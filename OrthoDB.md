@@ -2,8 +2,8 @@
 title: OrthoDB
 description: The hierarchical catalog of orthologs mapping genomics to functional data
 published: true
-date: 2020-04-29T14:57:34.643Z
-tags: 
+date: 2020-04-30T13:10:59.801Z
+tags: annotation, 2018, tool, phylogeny, database, phyolgeny, homology, 2010, orthology, protein family, 2015, 2016, 2012, 2007, data export, phy
 ---
 
 # OrthoDB
@@ -17,8 +17,8 @@ tags:
 {.links-list}
 
 ## Notes from Users
-This website gives a lot of informations of proteines families. The distribution of the family in the tree of life is very cool.
-> This database has been done base on several methods of clustering/annotation, these make the families of orthologs robusts and trustworthies.
+This website gives a lot of informations of proteins families. The distribution of the family in the tree of life is very cool.
+> This database has uses several methods for clustering/annotation, these make the families of orthologs robusts and trustworthy.
 {.is-success}
 
 
