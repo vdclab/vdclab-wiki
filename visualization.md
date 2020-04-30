@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-04-30T01:59:18.353Z
+date: 2020-04-30T02:34:36.224Z
 tags: category, cat
 ---
 
