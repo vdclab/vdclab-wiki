@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-24T21:06:49.179Z
+date: 2020-04-30T02:49:28.067Z
 tags: 
 ---
 
@@ -10,6 +10,12 @@ tags:
 Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Valerie de Crecy.
 
 Below, you will find an interactive table illustrating the breadth, depth of content.
+
+# Databases
+
+- [Database website *List of the database websites*](https://vdclab-wiki.herokuapp.com/en/databases)
+{.links-list}
+
 
 # VDC Favorite
 
