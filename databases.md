@@ -2,8 +2,8 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-04-30T02:48:12.364Z
-tags: 
+date: 2020-04-30T14:14:39.011Z
+tags: category
 ---
 
 # Databases
@@ -20,7 +20,7 @@ tags:
 
 ## Data Integration Databases
 
-- [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
+- [EuPathDB *Eukaryotic pathogens database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
