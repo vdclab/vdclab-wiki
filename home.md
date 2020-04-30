@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-30T02:49:28.067Z
+date: 2020-04-30T02:53:51.794Z
 tags: 
 ---
 
@@ -11,11 +11,15 @@ Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Va
 
 Below, you will find an interactive table illustrating the breadth, depth of content.
 
+# Annotation
+
+- [Annotation website *List of the annotation websites*](https://vdclab-wiki.herokuapp.com/en/annotation)
+{.links-list}
+
 # Databases
 
 - [Database website *List of the database websites*](https://vdclab-wiki.herokuapp.com/en/databases)
 {.links-list}
-
 
 # VDC Favorite
 
