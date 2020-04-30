@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-30T03:07:33.133Z
+date: 2020-04-30T04:03:13.771Z
 tags: 
 ---
 
@@ -31,7 +31,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 - [Platform website *List of website hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/platform)
 {.links-list}
 
-# Ressources
+# Resources
 
 - [Ressources *List of ressources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/ressources)
 {.links-list}
