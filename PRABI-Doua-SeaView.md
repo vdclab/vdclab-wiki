@@ -2,8 +2,8 @@
 title: PRABI-Doua: SeaView
 description: SeaView is a multiplatform, graphical user interface for multiple sequence alignment and molecular phylogeny.
 published: true
-date: 2020-04-30T12:55:30.142Z
-tags: genomes, tool, sequence alignment, proteins
+date: 2020-04-30T12:57:58.019Z
+tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics
 ---
 
 # PRABI-Doua: SeaView
