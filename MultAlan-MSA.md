@@ -2,7 +2,7 @@
 title: MultAlin Multiple Sequence Alignment (MSA)
 description: User friendly multiple sequence alignment with hierarchical clustering.
 published: true
-date: 2020-04-30T12:16:36.843Z
+date: 2020-04-30T13:00:49.386Z
 tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics, conservation
 ---
 
@@ -13,14 +13,19 @@ tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomi
 This web-based automatic alignment system allows users to easily set parameters for preferred symbol comparison tabels (ex. Blosum62), gap penalties and gap penalties at extremities and is useful for producing multiple sequence alignments to provide a starting point for a more human analysis. 
 {.is-info}
 
-## Website
-
-- [MultAlan MSA *Main Page*](http://multalin.toulouse.inra.fr/multalin/)
-{.links-list}
-
 ## User Notes
 > At the bottom of the input page you can choose presentation options (text size/color, background color, line length, style you wish to show consensus, etc) for your results. Your results can be output as a coloured image (GIF), plain text or colored html text.
 {.is-info}
+
+## Ease of Use
+>Website is straightforward and easy to use
+{.is-info}
+
+## Website
+
+- [MultAlin MSA *Main Page*](http://multalin.toulouse.inra.fr/multalin/)
+- [MultAlin Help *Help Page*](http://multalin.toulouse.inra.fr/multalin/help.html)
+{.links-list}
 
 ## Citations
 
