@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-04-30T02:25:23.984Z
+date: 2020-04-30T02:29:07.038Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## Prokaryotic Genome Annotation Pipelines
 
 - [JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
+- [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
 ## Eukaryotic Genome Annotation Pipelines
