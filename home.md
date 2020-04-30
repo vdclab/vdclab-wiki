@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-30T04:03:13.771Z
+date: 2020-04-30T04:03:17.961Z
 tags: 
 ---
 
@@ -33,7 +33,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 # Resources
 
-- [Ressources *List of ressources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/ressources)
+- [Ressources *List of resources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/ressources)
 {.links-list}
 
 # Tools
