@@ -2,7 +2,7 @@
 title: NCBI Basic Local Alignment Search Tool (BLAST)
 description: BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.
 published: true
-date: 2020-05-01T18:24:06.353Z
+date: 2020-05-01T18:47:32.805Z
 tags: genomes, tool, proteins
 ---
 
@@ -11,7 +11,7 @@ tags: genomes, tool, proteins
 > The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches. BLAST can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families.
 {.is-info}
 
-## Website
+## Websites
 
 - [NCBI BLAST *Main Page*](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 - [Wikiomics BLAST Tutorial *Main Page*](https://openwetware.org/wiki/Wikiomics:BLAST_tutorial)
