@@ -2,8 +2,8 @@
 title: ProPhylo by MicrobsOnline
 description: 
 published: true
-date: 2020-05-04T18:59:31.222Z
-tags: genomes, tool
+date: 2020-05-04T19:05:22.843Z
+tags: genomes, tool, comparative genomics, co-occurrence, 2011
 ---
 
 # ProPhylo
