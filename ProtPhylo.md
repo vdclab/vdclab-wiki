@@ -2,8 +2,8 @@
 title: ProtPhylo
 description: ProtPhylo is a web-based tool to identify proteins that are functionally linked to either a phenotype or a protein of interest based on co-evolution. 
 published: true
-date: 2020-04-06T20:09:35.133Z
-tags: 
+date: 2020-05-05T18:23:39.773Z
+tags: tool, phylogeny, proteins
 ---
 
 # ProtPhylo
@@ -16,9 +16,14 @@ ProtPhylo will search for proteins with shared evolutionary history to either a 
 ## Website
 
 - [ProtPhylo *Main Page*](http://ido.helmholtz-muenchen.de/protphylo/index.php)
+- [Help *Help section*](http://ido.helmholtz-muenchen.de/protphylo/help.php)
 {.links-list}
+
+## Notes from Users
+
+## Ease of use
 
 ## Citation
 
-- Cheng, Y., & Perocchi, F. (2015). [ProtPhylo: identification of protein–phenotype and protein–protein functional associations via phylogenetic profiling.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4489284/) Nucleic acids research, 43(W1), W160-W168.
+- Cheng, Y., & Perocchi, F. (2015). [ProtPhylo: identification of protein–phenotype and protein–protein functional associations via phylogenetic profiling.](https://academic.oup.com/nar/article/43/W1/W160/2467919) Nucleic acids research, 43(W1), W160-W168.
 {.grid-list}
