@@ -2,8 +2,8 @@
 title: ExPASy ENZYME
 description: ENZYME is a repository of information relative to the nomenclature of enzymes.
 published: true
-date: 2020-04-20T19:01:46.973Z
-tags: 
+date: 2020-05-05T20:20:53.763Z
+tags: protein
 ---
 
 # ExPASy ENZYME
@@ -18,6 +18,7 @@ ENZYME now includes entries with preliminary EC numbers. Preliminary EC numbers 
 ## Website
 
 - [ExPASy ENZYME *Main Page*](https://enzyme.expasy.org/)
+- [ENZYME - The Enzyme Data Bank *ENZYME Entries by Cofactor*](https://enzyme.expasy.org/enzyme-bycofactor.html)
 {.links-list}
 
 ## Citation
