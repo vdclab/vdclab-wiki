@@ -2,7 +2,7 @@
 title: GeneCards
 description: The Human Gene Database
 published: true
-date: 2020-05-05T20:48:04.276Z
+date: 2020-05-05T20:48:21.060Z
 tags: annotation, database, model organism
 ---
 
@@ -15,7 +15,7 @@ tags: annotation, database, model organism
 
 ## Website 
 
-- [GeneCards *Description that will be here*](https://www.genecards.org/)
+- [GeneCards *Main Page*](https://www.genecards.org/)
 - [GeneCards Publications *How to Cite*](https://www.genecards.org/Guide/Publications)
 {.links-list}
 
