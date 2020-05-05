@@ -2,7 +2,7 @@
 title: ProtPhylo
 description: ProtPhylo is a web-based tool to identify proteins that are functionally linked to either a phenotype or a protein of interest based on co-evolution. 
 published: true
-date: 2020-05-05T18:23:39.773Z
+date: 2020-05-05T19:18:04.020Z
 tags: tool, phylogeny, proteins
 ---
 
