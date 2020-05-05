@@ -2,8 +2,8 @@
 title: UF Galaxy
 description: A web-based framework for accessible, reproducible, and transparent biological computing.
 published: true
-date: 2020-05-05T14:57:18.854Z
-tags: project library, tool, resource center, omics
+date: 2020-05-05T18:50:32.903Z
+tags: project library, tool, resource center, data visualization, omics
 ---
 
 # UF Galaxy
@@ -16,7 +16,10 @@ tags: project library, tool, resource center, omics
 - [UF Galaxy *Login/Main Page*](https://galaxy.rc.ufl.edu/)
 
 ## Notes from User
+- Site functioned better on Google Chrome, difficulty loading on Safari 
 
+## Citation 
+[Enis Afgan, Dannon Baker, Bérénice Batut, Marius van den Beek, Dave Bouvier, Martin Čech, John Chilton, Dave Clements, Nate Coraor, Björn Grüning, Aysam Guerler, Jennifer Hillman-Jackson, Vahid Jalili, Helena Rasche, Nicola Soranzo, Jeremy Goecks, James Taylor, Anton Nekrutenko, and Daniel Blankenberg. The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update, Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W537–W544, doi:10.1093/nar/gky379](https://academic.oup.com/nar/article/46/W1/W537/5001157) 
 
 ## Help
 - [Help *Help Page*](https://help.rc.ufl.edu/doc/Galaxy)
