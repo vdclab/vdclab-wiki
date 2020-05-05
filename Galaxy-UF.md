@@ -2,7 +2,7 @@
 title: UF Galaxy
 description: A web-based framework for accessible, reproducible, and transparent biological computing.
 published: true
-date: 2020-05-05T14:52:16.211Z
+date: 2020-05-05T14:57:18.854Z
 tags: project library, tool, resource center, omics
 ---
 
