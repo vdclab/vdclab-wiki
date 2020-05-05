@@ -2,8 +2,8 @@
 title: ADOMETA - ADoption of Orphan METabolic Activities
 description: 
 published: true
-date: 2020-04-01T19:46:13.080Z
-tags: 
+date: 2020-05-05T16:40:29.286Z
+tags: resource, bioinformatics, metabolism, prediction
 ---
 
 # ADOMETA - ADoption of Orphan METabolic Activities
@@ -18,3 +18,12 @@ tags:
 
 
 {.grid-list}
+
+## Notes from User 
+- Currently for S. cerevisiae, E. coli and B. subtilis only
+- Many input options
+- Ranked by significance, homology and context. Many measurements used, all described, but takes time to parse through all possible/useful combinations
+
+
+## Citations 
+No publication for tool, based upon publications listed [here](http://vitkuplab.c2b2.columbia.edu/adometa/publications.html) 
