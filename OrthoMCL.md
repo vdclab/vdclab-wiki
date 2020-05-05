@@ -2,8 +2,8 @@
 title: OrthoMCL
 description: OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences.
 published: true
-date: 2020-05-05T15:12:51.768Z
-tags: proteins
+date: 2020-05-05T17:46:49.700Z
+tags: proteins, video, database, 2011, 2007, orthologs, 2003, 2006, eukaryota
 ---
 
 # OrthoMCL
@@ -18,13 +18,13 @@ In a recent assessment (Chen, et al. 2007), the performance of seven widely used
 ## Website
 
 - [OrthoMCL *Main Page*](https://orthomcl.org/orthomcl/)
+- [videos *tutorials*](https://orthomcl.org/orthomcl/showXmlDataContent.do?name=XmlQuestions.Tutorials)
 {.links-list}
-
 ## Notes from Users 
-
+Many tools to explore groups of orthologs, you can also input your own sequences to assign them to groups. Workshop are available every year to learn the tool. This tool/database only regroup cluster of orthologs for Eukaryotes.
 
 ## Ease of use
-
+This web site requires exploration and watching the videos to master it plainly. Careful that it is only a ressource for Eukaryotes.
 
 ## Citations
 
