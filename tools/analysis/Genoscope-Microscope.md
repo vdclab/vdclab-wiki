@@ -2,8 +2,8 @@
 title: Genoscope - Microscope
 description: Microbial Genome Annotation & Analysis Platform
 published: true
-date: 2020-04-21T17:48:13.839Z
-tags: 
+date: 2020-05-06T20:24:41.304Z
+tags: annotation, genomics, genomes, annotation tools, tool, genes, phylogeny, proteins, comparative genomics, metabolic reconstruction
 ---
 
 # Genoscope - Microscope
@@ -16,6 +16,7 @@ The MicroScope web interface (MaGe, for « Magnifying Genomes » ) has been spec
 ## Website
 
 - [Microscope *Main page*](https://mage.genoscope.cns.fr/microscope/home/index.php)
+- [Genoscope Microscope Services *Delivery of Service Offer Page*](https://mage.genoscope.cns.fr/microscope/about/services.php)
 {.links-list}
 
 ## Notes from User
@@ -25,11 +26,19 @@ The MicroScope web interface (MaGe, for « Magnifying Genomes » ) has been spec
 - RNA-seq analysis available but with a few weeks work around
 - Integrates a lot of cool tools for pathogenecity islands or pangenomes
 - Only a subset of microbial genomes is available 
+- Limited set of genomes but I think it is the best integarted platform to annoate a microbial genomes for an "annoation group" 
+- Many intergrated tools for comparative genomics such as AntoSmash, Or pathogenicity island finders   and  and also some unique features like minimal and pangenomes sets. 
+
+## Ease of Use
+- Things can get complicated as many windows open
+- Java issues make it sometimes very fustrating. 
+- Making the patwhays tools linked to BioCyc is also tricky as the if you have not looded the genome a few days ahaead they do not work .
 
 ## Help 
+
 - [Contact MicroScope](https://mage.genoscope.cns.fr/microscope/about/contact.php?)
 - [Tutorials](https://microscope.readthedocs.io/en/v3.14.0/)
-
+{.links-list}
 
 ## Citation
 
