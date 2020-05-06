@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-05-06T19:56:44.757Z
+date: 2020-05-06T20:52:02.858Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## General Annotation Pipeline
 
 - [Bologna Annotation Resource *Server for the annotation of protein sequences*](https://vdclab-wiki.herokuapp.com/annotation/general_annotation/bologna-annotation-resource/)
+- [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 {.links-list}
 
 ## Eukaryotic Genome Annotation Pipelines
