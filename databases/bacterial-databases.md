@@ -2,7 +2,7 @@
 title: PubSEED (The SEED)
 description: PubSEED (The SEED) provide consistent and accurate genome annotations across thousands of genomes
 published: true
-date: 2020-05-06T19:52:11.634Z
+date: 2020-05-06T19:52:28.120Z
 tags: annotation, genomics, annotation tools, tool, database
 ---
 
