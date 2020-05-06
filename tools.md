@@ -2,8 +2,8 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-04-30T03:09:26.016Z
-tags: 
+date: 2020-05-06T18:48:28.634Z
+tags: category
 ---
 
 # Tools
@@ -12,6 +12,11 @@ tags:
 
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
+{.links-list}
+
+## Data formatting
+
+- [EMBOSS Seqret *Extracting sequences from databases, displaying sequences, reformatting sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/EMBOSS-Seqret)
 {.links-list}
 
 ## Phylogeny Tools
