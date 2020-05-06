@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-06T15:57:28.725Z
+date: 2020-05-06T16:18:36.407Z
 tags: category
 ---
 
@@ -21,7 +21,7 @@ tags: category
 
 ## General Resources
 
-- [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/EZBioCloud/)
+- [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
