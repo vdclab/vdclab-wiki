@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-05-06T19:56:11.530Z
+date: 2020-05-06T19:56:44.757Z
 tags: category
 ---
 
