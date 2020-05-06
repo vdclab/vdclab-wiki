@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-06T19:34:36.081Z
+date: 2020-05-06T19:50:47.841Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## Analysis Tools
 
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+- [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 {.links-list}
 
