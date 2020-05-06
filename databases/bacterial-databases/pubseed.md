@@ -2,7 +2,7 @@
 title: PubSEED (The SEED)
 description: PubSEED (The SEED) provide consistent and accurate genome annotations across thousands of genomes
 published: true
-date: 2020-05-06T19:52:28.120Z
+date: 2020-05-06T19:53:09.117Z
 tags: annotation, genomics, annotation tools, tool, database
 ---
 
@@ -23,10 +23,13 @@ tags: annotation, genomics, annotation tools, tool, database
 - Sill very powerful to vizualize gene neigbhorhoods and if one knows how to build Subsystems also very useful.
 
 ## Help
-- Email: info@theseed.org
-- [SEEDTutorial Video1](https://www.dropbox.com/s/lsneglmt1w6avp7/SEED_1_lecture.mp4?dl=0)
-- [SEEDTutorial Video2](https://www.dropbox.com/s/vitaxnjgxi9q336/SEED_2_lecture.mp4?dl=0)
-- [SEEDTutorial Video3](https://www.dropbox.com/s/eu8k9jlwga06s81/SEED_3_Lecture.mp4?dl=0)
+
+Email: info@theseed.org
+
+- [SEEDTutorial *Video1*](https://www.dropbox.com/s/lsneglmt1w6avp7/SEED_1_lecture.mp4?dl=0)
+- [SEEDTutorial *Video2*](https://www.dropbox.com/s/vitaxnjgxi9q336/SEED_2_lecture.mp4?dl=0)
+- [SEEDTutorial *Video3*](https://www.dropbox.com/s/eu8k9jlwga06s81/SEED_3_Lecture.mp4?dl=0)
+{.links-list}
 
 ## Citation
 
