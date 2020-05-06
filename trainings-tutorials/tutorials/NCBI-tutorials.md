@@ -2,8 +2,8 @@
 title: NCBI - Tutorials
 description: Home page of NCBI's tutorials and guides to using their many resources.
 published: true
-date: 2020-04-17T17:32:19.456Z
-tags: 
+date: 2020-05-06T17:06:36.016Z
+tags: reference, resource reference, tool, tutorial
 ---
 
 # NCBI - Tutorials
@@ -14,6 +14,8 @@ tags:
 ## Website
 
 - [NCBI Tutorials *Main page*](https://www.ncbi.nlm.nih.gov/guide/training-tutorials/)
+{.links-list}
+- [Youtube page *Channel page*](https://www.youtube.com/user/NCBINLM)
 {.links-list}
 
 ## Notes from users 
