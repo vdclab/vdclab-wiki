@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-06T16:18:36.407Z
+date: 2020-05-06T18:42:37.669Z
 tags: category
 ---
 
@@ -26,4 +26,9 @@ tags: category
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
+{.links-list}
+
+## Specialized search
+
+- [World Wide Science *Global science gateway comprised of national and international scientific databases*](https://vdclab-wiki.herokuapp.com/en/resources/specialized-search/worldwidescience)
 {.links-list}
