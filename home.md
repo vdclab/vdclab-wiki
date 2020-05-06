@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-05-06T17:02:30.284Z
+date: 2020-05-06T18:22:03.864Z
 tags: 
 ---
 
@@ -21,6 +21,10 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 - [Database website *List of the database websites*](https://vdclab-wiki.herokuapp.com/en/databases)
 {.links-list}
 
+# Literature Search
+
+- [Literature Search *Using BLAST to find papers*](https://vdclab-wiki.herokuapp.com/en/literature-search)
+{.links-list}
 # Phylogeny
 
 - [Phylogeny website *List of website to do phylogeny*](https://vdclab-wiki.herokuapp.com/en/phylogeny)
