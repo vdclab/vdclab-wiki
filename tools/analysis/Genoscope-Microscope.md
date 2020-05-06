@@ -2,7 +2,7 @@
 title: Genoscope - Microscope
 description: Microbial Genome Annotation & Analysis Platform
 published: true
-date: 2020-05-06T20:24:41.304Z
+date: 2020-05-06T20:24:57.268Z
 tags: annotation, genomics, genomes, annotation tools, tool, genes, phylogeny, proteins, comparative genomics, metabolic reconstruction
 ---
 
