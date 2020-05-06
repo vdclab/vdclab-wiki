@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-04-30T04:03:23.508Z
+date: 2020-05-06T17:02:18.804Z
 tags: 
 ---
 
@@ -39,6 +39,11 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 # Tools
 
 - [Tools *List of website that provides useful tools*](https://vdclab-wiki.herokuapp.com/en/tools)
+{.links-list}
+
+# Trainings & Tutorials
+
+- [Trainings & Tutorials *List of website that provides trainings and tutorials*](https://vdclab-wiki.herokuapp.com/en/tools)
 {.links-list}
 
 # Visualization
