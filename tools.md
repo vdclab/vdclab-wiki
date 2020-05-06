@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-06T18:48:28.634Z
+date: 2020-05-06T19:34:36.081Z
 tags: category
 ---
 
@@ -22,4 +22,9 @@ tags: category
 ## Phylogeny Tools
 
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
+{.links-list}
+
+## Phylogenetic Distribution Tools
+
+- [:star: JGI-IMG *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
 {.links-list}
