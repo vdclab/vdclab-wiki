@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-06T19:30:06.915Z
+date: 2020-05-06T19:46:41.261Z
 tags: reference, resource reference
 ---
 
@@ -33,6 +33,11 @@ tags: reference, resource reference
 
 - [Nucleic Acid Sequence Massager *Tool to manipulate sequence(s) in fasta format*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/NA-Sequence-Massager)
 - [Sequence Manipulation Suite *Sequence Manipulation Suite of bioinformatics.org*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/sequence-manipulation-suite)
+{.links-list}
+
+# Tools
+
+- [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 {.links-list}
 
 # Tutorial
