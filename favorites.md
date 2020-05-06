@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-06T18:18:30.101Z
+date: 2020-05-06T19:03:35.007Z
 tags: reference, resource reference
 ---
 
@@ -26,6 +26,12 @@ tags: reference, resource reference
 # Literature Search
 
 - [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
+{.links-list}
+
+# Sequence Manipulation
+
+- [Nucleic Acid Sequence Massager *Tool to manipulate sequence(s) in fasta format*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/NA-Sequence-Massager)
+- [Sequence Manipulation Suite *Sequence Manipulation Suite of bioinformatics.org*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/sequence-manipulation-suite)
 {.links-list}
 
 # Tutorial
