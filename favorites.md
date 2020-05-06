@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-06T17:05:17.453Z
+date: 2020-05-06T18:18:30.101Z
 tags: reference, resource reference
 ---
 
@@ -21,6 +21,11 @@ tags: reference, resource reference
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
+{.links-list}
+
+# Literature Search
+
+- [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
 {.links-list}
 
 # Tutorial
