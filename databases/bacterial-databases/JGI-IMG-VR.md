@@ -2,15 +2,15 @@
 title: Joint Genome Institute Integrated Microbial Genomes / Virus
 description: The IMG/VR system serves as a starting point for the sequence analysis of viral fragments derived from metagenomic samples.
 published: true
-date: 2020-04-28T12:11:57.716Z
-tags: 
+date: 2020-05-06T20:19:55.784Z
+tags: genomics, genomes, taxonomy, tool, sequence analysis, gene neighborhood
 ---
 
 # Joint Genome Institute Integrated Microbial Genomes / Virus
 
 > The mission of the Integrated Microbial Genomes & Microbiomes(IMG/M) system is to support the annotation, analysis and distribution of microbial genome and microbiome datasets sequenced at DOE's Joint Genome Institute (JGI).
 &NewLine;
-IMG/M is also open to scientists worldwide for the annotation, analysis, and distribution of their own genome and microbiome datasets, as long as they agree with the IMG/M data release policy and follow the metadata requirements for integrating data into IMG/M (see IMG/M submission site).
+The IMG/VR system (http://nar.oxfordjournals.org/content/early/2016/10/30/nar.gkw1030) serves as a starting point for the sequence analysis of viral fragments derived from metagenomic samples.
 {.is-info}
 ## Website
 
