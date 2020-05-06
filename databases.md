@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-06T20:20:48.552Z
+date: 2020-05-06T20:21:37.101Z
 tags: category
 ---
 
@@ -35,8 +35,8 @@ tags: category
 
 #### Bacterial databases
 
-- [:star: JGI-IMG/M *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
-- [:star: JGI-IMG/VR *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
+- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
+- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 {.links-list}
