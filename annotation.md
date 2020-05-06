@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-05-06T20:52:02.858Z
+date: 2020-05-06T20:54:07.937Z
 tags: category
 ---
 
@@ -14,13 +14,13 @@ tags: category
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 {.links-list}
 
-## Eukaryotic Genome Annotation Pipelines
+### Eukaryotic Genome Annotation Pipelines
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 {.links-list}
 
-## Prokaryotic Genome Annotation Pipelines
+### Prokaryotic Genome Annotation Pipelines
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
 - [CuratedBLAST *Finds curated proteins whose descriptions match the query*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/CuratedBLAST/)
