@@ -2,8 +2,8 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-04-30T03:03:08.615Z
-tags: 
+date: 2020-05-06T15:45:10.791Z
+tags: reference, resource reference
 ---
 
 # VDC Favorite
@@ -32,6 +32,7 @@ tags:
 
 # Ressources
 
+- [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/EZBioCloud/)
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
 {.links-list}
 
