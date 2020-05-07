@@ -2,8 +2,8 @@
 title: UniProt Mapping
 description: 
 published: true
-date: 2020-04-20T20:45:02.561Z
-tags: 
+date: 2020-05-07T00:18:14.012Z
+tags: tool, protein
 ---
 
 # UniProt Mapping
@@ -16,6 +16,10 @@ tags:
 ## Website
 
 - [UniProt Mapping *Main Page*](https://www.uniprot.org/uploadlists/)
+{.links-list}
+
+## Help
+
 - [UniProt Mapping *Help Section*](https://www.uniprot.org/help/uploadlists)
 - [Video Tuturial *Youtube Tutoriel*](https://www.youtube.com/watch?v=kLdgjqWoMZc)
 {.links-list}
