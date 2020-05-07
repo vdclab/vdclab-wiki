@@ -2,13 +2,13 @@
 title: PRABI-Doua: SeaView
 description: SeaView is a multiplatform, graphical user interface for multiple sequence alignment and molecular phylogeny.
 published: true
-date: 2020-04-30T12:57:58.019Z
+date: 2020-05-07T11:36:01.171Z
 tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics
 ---
 
 # PRABI-Doua: SeaView
 
-> SeaView is a downloaded multiplatform, graphical user interface for multiple sequence alignment and molecular phylogeny. SeaView is able to read and write various alignment formats (NEXUS, MSF, CLUSTAL, FASTA, PHYLIP, MASE) of both DNA and protein sequences and phylogenetic trees. It allows users to manually edit the alignment, and also to run DOT-PLOT or CLUSTALW/MUSCLE programs to locally improve the alignment.
+> SeaView is a downloadable multiplatform, graphical user interface for multiple sequence alignment and molecular phylogeny. SeaView is able to read and write various alignment formats (NEXUS, MSF, CLUSTAL, FASTA, PHYLIP, MASE) of both DNA and protein sequences and phylogenetic trees. It allows users to manually edit the alignment, and also to run DOT-PLOT or CLUSTALW/MUSCLE programs to locally improve the alignment.
 &NewLine;
 SeaView computes phylogenetic trees using parsimony algorithms, evolutionary distance and maximum likelihood and is able to perform reconcilation between gene and species trees using Treerecs
 {.is-info}
