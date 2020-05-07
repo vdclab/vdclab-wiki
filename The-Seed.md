@@ -1,9 +1,9 @@
 ---
 title: The SEED
-description: 
+description: Curation of genomic data is done by an expert annotator across many genomes, via the curation of subsystems. FIGfams are extracted from the curated subsystems, which form the core component of RAST automated annotation.
 published: true
-date: 2020-05-07T13:06:27.530Z
-tags: annotation, genomes
+date: 2020-05-07T13:18:57.999Z
+tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
 # The SEED
