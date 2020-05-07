@@ -2,11 +2,11 @@
 title: Bioinformatics Club Bioinformatics Course
 description: 
 published: true
-date: 2020-05-05T15:34:42.491Z
+date: 2020-05-07T12:08:07.275Z
 tags: tutorial, resource
 ---
 
-# Bioinformatics Club Bioinformatics Course
+# Tutorials on Regular Expression
 
 > Bioinformatic courses on regular expression for Biology
 {.is-info}
