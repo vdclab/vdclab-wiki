@@ -2,7 +2,7 @@
 title: OMIM - Online Mendelian Inheritance in Man
 description: OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily.
 published: true
-date: 2020-05-07T18:17:15.993Z
+date: 2020-05-07T18:25:22.660Z
 tags: phenotype, genotype
 ---
 
@@ -16,6 +16,8 @@ tags: phenotype, genotype
 ## Website 
 
 - [OMIM *Main Page*](https://www.omim.org/)
+- [About OMIM *About Page*](https://www.omim.org/about)
+
  {.links-list}
 
 ## Citations
