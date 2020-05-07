@@ -2,8 +2,8 @@
 title: Practical Computing for Biologists
 description: The site is a companion resource for the book Practical Computing for Biologists by Steven Haddock and Casey Dunn. Practical Computing for Biologists shows you how to use many freely available computing tools to work more powerfully and effectively.
 published: true
-date: 2020-04-06T19:49:15.202Z
-tags: 
+date: 2020-05-07T16:31:55.575Z
+tags: tutorial, resource
 ---
 
 # Practical Computing for Biologists
@@ -15,6 +15,11 @@ tags:
 
 - [Practical Computing *Main Page*](http://practicalcomputing.org/)
 {.links-list}
+
+## User Notes
+- Includes software information, help/tips on programming (languages, scripts covered in the text)
+- Intended for intermediately skilled computational biologists; experience or exposure to commandline use is recommended
+
 
 ## Citation
 
