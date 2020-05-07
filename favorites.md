@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-06T20:52:35.207Z
+date: 2020-05-07T00:20:33.897Z
 tags: reference, resource reference
 ---
 
@@ -41,6 +41,7 @@ tags: reference, resource reference
 # Tools
 
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
 {.links-list}
 
 # Tutorial
