@@ -2,8 +2,8 @@
 title: Microbial Genome Database (MBGD)
 description: MBGD is a workbench system for comparative analysis of completely sequenced microbial genomes. 
 published: true
-date: 2020-05-07T15:03:10.696Z
-tags: 2018, species clusters, tool, comparative genomics, 2010, co-occurrence, 2007, 2013, orthologs, 2003
+date: 2020-05-07T15:04:28.211Z
+tags: 2018, species clusters, tool, comparative genomics, database, 2010, co-occurrence, 2007, 2013, orthologs, 2003
 ---
 
 # Microbial Genome Database (MGBD) for Comparative Analysis
