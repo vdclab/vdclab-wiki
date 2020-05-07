@@ -1,12 +1,12 @@
 ---
-title: Microbial Genome Database (MBGD) Cluster Map
+title: Microbial Genome Database (MBGD)
 description: MBGD is a workbench system for comparative analysis of completely sequenced microbial genomes. 
 published: true
-date: 2020-05-06T13:33:01.836Z
+date: 2020-05-07T13:27:07.021Z
 tags: species clusters, tool
 ---
 
-# Microbial Genome Database (MBGD) Cluster Map
+# Microbial Genome Database (MGBD) for Comparative Analysis
 
 > MBGD is a workbench system for comparative analysis of completely sequenced microbial genomes. The heart of MBGD function is to create orthologous or homologous gene cluster table. For this purpose, similarities between all genes are precomputed and stored into the database, in addition to the annotations of genes such as function categories that were assigned by the original authors and motifs that were found in the translated sequence. Using these homology data, MBGD dynamically creates orthologous gene cluster table. Users can change a set of organisms or cutoff parameters to create their own orthologous grouping. Based on this cluster table, users can further analyze multiple genomes from various points of view with the functions such as global map comparison, local map comparison, multiple sequence alignment and phylogenetic tree construction.
 {.is-info}
