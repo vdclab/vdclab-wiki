@@ -2,7 +2,7 @@
 title: Bioinformatics Workbook
 description: 
 published: true
-date: 2020-05-07T17:38:16.835Z
+date: 2020-05-07T17:38:36.404Z
 tags: tutorial, resource, bioinformatics, computing, programming, computational biology
 ---
 
