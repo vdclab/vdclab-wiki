@@ -2,7 +2,7 @@
 title: UF Galaxy
 description: A web-based framework for accessible, reproducible, and transparent biological computing.
 published: true
-date: 2020-05-05T18:54:08.815Z
+date: 2020-05-07T12:10:01.858Z
 tags: project library, tool, resource center, data visualization, omics
 ---
 
@@ -19,6 +19,7 @@ tags: project library, tool, resource center, data visualization, omics
 - Site functioned better on Google Chrome, difficulty loading on Safari 
 - Uses UFRC account 
 - Can use tools available on there currently or have new tools input by UF computing center
+- worth checking as many file manupulation and reformating tools can make your life esaier in addition to more advance pipelines
 
 
 ## Citation 
