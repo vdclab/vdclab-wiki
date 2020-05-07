@@ -1,9 +1,9 @@
 ---
 title: MicrobesOnline
-description: 
+description: An integrated portal for comparative and functional genomics (Virtual Institute for Microbial Stress and Survival)
 published: true
-date: 2020-04-06T18:19:57.681Z
-tags: 
+date: 2020-05-07T13:59:31.510Z
+tags: annotation, genomes, tool
 ---
 
 # MicrobesOnline
