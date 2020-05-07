@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-06T19:50:47.841Z
+date: 2020-05-07T00:22:32.831Z
 tags: category
 ---
 
@@ -13,6 +13,12 @@ tags: category
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
+{.links-list}
+
+## Database Linker
+
+- [LinkDB *database of links*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/LinkDB)
+- [:star: UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
 {.links-list}
 
 ## Data formatting
@@ -27,5 +33,6 @@ tags: category
 
 ## Phylogenetic Distribution Tools
 
-- [:star: JGI-IMG *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
+- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
+- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
 {.links-list}
