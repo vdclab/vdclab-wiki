@@ -2,8 +2,8 @@
 title: Skylign
 description: Skylign is a tool for creating logos representing both sequence alignments and profile hidden Markov models.
 published: true
-date: 2020-04-29T15:11:58.818Z
-tags: 
+date: 2020-05-07T12:01:31.635Z
+tags: tool, sequence alignment, hmm
 ---
 
 # Skylign
@@ -17,10 +17,10 @@ tags:
 {.links-list}
 
 ## Notes from users 
-Online web-tool for visualizing logos from HMMs or sequence alignments.
+- Online web-tool for visualizing logos from HMMs or sequence alignments.
 
 ## Ease of use
-A single straightforeward tool for making logos. 
+- A single straightforeward tool for making logos. 
 
 ## Citation
 
