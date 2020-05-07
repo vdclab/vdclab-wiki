@@ -2,7 +2,7 @@
 title: RNAcentral
 description: The non-coding RNA sequence database.
 published: true
-date: 2020-05-07T18:30:46.813Z
+date: 2020-05-07T18:31:15.438Z
 tags: rna, database
 ---
 
@@ -17,7 +17,7 @@ The development of RNAcentral is coordinated by European Bioinformatics Institut
 
 ## Website 
 
-- [RNAcentral *Description that will be here*](https://url_of_the_website)
+- [RNAcentral *Main Page*](https://rnacentral.org/)
  {.links-list}
 
 ## Citation 
