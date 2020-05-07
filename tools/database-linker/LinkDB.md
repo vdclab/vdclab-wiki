@@ -2,8 +2,8 @@
 title: LinkDB
 description: DBGET/LinkDB is designed to be a network distributed database system with an open architecture, which is suitable for incorporating local databases or establishing a specialized server environment.
 published: true
-date: 2020-04-20T20:46:31.067Z
-tags: 
+date: 2020-05-07T00:21:27.134Z
+tags: 2014, tool, 1998
 ---
 
 # LinkDB
@@ -16,7 +16,12 @@ LinkDB contains all cross-reference links, original and reverse links, extracted
 {.is-info}
 
 ## Website
+
 - [LinkDB *Main Page*](https://www.genome.jp/linkdb/)
+{.links-list}
+
+## Help
+
 - [Help *Help section*](https://www.genome.jp/linkdb/linkdb_api.html)
 {.links-list}
 
