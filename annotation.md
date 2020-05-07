@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-05-06T20:54:07.937Z
+date: 2020-05-07T00:14:50.673Z
 tags: category
 ---
 
@@ -25,7 +25,7 @@ tags: category
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
 - [CuratedBLAST *Finds curated proteins whose descriptions match the query*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/CuratedBLAST/)
 - [:star: JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
-- [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
+- [NCBI *Prokaryotic Genome Annotation Pipeline*](https://vdclab-wiki.herokuapp.com/en/annotation/prokaryotic/NCBI-PGAP)
 - [:star: proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 {.links-list}
