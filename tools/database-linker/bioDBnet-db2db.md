@@ -2,8 +2,8 @@
 title: bioDBnet Database to Database Conversions
 description: db2db allows for conversions of identifiers from one database to other database identifiers or annotations.
 published: true
-date: 2020-04-18T02:11:21.375Z
-tags: 
+date: 2020-05-07T00:23:49.750Z
+tags: annotation, tool, gene, protein, 2009
 ---
 
 # bioDBnet Database to Database Conversions
@@ -21,6 +21,10 @@ tags:
 - [dbOrtho *orthologues search*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrtho.php)
 - [dbAnnot *genome annotation*](https://biodbnet-abcc.ncifcrf.gov/db/dbAnnot.php)
 - [dbOrg *precomputed convertion of whole organisms*](https://biodbnet-abcc.ncifcrf.gov/db/dbOrg.php)
+{.links-list}
+
+
+## Help
 - [Help *Examples of Use*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/examples.php)
 - [FAQs *Frequently Asked Questions*](https://biodbnet-abcc.ncifcrf.gov/dbInfo/faq.php)
 {.links-list}
