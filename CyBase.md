@@ -1,0 +1,27 @@
+---
+title: CyBase
+description: The database of cyclic proteins.
+published: true
+date: 2020-05-07T19:19:38.749Z
+tags: proteins, database
+---
+
+# CyBase
+
+> This site is dedicated to the study of a fascinating new class of proteins that possess a cyclic backbone in which the N and C termini have been joined with a conventional amide bond. These recently characterised molecules have now been found in organisms from all kingdoms of life and given the current rate of discovery the number of sequences could soon number in the hundreds.
+&NewLine;
+Research in our lab is aimed at further characterising cyclic proteins and adapting them for commercial and medicinal use. In particular we work on a class of cyclic protein named the cyclotides. These proteins are found in the plants of the Rubiaceae and Violaceae and our specific goals include: determining the role that cyclotides play in plants, discovering the mechanism of action of the wide range of biological activities displayed by the cyclotides (including anti-HIV, anti-bacterial and insecticidal activity), characterising the genetics of the cyclotides and further discovery of novel cyclotides.
+{.is-info}
+
+ 
+
+## Website 
+
+- [CyBase *Main Page*](http://www.cybase.org.au/)
+ {.links-list}
+
+## Citations
+
+- Wang CK, Kaas Q, Chiche L, Craik DJ (2008) [CyBase: a database of cyclic protein sequences and structures, with applications in protein discovery and engineering.](https://academic.oup.com/nar/article/36/suppl_1/D206/2507945) Nucleic Acids Res. D206-10
+- Mulvenna JP, Wang C, Craik DJ (2006) [CyBase: a database of cyclic protein sequence and structure.](https://academic.oup.com/nar/article/34/suppl_1/D192/1132200) Nucleic Acids Res. D192-4
+{.grid-list}
