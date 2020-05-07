@@ -2,7 +2,7 @@
 title: ORENZA : a database of ORphan ENZyme Activities
 description: ORENZA provides an accurate and up to date list of Enzyme Activities for which no sequences are available in the main sequence protein databases.
 published: true
-date: 2020-05-07T12:12:15.484Z
+date: 2020-05-07T12:17:25.857Z
 tags: registry, sequence matching, data capture, database, metabolism, browser
 ---
 
@@ -20,6 +20,7 @@ ORENZA is a relational database of ORphan ENZyme Activities and this web site al
 - Connects enzymes to KEGG Map, NCBI, Swiss-Prot, PDB, PubMed, BRENDA organisms
 - Provides easy views to Orphan enzymes by activity, metabolism or EC classificationn
 - Can report sequence evidence for enzymes here 
+- not updated stuck in 2014.
 
 ## Citation
 
