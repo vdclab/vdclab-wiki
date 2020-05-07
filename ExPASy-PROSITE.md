@@ -2,11 +2,11 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-05-07T12:03:46.310Z
+date: 2020-05-07T12:04:30.696Z
 tags: proteins, analysis tools, database, protein family, function
 ---
 
-# ExPASy PROSITE
+# ExPASy PROSITE (Motifs)
 
 > PROSITE is a database of protein families and domains. It is based on the observation that, while there is a huge number of different proteins, most of them can be grouped, on the basis of similarities in their sequences, into a limited number of families. Proteins or protein domains belonging to a particular family generally share functional attributes and are derived from a common ancestor.
 {.is-info}
