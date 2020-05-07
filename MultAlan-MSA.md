@@ -2,7 +2,7 @@
 title: MultAlin Multiple Sequence Alignment (MSA)
 description: User friendly multiple sequence alignment with hierarchical clustering.
 published: true
-date: 2020-05-07T11:35:03.157Z
+date: 2020-05-07T11:58:52.385Z
 tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics, conservation
 ---
 
@@ -14,12 +14,12 @@ This web-based automatic alignment system allows users to easily set parameters 
 {.is-info}
 
 ## User Notes
-> At the bottom of the input page you can choose presentation options (text size/color, background color, line length, style you wish to show consensus, etc) for your results. Your results can be output as a coloured image (GIF), plain text or colored html text.
+- At the bottom of the input page you can choose presentation options (text size/color, background color, line length, style you wish to show consensus, etc) for your results. Your results can be output as a coloured image (GIF), plain text or colored html text.
 {.is-info}
 
 ## Ease of Use
->Website is straightforward and easy to use
->I neraly never has format issues very robust
+- Website is straightforward and easy to use.
+- Nearly  never any format issues, very robust.
 {.is-info}
 
 ## Website
