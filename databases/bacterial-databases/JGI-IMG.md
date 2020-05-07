@@ -2,7 +2,7 @@
 title: JGI /IMG- Integrated Microbial Genomes/Microbiomes
 description: A comprehensive sequence database for microbes, microbiomes
 published: true
-date: 2020-05-06T20:27:19.557Z
+date: 2020-05-07T14:19:54.914Z
 tags: reference, registry, annotation, genomics, genomes, metagenomes, projects, sequencing projects, project library, tool, genes, phylogeny, proteins, microbiome
 ---
 
@@ -27,6 +27,7 @@ tags: reference, registry, annotation, genomics, genomes, metagenomes, projects,
 ## Help
 - [Questions to JGI IMG](https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=Questions)
 - [IMG User Forum](https://groups.google.com/a/lbl.gov/forum/?hl=en&fromgroups#!forum/img-user-forum) 
+{.links-list}
 
 ## Citation
 
