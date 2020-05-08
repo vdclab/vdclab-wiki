@@ -1,19 +1,32 @@
 ---
 title: String
-description: Protein-Protein Interaction Networks Functional Enrichment Analysis
+description: Protein-Protein Interaction Networks and Functional Enrichment Analysis
 published: true
-date: 2020-04-06T18:22:32.356Z
-tags: 
+date: 2020-05-08T13:46:30.533Z
+tags: annotation, archaea, bacteria, tool, cog, functional association, data capture, homolog discovery, analysis tools, database, literature, homology, co-expression, data visualization, prediction, protein, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction, protein-protein
 ---
 
 # STRING
 
-> STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.
+> STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. STRING data is derived from 5 main sources: Genomic context predictions, High-throughput lab experiments, Conserved co-expression, Automated textmining, previously published knowledge in databases.
 {.is-info}
+
+## Ease of Use
+
+> This website can be used very quickly and easily to gather a wide range of information.
+{.is-info}
+
+## User Notes
+
+- You can search for both individual proteins and protein families.
+- Proteins with Values/Ranks - Functional Enrichment Analysis: with this search feature you can submit your experimental data to perform functional enrichment analysis.
+- In the "Settings" tab you can choose whether your network edges (which represent the predicted functional associations) are shown as type of evidence, confidence strengths, or predicted molecular actions. This is also where you adjust your confidence limit and choose which types of evidence you want to use in your search (for example, you can exclude textmining evidence).
+- The default view of your search is of the interaction network but much more information can be gathered by switching your viewer, clicking on nodes and edges, exploring the "Legend" and "Analysis" tabs, etc (see "STICH Help" page).
 
 ## Website
 
 - [STRING *Main Page*](http://string.embl.de/)
+- [STRING Help *Help Page*](https://string-db.org/cgi/help.pl?sessionId=UUAtCeLj4DQr)
 {.links-list}
 
 ## Citations
