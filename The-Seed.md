@@ -2,7 +2,7 @@
 title: The SEED
 description: Curation of genomic data is done by an expert annotator across many genomes, via the curation of subsystems. FIGfams are extracted from the curated subsystems, which form the core component of RAST automated annotation.
 published: true
-date: 2020-05-07T13:18:57.999Z
+date: 2020-05-08T17:47:23.812Z
 tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
@@ -14,18 +14,22 @@ tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea,
 > May 7, 2020: RAST Annotation server is currently recovering from a storage-server crash (Feb 25, 2020) but anticipates it will be able to recover user jobs/access to jobs.
 >
 > May 7, 2020: The Metagenomics RAST server (metagenomics.nmpdr.org) is currently unreachable.
+>
+> May 8, 2020: PubSEED appears to be the only currently usable SEED.
 {.is-warning}
 
 ## User Notes
 
-> Accessing many of the databases is blocked, indicating that they are "unsecure." To overcome this, users can .... to be finished -5/7/20 JTB
+- Accessing many of the databases is blocked, indicating that they are "unsecure." To overcome this, users can normally change "http://" to "https://" ... Although this was not the case on 5/7/2020 or 5/8/2020 JTB.
+- 
+
 
 ## Website
 
-- [The SEED *Home Page*](http://www.theseed.org/wiki/Main_Page)
+- [The SEED *Home Page*](https://www.theseed.org/wiki/Main_Page)
 - [RAST *RAST Annotation Server*](https://rast.nmpdr.org/)
 - [pubSEED *PubSEED Viewer*](https://pubseed.theseed.org/)
-- [PATRIC SEED *PATRIC SEED Viewer*](http://pseed.theseed.org/)
+- [PATRIC SEED *PATRIC SEED Viewer*](https://pseed.theseed.org/)
 - [ModelSEED *Metabolic Model SEED Database*](https://modelseed.org/)
 - [SEED-Viewer *Read Only SEED-Viewer*](https://seed-viewer.theseed.org/)
 {.links-list}
