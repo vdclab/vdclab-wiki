@@ -2,7 +2,7 @@
 title: The SEED
 description: An open source environment for comparative genomics and genomic curation.
 published: true
-date: 2020-05-08T18:09:18.500Z
+date: 2020-05-08T18:11:23.013Z
 tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
@@ -15,6 +15,10 @@ tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea,
 >
 > May 7, 2020: The Metagenomics RAST server (metagenomics.nmpdr.org) is currently unreachable.
 {.is-warning}
+
+## Ease of Use
+
+> Many of the SEED websites and databases are obsolete with dead links and there is an alternative glitch when loading the SEED-viewers securely, making this database relatively difficult to use. 
 
 ## User Notes
 
