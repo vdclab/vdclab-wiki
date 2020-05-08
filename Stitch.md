@@ -2,18 +2,30 @@
 title: Stitch
 description: Chemical-Protein Interaction Networks
 published: true
-date: 2020-04-06T18:22:50.623Z
-tags: 
+date: 2020-05-08T13:12:16.502Z
+tags: proteins, database
 ---
 
 # STITCH
 
-> STITCH is a database of known and predicted interactions between chemicals and proteins. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases.
+> STITCH is a database of known and predicted interactions between chemicals and proteins. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. STITCH data is derived from 5 main sources: Genomic context predictions, High-throughput lab experiments, Conserved co-expression, Automated textmining, previously published knowledge in databases. 
 {.is-info}
+
+## Ease of Use
+> This website can be used to quickly and easily gather a wide range of information. 
+{.is-info}
+
+## User Notes
+- STITCH data is based on STRING data. 
+- You can search for individual proteins, protein families (using COGs) and chemical structures (using SMILES strings).
+- In the "Settings" tab you can choose whether your network edges (which represent the predicted associations) are shown as type of evidence, confidence strengths, predicted molecular actions, or binding affinities. This is also where you adjust your confidence limit and choose which types of evidence you want to use in your search (for example, you can exclude textmining evidence).
+- The default view of your search is of the interaction network but much more information can be gathered by switching your viewer, clicking on nodes and edges, exploring the "Legend" and "Analysis" tabs, etc (see "STICH Help" page).
+
 
 ## Website
 
 - [STITCH *Main Page*](http://stitch.embl.de/)
+- [STITCH Help *Help Page*](http://stitch.embl.de/cgi/help.pl?UserId=RDA7p4JKrmcO&sessionId=4oaYXJLZvZjb)
 {.links-list}
 
 ## Citations
