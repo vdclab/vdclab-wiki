@@ -1,27 +1,25 @@
 ---
 title: The SEED
-description: Curation of genomic data is done by an expert annotator across many genomes, via the curation of subsystems. FIGfams are extracted from the curated subsystems, which form the core component of RAST automated annotation.
+description: An open source environment for comparative genomics and genomic curation.
 published: true
-date: 2020-05-08T17:47:23.812Z
+date: 2020-05-08T18:09:18.500Z
 tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
 # The SEED
 
-> With the growing number of available genomes, the need for an environment to support effective comparative analysis increases. The original SEED Project was started in 2003 by the Fellowship for Interpretation of Genomes (FIG) as a largely unfunded open source effort. Argonne National Laboratory and the University of Chicago joined the project, and now much of the activity occurs at those two institutions (as well as the University of Illinois at Urbana-Champaign, Hope college, San Diego State University, the Burnham Institute and a number of other institutions). The cooperative effort focuses on the development of the comparative genomics environment called the SEED and, more importantly, on the development of curated genomic data.
+> The SEED is the product of a cooperative effort between Argonne National Laboratory, The University of Chicago, University of Illinois at Urbana-Champaign, Hope College, San Diego State University, The Burnham Institute, and a number of other institutions that focuses on the development of the comparative genomics environment (the SEED) and, more importantly, on the development of curated genomic data. Curation of genomic data is done by an expert annotator across many genomes, via the curation of subsystems. FIGfams are extracted from the curated subsystems, which form the core component of RAST automated annotation.
 {.is-info}
 
 > May 7, 2020: RAST Annotation server is currently recovering from a storage-server crash (Feb 25, 2020) but anticipates it will be able to recover user jobs/access to jobs.
 >
 > May 7, 2020: The Metagenomics RAST server (metagenomics.nmpdr.org) is currently unreachable.
->
-> May 8, 2020: PubSEED appears to be the only currently usable SEED.
 {.is-warning}
 
 ## User Notes
 
 - Accessing many of the databases is blocked, indicating that they are "unsecure." To overcome this, users can normally change "http://" to "https://" ... Although this was not the case on 5/7/2020 or 5/8/2020 JTB.
-- 
+- May 8, 2020: Currently, PubSEED appears to be the only easily accessible/usable SEED-Viewer.
 
 
 ## Website
@@ -29,9 +27,14 @@ tags: annotation, genomes, metagenomics, metagenomes, annotation tools, archaea,
 - [The SEED *Home Page*](https://www.theseed.org/wiki/Main_Page)
 - [RAST *RAST Annotation Server*](https://rast.nmpdr.org/)
 - [pubSEED *PubSEED Viewer*](https://pubseed.theseed.org/)
-- [PATRIC SEED *PATRIC SEED Viewer*](https://pseed.theseed.org/)
 - [ModelSEED *Metabolic Model SEED Database*](https://modelseed.org/)
+{.links-list}
+
+Currently Unavailable (May 8, 2020)
+- [PATRIC SEED *PATRIC SEED Viewer*](https://pseed.theseed.org/)
 - [SEED-Viewer *Read Only SEED-Viewer*](https://seed-viewer.theseed.org/)
+- [UChicago SEED *University of Chicago SEED-Viewer*](http://theseed.uchicago.edu/FIG/index.cgi)
+- [Metagenomics RAST Server *RAST Metagenomics Annotation*](http://metagenomics.nmpdr.org/)
 {.links-list}
 
 ## Help
