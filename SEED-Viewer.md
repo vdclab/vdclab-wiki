@@ -2,11 +2,11 @@
 title: SEED-Viewer
 description: Read-only access to the latest curated datasets.
 published: true
-date: 2020-05-09T16:10:12.600Z
+date: 2020-05-09T16:10:35.434Z
 tags: annotation, genomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
-# The SEED
+# The SEED-Viewer
 
 > The SEED is the product of a cooperative effort between Argonne National Laboratory, The University of Chicago, University of Illinois at Urbana-Champaign, Hope College, San Diego State University, The Burnham Institute, and a number of other institutions that focuses on the development of the comparative genomics environment (the SEED) and, more importantly, on the development of curated genomic data. Curation of genomic data is done by an expert annotator across many genomes, via the curation of subsystems. FIGfams are extracted from the curated subsystems, which form the core component of RAST automated annotation.
 >
