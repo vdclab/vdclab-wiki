@@ -2,8 +2,8 @@
 title: SubtiWiki
 description: SubtiWiki is based on a relational database and provides access to published information about the genes and proteins of B. subtilis and about metabolic and regulatory pathways.
 published: true
-date: 2020-05-09T15:38:37.772Z
-tags: wiki, tool, genome browser, resource center, database, browser, metabolic pathways, model organism, omics, networks
+date: 2020-05-09T16:01:32.705Z
+tags: wiki, community, tool, genome browser, resource center, database, browser, metabolic pathways, model organism, omics, networks
 ---
 
 # SubtiWiki
