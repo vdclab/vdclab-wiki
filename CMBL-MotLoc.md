@@ -2,8 +2,8 @@
 title: Computational Microbiology Laboratory Motif Locator
 description: Uses aligned set of DNA sequence motifs (no gaps, all motifs of the same length) and finds similar motifs in the analyzed sequence. Uses position specific score matrix (PSSM) representation of the motif.
 published: true
-date: 2020-05-11T19:56:21.003Z
-tags: tool, sequence alignment, align
+date: 2020-05-11T19:59:13.470Z
+tags: tool, sequence analysis, 2008, motif
 ---
 
 # Computational Microbiology Laboratory Motif Locator
