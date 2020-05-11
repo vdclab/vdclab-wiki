@@ -2,8 +2,8 @@
 title: PRODORIC
 description: PRODORIC® is a comprehensive database about gene regulation and gene expression in prokaryotes.
 published: true
-date: 2020-04-08T19:26:37.337Z
-tags: 
+date: 2020-05-11T18:11:57.905Z
+tags: proteins, database, gene
 ---
 
 # PRODORIC
@@ -25,9 +25,18 @@ More recently PRODORIC was extended to handle protein-protein interactions and s
 ## Website
 
 - [PRODORIC *Main Page*](http://www.prodoric.de/)
+- [Brief Introduction *Help Section*](http://www.prodoric.de/index.php?index=2)
 {.links-list}
+
+## Notes from Users
+> not updated since 2008
+{.is-warning}
+
+## Ease of use
+
 
 ## Citation
 
-- Münch,R., Hiller,K., Barg,H., Heldt,D., Linz,S., Wingender,E. & Jahn,D. (2003) [PRODORIC: prokaryotic database of gene regulation.](https://www.ncbi.nlm.nih.gov/pubmed/12519998?dopt=Abstract) Nucleic Acids Res. 31, 266-269.
+- Münch,R., Hiller,K., Barg,H., Heldt,D., Linz,S., Wingender,E. & Jahn,D. (2003) [PRODORIC: prokaryotic database of gene regulation.](https://academic.oup.com/nar/article/31/1/266/2401239) Nucleic Acids Res. 31, 266-269.
+- Grote A, Klein J, Retter I, Haddad I, Behling S, Bunk B, Biegler I, Yarmolinetz S, Jahn D, Münch R. (2009) [PRODORIC (release 2009): a database and tool platform for the analysis of gene regulation in prokaryotes.](https://academic.oup.com/nar/article/37/suppl_1/D61/1014066) Nucleic Acids Res. Jan;37(Database issue):D61-5.
 {.grid-list}
