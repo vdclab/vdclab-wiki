@@ -2,7 +2,7 @@
 title: RibEx: Riboswitch Explorer
 description: A web-server for the prediction of riboswitches and other conserved regulatory elements.
 published: true
-date: 2020-05-11T17:36:47.107Z
+date: 2020-05-11T17:47:48.912Z
 tags: sequencing projects, tool
 ---
 
@@ -23,5 +23,6 @@ tags: sequencing projects, tool
 
 ## Citation
 
+- Abreu-Goodger C, Ontiveros-Palacios N, Ciria R, Merino E (2004). [Conserved regulatory motifs in bacteria: riboswitches and beyond.](https://www.cell.com/trends/genetics/fulltext/S0168-9525(04)00222-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952504002227%3Fshowall%3Dtrue) Trends Genet. 2004 Oct;20(10):475-9.
 - Abreu-Goodger, C., & Merino, E. (2005). [RibEx: a web server for locating riboswitches and other conserved bacterial regulatory elements.](https://academic.oup.com/nar/article/33/suppl_2/W690/2505622) Nucleic acids research, 33(suppl_2), W690-W692.
 {.grid-list}
