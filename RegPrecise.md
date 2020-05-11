@@ -2,8 +2,8 @@
 title: RegPrecise
 description: The RegPrecise is a database for capturing, visualization and analysis of transcription factor regulons that were reconstructed by the comparative genomic approach in a wide variety of prokaryotic genomes.
 published: true
-date: 2020-05-11T15:00:54.249Z
-tags: genomics, dna, database, model organism, 2013, logo
+date: 2020-05-11T15:29:41.285Z
+tags: genomics, dna, database, model organism, 2013, logo, transcription
 ---
 
 # RegPrecise
