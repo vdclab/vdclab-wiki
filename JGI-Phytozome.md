@@ -2,8 +2,8 @@
 title: Joint Genome Institute Phytozome
 description: Phytozome - a hub for accessing, visualizing and analyzing plant genomes.
 published: true
-date: 2020-04-06T18:30:44.846Z
-tags: 
+date: 2020-05-11T13:44:02.796Z
+tags: genomes, eukaryotes
 ---
 
 # Joint Genome Institute Phytozome
@@ -15,9 +15,19 @@ As of release v12.1.6, Phytozome hosts 93 assembled and annotated genomes, from 
 All gene sets in Phytozome have been annotated with KOG, KEGG, ENZYME, Pathway and the InterPro family of protein analysis tools. Inparanoid pairwise orthology and paralogy groups have been calculated across all Phytozome proteomes. Families of related genes representing the modern descendants of putative ancestral genes are constructed at key phylogenetic nodes. These families provide additional insight into clade-specific orthology/paralogy relationships as well as clade-specific novelties and expansions. Search and visualization tools let users quickly find and analyze genes or genomic regions of interest. Query-based data access is provided by Phytozome's InterMine and BioMart instances, while bulk data sets can be accessed via the JGI's Genome Portal. JBrowse genome browsers are available for all genomes.
 {.is-info}
 
+## Notes from user
+- Good for Plant phylogenetic queries
+- New plant genomes are added regularly
+- Many integrated tools for browsing plant genomes
+- Poor user interface and graphics (vastly improved in v13)
+
+## Ease of use
+> The site is somewhat "clunky" and has an outdated appearance but there are help tutorials. An updated version (v13) is available as an alternative.
+
 ## Website
 
 - [JGI Phytozome *Main Page*](https://phytozome.jgi.doe.gov/pz/portal.html)
+- [JGI Phytozome *v13*](https://phytozome-next.jgi.doe.gov/)
 {.links-list}
 
 ## Citation
