@@ -2,14 +2,23 @@
 title: ModelSEED
 description: ModelSEED is a resource for the reconstruction, exploration, comparison, and analysis of metabolic models.
 published: true
-date: 2020-04-14T19:22:44.959Z
-tags: 
+date: 2020-05-11T15:39:30.194Z
+tags: tool, metabolic reconstruction
 ---
 
 # ModelSEED
 
 > ModelSEED is a resource for the reconstruction, exploration, comparison, and analysis of metabolic models.
 {.is-info}
+
+## Notes from user
+- Forms theoretical models of metabolic states of organisms, given a user specified media
+- Good for finding genes involved with metabolism of a specified nutrient
+
+
+## Ease of use
+> Generating a model is simple, just select an organism and a media. Analysis of the results can be cluttered and hard to understand.
+
 
 ## Website
 
