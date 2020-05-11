@@ -2,8 +2,8 @@
 title: Genoscope Phyloprofile Exploration
 description: 
 published: true
-date: 2020-05-11T17:45:18.122Z
-tags: genomes, annotation tools
+date: 2020-05-11T17:46:01.166Z
+tags: genomes, tool, comparative genomics, sequence similarity, homolog discovery, homology, gene neighborhood
 ---
 
 # Genoscope Phyloprofile Exploration
