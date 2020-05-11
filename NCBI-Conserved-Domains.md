@@ -2,8 +2,8 @@
 title: NCBI  Conserved Domains and Protein Classification
 description: Contains resources that can be used to help elucidate protein function.
 published: true
-date: 2020-04-15T19:05:59.726Z
-tags: 
+date: 2020-05-11T16:13:29.860Z
+tags: resource center
 ---
 
 # NCBI  Conserved Domains and Protein Classification
@@ -22,6 +22,14 @@ tags:
 &NewLine;
 **Subfamily Protein Architecture Labeling Engine (SPARCLE)**: The Subfamily Protein Architecture Labeling Engine (SPARCLE) is a resource for the functional characterization and labeling of protein sequences that have been grouped by their characteristic domain architecture.
 {.is-info}
+
+## Ease of use
+> Outdated web design but a useful tool for finding protein domains in either DNA or Amino acid sequences. Should be the first tool used to identify protien domains.
+
+## Notes from user
+- Multiple tools are avilable form the CDD page on NCBI.
+- If you know what type of data you need, picking the right tool is easier.
+- The tools are simple to use but have many advance settings for in-depth searches. 
 
 ## Website
 
