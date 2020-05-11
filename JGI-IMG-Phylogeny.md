@@ -2,7 +2,7 @@
 title: JGI - Integrated Microbial Genomes Phylogeny 
 description: 
 published: true
-date: 2020-05-11T17:38:47.537Z
+date: 2020-05-11T17:39:08.998Z
 tags: genomes, tool, comparative genomics, sequence similarity, homolog discovery, homology, gene neighborhood
 ---
 
