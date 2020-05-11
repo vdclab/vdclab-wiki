@@ -2,7 +2,7 @@
 title: CollecTF
 description: CollecTF is a database of transcription factor binding sites (TFBS) in the Bacteria domain.
 published: true
-date: 2020-05-11T15:28:58.533Z
+date: 2020-05-11T15:32:01.467Z
 tags: resource reference, dna, database, 2015, 2016, 2013, logo, transcription
 ---
 
