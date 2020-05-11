@@ -2,8 +2,8 @@
 title: NCBI  Conserved Domains and Protein Classification
 description: Contains resources that can be used to help elucidate protein function.
 published: true
-date: 2020-05-11T16:13:29.860Z
-tags: resource center
+date: 2020-05-11T16:15:48.414Z
+tags: annotation tools, sequence analysis, analysis tools, resource center, protein family, protein domain
 ---
 
 # NCBI  Conserved Domains and Protein Classification
