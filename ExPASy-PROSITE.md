@@ -2,7 +2,7 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-05-07T12:04:30.696Z
+date: 2020-05-13T20:51:19.662Z
 tags: proteins, analysis tools, database, protein family, function
 ---
 
@@ -17,7 +17,7 @@ tags: proteins, analysis tools, database, protein family, function
 
 ## Notes from users 
 - Part of the suite of protein analysis tools available from ExPASy.
-- This is really the only plave to extract "motifs" in some type of standard format that can used in Phi Blast
+- This is really the only place to extract "motifs" in some type of standard format that can used in Phi Blast
 - Good visuals as also generates Logos
 
 ## Ease of use
