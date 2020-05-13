@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-13T16:07:25.167Z
+date: 2020-05-13T16:56:52.703Z
 tags: reference, resource reference
 ---
 
@@ -10,6 +10,10 @@ tags: reference, resource reference
 
 > Here you can find a selection of the tools and website presented on this wiki. The selection is based on the favorite websites of Valérie de Crécy.
 {.is-info}
+
+# Alignment
+
+- [EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
 
 # Annotation
 
