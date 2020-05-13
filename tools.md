@@ -2,11 +2,16 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T16:37:06.943Z
+date: 2020-05-13T16:58:16.676Z
 tags: category
 ---
 
 # Tools
+
+## Alignment tools
+
+- [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+{.links-list}
 
 ## Analysis Tools
 
