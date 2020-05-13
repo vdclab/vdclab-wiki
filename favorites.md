@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-13T23:21:36.118Z
+date: 2020-05-13T23:37:52.240Z
 tags: reference, resource reference
 ---
 
@@ -42,6 +42,7 @@ tags: reference, resource reference
 # Phylogeny
 
 - [NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
+- [OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/OrthoInspector/)
 {.links-list}
 
 # Ressources
