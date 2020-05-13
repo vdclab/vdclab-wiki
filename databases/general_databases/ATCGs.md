@@ -2,8 +2,8 @@
 title: ATGCs (Alignable Tight Genomic Clusters)
 description: A catalog of closely related prokaryotic genomes
 published: true
-date: 2020-04-29T14:51:58.774Z
-tags: 
+date: 2020-05-13T18:51:55.646Z
+tags: reference, aggregator, annotation, genomics, archaea, bacteria, genes, cog, evolution, comparative genomics
 ---
 
 # ATGCs (Alignable Tight Genomic Clusters)
@@ -17,7 +17,12 @@ tags:
 {.links-list}
 
 ## Notes from users 
-The ATGC list shows all the ATGCs available to view in the left column, along with additional data for each ATGC  to help identify ATGCs the user might want to study. The ATGC list can be downloaded as a CSV file and viewed in other programs.
+- The ATGC list shows all the ATGCs available to view in the left column, along with additional data for each ATGC to help identify ATGCs the user might want to study. 
+- The ATGC list can be downloaded as a CSV file and viewed in other programs.
+- **Alignable** => each organism shares >85% of its BLAST symmetric best-matches with at least one other organism in the same ATGC.
+- **Tight** => every organism in an ATGC is constrained to have synonymous substitution rate dS<1.5 in an ultrametric tree constructed from all the members in that ATGC.
+- **Genomic** => ATGCs are groupings of complete genomic assemblies (no partial assemblies allowed).
+- **Clusters** => ATGCs consist of ≥2 genome assemblies.
 
 
 ## Ease of use 
