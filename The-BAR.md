@@ -2,7 +2,7 @@
 title: The Bio-Analytic Resource for Plant Biology
 description: Web-based tools for visualizing functional genomics and other data.
 published: true
-date: 2020-05-13T16:15:44.738Z
+date: 2020-05-13T16:16:47.087Z
 tags: genomes, annotation tools, tool, genes, proteins, eukaryotes, transcriptomics, sequence annotation, gene expression
 ---
 
