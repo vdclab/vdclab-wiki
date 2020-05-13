@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-13T23:14:13.554Z
+date: 2020-05-13T23:14:20.490Z
 tags: category
 ---
 
@@ -13,7 +13,7 @@ tags: category
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 {.links-list}
 
-## Database searches
+## Database Searches
 
 - [Bio.tools *comprehensive registry of software and databases*](https://vdclab-wiki.herokuapp.com/databases/database_searches/biotools/)
 {.links-list}
