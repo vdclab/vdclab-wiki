@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T16:58:16.676Z
+date: 2020-05-13T17:29:44.757Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## Alignment tools
 
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+- [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
 ## Analysis Tools
