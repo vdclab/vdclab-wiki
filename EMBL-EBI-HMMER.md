@@ -2,8 +2,8 @@
 title: European Bioinformatics Institute HMMER
 description: The HMMER web server: fast and sensitive homology searches. This site has been designed to provide near interactive searches for most queries, coupled with intuitive and interactive results visualisations.
 published: true
-date: 2020-04-27T14:03:06.707Z
-tags: 
+date: 2020-05-13T15:59:21.789Z
+tags: taxonomy, tool, hmm profile, hmm
 ---
 
 # European Bioinformatics Institute (EBI) HMMER
@@ -20,7 +20,9 @@ tags:
 - Also has taxonomy visualization, active site prediction
 
 ## Help
-[General EMBL-EBI Contact](https://www.ebi.ac.uk/support/hmmer) 
+
+- [General EMBL-EBI *Contact*](https://www.ebi.ac.uk/support/hmmer) 
+{.links-list}
 
 ## Citations
 
