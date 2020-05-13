@@ -2,8 +2,8 @@
 title: ALGAEpath Coexpression analysis
 description: Comparative transcriptome analysis inferring functional pathways for Green Algae 
 published: true
-date: 2020-04-07T19:53:09.255Z
-tags: 
+date: 2020-05-13T15:32:20.587Z
+tags: genes, database, transcriptomics
 ---
 
 # ALGAEpath Coexpression Analysis
@@ -12,6 +12,17 @@ tags:
 &NewLine;
 Here, AlgaePath uses Pearson correlation coefficient (PCC) and Spearman's rank correlation coefficient based on Variance-Stabilizing Transformation (VST) normalization to generate correlation results.
 {.is-info}
+
+## Notes from user
+- Data and genes are limited to Chlamydomonas reinhardtii
+- Gene expression tools, pathway visualization, gene ontology grouping, and BLAST integration.
+- Hasn't been updated since 2014
+- Data visualization tools don't seem to work properly
+
+## Ease of use
+> This website needs some upkeep before use. The tools seem like they would be good visualization tools for expression data and metabolic pathways but they didn't work when I tried them. The user interface is not bad but the specific results hidden behind several pages that the user needs to navigate.
+
+
 
 ## Website
 
