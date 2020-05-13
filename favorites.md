@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-13T18:24:39.485Z
+date: 2020-05-13T18:38:53.875Z
 tags: reference, resource reference
 ---
 
@@ -69,5 +69,8 @@ tags: reference, resource reference
 - [NCBI *Tutorial page*](https://vdclab-wiki.herokuapp.com/trainings-tutorials/tutorials/NCBI-tutorials/)
 {.links-list}
 
+# Visualization
 
+- [Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
+{.links-list}
 
