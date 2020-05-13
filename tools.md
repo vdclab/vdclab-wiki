@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T19:23:28.287Z
+date: 2020-05-13T23:35:45.811Z
 tags: category
 ---
 
@@ -20,13 +20,15 @@ tags: category
 
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [:star: MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
+- [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 {.links-list}
 
 ## Creating Or Finding Sequence Logos
 
-- [:star: WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
 - [:star: Skylign *Creating logos representing both sequence alignments and profile hidden Markov models*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/Skylign)
+- [:star: WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
 {.links-list}
 
 ## Database Linker
@@ -50,6 +52,7 @@ tags: category
 ## Phylogeny Tools
 
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
+- [:star: OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/OrthoInspector/)
 {.links-list}
 
 ## Phylogenetic Distribution Tools
