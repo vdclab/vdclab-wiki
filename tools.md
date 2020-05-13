@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T17:29:44.757Z
+date: 2020-05-13T18:41:55.563Z
 tags: category
 ---
 
@@ -10,7 +10,9 @@ tags: category
 
 ## Alignment tools
 
+- [Clustal Omega *MSA program that uses seeded guide trees and HMM profile-profile techniques*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA-ClustalOmega)
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+- [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
@@ -19,6 +21,11 @@ tags: category
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
+{.links-list}
+
+## Creating Or Finding Sequence Logos
+
+- [WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
 {.links-list}
 
 ## Database Linker
