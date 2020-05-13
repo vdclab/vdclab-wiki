@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T23:35:45.811Z
+date: 2020-05-13T23:36:04.632Z
 tags: category
 ---
 
@@ -52,6 +52,7 @@ tags: category
 ## Phylogeny Tools
 
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
+- [:star: NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 - [:star: OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/OrthoInspector/)
 {.links-list}
 
