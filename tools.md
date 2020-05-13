@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-07T00:25:58.517Z
+date: 2020-05-13T16:37:06.943Z
 tags: category
 ---
 
@@ -25,6 +25,12 @@ tags: category
 ## Data formatting
 
 - [EMBOSS Seqret *Extracting sequences from databases, displaying sequences, reformatting sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/EMBOSS-Seqret)
+{.links-list}
+
+## Gene finders
+
+- [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+- [BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 {.links-list}
 
 ## Phylogeny Tools
