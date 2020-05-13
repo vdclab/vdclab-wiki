@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-13T19:23:43.717Z
+date: 2020-05-13T23:21:36.118Z
 tags: reference, resource reference
 ---
 
@@ -61,6 +61,7 @@ tags: reference, resource reference
 - [bioDBnet-db2db *Database to Database Conversions*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/bioDBnet-db2db)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+- [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [Skylign *Creating logos representing both sequence alignments and profile hidden Markov models*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/Skylign)
 - [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
 - [WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
@@ -73,6 +74,7 @@ tags: reference, resource reference
 
 # Visualization
 
+- [BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
 - [Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 {.links-list}
 
