@@ -2,7 +2,7 @@
 title: BioGPS
 description: A free extensible and customizable gene annotation portal, a complete resource for learning about gene and protein function.
 published: true
-date: 2020-05-13T00:39:55.782Z
+date: 2020-05-13T00:40:43.732Z
 tags: annotation, genes, resource center, database, gene expression, model organism
 ---
 
