@@ -2,7 +2,7 @@
 title: PRABI-Doua: SeaView
 description: SeaView is a multiplatform, graphical user interface for multiple sequence alignment and molecular phylogeny.
 published: true
-date: 2020-05-07T11:59:32.047Z
+date: 2020-05-13T18:27:33.838Z
 tags: genomes, tool, sequence alignment, phylogeny, proteins, comparative genomics
 ---
 
@@ -17,13 +17,11 @@ SeaView computes phylogenetic trees using parsimony algorithms, evolutionary dis
 
 - This dialog window gives the settings to perform Maximum-Likelihood tree-building: 
 - Not web-based  but very powerful platform for more advanced tasks
--  [Maximum-Likelihood Tree-Building *Settings Demo*](http://doua.prabi.fr/software/seaview_data/PhyML-dialog.png)
-{.is-info}
+-  [Maximum-Likelihood Tree-Building](http://doua.prabi.fr/software/seaview_data/PhyML-dialog.png)
 
 ## Ease of Use
 
-> The SeaView website has a variety of screenshot examples and instructions available, as well as an extensively detailed help page (see below).
-{.is-info}
+- The SeaView website has a variety of screenshot examples and instructions available, as well as an extensively detailed help page (see below).
 
 ## Website
 
