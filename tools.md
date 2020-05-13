@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-13T18:41:55.563Z
+date: 2020-05-13T19:23:28.287Z
 tags: category
 ---
 
@@ -25,7 +25,8 @@ tags: category
 
 ## Creating Or Finding Sequence Logos
 
-- [WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
+- [:star: WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
+- [:star: Skylign *Creating logos representing both sequence alignments and profile hidden Markov models*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/Skylign)
 {.links-list}
 
 ## Database Linker
