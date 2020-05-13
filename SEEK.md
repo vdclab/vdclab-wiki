@@ -2,14 +2,22 @@
 title: SEEK
 description: SEEK is a computational gene co-expression search engine.
 published: true
-date: 2020-04-07T20:22:45.825Z
-tags: 
+date: 2020-05-13T00:20:48.818Z
+tags: genes, co-expression
 ---
 
 # SEEK
 
 > SEEK is a computational gene co-expression search engine. SEEK provides biologists with a way to navigate the massive human expression compendium that now contains thousands of expression datasets. SEEK returns a robust ranking of co-expressed genes in the biological area of interest defined by the user's query genes. In the meantime, it also prioritizes thousands of expression datasets according to the user's query of interest. The unique strengths of SEEK include its support for multi-gene query and cross-platform analysis, as well as its rich visualization features.
 {.is-info}
+
+## Notes from user
+- Tutorials are available, under documentation and help
+- Queries can be single genes or lists. Queries are entered as gene symbols
+- SEEK automatically lists correlated genes based on Co-expression scores
+
+## Ease of use
+> Great data visualization of human gene expression data. They provide clear explanations of the Co-expression calulations, color codes for data visualization, and dataset conditions. Dropdown boxes make data curation simple. 
 
 ## Website
 
