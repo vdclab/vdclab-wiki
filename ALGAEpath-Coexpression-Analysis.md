@@ -2,8 +2,8 @@
 title: ALGAEpath Coexpression analysis
 description: Comparative transcriptome analysis inferring functional pathways for Green Algae 
 published: true
-date: 2020-05-13T15:32:20.587Z
-tags: genes, database, transcriptomics
+date: 2020-05-13T15:35:41.873Z
+tags: tool, genes, database, eukaryotes, transcriptomics, co-expression, clustering, gene expression
 ---
 
 # ALGAEpath Coexpression Analysis
