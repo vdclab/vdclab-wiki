@@ -2,7 +2,7 @@
 title: T-COFFEE 
 description: T-Coffee is a multiple sequence alignment package. You can use T-Coffee to align sequences or to combine the output of your favorite alignment methods (Clustal, Mafft, Probcons, Muscle, etc.) into one unique alignment (M-coffee).
 published: true
-date: 2020-05-13T16:59:10.750Z
+date: 2020-05-13T17:09:07.641Z
 tags: tool, sequence alignment, proteins, dna, rna, structural alignment
 ---
 
@@ -25,7 +25,7 @@ Easy to use interface which combines tools
 
 ## Help
 
-- [Google Help Page](https://groups.google.com/forum/#!forum/tcoffee)
+- [Google *Help Page*](https://groups.google.com/forum/#!forum/tcoffee)
 {.links-list}
 
 ## Citations
