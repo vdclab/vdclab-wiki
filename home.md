@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-05-06T19:41:14.011Z
+date: 2020-05-13T16:55:31.994Z
 tags: 
 ---
 
@@ -10,6 +10,11 @@ tags:
 Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Valerie de Crecy.
 
 Below, you will find an interactive table illustrating the breadth, depth of content. (Really???)
+
+# Alignment
+
+- [Alignment website *List of website to align two or more sequences*](https://vdclab-wiki.herokuapp.com/en/alignment)
+{.links-list}
 
 # Annotation
 
