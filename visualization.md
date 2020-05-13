@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-05-13T18:33:11.558Z
+date: 2020-05-13T18:38:27.733Z
 tags: category
 ---
 
@@ -15,5 +15,6 @@ tags: category
 
 ## Data Visualization
 
+- [:star: Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 - [SeaView *Software to visualize alignment, create alignment and infer phylogeny*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PRABI-Doua-SeaView)
 {.links-list}
