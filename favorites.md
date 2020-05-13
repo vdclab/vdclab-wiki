@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-07T00:25:17.241Z
+date: 2020-05-13T16:00:47.978Z
 tags: reference, resource reference
 ---
 
@@ -32,6 +32,17 @@ tags: reference, resource reference
 - [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
 {.links-list}
 
+# Phylogeny
+
+- [NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
+{.links-list}
+
+# Ressources
+
+- [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
+- [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
+{.links-list}
+
 # Sequence Manipulation
 
 - [Nucleic Acid Sequence Massager *Tool to manipulate sequence(s) in fasta format*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/NA-Sequence-Massager)
@@ -50,9 +61,5 @@ tags: reference, resource reference
 - [NCBI *Tutorial page*](https://vdclab-wiki.herokuapp.com/trainings-tutorials/tutorials/NCBI-tutorials/)
 {.links-list}
 
-# Ressources
 
-- [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
-- [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
-{.links-list}
 
