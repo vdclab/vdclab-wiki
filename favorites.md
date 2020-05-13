@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-13T16:00:47.978Z
+date: 2020-05-13T16:07:25.167Z
 tags: reference, resource reference
 ---
 
@@ -53,6 +53,7 @@ tags: reference, resource reference
 
 - [bioDBnet-db2db *Database to Database Conversions*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/bioDBnet-db2db)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
 - [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
 {.links-list}
 
