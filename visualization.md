@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-05-14T00:18:35.796Z
+date: 2020-05-14T00:20:29.300Z
 tags: category
 ---
 
@@ -10,7 +10,7 @@ tags: category
 
 ## Genome Browsers Within Integrated Platforms
 
-- [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
+- [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 {.links-list}
 
 ## Data Visualization
