@@ -2,14 +2,27 @@
 title: Diurnal
 description: Diurnal is simply a database consisting of a number of array expression experiments with various genomes subjected to standard set of light and temperature conditions.
 published: true
-date: 2020-04-07T19:02:42.721Z
-tags: 
+date: 2020-05-14T13:17:12.384Z
+tags: tool, comparative genomics, data capture, database, gene, co-expression, data visualization, data export, eukaryota, correlation
 ---
 
 # Diurnal
 
-> Diurnal is a web-based tool for accessing the diurnal and circadian genome-wide expression results of genes from several array experiments conducted on common model plants. The expression patterns of particular loci or array probes can be looked up under a variety of different conditions. For each condition, every expression pattern has been modeled using a periodic pattern, which has then been used to estimate the phase of peak expression. These results can be accessed both graphically online and downloaded to your computer for further use.
+> Diurnal is a web-based tool that provides convenient access to circadian and diurnal genome-wide gene expression data from several array experiments conducted on several model plant species including; Arabidopsis thaliana, Brachypodium Distachyon, Oryza sativa, and Populus trichocarpa.  All of the rhythmic genes have been modeled, which you can interactively view online, or you can download the statistical results for use in your own studies.
+>
+>The expression patterns of particular loci or array probes can be looked up under a variety of different conditions. For each condition, every expression pattern has been modeled using a periodic pattern, which has then been used to estimate the phase of peak expression. These results can be accessed both graphically online and downloaded to your computer for further use.
 {.is-info}
+
+## Ease of Use
+
+> The website is simple and easy to use. 
+{.is-info}
+
+## User Notes
+- Diurnal accepts probe IDs or locus identifiers, but no other gene accessions. 
+- Diurnal has many conditions that can be compared for Arabidopsis thaliana, but fewer for the other plant genomes. 
+- Users are able to compare gene expression over time for multiple genes from one species between different conditions as well as between different plant species. 
+- There is no help page for the Diurnal tool.  If you encounter a problem or have a suggestion you can email the Mockler Lab (who hosts the tool) directly. 
 
 ## Website
 
