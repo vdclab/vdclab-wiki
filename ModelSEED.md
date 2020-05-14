@@ -2,7 +2,7 @@
 title: ModelSEED
 description: ModelSEED is a resource for the reconstruction, exploration, comparison, and analysis of metabolic models.
 published: true
-date: 2020-05-11T15:48:50.477Z
+date: 2020-05-14T11:19:00.200Z
 tags: genomes, tool, functional association, metabolic reconstruction, gene expression, metabolic pathways
 ---
 
@@ -12,8 +12,9 @@ tags: genomes, tool, functional association, metabolic reconstruction, gene expr
 {.is-info}
 
 ## Notes from user
-- Forms theoretical models of metabolic states of organisms, given a user specified media
-- Good for finding genes involved with metabolism of a specified nutrient
+- Forms theoretical models of metabolic states of organisms, given a user specified media.
+- Good for finding genes involved with metabolism of a specified nutrient.
+- Model SEED can also be run through the PATRIC platform.
 
 
 ## Ease of use
