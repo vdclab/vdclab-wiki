@@ -2,7 +2,7 @@
 title: Phyletic patterns in MicrobesOnline
 description: 
 published: true
-date: 2020-05-14T11:31:54.683Z
+date: 2020-05-14T11:32:03.498Z
 tags: genomes, tool, comparative genomics, co-occurrence, 2011
 ---
 
