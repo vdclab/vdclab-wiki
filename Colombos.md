@@ -2,8 +2,8 @@
 title: Colombos
 description: Colombos is a web based portal for exploring and analyzing comprehensive organism-specific cross-platform expression compendia of bacterial organisms.
 published: true
-date: 2020-05-14T19:11:49.995Z
-tags: annotation, bacteria, genes
+date: 2020-05-14T19:18:48.394Z
+tags: annotation, bacteria, tool, genes, analysis tools, co-expression, gene expression, network, enrichment, ontology
 ---
 
 # Colombos
@@ -28,7 +28,7 @@ tags: annotation, bacteria, genes
 ## User Notes
 - Relatively easy-to-use/-navigate interface
 - May require examination of the tutorials, as some jargon/terms or technical contexts will be unfamiliar to most users (see "tutorials" tab)
-- Organism-limited/-specific tools
+- Organism-limited/-specific tools (i.e., bacteria)
 
 
 
