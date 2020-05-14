@@ -2,7 +2,7 @@
 title: JGI - Integrated Microbial Genomes Phylogeny 
 description: 
 published: true
-date: 2020-05-11T17:39:08.998Z
+date: 2020-05-14T11:24:27.795Z
 tags: genomes, tool, comparative genomics, sequence similarity, homolog discovery, homology, gene neighborhood
 ---
 
@@ -12,8 +12,9 @@ tags: genomes, tool, comparative genomics, sequence similarity, homolog discover
 {.is-info}
 
 ## Notes from User
-- A good tool for comparing genomes between organisms 
-- Locus tags for genes are not standard
+- A good tool for comparing genomes between organisms. 
+- Locus tags for genes are not standard.
+- A go-to profiler because so many genomes are in the database.
 
 
 ## Ease of use
