@@ -2,7 +2,7 @@
 title: Stitch
 description: Chemical-Protein Interaction Networks
 published: true
-date: 2020-05-08T13:18:41.066Z
+date: 2020-05-14T11:12:46.539Z
 tags: annotation, archaea, bacteria, proteins, cog, comparative genomics, data capture, homolog discovery, database, homology, co-expression, data visualization, prediction, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction
 ---
 
@@ -20,6 +20,7 @@ tags: annotation, archaea, bacteria, proteins, cog, comparative genomics, data c
 - You can search for individual proteins, protein families (using COGs) and chemical structures (using SMILES strings).
 - In the "Settings" tab you can choose whether your network edges (which represent the predicted associations) are shown as type of evidence, confidence strengths, predicted molecular actions, or binding affinities. This is also where you adjust your confidence limit and choose which types of evidence you want to use in your search (for example, you can exclude textmining evidence).
 - The default view of your search is of the interaction network but much more information can be gathered by switching your viewer, clicking on nodes and edges, exploring the "Legend" and "Analysis" tabs, etc (see "STICH Help" page).
+- Beware of the association with Selenomethionine that often  comes up if their is a structure.
 
 
 ## Website
