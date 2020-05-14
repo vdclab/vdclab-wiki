@@ -1,13 +1,13 @@
 ---
-title: ProPhylo by MicrobesOnline
+title: Phyletic patterns in MicrobesOnline
 description: 
 published: true
-date: 2020-05-14T11:27:54.244Z
+date: 2020-05-14T11:31:54.683Z
 tags: genomes, tool, comparative genomics, co-occurrence, 2011
 ---
 
-# ProPhylo
-> ProPhylo, a high-performance software package for phylogenetic profiling studies through creating individually optimized protein family boundaries. ProPhylo provides precomputed databases for immediate use and tools for manipulating the taxonomic profiles used as queries.
+# Phyletic pattern in MicrobesOnline
+> As  part of the MicrobesOnline platform, searches for protein families that follow a specific phylogenetic ditsribution profile can be performed.
 {.is-info}
 
 ## Website
@@ -25,5 +25,5 @@ When your list of genomes is finished push the "Add present" or "Add absent" to 
 The tool is fairly easy to use as long as the genomes you want are in Microbs online. My only complain would be that when you want to add a genome to the present or absent list, you have to reselect all genome because it will juste replace your curent list.
 
 ## Citation
-- Basu, M. K., Selengut, J. D., & Haft, D. H. (2011). [ProPhylo: partial phylogenetic profiling to guide protein family construction and assignment of biological process.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-434) BMC bioinformatics, 12(1), 434.
+-  WRONG REF Basu, M. K., Selengut, J. D., & Haft, D. H. (2011). [ProPhylo: partial phylogenetic profiling to guide protein family construction and assignment of biological process.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-434) BMC bioinformatics, 12(1), 434.
 {.grid-list}
