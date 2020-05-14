@@ -2,7 +2,7 @@
 title: SEED-Viewer
 description: Read-only access to the latest curated datasets.
 published: true
-date: 2020-05-09T16:10:35.434Z
+date: 2020-05-14T11:08:49.124Z
 tags: annotation, genomes, annotation tools, archaea, bacteria, tool, comparative genomics, metabolic reconstruction, genome annotation, metabolism, metabolic pathways, curation, curated, model
 ---
 
@@ -22,6 +22,8 @@ tags: annotation, genomes, annotation tools, archaea, bacteria, tool, comparativ
 ## User Notes
 
 - May 8, 2020: Currently, PubSEED appears to be the only easily accessible/usable SEED-Viewer.
+- It is one of the best physical clustering tool 
+- It has not been updated since 2014 with around 10,000 genomes
 
 
 ## Website
