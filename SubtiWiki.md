@@ -2,7 +2,7 @@
 title: SubtiWiki
 description: SubtiWiki is based on a relational database and provides access to published information about the genes and proteins of B. subtilis and about metabolic and regulatory pathways.
 published: true
-date: 2020-05-09T16:01:32.705Z
+date: 2020-05-14T11:50:55.934Z
 tags: wiki, community, tool, genome browser, resource center, database, browser, metabolic pathways, model organism, omics, networks
 ---
 
@@ -18,8 +18,9 @@ tags: wiki, community, tool, genome browser, resource center, database, browser,
 
 ## Notes from User
 - Can map transcriptomic and proteomic data directly onto pathways 
-- App for phone: can browse genes (BLAST, phenotypes, etc.), regulons and metabolism. Easy to use and can contact community directly there 
-- Has list of labs working on B. subtilis, as well, on gene pages lists labs working on that gene/protein
+- App for phone: can browse genes (BLAST, phenotypes, etc.), regulons and metabolism. Easy to use and can contact community directly there. 
+- Has list of labs working on B. subtilis, as well, on gene pages lists labs working on that gene/protein.
+- Kept very up to date with new papers on B. subtilis gene function.
 
 
 ## Citation
