@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-05-14T00:18:54.993Z
+date: 2020-05-14T00:19:26.216Z
 tags: category
 ---
 
@@ -10,7 +10,7 @@ tags: category
 
 ## Computing & Programming
 
-- [*star* Bioinformatics Club Bioinformatics Course *Regular expression for Biology*](/trainings-tutorials/computing-programming/Bioinformatics-Club-Bioinformatics-Course/)
+- [:star: Bioinformatics Club Bioinformatics Course *Regular expression for Biology*](/trainings-tutorials/computing-programming/Bioinformatics-Club-Bioinformatics-Course/)
 {.links-list}
 
 ## Tutorials
