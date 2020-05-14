@@ -2,7 +2,7 @@
 title: NCBI Gene Expression Omnibus (GEO)
 description: GEO is a public functional genomics data repository supporting MIAME-compliant data submissions.
 published: true
-date: 2020-05-14T18:30:54.611Z
+date: 2020-05-14T18:31:34.819Z
 tags: projects, project library, database, gene expression, data export
 ---
 
