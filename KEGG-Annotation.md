@@ -2,8 +2,8 @@
 title:  KEGG Annotation
 description: KO-based annotation for linking genomes to phenotypes.
 published: true
-date: 2020-04-06T20:19:23.671Z
-tags: 
+date: 2020-05-14T12:33:25.752Z
+tags: annotation, genomes, metagenomes
 ---
 
 # KEGG Annotation
@@ -21,6 +21,9 @@ In general, KO entries (identified by K numbers) also represent sequence similar
 
 - [KEGG Annotation *Main Page*](https://www.genome.jp/kegg/annotation/)
 {.links-list}
+
+## User Notes
+- The tool to look a the distribution of lists of KO family is very useful.
 
 ## Citation
 
