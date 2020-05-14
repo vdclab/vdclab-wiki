@@ -2,7 +2,7 @@
 title: MicrobesOnline
 description: An integrated portal for comparative and functional genomics (Virtual Institute for Microbial Stress and Survival)
 published: true
-date: 2020-05-08T15:22:23.039Z
+date: 2020-05-14T11:05:36.374Z
 tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, bacteria, tool, 16s rrna, genome browser, evolution, comparative genomics, functional association, data capture, metabolic reconstruction, database, homology, fitness, browser, data visualization, sequence identity, metabolic pathways, data export, omics, eukaryota, curated, motif
 ---
 
@@ -27,6 +27,7 @@ tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, ba
 - You can access and download full genome information (including tRNA, rRNA and CRISPR/CRISPR spacer sequences and Pseudogene sequences derived from either RNA or protein-coding genes)
 - The database indexes genes by VIMSS gene IDs.
 - Performing a gene search gives you access to a huge amount of relevant information.
+- The genomes have not been updated since 2014, but still place that useful becasue it combines so much information espcially for the reference genomes.
 
 ## Website
 
