@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-13T23:14:20.490Z
+date: 2020-05-14T00:18:06.672Z
 tags: category
 ---
 
@@ -44,4 +44,17 @@ tags: category
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
+{.links-list}
+
+## Ortholog Databases
+
+- [KEGG Ortholog Cluster *Database of ortholog clusters (OCs) based on the whole genome comparison*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KEGG-OC)
+- [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
+{.links-list}
+
+## Unknown Gene/Enzyme Databases
+
+- [ADOMETA *Bioinformatics resource designed to predict genes for orphan metabolic activities*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/ADOMETA)
+- [:star: ORENZA *Accurate and up to date list of Enzyme Activities for which no sequences are available*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/ORENZA)
+- [:star: Orphan Enzyme Project *Associate an amino-acid sequence with every known orphan enzyme*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/Orphan-Enzymes)
 {.links-list}
