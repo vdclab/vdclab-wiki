@@ -2,7 +2,7 @@
 title: CyanoEXpress
 description: CyanoEXpress is a user-friendly web-server, which enables interactive exploration of curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803.
 published: true
-date: 2020-05-09T16:39:09.655Z
+date: 2020-05-14T11:53:13.671Z
 tags: data capture, rna, database, transcriptomics
 ---
 
@@ -19,10 +19,10 @@ Currently, CyanoEXpress comprises expression data from 753 microarray measuremen
 {.links-list}
 
 ## Notes from User
-- Can search by gene ID or description of protein 
-- [CyanoBase](http://genome.microbedb.jp/cyanobase) can be used to get genes IDs
-- Gene links on site take you to CyanoBase as well
-- CyanoBase s currently under construction! 
+- Can search by gene ID or description of protein. 
+- [CyanoBase](http://genome.microbedb.jp/cyanobase) can be used to get genes IDs.
+- Gene links on site take you to CyanoBase as well.
+- CyanoBase is currently under construction (May 2020)! 
 
 ## Help
 [Contacts listed at bottom of page](http://cyanoexpress.sysbiolab.eu)
