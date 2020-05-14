@@ -2,8 +2,8 @@
 title: ArrayExpress
 description: ArrayExpress Archive of Functional Genomics Data stores data from high-throughput functional genomics experiments, and provides these data for reuse to the research community.
 published: true
-date: 2020-04-14T21:13:08.063Z
-tags: 
+date: 2020-05-14T18:30:09.329Z
+tags: projects, project library, database, gene expression, data export
 ---
 
 # ArrayExpress
@@ -15,6 +15,11 @@ tags:
 
 - [ArrayExpress *Main Page*](https://www.ebi.ac.uk/arrayexpress/)
 {.links-list}
+
+## User Notes
+- Requires searches to be somewhat specific in order to be useful; browser permits for filtration by organism, as well as experiment, technology and array types
+- Database browser is quite large; community-driven library/database of experimental data
+
 
 ## Citation
 
