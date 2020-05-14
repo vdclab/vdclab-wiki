@@ -2,7 +2,7 @@
 title: Clustering and Functional Annotation over ChlamyNet
 description: ChlamyNET is a web-based tool for the exploration of a gene co-expression network representing the Chlamydomonas transcriptome under relevant physiolocial conditions.
 published: true
-date: 2020-05-13T15:35:37.672Z
+date: 2020-05-14T11:59:29.073Z
 tags: annotation, tool, genes, database, eukaryotes, transcriptomics, co-expression, gene expression
 ---
 
@@ -12,10 +12,10 @@ tags: annotation, tool, genes, database, eukaryotes, transcriptomics, co-express
 {.is-info}
 
 ## Notes from user
-- This database is limited to Chlamydomonas reinhardtii data
-- Offers a wealth of curated expression data for more accurate annotation
-- Genes are clustered based on Co-expression and organized into groups based on biological process (Gene-ontology)
-- R script is availabel for power users
+- This database is limited to Chlamydomonas reinhardtii data.
+- Offers a wealth of curated expression data for more accurate annotation.
+- Genes are clustered based on Co-expression and organized into groups based on biological process (Gene-ontology.
+- R script is available for power users.
 
 ## Ease of use
 > The single focus of this tool is to analyze gene expression data to annotate and group Chlamydomonas reinhardtii genes based on biological function. The site lacks a modern design but it's not hard to navigate and has video tutorials/case studies to demonstrate how to use the site. Offers many ways to visualize expression data for user selected genes.
