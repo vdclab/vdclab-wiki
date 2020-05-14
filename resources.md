@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-07T00:25:45.791Z
+date: 2020-05-14T00:09:09.885Z
 tags: category
 ---
 
@@ -17,6 +17,11 @@ tags: category
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FUNGIpath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+{.links-list}
+
+## Galaxy Resources
+
+- [Galaxy UF *Galaxy on UF*](https://vdclab-wiki.herokuapp.com/resources/galaxy/Galaxy-UF/)
 {.links-list}
 
 ## General Resources
