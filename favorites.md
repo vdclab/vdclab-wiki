@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-14T00:04:33.653Z
+date: 2020-05-14T00:18:20.288Z
 tags: reference, resource reference
 ---
 
@@ -30,6 +30,8 @@ tags: reference, resource reference
 - [JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
 - [JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
 - [KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [ORENZA *Accurate and up to date list of Enzyme Activities for which no sequences are available*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/ORENZA)
+- [Orphan Enzyme Project *Associate an amino-acid sequence with every known orphan enzyme*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/Orphan-Enzymes)
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 {.links-list}
