@@ -2,7 +2,7 @@
 title: NCBI  Conserved Domains and Protein Classification
 description: Contains resources that can be used to help elucidate protein function.
 published: true
-date: 2020-05-11T16:15:48.414Z
+date: 2020-05-14T11:21:33.507Z
 tags: annotation tools, sequence analysis, analysis tools, resource center, protein family, protein domain
 ---
 
@@ -24,12 +24,13 @@ tags: annotation tools, sequence analysis, analysis tools, resource center, prot
 {.is-info}
 
 ## Ease of use
-> Outdated web design but a useful tool for finding protein domains in either DNA or Amino acid sequences. Should be the first tool used to identify protien domains.
+> Outdated web design but a useful tool for finding protein domains in either DNA or Amino acid sequences. Should be the first tool used to identify protein domains.
 
 ## Notes from user
 - Multiple tools are avilable form the CDD page on NCBI.
 - If you know what type of data you need, picking the right tool is easier.
 - The tools are simple to use but have many advance settings for in-depth searches. 
+- The hidden similar architecture link is a great way to identify fusions.
 
 ## Website
 
