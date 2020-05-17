@@ -2,8 +2,8 @@
 title: OrthoDB
 description: The hierarchical catalog of orthologs mapping genomics to functional data
 published: true
-date: 2020-04-30T13:10:59.801Z
-tags: annotation, 2018, tool, phylogeny, database, phyolgeny, homology, 2010, orthology, protein family, 2015, 2016, 2012, 2007, data export, phy
+date: 2020-05-17T22:28:42.223Z
+tags: annotation, 2018, tool, phylogeny, database, homology, 2010, orthology, protein family, 2015, 2016, 2012, 2007, data export
 ---
 
 # OrthoDB
