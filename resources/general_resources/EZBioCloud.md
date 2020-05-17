@@ -2,7 +2,7 @@
 title: EZBioCloud
 description: A user-friendly search tool and genome browser for bacteria.
 published: true
-date: 2020-05-17T22:29:38.993Z
+date: 2020-05-17T22:30:00.770Z
 tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxonomy, sequence analysis, genes, 16s rrna, phylogeny, rdna, genome browser, microbiome, taxonomic profiling
 ---
 
@@ -19,10 +19,10 @@ tags: registry, annotation, genomics, genomes, metagenomics, metagenomes, taxono
 ## Notes from users 
 - A website with several cloud based services available that draw from several unique databases.
 - The tool focuses on taxonomic classifications
-- 
 
 ## Ease of use 
-> The website is divided into separate sections that the user can easily navigate though by using the tabs at the top of the site. The tabs navigate to either the Apps, Tools, or Resources pages.The website is pelasant to look at and easy to navigate which make it a good choice for in-depth genomics studies.
+
+The website is divided into separate sections that the user can easily navigate though by using the tabs at the top of the site. The tabs navigate to either the Apps, Tools, or Resources pages.The website is pelasant to look at and easy to navigate which make it a good choice for in-depth genomics studies.
 
 
 
