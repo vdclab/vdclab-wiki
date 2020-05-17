@@ -2,15 +2,15 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-04-23T18:51:13.341Z
-tags: 
+date: 2020-05-17T22:33:16.994Z
+tags: template, help
 ---
 
 # Name of the website
 
 > Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
-&NewLine;
-Plus if you need a blank line in the description you just put `&NewLine;` (edit the page to see what is the extra blank thing) and you have a blank line. It will no be pretty in the markdown but will be on the page
+>
+> Plus if you need a blank line in the description you just put `>` and you have a blank line. 
 {.is-info}
 
 > Month, Day, Year: Warning this a warning box in case there is a problem with the website like that we can see (explain the problem you encounter)
