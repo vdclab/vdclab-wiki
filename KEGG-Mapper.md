@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-18T17:56:47.442Z
+date: 2020-05-18T18:33:54.593Z
 tags: tool, resource center, database
 ---
 
@@ -15,11 +15,18 @@ tags: tool, resource center, database
 
 ## Website
 
-- [KEGG Mapper *Main Page*](https://www.genome.jp/kegg/tool/map_pathway2.html)
+- [KEGG Mapper *Main Page*](https://www.genome.jp/kegg/mapper.html)
+- [Reconstruct Pathway](https://www.genome.jp/kegg/tool/map_pathway.html)
+- [Search Pathway](https://www.genome.jp/kegg/tool/map_pathway1.html)
+- [Search&Color Pathway](https://www.genome.jp/kegg/tool/map_pathway2.html)
+- [Color Pathway](https://www.genome.jp/kegg/tool/map_pathway3.html)
+- [Join Brite](https://www.genome.jp/kegg/tool/map_brite3.html)
+- [Convert ID](https://www.kegg.jp/kegg/tool/conv_id.html)
+- [Annotate Sequence](https://www.kegg.jp/kegg/tool/annotate_sequence.html)
 {.links-list}
 
 ## Notes from Users
-
+- several tools
 ## Ease of use
 
 ## Citation
