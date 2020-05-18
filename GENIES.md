@@ -2,8 +2,8 @@
 title: Gene Network Inference Engine based on Supervised Analysis (GENIES)
 description: The GENIES enables us to predict potential functional associations between genes, based on other genomic data or high-throughput experimental data such as phylogenetic profiles and gene expression profiles.
 published: true
-date: 2020-05-18T15:01:49.041Z
-tags: genomes
+date: 2020-05-18T15:44:28.871Z
+tags: tool, metabolic reconstruction, mapping, metabolic pathways, 2012, 2005
 ---
 
 # Gene Network Inference Engine based on Supervised Analysis (GENIES)
@@ -17,6 +17,18 @@ tags: genomes
 - [GENIES *Main Page*](https://www.genome.jp/tools/genies/)
 - [Help *Help section*](https://www.genome.jp/tools/genies/help.html#ex)
 {.links-list}
+
+## Notes from Users
+- take a matrixes of data as an entry.
+- clickable and downloadable results.
+> Not updated since 2012, but linked to the update KEGG database
+{.is-warning}
+
+## Ease of use
+- two modes: simple and complex.
+- not very obvious tool.
+- requiere some training to be used.
+- not easy to go through the results.
 
 ## Citations
 
