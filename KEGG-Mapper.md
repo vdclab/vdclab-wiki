@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-18T20:16:14.660Z
+date: 2020-05-18T20:33:49.886Z
 tags: tool, resource center, database
 ---
 
@@ -26,24 +26,31 @@ tags: tool, resource center, database
 
 ## Notes from Users
 #### Reconstruct Pathway
-- take a table of KEGG KO number as entry (see example)
-- can take multiple organisms with the # separation (see example 2)
-- Get a result on KEGG Metabolic map, Brite and Modules
+- take a table of KEGG KO number as entry (see example).
+- can take multiple organisms with the # separation (see example 2).
+- Get a result on KEGG Metabolic map, Brite and Modules.
 #### Search Pathway
-- take different KEGG object to map them
-- same type of result as previous tool
+- take different KEGG object to map them.
+- same type of result as previous tool.
 #### Search&Color Pathway
-- same tool as above but you can specify colors
+- same tool as above but you can specify colors.
 #### Color Pathway
-- color chosen pathway
-- choose color depnding on input (see examples)
+- color chosen pathway.
+- choose color depnding on input (see examples).
 #### Join Brite
+- used to add a column of your choice to the Brite tables.
+- you need to be familiar with the Brite tables first.
 #### Convert ID
+- convert NCBI or Uniprot id to KO id.
 #### Annotate Sequence
+- enter a protein multifasta.
+- sequenced are annotated and mapped to the pathways.
 
 ## Ease of use
 - As all KEGG tools, it can be confusing at first.
 - Try with the provided examples to get familiar with the tools.
+> Easy to get the KO id with their convert ID tool.
+{.is-success}
 
 ## Citation
 - Kanehisa, M. and Sato, Y. (2020) [KEGG Mapper for inferring cellular functions from protein sequences.](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3711) Protein Sci. 29, 28-35.
