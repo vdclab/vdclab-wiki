@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-18T18:33:54.593Z
+date: 2020-05-18T19:33:04.430Z
 tags: tool, resource center, database
 ---
 
@@ -16,13 +16,13 @@ tags: tool, resource center, database
 ## Website
 
 - [KEGG Mapper *Main Page*](https://www.genome.jp/kegg/mapper.html)
-- [Reconstruct Pathway](https://www.genome.jp/kegg/tool/map_pathway.html)
-- [Search Pathway](https://www.genome.jp/kegg/tool/map_pathway1.html)
-- [Search&Color Pathway](https://www.genome.jp/kegg/tool/map_pathway2.html)
-- [Color Pathway](https://www.genome.jp/kegg/tool/map_pathway3.html)
-- [Join Brite](https://www.genome.jp/kegg/tool/map_brite3.html)
-- [Convert ID](https://www.kegg.jp/kegg/tool/conv_id.html)
-- [Annotate Sequence](https://www.kegg.jp/kegg/tool/annotate_sequence.html)
+- [Reconstruct Pathway *Annotation tool*](https://www.genome.jp/kegg/tool/map_pathway.html)
+- [Search Pathway *basic mapping tool*](https://www.genome.jp/kegg/tool/map_pathway1.html)
+- [Search&Color Pathway *advanced mapping tool*](https://www.genome.jp/kegg/tool/map_pathway2.html)
+- [Color Pathway *multiple coloring for mapping*](https://www.genome.jp/kegg/tool/map_pathway3.html)
+- [Join Brite *Mapping on Brite files*](https://www.genome.jp/kegg/tool/map_brite3.html)
+- [Convert ID *ID mapper to KEGGids*](https://www.kegg.jp/kegg/tool/conv_id.html)
+- [Annotate Sequence *Interface to BlastKoala in KEGG mapper*](https://www.kegg.jp/kegg/tool/annotate_sequence.html)
 {.links-list}
 
 ## Notes from Users
