@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-18T19:33:04.430Z
+date: 2020-05-18T19:35:22.933Z
 tags: tool, resource center, database
 ---
 
@@ -26,9 +26,16 @@ tags: tool, resource center, database
 {.links-list}
 
 ## Notes from Users
-- several tools
-## Ease of use
+#### Reconstruct Pathway
+#### Search Pathway
+#### Search&Color Pathway
+#### Color Pathway
+#### Join Brite
+#### Convert ID
+#### Annotate Sequence
 
+## Ease of use
+- As all KEGG tools, it can be confusing at first.
 ## Citation
 
 - Kanehisa, M. and Sato, Y. (2020) [KEGG Mapper for inferring cellular functions from protein sequences.](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3711) Protein Sci. 29, 28-35.
