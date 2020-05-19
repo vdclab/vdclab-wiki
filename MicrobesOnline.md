@@ -2,7 +2,7 @@
 title: MicrobesOnline
 description: An integrated portal for comparative and functional genomics (Virtual Institute for Microbial Stress and Survival)
 published: true
-date: 2020-05-14T14:08:16.110Z
+date: 2020-05-19T18:50:44.241Z
 tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, bacteria, tool, 16s rrna, genome browser, evolution, comparative genomics, functional association, data capture, metabolic reconstruction, database, homology, fitness, browser, data visualization, sequence identity, metabolic pathways, data export, omics, eukaryota, curated, motif
 ---
 
@@ -15,6 +15,12 @@ tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, ba
 >MicrobesOnline also includes fast phylogenetic profile searches, comparative views of metabolic pathways, operon predictions, a workbench for sequence analysis and integration with RegTransBase and other microbial genome resources, including Genome-Linked Application for Metabolic Maps (GLAMM) - a unified web interface for visualizing metabolic networks, reconstructing metabolic networks from annotated genome data, visualizing experimental data in the context of metabolic networks and investigating the construction of novel, transgenic pathways.
 {.is-info}
 
+## Website
+
+- [MicrobesOnline *Main Page*](http://microbesonline.org/)
+- [MicrobesOnline Help *Site Guide and Tutorial*](http://microbesonline.org/mo_siteguide_tutorial.pdf)
+- [GLAMM *Gene-Linked Application for Metabolic Maps*](glamm.lbl.gov)
+{.links-list}
 ## Ease of Use
 
 - The site is somewhat "clunky" looking and outdated with several obsolete/dead links, making it hard to use for exploratory purposes.
@@ -28,17 +34,12 @@ tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, ba
 - Performing a gene search gives you access to a huge amount of relevant information.
 - The genomes have not been updated since 2014, but still place that useful becasue it combines so much information espcially for the reference genomes.
 
-## Website
-
-- [MicrobesOnline *Main Page*](http://microbesonline.org/)
-- [MicrobesOnline Help *Site Guide and Tutorial*](http://microbesonline.org/mo_siteguide_tutorial.pdf)
-- [GLAMM *Gene-Linked Application for Metabolic Maps*](glamm.lbl.gov)
-{.links-list}
 
 ## Citation
-MicrobesOnline
+#### MicrobesOnline
 - Dehal, P. S., Joachimiak, M. P., Price, M. N., Bates, J. T., Baumohl, J. K., Chivian, D., ... & Dubchak, I. L. (2010). [MicrobesOnline: an integrated portal for comparative and functional genomics.](https://academic.oup.com/nar/article/38/suppl_1/D396/3112269) Nucleic acids research, 38(suppl_1), D396-D400.
+{.grid-list}
 
-GLAMM
+#### GLAMM
 - Bates, J. T., Chivian, D., & Arkin, A. P. (2011). [GLAMM: Genome-Linked Application for Metabolic Maps.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3125797/) Nucleic acids research, 39(Web Server issue), W400–W405. https://doi.org/10.1093/nar/gkr433
 {.grid-list}
