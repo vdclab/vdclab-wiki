@@ -2,21 +2,32 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-19T13:50:19.969Z
+date: 2020-05-19T14:19:08.648Z
 tags: tool
 ---
 
 # PathView
 
-> Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
+> Pathview maps, integrates and renders a wide variety of biological data on relevant pathway graphs.
 &NewLine;
-Plus if you need a blank line in the description you just put `&NewLine;` (edit the page to see what is the extra blank thing) and you have a blank line. It will no be pretty in the markdown but will be on the page
+Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 {.is-info}
 
 ## Website
 
 - [PathView *Main Page*](https://pathview.uncc.edu/)
+- [Help *Help section and Examples*](https://pathview.uncc.edu/overview)
+- [Tutoriel *Info to donwload and use the tool*](http://www.bioconductor.org/packages/release/bioc/vignettes/pathview/inst/doc/pathview.pdf)
 {.links-list}
+
+## Notes from Users
+- Possibility to donwload this tool and use it on local.
+- Possibility to login and save reuslts online.
+- Take a numerical table as entry, with gene ids in first column.
+- Take another numerical table as entry, with compounds ids in first column.
+- Both these gene ids can be from a variaety of database, to be selected.
+## Ease of use
+- Interactive Examples to learn to use the tool.
 
 ## Citations
 
