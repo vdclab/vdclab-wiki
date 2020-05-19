@@ -2,7 +2,7 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-19T14:19:08.648Z
+date: 2020-05-19T14:21:35.587Z
 tags: tool
 ---
 
@@ -26,8 +26,13 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 - Take a numerical table as entry, with gene ids in first column.
 - Take another numerical table as entry, with compounds ids in first column.
 - Both these gene ids can be from a variaety of database, to be selected.
+- Choose pathway
+- Choose colorations
+
 ## Ease of use
 - Interactive Examples to learn to use the tool.
+- After reading the Help section, very easy.
+- Simple to costumize at will.
 
 ## Citations
 
