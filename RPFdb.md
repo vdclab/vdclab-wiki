@@ -2,8 +2,8 @@
 title: RPFdb
 description: RPFdb is a public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data.
 published: true
-date: 2020-04-09T18:49:11.220Z
-tags: 
+date: 2020-05-19T18:19:41.750Z
+tags: 2019, rna, database, 2016
 ---
 
 # RPFdb
@@ -18,7 +18,16 @@ To explore the rich information provided by RPF, RPFdb also provides a genome br
 ## Website
 
 - [RPFdb *Main Page*](http://sysbio.gzzoc.com/rpfdb/index.html)
+- [Help *Help section*](http://sysbio.gzzoc.com/rpfdb/help.html)
 {.links-list}
+
+## Notes from Users
+- You have to be familiar with RPF to use this ressource.
+
+## Ease of use
+- easy to search informations.
+- easy to access to publications.
+- Easy to access the data.
 
 ## Citations
 
