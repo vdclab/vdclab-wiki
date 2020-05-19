@@ -2,15 +2,14 @@
 title: PaintOmics
 description: Paintomics is a web tool for the integrative visualization of multiple omic datasets onto KEGG pathways.
 published: true
-date: 2020-05-19T15:31:39.134Z
-tags: tool, data visualization
+date: 2020-05-19T15:36:03.172Z
+tags: tool, data visualization, mapping, metabolic pathways, 2011, 2016
 ---
 
 # PaintOmics
 
 > Paintomics is a web tool for the integrative visualization of multiple omic datasets onto KEGG pathways. Currently Paintomics supports integrated visualization of multiple species of different biological kingdoms and offers user the possibility to request any other organism present in the KEGG database.
 {.is-info}
-
 
 
 ## Website
