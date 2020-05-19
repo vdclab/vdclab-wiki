@@ -2,7 +2,7 @@
 title: MicrobesOnline
 description: An integrated portal for comparative and functional genomics (Virtual Institute for Microbial Stress and Survival)
 published: true
-date: 2020-05-19T18:59:06.811Z
+date: 2020-05-19T19:12:06.888Z
 tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, bacteria, tool, 16s rrna, genome browser, evolution, comparative genomics, functional association, data capture, metabolic reconstruction, database, homology, fitness, browser, data visualization, sequence identity, metabolic pathways, data export, omics, eukaryota, curated, motif
 ---
 
@@ -18,10 +18,15 @@ tags: annotation, genomics, genomes, metagenomics, annotation tools, archaea, ba
 ## Website
 
 - [MicrobesOnline *Main Page*](http://microbesonline.org/)
-- [MicrobesOnline Help *Site Guide and Tutorial*](http://microbesonline.org/mo_siteguide_tutorial.pdf)
 - [GLAMM *Gene-Linked Application for Metabolic Maps*](glamm.lbl.gov)
 - [Find Ortholog Groups by Phyletic Patterns *Phyletic pattern search*](http://www.microbesonline.org/cgi-bin/matchphyloprofile.cgi)
 {.links-list}
+
+## Help
+
+- [MicrobesOnline Help *Site Guide and Tutorial*](http://microbesonline.org/mo_siteguide_tutorial.pdf)
+{.links-list}
+
 ## Ease of Use
 
 - The site is somewhat "clunky" looking and outdated with several obsolete/dead links, making it hard to use for exploratory purposes.
