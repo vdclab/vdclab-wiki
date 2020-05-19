@@ -2,8 +2,8 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-04-10T18:39:12.808Z
-tags: 
+date: 2020-05-19T13:50:19.969Z
+tags: tool
 ---
 
 # PathView
@@ -20,6 +20,6 @@ Plus if you need a blank line in the description you just put `&NewLine;` (edit 
 
 ## Citations
 
-- Luo W, Pant G, Bhavnasi YK, Blanchard SG, Brouwer C. Pathview Web: user friendly pathway visualization and data integration. Nucleic Acids Res, 2017, Web Server issue, [doi: 10.1093/ nar/gkx372](https://academic.oup.com/nar/article/45/W1/W501/3804420)
-- Luo W, Brouwer C. Pathview: an R/Biocondutor package for pathway-based data integration and visualization. Bioinformatics, 2013, 29(14):1830-1831, [doi: 10.1093/bioinformatics/btt285](https://academic.oup.com/bioinformatics/article/29/14/1830/232698)
+- Luo W, Pant G, Bhavnasi YK, Blanchard SG, Brouwer C. [Pathview Web: user friendly pathway visualization and data integration.](https://academic.oup.com/nar/article/45/W1/W501/3804420) Nucleic Acids Res, 2017, Web Server issue.
+- Luo W, Brouwer C. [Pathview: an R/Biocondutor package for pathway-based data integration and visualization.](https://academic.oup.com/bioinformatics/article/29/14/1830/232698) Bioinformatics, 2013, 29(14):1830-1831
 {.grid-list}
