@@ -2,8 +2,8 @@
 title: EpiGenie: Epigenetic Databases, Tools and Resources
 description: The EpiGenie team decided to search out and compile a list of the best free tools and databases that epigenetics researchers can’t live without. 
 published: true
-date: 2020-04-09T19:00:06.577Z
-tags: 
+date: 2020-05-19T18:34:55.096Z
+tags: tool, resource center, database
 ---
 
 # EpiGenie: Epigenetic Databases, Tools and Resources
@@ -15,8 +15,3 @@ tags:
 
 - [EpiGenie: Epigenetics Databases, Tools, and Resources *Main Page*](https://epigenie.com/epigenetic-tools-and-databases/)
 {.links-list}
-
-## Citation
-
-- The EpiGenie (Internet). EpiGenie Epigenetics Product Database. (Insert Date). http://www.epigenie.com/Epigenetics-Research-Products.html.
-{.grid-list}
