@@ -2,8 +2,8 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-19T14:22:24.544Z
-tags: tool
+date: 2020-05-19T14:32:37.883Z
+tags: tool, 2017, data visualization, mapping, metabolic pathways, 2013
 ---
 
 # PathView
@@ -23,6 +23,7 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 ## Notes from Users
 - Possibility to donwload this tool and use it on local.
 - Possibility to login and save reuslts online.
+- Mainly based on KEGG pathway maps.
 - Take a numerical table as entry, with gene ids in first column.
 - Take another numerical table as entry, with compounds ids in first column.
 - Both these ids can be from a variety of database, to be selected.
