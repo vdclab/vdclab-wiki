@@ -2,8 +2,8 @@
 title: Pathfinder
 description: Pathfinder is a visual analysis tool for the exploration of paths in large networks that was built with Caleydo Web.
 published: true
-date: 2020-04-10T18:49:24.789Z
-tags: 
+date: 2020-05-19T17:46:15.890Z
+tags: tool, data visualization, 2016
 ---
 
 # Pathfinder
@@ -19,6 +19,15 @@ Pathfinder is designed to scale to graphs with tens of thousands of nodes and ed
 
 - [Pathfinder *Main Page*](https://pathfinder.caleydoapp.org/)
 {.links-list}
+
+## Notes from Users
+- Best compatibility with Chrome.
+- Cool tool to explore networks in different ways.
+
+## Ease of use
+> did not find how to input data
+{.is-danger}
+
 
 ## Citation
 
