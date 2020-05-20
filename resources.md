@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-20T21:44:02.175Z
+date: 2020-05-20T23:50:13.529Z
 tags: category
 ---
 
@@ -32,6 +32,12 @@ tags: category
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
 - [Quest for Orthologs *Provides a list of existing orthology databases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Quest-for-Orthologs)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
+{.links-list}
+
+## Homology
+
+- [:star: JGI-IMG-Phylogeny *Assess phylogenetic composition of a metagenome sample based*](https://vdclab-wiki.herokuapp.com/en/resources/homology/JGI-IMG-Phylogeny)
+- [Genoscope-Microscope-Phyloprofile](https://vdclab-wiki.herokuapp.com/en/resources/homology/Genoscope-Microscope-Phyloprofile)
 {.links-list}
 
 ## Specialized search
