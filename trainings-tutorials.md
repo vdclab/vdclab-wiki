@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-05-14T00:19:26.216Z
+date: 2020-05-20T21:45:45.750Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## Computing & Programming
 
 - [:star: Bioinformatics Club Bioinformatics Course *Regular expression for Biology*](/trainings-tutorials/computing-programming/Bioinformatics-Club-Bioinformatics-Course/)
+- [Practical Computing for Biologists *Resources to complement the book Practical Computing for Biologists*](https://vdclab-wiki.herokuapp.com/en/trainings-tutorials/computing-programming/Practical-Computing-for-Biologists)
 {.links-list}
 
 ## Tutorials
