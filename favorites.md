@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-14T00:18:46.409Z
+date: 2020-05-20T21:29:50.301Z
 tags: reference, resource reference
 ---
 
@@ -21,6 +21,7 @@ tags: reference, resource reference
 # Annotation
 
 - [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
+- [KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
 {.links-list}
 
 # Databases
