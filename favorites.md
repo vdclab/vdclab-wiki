@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-20T21:29:50.301Z
+date: 2020-05-20T21:53:03.754Z
 tags: reference, resource reference
 ---
 
@@ -35,6 +35,7 @@ tags: reference, resource reference
 - [Orphan Enzyme Project *Associate an amino-acid sequence with every known orphan enzyme*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/Orphan-Enzymes)
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
+- [SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
 # Literature Search
