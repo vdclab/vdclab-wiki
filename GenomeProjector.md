@@ -2,8 +2,8 @@
 title: Genome Projector
 description: Genome Projector: zoomable user interface for molecular biology. 
 published: true
-date: 2020-04-23T18:35:46.840Z
-tags: 
+date: 2020-05-20T18:54:30.169Z
+tags: database, genome
 ---
 
 # Genome Projector
@@ -15,7 +15,8 @@ tags:
 
 ## Website
 
-- [Genome Projector *Main Page*](http://www.g-language.org/GenomeProjector/)
+- [Genome Projector *Introduction Page*](http://www.g-language.org/GenomeProjector/)
+- [Genome Projector *Web Application*](http://www.g-language.org/g3/)
  {.links-list}
 
 ## Citation 
