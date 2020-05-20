@@ -2,7 +2,7 @@
 title: JGI - Integrated Microbial Genomes Phylogeny 
 description: 
 published: true
-date: 2020-05-14T11:24:27.795Z
+date: 2020-05-20T23:41:58.964Z
 tags: genomes, tool, comparative genomics, sequence similarity, homolog discovery, homology, gene neighborhood
 ---
 
@@ -11,6 +11,10 @@ tags: genomes, tool, comparative genomics, sequence similarity, homolog discover
 > Assess  phylogenetic  composition  of  a  metagenome  sample  based  on  the  distribution of the best BLAST hits of the protein-coding genes found in the dataset. 
 {.is-info}
 
+## Website
+- [Phylogenetic Profiler for Single Genes *Main Page*](https://img.jgi.doe.gov/cgi-bin/w/main.cgi?section=PhylogenProfiler&page=phyloProfileForm)
+{.links-list}
+
 ## Notes from User
 - A good tool for comparing genomes between organisms. 
 - Locus tags for genes are not standard.
@@ -18,11 +22,8 @@ tags: genomes, tool, comparative genomics, sequence similarity, homolog discover
 
 
 ## Ease of use
-> The tool is simple to use and gives a quick idea of shared genes. Some work is required from the user to translate the non-standard locus tag to distinguish the identified shared genes.
+- The tool is simple to use and gives a quick idea of shared genes. Some work is required from the user to translate the non-standard locus tag to distinguish the identified shared genes.
 
-## Website
-- [Phylogenetic Profiler for Single Genes *Main Page*](https://img.jgi.doe.gov/cgi-bin/w/main.cgi?section=PhylogenProfiler&page=phyloProfileForm)
-{.links-list}
 
 ## Citation
 
