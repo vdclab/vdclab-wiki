@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-14T00:19:05.604Z
+date: 2020-05-20T23:22:12.159Z
 tags: category
 ---
 
@@ -25,6 +25,7 @@ tags: category
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
+- [:star: SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
 ## General databases
@@ -50,6 +51,11 @@ tags: category
 
 - [KEGG Ortholog Cluster *Database of ortholog clusters (OCs) based on the whole genome comparison*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KEGG-OC)
 - [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
+{.links-list}
+
+## Protein-Protein Interaction Databases
+
+- [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
