@@ -1,0 +1,26 @@
+---
+title: PDB-60 Homology Models Database
+description: Homology modeling database
+published: true
+date: 2020-05-20T18:46:54.609Z
+tags: database, homology
+---
+
+# PDB-60 Homology Models Database
+
+>  Users can search their sequences for homology models (and structures if they exist) using a wide range of different criteria of importance, such as model quality, coverage, sequence/template e-value or sequence identity, genome, structural template, etc. The database will provide multiple models if they fit the search criteria so that the use may choose the model most appropriate for their purposes. The user will also have access to coordinate files for the homology models as well as computational function annotations (from the program (MARK-US) for the PDB structure templates. 
+>
+> If the user is interested in obtaining similar function annotation results for a given model, a link is provide to MARKUS. If a user wishes to obtain a higher quality model, the sequence can be sent to the program PUDGE for refining and/or analyzing the homology model. 
+{.is-info}
+
+ 
+
+## Website 
+
+- [PDB-60 Homology Models Database *Main Page*](http://skybase.c2b2.columbia.edu/pdb60_new/nesg.php)
+ {.links-list}
+
+## Citation 
+
+- Mirkovic N., Li Z., Parnassa A., Murray D. (2007) [Strategies for High-Throughput Comparative Modeling: Applications to Leverage Analysis in Structural Genomics and Protein Family Organization.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.21191) Proteins: Structure, Function, and Bioinformatics 66:766-777.
+{.grid-list}
