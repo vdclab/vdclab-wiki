@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-14T00:18:59.308Z
+date: 2020-05-20T21:44:02.175Z
 tags: category
 ---
 
@@ -30,6 +30,7 @@ tags: category
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
+- [Quest for Orthologs *Provides a list of existing orthology databases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Quest-for-Orthologs)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
 {.links-list}
 
