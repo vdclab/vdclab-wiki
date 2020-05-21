@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T17:20:37.811Z
+date: 2020-05-21T17:21:23.280Z
 tags: category
 ---
 
@@ -108,7 +108,7 @@ tags: category
 
 - [CollecTF *Database of transcription factor binding sites in the Bacteria domain*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/CollecTF)
 - [:star: RegPrecise *database for capturing, visualization and analysis of transcription factor regulons*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegPrecise)
-- [:star: RegulonDB *Database on transcriptional regulation in Escherichia coli K-12 containing knowledge manually curated*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RegulonDB)
+- [:star: RegulonDB *Database on transcriptional regulation in Escherichia coli K-12 containing knowledge*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RegulonDB)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
