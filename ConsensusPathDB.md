@@ -2,14 +2,22 @@
 title: ConsensusPathDB
 description: ConsensusPathDB integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways.
 published: true
-date: 2020-04-10T18:00:32.535Z
-tags: 
+date: 2020-05-21T17:39:52.307Z
+tags: genes, proteins, metabolics
 ---
 
 # ConsensusPathDB
 
 > ConsensusPathDB-human integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways. Data originate from currently 32 public resources for interactions and interactions that we have curated from the literature. The interaction data are integrated in a complementary manner (avoiding redundancies), resulting in a seamless interaction network containing different types of interactions.
 {.is-info}
+
+## Notes from user
+- Large number of integrated databses for interaction data
+- 
+
+## Ease of use
+
+
 
 ## Website
 
