@@ -2,7 +2,7 @@
 title: BLAST
 description: The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences, which can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families.
 published: true
-date: 2020-05-21T15:59:30.738Z
+date: 2020-05-21T16:03:19.440Z
 tags: genomes, tool, genes, proteins
 ---
 
