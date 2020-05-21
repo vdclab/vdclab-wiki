@@ -2,7 +2,7 @@
 title: BLAST
 description: The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences, which can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families.
 published: true
-date: 2020-05-18T18:33:27.089Z
+date: 2020-05-21T15:55:10.697Z
 tags: genomes, tool, genes, proteins
 ---
 
@@ -48,4 +48,6 @@ tags: genomes, tool, genes, proteins
 {.grid-list}
 
 ### KEGG
+
 - Kanehisa M., Sato Y. & Morishima K. [BlastKOALA and GhostKOALA: KEGG Tools for Functional Characterization of Genome and Metagenome Sequences.](https://www.sciencedirect.com/science/article/pii/S002228361500649X?via%3Dihub) JMB Volume 428, Issue 4, 22 February 2016, Pages 726-731 
+{.grid-list}
