@@ -2,8 +2,8 @@
 title: Pathguide: the Pathway Resource List
 description: Pathguide contains information about 702 biological pathway related resources and molecular interaction related resources.
 published: true
-date: 2020-04-08T20:26:04.731Z
-tags: 
+date: 2020-05-21T16:56:39.547Z
+tags: resource center
 ---
 
 # Pathguide: the Pathway Resource List
@@ -15,6 +15,10 @@ tags:
 
 - [Pathguide *Main Page*](http://pathguide.org/)
 {.links-list}
+
+## User Notes
+- User-friendly platform hosting curated lists of other data sources relating to biological pathways and molecular interactions
+- Includes descriptors of resource accessibility to users; not all resources are freely accessible without a paid-subscription
 
 ## Citation
 
