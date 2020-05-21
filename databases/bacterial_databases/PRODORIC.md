@@ -2,7 +2,7 @@
 title: PRODORIC
 description: PRODORIC® is a comprehensive database about gene regulation and gene expression in prokaryotes.
 published: true
-date: 2020-05-21T02:36:44.621Z
+date: 2020-05-21T02:36:48.913Z
 tags: proteins, genome browser, database, gene, 2009, 2003
 ---
 
@@ -33,7 +33,6 @@ More recently PRODORIC was extended to handle protein-protein interactions and s
 - Lot of different informations
 - Lot of cliquable and linked pages
 - Possible to interact with the sequence
-
 
 > not updated since 2008
 {.is-warning}
