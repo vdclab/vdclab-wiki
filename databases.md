@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T12:59:45.272Z
+date: 2020-05-21T13:00:21.700Z
 tags: category
 ---
 
@@ -31,7 +31,6 @@ tags: category
 ## General databases
 
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
-- [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
 ### Eukaryote databases
@@ -52,6 +51,7 @@ tags: category
 ### Prokaryote databases
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
+- [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
 #### Bacterial databases
