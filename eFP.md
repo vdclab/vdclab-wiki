@@ -2,7 +2,7 @@
 title: eFP visualization of Polysomal mRNAs in Discrete Cell Populations of Arabidopsis
 description: This eFP viewer provides a schematic representation of data for Arabidopsis seedlings.
 published: true
-date: 2020-05-14T13:43:25.211Z
+date: 2020-05-21T01:29:49.043Z
 tags: resource center, transcriptomes, data visualization, eukaryota, correlation
 ---
 
@@ -14,20 +14,23 @@ tags: resource center, transcriptomes, data visualization, eukaryota, correlatio
 > May 14, 2020: The link to view "Cell Type Specific Arabidopsis eFP" data as well as the link providing instructions for use are currently not functional.
 {.is-warning}
 
+## Website
+
+- [eFP Visualization *Main Page*](http://efp.ucr.edu/)
+{.links-list}
+
 ## Ease of Use
 
-> The webiste seems well designed but many of the links, including those with instructions for use, are currently dead/broken, making the tool difficult to use.
-{.is-info}
+- The webiste seems well designed but many of the links, including those with instructions for use, are currently dead/broken, making the tool difficult to use.
 
 ## User Notes
 
 - eFP = "electronic fluorescent pictographic" representations, meaning the database will show expression patterns of your gene of interest.
 - This database specifically will allow users to compare gene expression patterns of Arabidopsis thaliana seedlings under hypoxia-stress conditions versus control conditions. 
 
-## Website
+## Help
 
-- [eFP Visualization *Main Page*](http://efp.ucr.edu/)
-  [eFP Help *Summary/Overview PDF*](http://efp.ucr.edu/eFP_Translatomes-brief.pdf)
+- [eFP Help *Summary/Overview PDF*](http://efp.ucr.edu/eFP_Translatomes-brief.pdf)
 {.links-list}
 
 ## Citation
