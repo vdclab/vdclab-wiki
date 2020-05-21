@@ -2,7 +2,7 @@
 title: Computational Microbiology Laboratory Motif Locator
 description: Uses aligned set of DNA sequence motifs (no gaps, all motifs of the same length) and finds similar motifs in the analyzed sequence. Uses position specific score matrix (PSSM) representation of the motif.
 published: true
-date: 2020-05-21T02:38:38.958Z
+date: 2020-05-21T02:38:54.679Z
 tags: tool, sequence analysis, 2008, motif
 ---
 
@@ -14,7 +14,6 @@ tags: tool, sequence analysis, 2008, motif
 ## Website
 
 - [CMBL Motif Locator *Main Page*](https://www.cmbl.uga.edu//software/motloc.html)
-- [Brief Explanation *Help section*](https://www.cmbl.uga.edu////software/Motloc-guide.htm)
 {.links-list}
 
 ## Notes from Users
