@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-21T02:41:53.951Z
+date: 2020-05-21T15:56:09.224Z
 tags: reference, resource reference
 ---
 
@@ -79,6 +79,7 @@ tags: reference, resource reference
 
 - [AnnoTree *Visualization of genome annotations across large phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/AnnoTree)
 - [bioDBnet-db2db *Database to Database Conversions*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/bioDBnet-db2db)
+- [BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 - [Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
