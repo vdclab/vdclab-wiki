@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T02:00:37.796Z
+date: 2020-05-21T02:41:26.321Z
 tags: category
 ---
 
@@ -47,6 +47,7 @@ tags: category
 
 - [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
 - [ChlamyNet Clusters *Exploration of gene co-expression network of Chlamydomonas transcriptome*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ChlamyNet-Clusters)
+- [:star: SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 {.links-list} 
 
@@ -60,6 +61,7 @@ tags: category
 - [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
+- [PRODORIC *Integrated approach to provide information about molecular networks in prokaryotes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 {.links-list}
 
@@ -94,6 +96,12 @@ tags: category
 ## Protein-Protein Interaction Databases
 
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
+{.links-list}
+
+## Transcription Factor Databases
+
+- [CollecTF *Database of transcription factor binding sites in the Bacteria domain*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/CollecTF)
+- [:star: RegPrecise *database for capturing, visualization and analysis of transcription factor regulons*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegPrecise)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
