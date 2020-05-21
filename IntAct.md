@@ -2,8 +2,8 @@
 title: IntAct Molecular Interaction Database
 description: IntAct provides a freely available, open source database system and analysis tools for molecular interaction data.
 published: true
-date: 2020-05-21T16:26:13.350Z
-tags: tool, database
+date: 2020-05-21T16:29:37.473Z
+tags: tool, proteins, database, data export, interaction, protein-protein, networks
 ---
 
 # IntAct Molecular Interaction Database
