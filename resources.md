@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-20T23:52:03.742Z
+date: 2020-05-21T01:28:23.775Z
 tags: category
 ---
 
@@ -10,18 +10,26 @@ tags: category
 
 ## Eukaryote Resources
 
-- [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
+- [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
+- [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
 {.links-list}
 
 ### Fungi Resources
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
-- [FUNGIpath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+- [FUNGIpath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath)
+{.links-list}
+
+### Plant Resources
+
+- [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
+- [Diurnal *Provides convenient access to circadian and diurnal genome-wide gene expression data*](https://vdclab-wiki.herokuapp.com/resources/plant/Diurnal)
+- [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
 
 ## Galaxy Resources
 
-- [Galaxy UF *Galaxy on UF*](https://vdclab-wiki.herokuapp.com/resources/galaxy/Galaxy-UF/)
+- [Galaxy UF *Galaxy on UF*](https://vdclab-wiki.herokuapp.com/resources/galaxy/Galaxy-UF)
 {.links-list}
 
 ## General Resources
