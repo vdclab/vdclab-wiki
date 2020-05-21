@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T02:41:26.321Z
+date: 2020-05-21T12:59:38.680Z
 tags: category
 ---
 
@@ -34,11 +34,9 @@ tags: category
 - [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
-### General databases
+### Eukaryote databases
 
-#### Eukaryote databases
-
-##### Plant databases
+#### Plant databases
 
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
 {.links-list}
