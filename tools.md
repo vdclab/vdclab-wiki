@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-21T15:56:26.055Z
+date: 2020-05-21T16:43:56.458Z
 tags: category
 ---
 
@@ -68,10 +68,10 @@ tags: category
 
 ## Phylogenetic Distribution Tools
 
-- [:star: AnnoTree *Visualization of genome annotations across large phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/AnnoTree)
-- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
-- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
+- [:star: AnnoTree *Visualization of genome annotations across large phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/phylogenetic-distribution/AnnoTree)
+- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/prokaryote_databases/JGI-IMG)
+- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/virus_databases/JGI-IMG-VR/)
 - [KEGG Ortholog Cluster *Database of ortholog clusters (OCs) based on the whole genome comparison*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KEGG-OC)
 - [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
-- [:star: OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/OrthoInspector/)
+- [:star: OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/phylogenetic-distribution/OrthoInspector/)
 {.links-list}
