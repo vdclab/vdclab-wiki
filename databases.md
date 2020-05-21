@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T16:29:15.795Z
+date: 2020-05-21T17:14:58.278Z
 tags: category
 ---
 
@@ -82,8 +82,10 @@ tags: category
 ## Microarray and Rnaseq databases
 
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
+- [ArrayExpress *Functional Genomics Data stores data from high-throughput functional genomics experiments*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ArrayExpress)
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 - [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
+- [NCBI *Gene Expression Omnibus (GEO)*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/NCBI-GEO)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
 
