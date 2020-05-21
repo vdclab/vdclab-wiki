@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-21T01:28:23.775Z
+date: 2020-05-21T02:41:39.078Z
 tags: category
 ---
 
@@ -24,6 +24,7 @@ tags: category
 
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [Diurnal *Provides convenient access to circadian and diurnal genome-wide gene expression data*](https://vdclab-wiki.herokuapp.com/resources/plant/Diurnal)
+- [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
 
