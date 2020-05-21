@@ -2,8 +2,8 @@
 title: The Cell Map
 description: The Cell Map: storing and visualizing genetic interactions in S. cerevisiae
 published: true
-date: 2020-04-14T21:53:02.412Z
-tags: 
+date: 2020-05-21T17:05:57.034Z
+tags: publisher affiliated, genomics, mapping, model organism
 ---
 
 # The Cell Map
@@ -16,6 +16,10 @@ tags:
 - [The Cell Map *Main Page*](https://thecellmap.org/)
 {.links-list}
 
+## Notes from User
+- Camera in bottom right corner downloads screenshot of page 
+- Can view multiple genes subnetwork on main page or view as table and add more genes there and generate heatmap
+- Full scope and ability of tool outlined well in paper, more tools than appear face-value
 ## Citation
 
 - Usaj M, Tan Y, Wang W, VanderSluis B, Zou A, Myers CL, Costanzo M, Andrews B, Boone C. [TheCellMap.org: A Web-Accessible Database for Visualizing and Mining the Global Yeast Genetic Interaction Network.](https://www.g3journal.org/content/7/5/1539) G3 (Bethesda). 2017 May 5;7(5):1539-1549. doi: 10.1534/g3.117.040220. PubMed PMID: 28325812; PubMed Central PMCID: PMC5427489.
