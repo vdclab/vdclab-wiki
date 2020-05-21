@@ -2,7 +2,7 @@
 title: PLEXdb
 description: A Plant Expression Dataset hosted by PlantGDB for use of sequence annotation.
 published: true
-date: 2020-05-14T14:04:22.116Z
+date: 2020-05-21T01:33:01.935Z
 tags: annotation, annotation tools, tool, sequence annotation, gene expression, phenotype
 ---
 
@@ -14,10 +14,14 @@ tags: annotation, annotation tools, tool, sequence annotation, gene expression, 
 > May 14, 2020: "PLEXdb.org" is not the plant expression database. Rather, it is a site for a libido enhancing supplement.  This includes the link-out from their homepage.
 {.is-warning}
 
+## Website
+
+- [PlantGDB PLEXdb *PLEXdb Page*](http://www.plantgdb.org/prj/PLEXdb/)
+{.links-list}
+
 ## Ease of Use
 
-> PLEXdb (EST Contig Analysis) is a Dataset provided by PlantGDB to assist users with sequence annotation.  The tools are relatively straight forward and easy to use and the downloadable data is easily accessible from the *PLEXdb Page* link, below.
-{.is-info}
+- PLEXdb (EST Contig Analysis) is a Dataset provided by PlantGDB to assist users with sequence annotation.  The tools are relatively straight forward and easy to use and the downloadable data is easily accessible from the *PLEXdb Page* link, below.
 
 ## User Notes
 
@@ -26,9 +30,9 @@ tags: annotation, annotation tools, tool, sequence annotation, gene expression, 
 - Users can BLAST against contigs for Hordeum vulgare, Oryza sativa, Triticum aestivum, Zea mays, or all of the above. 
 - The PLEXdb EST contigs data is downloadable for user use. 
 
-## Website
 
-- [PlantGDB PLEXdb *PLEXdb Page*](http://www.plantgdb.org/prj/PLEXdb/)
+## Help
+
  [PlantGDB Help *Help Page*](http://www.plantgdb.org/help/)
 {.links-list}
 
