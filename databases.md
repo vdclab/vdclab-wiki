@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-20T23:22:12.159Z
+date: 2020-05-21T00:43:06.767Z
 tags: category
 ---
 
@@ -34,6 +34,13 @@ tags: category
 - [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
+### General databases
+
+#### Plant databases
+
+- [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
+{.links-list}
+
 ### Prokaryote databases
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
@@ -47,10 +54,24 @@ tags: category
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 {.links-list}
 
+##### Organism specific databases
+
+- [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
+- [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
+- [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
+{.links-list}
+
+## Metabolic pathways
+
+- [ModelSEED *Resource for the reconstruction, exploration, comparison, and analysis of metabolic models*](https://vdclab-wiki.herokuapp.com/en/databases/metabolic_pathways/ModelSEED)
+{.links-list}
+
 ## Ortholog Databases
 
 - [KEGG Ortholog Cluster *Database of ortholog clusters (OCs) based on the whole genome comparison*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KEGG-OC)
+- [MBGD *Workbench system for comparative analysis of completely sequenced microbial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/MBGD)
 - [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
+- [:star: OrthoMCL *OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoMCL)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
