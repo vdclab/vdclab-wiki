@@ -2,11 +2,11 @@
 title: BioGPS
 description: A free extensible and customizable gene annotation portal, a complete resource for learning about gene and protein function.
 published: true
-date: 2020-05-14T12:04:20.529Z
+date: 2020-05-21T02:02:45.521Z
 tags: annotation, genes, resource center, database, gene expression, model organism
 ---
 
-# BioGPS (NEED TO REVISE)
+# BioGPS 
 
 > BioGPS is a gene portal built with two guiding principles in mind -- customizability and extensibility. 
 &NewLine;
@@ -17,21 +17,19 @@ We designed BioGPS by creating a simple plugin interface which allows anyone to 
 BioGPS is clearly a work in progress, but we think we've got a framework that's here to stay. Let us know if you've got suggestions, but otherwise, just dig in!
 {.is-info}
 
-## Notes from user
-- This database is limited to mamalian gene annotation
-- Plugins are available to search multiple databases at once and display their results in one page.
-- 
-
-## Ease of use
-> This tool stands above most annotation tools by seemlessly tieing multiple databases into 1 location. Each plugin I tested worked perfectly and the presentation of the data was a great middle ground between cluttered and simplistic.
-
-
-
-
 ## Website
 
 - [BioGPS *Main Page*](http://biogps.org/#goto=welcome)
 {.links-list}
+
+## Notes from user
+
+- This database is limited to mamalian gene annotation
+- Plugins are available to search multiple databases at once and display their results in one page.
+
+## Ease of use
+
+- This tool stands above most annotation tools by seemlessly tieing multiple databases into 1 location. Each plugin I tested worked perfectly and the presentation of the data was a great middle ground between cluttered and simplistic.
 
 ## Citations
 
