@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T17:16:09.044Z
+date: 2020-05-21T17:17:26.881Z
 tags: category
 ---
 
@@ -86,6 +86,7 @@ tags: category
 - [Colombos *Exploring and analyzing comprehensive organism-specific cross-platform expression of Bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/Colombos)
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 - [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
+- [GenExpDB *Repository for E. coli gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/GenExpDB)
 - [NCBI *Gene Expression Omnibus (GEO)*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/NCBI-GEO)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
