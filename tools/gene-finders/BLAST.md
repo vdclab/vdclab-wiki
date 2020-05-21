@@ -2,7 +2,7 @@
 title: BLAST
 description: The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences, which can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families.
 published: true
-date: 2020-05-21T15:59:07.181Z
+date: 2020-05-21T15:59:30.738Z
 tags: genomes, tool, genes, proteins
 ---
 
@@ -29,10 +29,10 @@ tags: genomes, tool, genes, proteins
 ## Help 
 
 - [BLAST: The Statistics of Sequence Similarity Scores *Tutorial/Info Page*](https://www.ncbi.nlm.nih.gov/blast/tutorial/)
+- [BlastKOALA *Help section*](https://www.kegg.jp/blastkoala/help_blastkoala_query.html)
 - [NCBI About/Help *Tutorial/Info Page*](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs)
 - [PATRIC *Tutuorial*](https://docs.patricbrc.org/user_guides/services/blast.html)
 - [Wikiomics BLAST Tutorial *Tutorial/Info Page*](https://openwetware.org/wiki/Wikiomics:BLAST_tutorial)
-- [BlastKOALA *Help section*](https://www.kegg.jp/blastkoala/help_blastkoala_query.html)
 {.links-list}
 
 ## Citations
