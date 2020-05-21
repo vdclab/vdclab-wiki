@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-21T01:23:42.271Z
+date: 2020-05-21T02:11:01.368Z
 tags: reference, resource reference
 ---
 
@@ -39,6 +39,7 @@ tags: reference, resource reference
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
 - [SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
+- [SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 - [SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
 {.links-list}
