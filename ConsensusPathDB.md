@@ -2,7 +2,7 @@
 title: ConsensusPathDB
 description: ConsensusPathDB integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways.
 published: true
-date: 2020-05-21T17:39:52.307Z
+date: 2020-05-21T17:56:59.541Z
 tags: genes, proteins, metabolics
 ---
 
