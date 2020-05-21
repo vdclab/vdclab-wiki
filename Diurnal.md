@@ -2,7 +2,7 @@
 title: Diurnal
 description: Diurnal is simply a database consisting of a number of array expression experiments with various genomes subjected to standard set of light and temperature conditions.
 published: true
-date: 2020-05-14T13:17:12.384Z
+date: 2020-05-21T01:24:28.911Z
 tags: tool, comparative genomics, data capture, database, gene, co-expression, data visualization, data export, eukaryota, correlation
 ---
 
@@ -13,21 +13,20 @@ tags: tool, comparative genomics, data capture, database, gene, co-expression, d
 >The expression patterns of particular loci or array probes can be looked up under a variety of different conditions. For each condition, every expression pattern has been modeled using a periodic pattern, which has then been used to estimate the phase of peak expression. These results can be accessed both graphically online and downloaded to your computer for further use.
 {.is-info}
 
+## Website
+
+- [Diurnal *Main Page*](http://diurnal.mocklerlab.org/)
+{.links-list}
+
 ## Ease of Use
 
-> The website is simple and easy to use. 
-{.is-info}
+- The website is simple and easy to use. 
 
 ## User Notes
 - Diurnal accepts probe IDs or locus identifiers, but no other gene accessions. 
 - Diurnal has many conditions that can be compared for Arabidopsis thaliana, but fewer for the other plant genomes. 
 - Users are able to compare gene expression over time for multiple genes from one species between different conditions as well as between different plant species. 
 - There is no help page for the Diurnal tool.  If you encounter a problem or have a suggestion you can email the Mockler Lab (who hosts the tool) directly. 
-
-## Website
-
-- [Diurnal *Main Page*](http://diurnal.mocklerlab.org/)
-{.links-list}
 
 ## Citation
 
