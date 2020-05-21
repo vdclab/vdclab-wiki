@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-21T01:47:45.047Z
+date: 2020-05-21T02:40:55.438Z
 tags: category
 ---
 
@@ -13,11 +13,13 @@ tags: category
 - [Clustal Omega *MSA program that uses seeded guide trees and HMM profile-profile techniques*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA-ClustalOmega)
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
+- [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
 ## Analysis Tools
 
+- [CMBL MotLoc *Uses aligned set of DNA sequence motifs  and finds similar motifs in the analyzed sequence*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CMBL-MotLoc)
 - [:star: Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
@@ -36,6 +38,7 @@ tags: category
 ## Database Linker
 
 - [:star: bioDBnet-db2db *Database to Database Conversions*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/bioDBnet-db2db)
+- [BioGPS *Extensible and customizable gene annotation portal*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/BioGPS)
 - [LinkDB *database of links*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/LinkDB)
 - [:star: UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
 {.links-list}
