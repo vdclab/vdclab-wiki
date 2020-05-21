@@ -2,7 +2,7 @@
 title: InterMine
 description: InterMine integrates biological data sources, making it easy to query and analyse data.
 published: true
-date: 2020-05-21T17:55:30.311Z
+date: 2020-05-21T17:56:54.870Z
 tags: annotation, annotation tools, tool, genes, database, gene annotation
 ---
 
