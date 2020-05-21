@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T13:00:21.700Z
+date: 2020-05-21T16:13:10.482Z
 tags: category
 ---
 
@@ -56,11 +56,11 @@ tags: category
 
 #### Bacterial databases
 
-- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/JGI-IMG)
-- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial-databases/JGI-IMG-VR/)
+- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/JGI-IMG)
+- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PRODORIC *Integrated approach to provide information about molecular networks in prokaryotes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
-- [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
+- [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
 {.links-list}
 
 ##### Organism specific databases
