@@ -2,8 +2,8 @@
 title: EcoliNet
 description: EcoliNet is a probabilistic functional gene network for Escherichia coli.
 published: true
-date: 2020-04-09T19:16:56.562Z
-tags: 
+date: 2020-05-21T17:17:27.855Z
+tags: genomics, bacteria
 ---
 
 # EcoliNet
@@ -15,6 +15,17 @@ EcoliNet also provides such network biology tools to (i) find new members of a p
 &NewLine;
 Moreover, EcoliNet provides not only the integrated network but also all data specific networks (~1.3 million functional links), including 54 co-expression and 4 high-throughput PPI networks via freely accessible Download page. Therefore, co-functional gene networks for other bacterial species can be constructed via orthology-based transfer of information from EcoliNet.
 {.is-info}
+
+## Notes from user
+- This tool is speccific for E. coli genes
+- Inferred functions for unknown protiens are limited to existing annotations
+- The user need to group suspected members of a pathway with existing members of a pathway
+
+
+## Ease of use
+> The simplicity of the web-tool lends to its ease of use. The results are clear and the tool does what it claims. The user does need to have an idea of what types of pathways they want to study and know the Locus tags for their query genes before using the tool. The tool is available for download for powerusers.
+
+
 
 ## Website
 
