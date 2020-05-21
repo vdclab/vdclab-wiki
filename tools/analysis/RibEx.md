@@ -2,7 +2,7 @@
 title: RibEx: Riboswitch Explorer
 description: A web-server for the prediction of riboswitches and other conserved regulatory elements.
 published: true
-date: 2020-05-11T18:02:18.510Z
+date: 2020-05-21T02:29:45.374Z
 tags: tool, dna, prediction, mapping, 2004, 2005, structural analysis
 ---
 
@@ -14,7 +14,6 @@ tags: tool, dna, prediction, mapping, 2004, 2005, structural analysis
 ## Website
 
 - [RibEx *Main Page*](http://132.248.32.45/cgi-bin/ribex.cgi)
-- [Help & Example *Help section*](132.248.32.45/cgi-bin/ribex.cgi?help=1)
 {.links-list}
 
 ## Notes from Users
@@ -23,6 +22,12 @@ tags: tool, dna, prediction, mapping, 2004, 2005, structural analysis
 
 ## Ease of use
 Input your sequence, detect the secondary structures of DNA. Clickable to see the sequence.
+
+## Help 
+
+- [Help & Example *Help section*](132.248.32.45/cgi-bin/ribex.cgi?help=1)
+{.links-list}
+
 ## Citation
 
 - Abreu-Goodger C, Ontiveros-Palacios N, Ciria R, Merino E (2004). [Conserved regulatory motifs in bacteria: riboswitches and beyond.](https://www.cell.com/trends/genetics/fulltext/S0168-9525(04)00222-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952504002227%3Fshowall%3Dtrue) Trends Genet. 2004 Oct;20(10):475-9.
