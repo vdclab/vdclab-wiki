@@ -2,8 +2,8 @@
 title: Online Gene Essentiality (OGEE)
 description: OGEE aims to enhance our understanding of the essentiality of genes.
 published: true
-date: 2020-04-14T21:50:58.969Z
-tags: 
+date: 2020-05-21T18:20:20.438Z
+tags: genes, database
 ---
 
 # Online Gene Essentiality (OGEE)
@@ -15,6 +15,11 @@ tags:
 
 - [OGEE *Main Page*](http://ogee.medgenius.info/browse/)
 {.links-list}
+
+## User Notes
+- Anlysis tools limited to specific list of model organism datasets
+- Some data is dedicated to cancer cell lines
+- Datasets are available to download
 
 ## Citations
 
