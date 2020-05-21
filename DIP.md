@@ -2,8 +2,8 @@
 title: Database of Interacting Proteins
 description:  The DIP database catalogs experimentally determined interactions between proteins.
 published: true
-date: 2020-04-14T21:47:50.747Z
-tags: 
+date: 2020-05-21T16:18:03.793Z
+tags: proteins, database
 ---
 
 # Database of Interacting Proteins (DIP)
@@ -15,6 +15,12 @@ tags:
 
 - [DIP *Main Page*](https://dip.doe-mbi.ucla.edu/dip/Main.cgi)
 {.links-list}
+
+## User Notes
+- Information in this database if often aggregated by other platforms/data integrating resources
+- Also has a plugin for Cytoscape available for visualizing data
+- Same precautions applied here as with other protein-protein interaction data sources
+
 
 ## Citation
 
