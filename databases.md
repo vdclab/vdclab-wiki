@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T16:13:10.482Z
+date: 2020-05-21T16:25:12.093Z
 tags: category
 ---
 
@@ -51,13 +51,12 @@ tags: category
 ### Prokaryote databases
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
+- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/JGI-IMG)
 - [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
 #### Bacterial databases
 
-- [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/JGI-IMG)
-- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PRODORIC *Integrated approach to provide information about molecular networks in prokaryotes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
@@ -68,6 +67,11 @@ tags: category
 - [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
 - [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
 - [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
+{.links-list}
+
+### Virus databases
+
+- [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 {.links-list}
 
 ## Metabolic pathways
