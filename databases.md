@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T00:43:06.767Z
+date: 2020-05-21T01:13:54.876Z
 tags: category
 ---
 
@@ -36,10 +36,17 @@ tags: category
 
 ### General databases
 
-#### Plant databases
+#### Eukaryote databases
+
+##### Plant databases
 
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
 {.links-list}
+
+###### Organism specific databases 
+
+- [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
+{.links-list} 
 
 ### Prokaryote databases
 
@@ -64,6 +71,11 @@ tags: category
 ## Metabolic pathways
 
 - [ModelSEED *Resource for the reconstruction, exploration, comparison, and analysis of metabolic models*](https://vdclab-wiki.herokuapp.com/en/databases/metabolic_pathways/ModelSEED)
+{.links-list}
+
+## Microarray and Rnaseq databases
+
+- [COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 {.links-list}
 
 ## Ortholog Databases
