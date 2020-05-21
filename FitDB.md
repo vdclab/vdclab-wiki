@@ -2,7 +2,7 @@
 title: Yeast Fitness Database
 description: FitDB is a searchable database of quantitative chemical-genetic interactions based on data in Hillenmeyer et al. (Science 2008).
 published: true
-date: 2020-05-21T17:45:11.146Z
+date: 2020-05-21T17:46:49.812Z
 tags: publisher affiliated, database, fitness, model organism
 ---
 
