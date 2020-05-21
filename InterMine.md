@@ -2,8 +2,8 @@
 title: InterMine
 description: InterMine integrates biological data sources, making it easy to query and analyse data.
 published: true
-date: 2020-05-21T17:44:12.585Z
-tags: tool, database
+date: 2020-05-21T17:55:30.311Z
+tags: annotation, annotation tools, tool, genes, database, gene annotation
 ---
 
 # InterMine
@@ -20,7 +20,7 @@ InterMine makes it easy to integrate multiple data sources into a single data wa
 - Good for finding other databases to search through
 
 ## Ease of use
-> The searching tool is very user friendly and the results are clean. This tool was able to take a list of human, E. coli, Zebra fish, and fruitfly gene names and lista  wealth of databases that had entries for each gene. Additionally, this tool can be downloaded and run on a local server for power users. 
+> The searching tool is very user friendly and the results are clean. This tool was able to take a list of human, E. coli, Zebra fish, and fruitfly gene names and list a wealth of databases that had entries for each gene and had the option to filter results. Additionally, this tool can be downloaded and run on a local server for power users. 
 
 
 
