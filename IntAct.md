@@ -2,8 +2,8 @@
 title: IntAct Molecular Interaction Database
 description: IntAct provides a freely available, open source database system and analysis tools for molecular interaction data.
 published: true
-date: 2020-04-14T21:48:32.619Z
-tags: 
+date: 2020-05-21T16:26:13.350Z
+tags: tool, database
 ---
 
 # IntAct Molecular Interaction Database
@@ -15,6 +15,11 @@ tags:
 
 - [IntAct *Main Page*](https://www.ebi.ac.uk/intact/)
 {.links-list}
+
+## User Notes
+- One of many resources made available by EMBL-EBI; often pooled and referenced by other databases/resources/platforms
+- Searchable for individual interactors; provides detailed interaction and experimental data; provides redundancy that is easily cross-checked
+- Same precautions should be applied here as with other interaction data sources
 
 ## Citation
 
