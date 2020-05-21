@@ -2,8 +2,8 @@
 title: EchoBASE
 description: EchoBASE an integrated post-genomic database for E.coli.
 published: true
-date: 2020-04-10T18:13:46.915Z
-tags: 
+date: 2020-05-21T18:15:20.205Z
+tags: bacteria, tool, database
 ---
 
 # EchoBASE
@@ -14,6 +14,18 @@ Experiments published on E. coli are curated to one of two levels. Papers dealin
 &NewLine;
 The aim of the database is to provide hypothesis for the functions of uncharacterised gene products that may be used by the E. coli research community to further our knowledge of this model bacterium. 
 {.is-info}
+
+## Notes from user
+- Specific for E. coli
+- Some gene entries have not been updated since 2004, verify annotations with other databases
+- Lots of detailed annotation for genes
+- Specialized lists like the ABC transporter list "EchoABC"
+- The Keyword search and experiment search didn't seem to work when tested but the gene search still works
+
+## Ease of use
+> This database is very dated and lacks modern design. The annotation can be very complete and up to date or lagging behind modern publications. There are explanations available for their gene and experiment annotations.
+
+
 
 
 ## Website
