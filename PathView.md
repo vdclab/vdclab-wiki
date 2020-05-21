@@ -2,7 +2,7 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-19T14:32:37.883Z
+date: 2020-05-21T11:18:19.062Z
 tags: tool, 2017, data visualization, mapping, metabolic pathways, 2013
 ---
 
@@ -17,12 +17,12 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 
 - [PathView *Main Page*](https://pathview.uncc.edu/)
 - [Help *Help section and Examples*](https://pathview.uncc.edu/overview)
-- [Tutoriel *Info to donwload and use the tool*](http://www.bioconductor.org/packages/release/bioc/vignettes/pathview/inst/doc/pathview.pdf)
+- [Tutorial *Info to donwload and use the tool*](http://www.bioconductor.org/packages/release/bioc/vignettes/pathview/inst/doc/pathview.pdf)
 {.links-list}
 
 ## Notes from Users
-- Possibility to donwload this tool and use it on local.
-- Possibility to login and save reuslts online.
+- Possibility to donwload this tool and use it on local computer.
+- Possibility to login and save reusults online.
 - Mainly based on KEGG pathway maps.
 - Take a numerical table as entry, with gene ids in first column.
 - Take another numerical table as entry, with compounds ids in first column.
