@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-05-07T00:25:35.796Z
+date: 2020-05-21T02:41:44.776Z
 tags: category
 ---
 
@@ -12,12 +12,14 @@ tags: category
 
 - [Bologna Annotation Resource *Server for the annotation of protein sequences*](https://vdclab-wiki.herokuapp.com/annotation/general_annotation/bologna-annotation-resource/)
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [:star: KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
 {.links-list}
 
 ### Eukaryotic Genome Annotation Pipelines
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+- [PLEXdb *Plant Expression Database, integrating new and rapidly expanding gene expression profile data sets*](https://vdclab-wiki.herokuapp.com/en/annotation/eukaryotic/PLEXdb)
 {.links-list}
 
 ### Prokaryotic Genome Annotation Pipelines
