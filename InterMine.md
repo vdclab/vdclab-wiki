@@ -2,8 +2,8 @@
 title: InterMine
 description: InterMine integrates biological data sources, making it easy to query and analyse data.
 published: true
-date: 2020-04-14T21:59:16.249Z
-tags: 
+date: 2020-05-21T17:44:12.585Z
+tags: tool, database
 ---
 
 # InterMine
@@ -12,6 +12,15 @@ tags:
 &NewLine;
 InterMine makes it easy to integrate multiple data sources into a single data warehouse. It has a core data model based on the sequence ontology and supports several biological data formats, allowing sysadmins to configure which organisms or data files are required. It is easy to extend the data model and integrate other data, with a web service API, clients in seven different languages, and an XML format to help import custom data. 
 {.is-info}
+
+## Notes from user
+- InterMine is helpful for finding genes in other organisms accross many databases
+- Can be used to search with a mixed list of genes (gene from various organisms)
+- Results are given as a list of databases with entries for the query genes
+- Good for finding other databases to search through
+
+## Ease of use
+> The searching tool is very user friendly and the results are clean. This tool was able to take a list of human, E. coli, Zebra fish, and fruitfly gene names and lista  wealth of databases that had entries for each gene. Additionally, this tool can be downloaded and run on a local server for power users. 
 
 
 
