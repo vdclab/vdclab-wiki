@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T01:13:54.876Z
+date: 2020-05-21T02:00:37.796Z
 tags: category
 ---
 
@@ -45,6 +45,8 @@ tags: category
 
 ###### Organism specific databases 
 
+- [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
+- [ChlamyNet Clusters *Exploration of gene co-expression network of Chlamydomonas transcriptome*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ChlamyNet-Clusters)
 - [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 {.links-list} 
 
@@ -75,7 +77,10 @@ tags: category
 
 ## Microarray and Rnaseq databases
 
-- [COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
+- [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
+- [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
+- [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
+- [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
 
 ## Ortholog Databases
