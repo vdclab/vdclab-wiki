@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-21T02:40:55.438Z
+date: 2020-05-21T15:55:41.496Z
 tags: category
 ---
 
@@ -51,7 +51,7 @@ tags: category
 ## Gene finders
 
 - [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
-- [BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
+- [:star: BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 - [ProtPhylo *Web server to retrieve phenotype-to-protein and protein-to-protein functional associations*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/ProtPhylo)
 {.links-list}
 
