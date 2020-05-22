@@ -2,8 +2,8 @@
 title: Database of Essential Genes (DEG)
 description: DEG hosts records of currently available essential genomic elements, such as protein-coding genes and non-coding RNAs, among bacteria, archaea and eukaryotes.
 published: true
-date: 2020-04-08T20:37:18.830Z
-tags: 
+date: 2020-05-22T14:44:19.671Z
+tags: aggregator, genomes, archaea, bacteria, genes, database, eukaryota, essentiality
 ---
 
 # Database of Essential Genes (DEG)
@@ -15,6 +15,12 @@ tags:
 
 - [DEG Database *Main Page*](http://www.essentialgene.org/)
 {.links-list}
+
+## Notes from User
+- Very useful for bacteria, less essential gene understanding in eukaryotes and archaea 
+- Can BLAST bacteria and archaea
+- Lists genomes and their conditions tested 
+- Easy to use
 
 ## Citations
 
