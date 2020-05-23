@@ -2,8 +2,8 @@
 title: Genomic tRNA Database
 description: This genomic tRNA database contains tRNA gene predictions made by the program tRNAscan-SE on complete or nearly complete genomes.
 published: true
-date: 2020-04-28T20:13:04.567Z
-tags: 
+date: 2020-05-23T21:16:06.598Z
+tags: genomes, rna, database, prediction
 ---
 
 # Genomic tRNA Database
@@ -22,7 +22,8 @@ Inevitably with automated sequence analysis, we find exceptions to general ident
 
 ## Citation
 
-- [Genomic tRNA Database Citations *Reference Page*](http://lowelab.ucsc.edu/GtRNAdb/credits-citation.html)
- {.links-list}
+- Chan, P.P. & Lowe, T.M. (2009) [GtRNAdb: A database of transfer RNA genes detected in genomic sequence](http://nar.oxfordjournals.org/cgi/content/abstract/gkn787). Nucl. Acids Res. 37(Database issue):D93-D97. 
+- Lowe, T.M. & Eddy, S.R. (1997) [tRNAscan-SE: A program for improved detection of transfer RNA genes in genomic sequence](http://www.ncbi.nlm.nih.gov/pubmed/9023104?dopt=Abstract). Nucl. Acids Res. 25: 955-964. 
+{.grid-list}
 
  
