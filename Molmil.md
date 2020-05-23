@@ -2,7 +2,7 @@
 title: Molmil Viewer
 description: Browser-based protein structure viewer
 published: true
-date: 2020-05-19T18:02:28.935Z
+date: 2020-05-23T22:18:17.373Z
 tags: proteins, browser, structural analysis
 ---
 
@@ -16,6 +16,9 @@ tags: proteins, browser, structural analysis
 ## Websites
 
 - [Molmil Viewer *Web Application*](http://gjbekker.github.io/molmil/)
+{.links-list}
+
+## Help
 - [MolMil *Home Page*](https://github.com/gjbekker/molmil/wiki)
 - [MolMil Usage *Usage Page*](https://github.com/gjbekker/molmil/wiki/Molmil-usage)
 - [Frequently Asked Questions *FAQ Page*](https://github.com/gjbekker/molmil/wiki/FAQ)
