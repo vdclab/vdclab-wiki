@@ -2,8 +2,8 @@
 title: Advanced GeneBee Motifs' Collection Map
 description: Web tool that allows the construction of pairwise motifs.
 published: true
-date: 2020-04-21T17:56:05.510Z
-tags: 
+date: 2020-05-23T20:13:58.737Z
+tags: tool, genes, protein
 ---
 
 # Advanced GeneBee Motifs' Collection Map
@@ -11,6 +11,8 @@ tags:
 > Web tool that allows the construction of pairwise motifs.
 {.is-info}
 
+> May 23th 2020:: COULD NOT ACCESS TO THE WEBSITE
+{.is-warning}
 
 
 ## Website
