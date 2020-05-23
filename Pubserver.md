@@ -2,8 +2,8 @@
 title: Pubserver
 description: PubServer collects homologous sequences from NR database and retrieves and filters associated publications.
 published: true
-date: 2020-04-21T18:50:13.207Z
-tags: 
+date: 2020-05-23T20:55:28.939Z
+tags: resource reference, database, homology
 ---
 
 # Pubserver
@@ -16,7 +16,6 @@ tags:
 
 ## Websites
 - [Pubserver *Main Page*](http://pubserver.burnham.org/)
-- [Pubserver hosted on ELIXIR *Main Page*](https://bio.tools/pubserver)
 {.links-list}
 
 ## Citation
