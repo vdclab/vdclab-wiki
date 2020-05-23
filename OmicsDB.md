@@ -2,7 +2,7 @@
 title: OmicsDB
 description: Accelerating in-silico gene discovery in plants, animals and microbes.
 published: true
-date: 2020-05-08T18:31:40.478Z
+date: 2020-05-23T22:06:36.657Z
 tags: annotation, database, co-expression
 ---
 
@@ -20,6 +20,5 @@ tags: annotation, database, co-expression
 
 ## Citations
 
-- [OmicsDB::Pathogens - A database for exploring functional networks of plant pathogens.](https://www.biorxiv.org/content/10.1101/2020.03.18.979971v2.abstract) BO Hansen, S Olsson - BioRxiv https://doi.org/10.1101/2020.03.18.979971
-- FAIRsharing.org: OmicsDB.org; OmicsDB.org; In progress. https://doi.org/10.25504/FAIRsharing.58lHsV.
+- BO Hansen, S Olsson [OmicsDB::Pathogens - A database for exploring functional networks of plant pathogens.](https://www.biorxiv.org/content/10.1101/2020.03.18.979971v2.abstract)  - BioRxiv
 {.grid-list}
