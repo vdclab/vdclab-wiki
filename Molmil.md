@@ -2,7 +2,7 @@
 title: Molmil Viewer
 description: Browser-based protein structure viewer
 published: true
-date: 2020-05-23T22:18:17.373Z
+date: 2020-05-23T22:20:02.831Z
 tags: proteins, browser, structural analysis
 ---
 
