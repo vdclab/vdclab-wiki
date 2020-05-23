@@ -2,8 +2,8 @@
 title: CATH
 description: CATH is a classification of protein structures downloaded from the Protein Data Bank.
 published: true
-date: 2020-04-22T19:10:23.736Z
-tags: 
+date: 2020-05-23T21:05:55.374Z
+tags: database, protein family
 ---
 
 # CATH
@@ -19,6 +19,6 @@ tags:
 {.links-list}
 
 ## Citations
-- [CATH: an expanded resource to predict protein function through structure and sequence.](https://academic.oup.com/nar/article/45/D1/D289/2605733) Dawson NL, Lewis TE, Das S, Lees JG, Lee D, Ashford P, Orengo CA, Sillitoe I. Nucleic Acids Res. 2017 Jan
-- [Gene3D: Extensive prediction of globular domains in proteins.](https://academic.oup.com/nar/article/46/D1/D435/4588111) Lewis TE, Sillitoe I, Dawson N, Lam SD, Clarke T, Orengo CA, Lees JG. Nucleic Acids Res. 2018 Jan
+- Dawson NL, Lewis TE, Das S, Lees JG, Lee D, Ashford P, Orengo CA, Sillitoe I. [CATH: an expanded resource to predict protein function through structure and sequence.](https://academic.oup.com/nar/article/45/D1/D289/2605733)  Nucleic Acids Res. 2017 Jan
+- Lewis TE, Sillitoe I, Dawson N, Lam SD, Clarke T, Orengo CA, Lees JG. [Gene3D: Extensive prediction of globular domains in proteins.](https://academic.oup.com/nar/article/46/D1/D435/4588111) Nucleic Acids Res. 2018 Jan
 {.grid-list}
