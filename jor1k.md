@@ -2,7 +2,7 @@
 title: jor1k
 description: jor1k: OpenRISC OR1K Javascript Emulator Running Linux With Network Support
 published: true
-date: 2020-05-23T22:40:26.870Z
+date: 2020-05-23T22:41:50.764Z
 tags: tool
 ---
 
