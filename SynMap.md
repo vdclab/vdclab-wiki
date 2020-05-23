@@ -2,19 +2,20 @@
 title: SynMap
 description: SynMap generates a syntenic dotplot between two organisms and identifies syntenic regions.
 published: true
-date: 2020-04-21T18:07:30.336Z
-tags: 
+date: 2020-05-23T20:51:39.075Z
+tags: tool, data visualization
 ---
 
 # SynMap
 
 > SynMap generates a syntenic dotplot between two organisms and identifies syntenic regions.
 Synmap:
-1.) Finds putative genes or regions of homology between two genomes.
-2.) Identies collinear sets of genes or regions of sequence similarity to infer synteny.
-3.) Generates a dotplot of the results and coloring syntenic pairs.
-&NewLine;
-If you choose, synonymous and non-synonymous site mutation data can be calculated for protein coding genes that are identified as syntenic. These genes will then be colored based on those values in the dotplot for rapid identification of different age-classes of syntenic regions.
+> 
+> 1) Finds putative genes or regions of homology between two genomes.
+> 2) Identies collinear sets of genes or regions of sequence similarity to infer synteny.
+> 3) Generates a dotplot of the results and coloring syntenic pairs.
+> 
+> If you choose, synonymous and non-synonymous site mutation data can be calculated for protein coding genes that are identified as syntenic. These genes will then be colored based on those values in the dotplot for rapid identification of different age-classes of syntenic regions.
 {.is-info}
 
 
