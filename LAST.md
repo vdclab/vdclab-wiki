@@ -2,8 +2,8 @@
 title: LAST Web Service
 description: LAST finds similar regions between sequences.
 published: true
-date: 2020-04-21T18:01:21.673Z
-tags: 
+date: 2020-05-23T20:14:42.435Z
+tags: tool, sequence similarity
 ---
 
 # LAST Web Service
@@ -23,7 +23,7 @@ Train alignment parameters for unusual kinds of sequence (e.g. nanopore).
 
 ## Website
 
-- [LAST *Web Service Page*](http://lastweb.cbrc.jp/)
 - [LAST *Home Page*](http://last.cbrc.jp/)
+- [LAST *Web Service Page*](http://lastweb.cbrc.jp/)
 {.links-list}
 
