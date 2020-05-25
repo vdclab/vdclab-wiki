@@ -2,8 +2,8 @@
 title: Pathway Commons
 description: Access and discover data integrated from public pathway and interactions databases.
 published: true
-date: 2020-04-13T14:20:27.472Z
-tags: 
+date: 2020-05-25T23:30:33.520Z
+tags: aggregator, resource center, database, bioinformatics, data visualization, omics, enrichment, ontology
 ---
 
 # Pathway Commons
@@ -18,6 +18,13 @@ tags:
 - [Pathway Commons *Main Page*](http://www.pathwaycommons.org/)
 - [Pathway Commons *Pathway Guide*](http://www.pathwaycommons.org/guide/)
 {.links-list}
+
+## Notes from User
+- Important to read citation to accurately use tool 
+- Pathway guide gives step by step process and analysis of RNA-seq to enrichment, any other protocol may need modifications from this
+- Stated it can be used across all organisms 
+- Alternatively, can search gene or pathway to find pathways aggregated from PANTHER, KEGG, many more
+
 
 ## Citation
 
