@@ -2,8 +2,8 @@
 title: AgriGO
 description: AgriGO v2.0 is a web-based tool and database for gene ontology analyses.
 published: true
-date: 2020-04-13T14:15:18.406Z
-tags: 
+date: 2020-05-25T23:04:16.772Z
+tags: tool, database, gene, enrichment, ontology
 ---
 
 # AgriGO
@@ -17,6 +17,12 @@ tags:
 
 - [AgriGO *Main Page*](http://systemsbiology.cau.edu.cn/agriGOv2/)
 {.links-list}
+
+
+## Notes from User
+- When using analysis, boxes to right give description of tool and allowed gene IDs for selected species as it varies per species 
+- Once data is submitted and run (depending on number of genes input) gives two options for types of visualization, very easy 
+- Can edit images some, but not full control of image colors, etc. 
 
 ## Citations
 
