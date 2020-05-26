@@ -2,8 +2,8 @@
 title: GalaxyWEB
 description: GalaxyWEB is a web server for protein structure prediction, refinement, and related methods.
 published: true
-date: 2020-04-14T19:12:03.926Z
-tags: 
+date: 2020-05-26T18:52:23.895Z
+tags: tool, proteins, prediction
 ---
 
 # GalaxyWEB
@@ -18,10 +18,14 @@ The method generates reliable core structures from multiple templates and re-bui
 ## Website
 
 - [GalaxyWEB *Main Page*](http://galaxy.seoklab.org/)
+- [Help *Help page*](http://galaxy.seoklab.org/cgi-bin/help.cgi)
 {.links-list}
+
+## Notes from Users
+
+## Ease of use
 
 ## Citations
 
-- W. -H. Shin, G. R. Lee, L. Heo, H. Lee, and C. Seok*, Prediction of Protein Structure and Interaction by GALAXY protein modeling programs, Bio Design, 2 (1), 1-11 (2014).
 - J. Ko, H. Park, L. Heo, and C. Seok, [GalaxyWEB server for protein structure prediction and refinement.](https://academic.oup.com/nar/article/40/W1/W294/1078340) Nucleic Acids Res. 40 (W1), W294-W297 (2012).
 {.grid-list}
