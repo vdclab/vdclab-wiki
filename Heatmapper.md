@@ -2,8 +2,8 @@
 title: Heatmapper
 description: Heatmapper is a free online application for visualizing various types of data as heat maps.
 published: true
-date: 2020-04-13T17:18:25.379Z
-tags: 
+date: 2020-05-26T02:18:15.407Z
+tags: tool, data visualization, omics, correlation
 ---
 
 # Heatmapper
@@ -13,6 +13,10 @@ tags:
 Heatmapper offers a number of simple and intuitive customization options for easy adjustments to each heat map’s appearance and plotting parameters. Heatmapper also allows users to interactively explore their numeric data values by hovering their cursor over each heat map, or by using a searchable/sortable data table view.
 {.is-info}
 
+## Notes from User
+- Easy to manipulate images on webpage 
+- Outlines data format needed for input clearly [here](http://www2.heatmapper.ca/about/instructions/) 
+- Very straightforward to use 
 
 ## Website
 
