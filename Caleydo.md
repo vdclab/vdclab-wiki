@@ -2,7 +2,7 @@
 title: Caleydo
 description: Caleydo is a community of researchers at JKU Linz, the University of Utah, and Harvard Medical School that focuses on biological data visualization.
 published: true
-date: 2020-05-26T13:49:46.769Z
+date: 2020-05-26T13:49:56.432Z
 tags: tool, data visualization, metabolic pathways, 2015, omics
 ---
 
@@ -19,7 +19,7 @@ tags: tool, data visualization, metabolic pathways, 2015, omics
 - [Tools *Tool list*](http://caleydo.org/tools/)
 {.links-list}
 
-## Note from Users
+## Notes from Users
 - List of tools for data visualizations.
 - Some tools are downloadable, some are online.
 - Each tool come with a explanatory video.
