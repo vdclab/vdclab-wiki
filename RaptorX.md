@@ -2,7 +2,7 @@
 title: RaptorX
 description: RaptorX is a protein structure prediction server developed by Xu group, excelling at predicting 3D structures for protein sequences without close homologs in the Protein Data Bank (PDB).
 published: true
-date: 2020-05-26T15:36:02.250Z
+date: 2020-05-26T15:37:47.180Z
 tags: tool, proteins, data visualization
 ---
 
@@ -55,12 +55,12 @@ RaptorX also assigns some confidence scores to indicate the quality of a predict
 - Wang Z, Zhao F, Peng J, Xu J. [Protein 8-class secondary structure prediction using conditional neural fields.](https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100196) Proteomics. 2011 Oct;11(19):3786-92. doi: 10.1002/pmic.201100196. Epub 2011 Aug 31.
 {.grid-list}
 #### Method Paper for contact prediction
-- Zhiyong Wang and Jinbo Xu. [Predicting protein contact map using evolutionary and physical constraints by integer programming.]() Bioinformatics (Proceedings of ISMB 2013), 2013. Also see an Extended version
+- Zhiyong Wang and Jinbo Xu. [Predicting protein contact map using evolutionary and physical constraints by integer programming.](https://academic.oup.com/bioinformatics/article/29/13/i266/188131) Bioinformatics (Proceedings of ISMB 2013), 2013. Also see an Extended version
 
-- Jianzhu Ma, Sheng Wang, Zhiyong Wang and Jinbo Xu. [Protein Contact Prediction by Integrating Joint Evolutionary Coupling Analysis and Supervised Learning.]() RECOMB 2015, Lecture Notes in Computer Science , Volume 9029, 2015, pp 218-221.
+- Jianzhu Ma, Sheng Wang, Zhiyong Wang and Jinbo Xu. [Protein Contact Prediction by Integrating Joint Evolutionary Coupling Analysis and Supervised Learning.](https://academic.oup.com/bioinformatics/article/31/21/3506/195691) RECOMB 2015, Lecture Notes in Computer Science , Volume 9029, 2015, pp 218-221.
 {.grid-list}
 #### Related Papers
-- Feng Zhao, Jian Peng and Jinbo Xu. [Fragment-free approach to protein folding using conditional neural fields.]() Bioinformatics (Proceedings of ISMB 2010), 2010.
+- Feng Zhao, Jian Peng and Jinbo Xu. [Fragment-free approach to protein folding using conditional neural fields.](https://academic.oup.com/bioinformatics/article/26/12/i310/283476) Bioinformatics (Proceedings of ISMB 2010), 2010.
 
-- Feng Zhao, Jian Peng, Joe DeBartolo, Karl F. Freed, Tobin R. Sosnick and Jinbo Xu. [A probabilistic and continuous model of protein conformational space for template-free modeling.]() Journal of Computational Biology, 2010.
+- Feng Zhao, Jian Peng, Joe DeBartolo, Karl F. Freed, Tobin R. Sosnick and Jinbo Xu. [A probabilistic and continuous model of protein conformational space for template-free modeling.](https://www.liebertpub.com/doi/abs/10.1089/cmb.2009.0235) Journal of Computational Biology, 2010.
 {.grid-list}
