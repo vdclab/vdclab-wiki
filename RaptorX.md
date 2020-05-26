@@ -2,7 +2,7 @@
 title: RaptorX
 description: RaptorX is a protein structure prediction server developed by Xu group, excelling at predicting 3D structures for protein sequences without close homologs in the Protein Data Bank (PDB).
 published: true
-date: 2020-05-26T15:59:08.769Z
+date: 2020-05-26T18:10:46.511Z
 tags: tool, sequence analysis, proteins, 2010, prediction, structural alignment, 2009, 2011, 2015, 2012, 2013, model, protein-protein, structural analysis
 ---
 
