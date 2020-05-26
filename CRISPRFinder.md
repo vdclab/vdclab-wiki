@@ -2,7 +2,7 @@
 title: CRISPRFinder
 description: A web tool to identify clustered regularly interspaced short palindromic repeats.
 published: true
-date: 2020-05-26T17:24:18.380Z
+date: 2020-05-26T17:25:13.238Z
 tags: tool, clustering
 ---
 
@@ -20,5 +20,5 @@ tags: tool, clustering
 
 ## Citation 
 
-- Grissa, I., Vergnaud, G., & Pourcel, C. (2007). [CRISPRFinder: a web tool to identify clustered regularly interspaced short palindromic repeats.](https://pubmed.ncbi.nlm.nih.gov/17537822/) Nucleic acids research, 35(suppl_2), W52-W57.
+- Grissa, I., Vergnaud, G., & Pourcel, C. (2007). [CRISPRFinder: a web tool to identify clustered regularly interspaced short palindromic repeats.](https://academic.oup.com/nar/article/35/suppl_2/W52/2923246) Nucleic acids research, 35(suppl_2), W52-W57.
 {.grid-list}
