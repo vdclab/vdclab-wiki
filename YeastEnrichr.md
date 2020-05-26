@@ -2,8 +2,8 @@
 title: YeastEnrichr
 description: YeastEnrichr is a new gene list enrichment analysis tool for Saccharomyces cerevisiae.
 published: true
-date: 2020-05-26T01:24:09.428Z
-tags: tool, sequence analysis
+date: 2020-05-26T01:53:32.500Z
+tags: aggregator, genomics, tool, model organism, omics, enrichment
 ---
 
 # YeastEnrichr
@@ -19,7 +19,9 @@ tags: tool, sequence analysis
 {.links-list}
 
 ## Notes from User
-- 
+- Can sort data by multiple ranking systems
+- Easy to change colors and can view as bar graphs or tables
+- Displays Ontologies, Pathways and Transcription pulled from many databases quickly and easily 
 ## Help 
 [Help page](https://amp.pharm.mssm.edu/YeastEnrichr/help#basics) 
 ## Citations
