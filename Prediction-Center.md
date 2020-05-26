@@ -2,8 +2,8 @@
 title: Protein Structure Prediction Center
 description: The Protein Structure Prediction Center's goal is to help advance the methods of identifying protein structure from sequence.
 published: true
-date: 2020-04-14T19:06:10.172Z
-tags: 
+date: 2020-05-26T18:21:29.734Z
+tags: 2014, 2018, tool, proteins, 2010, prediction, 2008, 1998, 2016, 2012, 2006, 2004, structural analysis, 2020, 1994, 1996, 2000, 2002
 ---
 
 # Protein Structure Prediction Center
@@ -18,3 +18,6 @@ tags:
 - [Prediction Center *Main Page*](http://predictioncenter.org/)
 {.links-list}
 
+## Notes from User
+- Important to check here which prediction tool is the best.
+- One CAPS experiment every 2 years since 1994.
