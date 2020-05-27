@@ -2,8 +2,8 @@
 title: 3DLigandSite
 description: 3DLigandStie is an automated method for the prediction of ligand binding sites. 
 published: true
-date: 2020-05-27T18:31:28.903Z
-tags: tool, prediction, protein, binding, interaction, structural analysis
+date: 2020-05-27T18:31:46.137Z
+tags: tool, 2010, prediction, protein, binding, interaction, structural analysis
 ---
 
 # 3DLigandSite
