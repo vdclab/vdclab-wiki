@@ -2,8 +2,8 @@
 title: GalaxyWEB
 description: GalaxyWEB is a web server for protein structure prediction, refinement, and related methods.
 published: true
-date: 2020-05-26T18:52:23.895Z
-tags: tool, proteins, prediction
+date: 2020-05-27T14:25:37.620Z
+tags: tool, sequence analysis, proteins, prediction, 2012, interaction, protein-protein
 ---
 
 # GalaxyWEB
@@ -22,8 +22,13 @@ The method generates reliable core structures from multiple templates and re-bui
 {.links-list}
 
 ## Notes from Users
+- Different tools for protein structure prediction.
+- Some tools of protein interaction prediction.
+- Some of the tools are downloadable.
 
 ## Ease of use
+- You just need your protein sequence or PDB file as input.
+- Can take a few hours to run. 
 
 ## Citations
 
