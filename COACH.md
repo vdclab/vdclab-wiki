@@ -2,7 +2,7 @@
 title: COACH
 description: COACH is a meta-server approach to protein-ligand binding site prediction.
 published: true
-date: 2020-05-27T14:59:21.639Z
+date: 2020-05-27T19:32:57.790Z
 tags: tool, prediction, protein, 2013, binding, structural analysis
 ---
 
