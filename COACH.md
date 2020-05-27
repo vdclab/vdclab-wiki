@@ -2,7 +2,7 @@
 title: COACH
 description: COACH is a meta-server approach to protein-ligand binding site prediction.
 published: true
-date: 2020-05-27T19:32:57.790Z
+date: 2020-05-27T19:34:23.886Z
 tags: tool, prediction, protein, 2013, binding, structural analysis
 ---
 
@@ -14,6 +14,11 @@ Users are also allowed to input primary sequence, where I-TASSER will be used to
 {.is-info}
 
 
+## Website
+
+- [COACH *Main Page*](https://zhanglab.ccmb.med.umich.edu/COACH/)
+{.links-list}
+
 ## Notes from Usres
 - Downloadable verison.
 - Cannot force a ligand to test, it's a blind search.
@@ -21,12 +26,6 @@ Users are also allowed to input primary sequence, where I-TASSER will be used to
 ## Ease of use
 - Input a PDB file or a protein sequence.
 - Take some time to run.
-
-
-## Website
-
-- [COACH *Main Page*](https://zhanglab.ccmb.med.umich.edu/COACH/)
-{.links-list}
 
 ## Citations
 
