@@ -2,8 +2,8 @@
 title: Clustergrammar
 description: Clustergrammer is a web-based tool for visualizing and analyzing high-dimensional data as interactive and shareable hierarchically clustered heatmaps.
 published: true
-date: 2020-05-27T17:10:52.717Z
-tags: tool, data visualization
+date: 2020-05-27T17:11:52.684Z
+tags: genomics, tool, transcriptomics, co-expression, data visualization, gene expression
 ---
 
 # Clustergrammar
