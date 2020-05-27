@@ -2,7 +2,7 @@
 title: BindUP
 description: BindUP - predicting DNA and RNA binding proteins using the electrostatic patches on the protein surface.
 published: true
-date: 2020-05-27T18:41:14.588Z
+date: 2020-05-27T18:43:30.380Z
 tags: tool, proteins, dna, rna, prediction, 2016, binding, structural analysis
 ---
 
@@ -23,10 +23,14 @@ BindUP holds information for all the protein structures in the RCSB PDB database
 
 ## Notes from Users
 - Work better if the structure your protein has already been solved.
+- Option to look at the negative and positive patches of the proteins.
 
 
 ## Ease of use
-- Enter a PDB id or a PDB file
+- Enter a PDB id or a PDB file.
+- Several proteins can be entered at the same time.
+- Run fast.
+- Give the largest negative or positive surface of your protein.
 
 ## Citation
 
