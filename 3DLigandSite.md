@@ -2,7 +2,7 @@
 title: 3DLigandSite
 description: 3DLigandStie is an automated method for the prediction of ligand binding sites. 
 published: true
-date: 2020-05-27T19:32:51.532Z
+date: 2020-05-27T19:47:34.476Z
 tags: tool, 2010, prediction, protein, binding, interaction, structural analysis
 ---
 
@@ -19,6 +19,7 @@ tags: tool, 2010, prediction, protein, binding, interaction, structural analysis
 
 ## Notes from Users
 - Predict the fold of your protein, then predict the ligands
+- Uses Phyre2 for structural prediction.
 
 > Not sure if there was any update since 2010
 {.is-warning}
@@ -26,6 +27,7 @@ tags: tool, 2010, prediction, protein, binding, interaction, structural analysis
 
 ## Ease of use
 - input a sequence.
+- Take some time to run.
 
 ## Citation
 
