@@ -2,8 +2,8 @@
 title: Aquaria
 description: Aquaria is a web-tool that allows for the visualization of protein structure of various proteins from numerous species.
 published: true
-date: 2020-05-27T18:06:05.631Z
-tags: tool, proteins, data visualization
+date: 2020-05-27T18:26:26.814Z
+tags: annotation, tool, proteins, data visualization, model, protein domain, modeling
 ---
 
 # Aquaria
