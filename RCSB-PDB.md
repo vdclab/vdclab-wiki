@@ -2,8 +2,8 @@
 title: RCSB PDB
 description: RCSB PDB (Research Collaboratory for Structural Bioinformatics PDB) operates the US data center for the global PDB archive, and makes PDB data available at no charge to all data consumers without limitations on usage.
 published: true
-date: 2020-05-28T01:00:25.159Z
-tags: resource center, database
+date: 2020-05-28T18:01:42.650Z
+tags: annotation, proteins, resource center, database, protein domain, modeling
 ---
 
 # Research Collaboratory for Structural Bioinformatics Protein Data Base (RCSB PDB)
