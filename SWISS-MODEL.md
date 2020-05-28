@@ -2,7 +2,7 @@
 title: SWISS-MODEL
 description: SWISS-MODEL is a web-based integrated service dedicated to protein structure homology modelling.
 published: true
-date: 2020-05-28T19:15:20.018Z
+date: 2020-05-28T19:22:04.817Z
 tags: tool, proteins, homology, data visualization, protein, model, protein domain, modeling
 ---
 
