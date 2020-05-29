@@ -2,7 +2,7 @@
 title: Yeast Fitness Database
 description: FitDB is a searchable database of quantitative chemical-genetic interactions based on data in Hillenmeyer et al. (Science 2008).
 published: true
-date: 2020-05-21T17:46:49.812Z
+date: 2020-05-29T11:47:57.983Z
 tags: publisher affiliated, database, fitness, model organism
 ---
 
@@ -21,7 +21,7 @@ A gene search allows viewing of compounds most sensitive to the gene specified i
 ## Notes from User
 - Advanced search allows download as plain text, other advanced features not available yet
 - Link on gene pages to SGD does not work, but connects to BioGrid and BioPixie 
-- 
+- can search both for co-fitness or drug profiles
 ## Citation
 
 - Hillenmeyer, M. E., Fung, E., Wildenhain, J., Pierce, S. E., Hoon, S., Lee, W., ... & Altman, R. B. (2008). [The chemical genomic portrait of yeast: uncovering a phenotype for all genes.](https://science.sciencemag.org/content/320/5874/362) Science, 320(5874), 362-365.
