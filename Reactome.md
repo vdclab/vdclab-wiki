@@ -2,8 +2,8 @@
 title: Reactome
 description: Reactome is a free, open-source, curated and peer-reviewed pathway database.
 published: true
-date: 2020-04-13T13:41:46.630Z
-tags: 
+date: 2020-05-29T20:43:30.655Z
+tags: aggregator, resource center, database
 ---
 
 # Reactome
@@ -19,6 +19,11 @@ The cornerstone of Reactome is a freely available, open source relational databa
 
 - [Reactome *Main Page*](https://reactome.org/)
 {.links-list}
+
+## User Notes
+- For tools, limited to a small set of model organisms
+- Often, large amount of data shown all at once; can be daunting without viewing tutorials
+- Also makes available some tools for download
 
 ## Citations
 To cite the use of Reactome in your work, please reference one or more of the following publications:
