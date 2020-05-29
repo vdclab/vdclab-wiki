@@ -2,7 +2,7 @@
 title: InterMine
 description: InterMine integrates biological data sources, making it easy to query and analyse data.
 published: true
-date: 2020-05-21T17:56:54.870Z
+date: 2020-05-29T11:56:36.016Z
 tags: annotation, annotation tools, tool, genes, database, gene annotation
 ---
 
@@ -14,6 +14,7 @@ InterMine makes it easy to integrate multiple data sources into a single data wa
 {.is-info}
 
 ## Notes from user
+- Main Focus on Eukaryotes
 - InterMine is helpful for finding genes in other organisms accross many databases
 - Can be used to search with a mixed list of genes (gene from various organisms)
 - Results are given as a list of databases with entries for the query genes
