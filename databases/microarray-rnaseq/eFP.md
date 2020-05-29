@@ -2,8 +2,8 @@
 title: eFP visualization of Polysomal mRNAs in Discrete Cell Populations of Arabidopsis
 description: This eFP viewer provides a schematic representation of data for Arabidopsis seedlings.
 published: true
-date: 2020-05-21T01:29:49.043Z
-tags: resource center, transcriptomes, data visualization, eukaryota, correlation
+date: 2020-05-29T17:37:42.720Z
+tags: resource center, transcriptomes, data visualization, eukaryota, correlation, plant
 ---
 
 # eFP visualization of Polysomal mRNAs ("Translatomes") in Discrete Cell Populations of Arabidopsis Seedlings: Control and Hypoxia Stressed
