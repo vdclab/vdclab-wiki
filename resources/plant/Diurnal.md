@@ -2,8 +2,8 @@
 title: Diurnal
 description: Diurnal is simply a database consisting of a number of array expression experiments with various genomes subjected to standard set of light and temperature conditions.
 published: true
-date: 2020-05-21T01:24:28.911Z
-tags: tool, comparative genomics, data capture, database, gene, co-expression, data visualization, data export, eukaryota, correlation
+date: 2020-05-29T17:38:21.296Z
+tags: tool, comparative genomics, data capture, database, gene, co-expression, data visualization, data export, eukaryota, correlation, plant
 ---
 
 # Diurnal
