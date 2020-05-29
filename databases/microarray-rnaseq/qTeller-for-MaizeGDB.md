@@ -2,8 +2,8 @@
 title: qTeller for MaizeGDB
 description: An RNA-seq analysis platform that allows users to compare expression across multiple data sources by genomic intervals or user-specified genes, and to visually compare expression between samples or two genes.
 published: true
-date: 2020-05-14T01:55:44.809Z
-tags: genomes, tool, transcriptomics, co-expression, data visualization, protein, gene expression, proteomics, eukaryota
+date: 2020-05-29T17:38:50.076Z
+tags: genomes, tool, transcriptomics, co-expression, data visualization, protein, gene expression, proteomics, eukaryota, plant
 ---
 
 # qTeller for MaizeGDB
