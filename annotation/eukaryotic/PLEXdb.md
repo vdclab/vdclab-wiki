@@ -2,8 +2,8 @@
 title: PLEXdb
 description: A Plant Expression Dataset hosted by PlantGDB for use of sequence annotation.
 published: true
-date: 2020-05-21T01:33:01.935Z
-tags: annotation, annotation tools, tool, sequence annotation, gene expression, phenotype
+date: 2020-05-29T17:36:29.902Z
+tags: annotation, annotation tools, tool, sequence annotation, gene expression, phenotype, plant
 ---
 
 # PLEXdb
