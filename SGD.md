@@ -2,8 +2,8 @@
 title: The Saccharomyces Genome Database (SGD)
 description: The Saccharomyces Genome Database (SGD) provides comprehensive integrated biological information for the budding yeast Saccharomyces cerevisiae along with search and analysis tools to explore these data.
 published: true
-date: 2020-04-25T19:50:49.357Z
-tags: 
+date: 2020-05-30T20:17:03.675Z
+tags: sequence similarity, resource center, database
 ---
 
 # The Saccharomyces Genome Database (SGD)
@@ -16,6 +16,7 @@ tags:
 ## Website
 
 - [SGD *Main Page*](https://www.yeastgenome.org/)
+- [YeastMine *Database Search/Browse Utility*](https://yeastmine.yeastgenome.org/yeastmine/begin.do)
 {.links-list}
 
 ## Citation
