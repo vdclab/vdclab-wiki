@@ -2,15 +2,28 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-04-25T17:27:07.332Z
-tags: 
+date: 2020-05-30T20:23:17.815Z
+tags: annotation tools, database, data visualization
 ---
 
 # The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 
-> Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
+The Database for Annotation, Visualization and Integrated Discovery (DAVID) v6.8 comprises a full Knowledgebase update to the sixth version of our original web-accessible programs. DAVID now provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes. For any given gene list, DAVID tools are able to:
+
+     - Identify enriched biological themes, particularly GO terms
+     - Discover enriched functional-related gene groups
+     - Cluster redundant annotation terms
+     - Visualize genes on BioCarta & KEGG pathway maps
+     - Display related many-genes-to-many-terms on 2-D view.
+     - Search for other functionally related genes not in the list
+     - List interacting proteins
+     - Explore gene names in batch
+     - Link gene-disease associations
+     - Highlight protein functional domains and motifs
+     - Redirect to related literatures
+     - Convert gene identifiers from one type to another.
+     - And more!
 &NewLine;
-Plus if you need a blank line in the description you just put `&NewLine;` (edit the page to see what is the extra blank thing) and you have a blank line. It will no be pretty in the markdown but will be on the page
 {.is-info}
 
 
@@ -19,6 +32,10 @@ Plus if you need a blank line in the description you just put `&NewLine;` (edit 
 
 - [DAVID *Main Page*](https://david.ncifcrf.gov/)
 {.links-list}
+
+## User Notes
+
+- 
 
 ## Citations
 
