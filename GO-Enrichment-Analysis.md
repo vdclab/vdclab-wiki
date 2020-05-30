@@ -2,8 +2,8 @@
 title: GO Enrichment Analysis
 description:  The mission of the GO Consortium is to develop an up-to-date, comprehensive, computational model of biological systems, from the molecular level to larger pathways, cellular and organism-level systems.
 published: true
-date: 2020-04-13T13:49:36.529Z
-tags: 
+date: 2020-05-30T19:55:28.753Z
+tags: tool, genes
 ---
 
 # GO Enrichment Analysis
@@ -17,8 +17,13 @@ GO is also at the hub of a major effort to represent the vast amount of biomedic
 
 ## Website
 
-- [GO Enrichment Analysis *Main Page*](http://geneontology.org/docs/go-enrichment-analysis/)
+- [GO Enrichment Analysis *Main Page*](http://geneontology.org)
 {.links-list}
+
+## User Notes
+- A keystone reference of an internationally-recognized bioinformatic annotation standard in publishing, curation and cross-reference
+- See their [About](http://geneontology.org/docs/introduction-to-go-resource/) page for more information on their establishment, mission statement, current and future goals
+- See the sites [Documentation](http://geneontology.org/docs/go-enrichment-analysis/) for details on the standard, utilities, apps, etc.
 
 ## Citation
 
