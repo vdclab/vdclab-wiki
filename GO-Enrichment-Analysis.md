@@ -2,7 +2,7 @@
 title: GO Enrichment Analysis
 description:  The mission of the GO Consortium is to develop an up-to-date, comprehensive, computational model of biological systems, from the molecular level to larger pathways, cellular and organism-level systems.
 published: true
-date: 2020-05-30T20:00:52.509Z
+date: 2020-05-30T20:44:54.075Z
 tags: annotation, tool, genes, functional association, resource, mapping, curation, curated, enrichment, ontology
 ---
 
@@ -18,6 +18,7 @@ GO is also at the hub of a major effort to represent the vast amount of biomedic
 ## Website
 
 - [GO Enrichment Analysis *Main Page*](http://geneontology.org)
+- [AmiGO 2 *Search/Browser/Query Application of GeneOntology.org*](http://amigo.geneontology.org/amigo/landing)
 {.links-list}
 
 ## User Notes
