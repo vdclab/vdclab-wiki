@@ -2,8 +2,8 @@
 title: GOrilla
 description: GOrilla is a tool for identifying and visualizing enriched GO terms in ranked lists of genes.
 published: true
-date: 2020-04-13T13:53:29.159Z
-tags: 
+date: 2020-05-30T20:11:06.787Z
+tags: tool, genes, analysis tools, data visualization, enrichment, ontology
 ---
 
 # Gene Ontology enRIchment anaLysis and visuaLizAtion tool (GOrilla)
@@ -17,6 +17,13 @@ tags:
 
 - [GOrilla *Main Page*](http://cbl-gorilla.cs.technion.ac.il/)
 {.links-list}
+
+## User Notes
+- Limited to eukaryotic model organisms, but user-friendly/easy-to-use/straight-forward
+- Example is a little less-than-ideal for naive/less-experienced users
+- Resulting visualizations are more heuristic than they are empirically-driving or foundational to any further measured analysis;
+- Data input appears somewhat free-form or vulnerable to information interpretation-/mapping-driven errors/misrepresentations in subsequent enrichment or tool output
+- Data/results/rendering export could be improved; last updates were posted in March 2013
 
 ## Citations
 
