@@ -2,7 +2,7 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-05-30T20:40:04.298Z
+date: 2020-05-30T20:40:19.165Z
 tags: annotation tools, genes, proteins, functional association, database, data visualization, mapping, interaction, enrichment, ontology, id mapper
 ---
 
@@ -41,7 +41,7 @@ For any given gene list, DAVID tools are able to:
 
 ## User Notes
 - Mapped identifiers requires additional review/checking, removal of duplicates or incorrectly mapped IDs (specific attention should be applied to the listed organism identities, especially for duplicate gene/protein entries)
-- Excellent breadth of mapping (e.g., if UniProt's ID mapping tool falls short in coverage, failing to map a large number of IDs), hence the above-mentioned need for additional review
+- Impressive breadth in mapping (e.g., if UniProt's ID mapping tool falls short in coverage, failing to map a large number of IDs), hence the above-mentioned need for additional review
 - Enrichment (as with any form of enrichment analysis) requires an understanding of how to interpret this character of heuristic output; respect that lack of empiricism, using caution in application of the results
 
 ## Citations
