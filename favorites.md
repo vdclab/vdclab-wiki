@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T18:52:51.054Z
+date: 2020-05-31T19:13:20.874Z
 tags: reference, resource reference
 ---
 
@@ -37,6 +37,7 @@ tags: reference, resource reference
 
 ## Data Integration Databases
 
+- [DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
 - [SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
@@ -84,6 +85,12 @@ tags: reference, resource reference
 ## Ortholog Databases
 
 - [OrthoMCL *OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoMCL)
+{.links-list}
+
+## Phenotypes And Fitness Databases
+
+- [OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
+- [Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
