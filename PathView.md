@@ -2,7 +2,7 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-21T11:18:19.062Z
+date: 2020-05-31T20:47:01.977Z
 tags: tool, 2017, data visualization, mapping, metabolic pathways, 2013
 ---
 
@@ -16,8 +16,6 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 ## Website
 
 - [PathView *Main Page*](https://pathview.uncc.edu/)
-- [Help *Help section and Examples*](https://pathview.uncc.edu/overview)
-- [Tutorial *Info to donwload and use the tool*](http://www.bioconductor.org/packages/release/bioc/vignettes/pathview/inst/doc/pathview.pdf)
 {.links-list}
 
 ## Notes from Users
@@ -34,6 +32,12 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 - Interactive Examples to learn to use the tool.
 - After reading the Help section, very easy.
 - Simple to costumize at will.
+
+## Help
+
+- [Help *Help section and Examples*](https://pathview.uncc.edu/overview)
+- [Tutorial *Info to donwload and use the tool*](http://www.bioconductor.org/packages/release/bioc/vignettes/pathview/inst/doc/pathview.pdf)
+{.links-list}
 
 ## Citations
 
