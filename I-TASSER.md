@@ -2,15 +2,15 @@
 title: I-TASSER
 description: I-TASSER (Iterative Threading ASSEmbly Refinement) is a hierarchical approach to protein structure and function prediction.
 published: true
-date: 2020-05-26T15:46:37.350Z
+date: 2020-05-31T23:20:26.441Z
 tags: tool, sequence analysis, proteins, 2010, 2015, model, structural analysis
 ---
 
 # Iterative Threading ASSEmbly Refinement (I-TASSER)
 
 > I-TASSER (Iterative Threading ASSEmbly Refinement) is a hierarchical approach to protein structure and function prediction. It first identifies structural templates from the PDB by multiple threading approach LOMETS, with full-length atomic models constructed by iterative template-based fragment assembly simulations. Function insights of the target are then derived by re-threading the 3D models through protein function database BioLiP. 
-&NewLine;
-I-TASSER (as 'Zhang-Server') was ranked as the No 1 server for protein structure prediction in recent community-wide CASP7, CASP8, CASP9, CASP10, CASP11, CASP12, and CASP13 experiments. It was also ranked as the best for function prediction in CASP9. The server is in active development with the goal to provide the most accurate protein structure and function predictions using state-of-the-art algorithms.
+>
+> I-TASSER (as 'Zhang-Server') was ranked as the No 1 server for protein structure prediction in recent community-wide CASP7, CASP8, CASP9, CASP10, CASP11, CASP12, and CASP13 experiments. It was also ranked as the best for function prediction in CASP9. The server is in active development with the goal to provide the most accurate protein structure and function predictions using state-of-the-art algorithms.
 {.is-info}
 
 
@@ -20,15 +20,17 @@ I-TASSER (as 'Zhang-Server') was ranked as the No 1 server for protein structure
 {.links-list}
 
 ## Notes from Users
+
 - Predict structure and ligand from known structures.
 - Constumisation with 3 options:
-			1- force a template.
-   	 	2- exclude a template.
-    	3- guide for secondary structures.
+			1. Force a template.
+   	 	2. Exclude a template.
+    	3. Guide for secondary structures.
 - Downloadable software.
 - Long time to run as a lot of users. (> 24h)
 
 ## Ease of use
+
 - Enter your sequence and push Run.
 - Need an e-mail and a password (auto-alocated).
 - Results easy to use and interprete.
