@@ -2,7 +2,7 @@
 title: PhyloGenes
 description: PhyloGenes displays pre-computed phylogenetic trees of gene families alongside experimental gene function data to facilitate inference of unknown gene function in plants.
 published: true
-date: 2020-05-31T19:27:42.083Z
+date: 2020-05-31T19:27:51.731Z
 tags: phylogeny, data capture, gene, phyletic pattern
 ---
 
