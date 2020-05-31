@@ -2,7 +2,7 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-31T20:47:01.977Z
+date: 2020-05-31T20:47:14.257Z
 tags: tool, 2017, data visualization, mapping, metabolic pathways, 2013
 ---
 
@@ -19,6 +19,7 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 {.links-list}
 
 ## Notes from Users
+
 - Possibility to donwload this tool and use it on local computer.
 - Possibility to login and save reusults online.
 - Mainly based on KEGG pathway maps.
@@ -29,6 +30,7 @@ Pathview Web provides easy interactive access, and generates high quality, hyper
 - Choose colorations.
 
 ## Ease of use
+
 - Interactive Examples to learn to use the tool.
 - After reading the Help section, very easy.
 - Simple to costumize at will.
