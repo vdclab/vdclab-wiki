@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T19:13:20.874Z
+date: 2020-05-31T19:17:00.117Z
 tags: reference, resource reference
 ---
 
@@ -89,8 +89,9 @@ tags: reference, resource reference
 
 ## Phenotypes And Fitness Databases
 
-- [OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
 - [Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
+- [FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
+- [OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
