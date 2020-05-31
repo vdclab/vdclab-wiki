@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T18:52:45.906Z
+date: 2020-05-31T18:52:51.054Z
 tags: reference, resource reference
 ---
 
@@ -88,7 +88,7 @@ tags: reference, resource reference
 
 ## Protein-Protein Interaction Databases
 
-- [:star: APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
+- [APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
 {.links-list}
 
 ## Transcription Factor Databases
