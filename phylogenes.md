@@ -2,7 +2,7 @@
 title: PhyloGenes
 description: PhyloGenes displays pre-computed phylogenetic trees of gene families alongside experimental gene function data to facilitate inference of unknown gene function in plants.
 published: true
-date: 2020-05-31T19:26:58.167Z
+date: 2020-05-31T19:27:29.538Z
 tags: phylogeny, data capture, gene, phyletic pattern
 ---
 
@@ -25,9 +25,8 @@ tags: phylogeny, data capture, gene, phyletic pattern
 - Good for to get orthology/ paralogy relationships.
 
 ## Citation
-PhyloGenes is managed by the nonprofit Phoenix Bioinformatics Corporation. It is co-developed by Phoenix Bioinformatics and the PANTHER project at University of Southern California, and is supported by funding provided by the National Science Foundation [Grant No. DBI-1661543](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1661543&HistoricalAwards=false)
 
-- 
+- PhyloGenes is managed by the nonprofit Phoenix Bioinformatics Corporation. It is co-developed by Phoenix Bioinformatics and the PANTHER project at University of Southern California, and is supported by funding provided by the National Science Foundation [Grant No. DBI-1661543](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1661543&HistoricalAwards=false)
 {.grid-list}
 
 
