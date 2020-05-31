@@ -2,7 +2,7 @@
 title: Fitness Browser
 description: Browse thousands of genome-wide fitness experiments from diverse bacteria, identify fitness phenotypes and compare fitness between genes and organisms.
 published: true
-date: 2020-05-29T19:34:45.703Z
+date: 2020-05-31T19:36:23.707Z
 tags: bacteria, comparative genomics, functional association, database, gene, fitness, browser, co-occurrence, conservation, omics, orthologs, phenotype, essentiality
 ---
 
@@ -17,18 +17,17 @@ tags: bacteria, comparative genomics, functional association, database, gene, fi
 
 ## Ease of Use
 
-> The website is very easy to use and the help page has detailed, easy to read descriptions of exactly what is being looked at and what that means, in regards to fitness score values. 
-{.is-info}
+- The website is very easy to use and the help page has detailed, easy to read descriptions of exactly what is being looked at and what that means, in regards to fitness score values. 
 
 ## User Notes  
 - Gene fitness values: 
--- Fitness = 0 means the mutant grew similarly to most other mutants under those conditions and wildtype. 
--- Fitness > 0 (positive) means that the gene could be potentially harmful under those conditions, and that disrupting the gene increased the organisms fitness. 
--- Fitness < 0 (negative) means that the gene was important under those conditions and that disrupting the gene decreased the organisms fitness. 
+	• Fitness = 0 means the mutant grew similarly to most other mutants under those conditions and wildtype. 
+	• Fitness > 0 (positive) means that the gene could be potentially harmful under those conditions, and that disrupting the gene increased the organisms fitness. 
+	• Fitness < 0 (negative) means that the gene was important under those conditions and that disrupting the gene decreased the organisms fitness. 
 - Gene fitness values with a |t| >/= 4 can be considered significant (or reliably different from a fitness score of 0)
 - Degree of Gene fitness values:
--- -1 < Fitness < 1 indicates the loss of the gene has a subtle phenotype that may be significant (check t-score)
--- -2 < Fitness < 2 indicates that the loss of the gene has strong effects on fitness
+	• -1 < Fitness < 1 indicates the loss of the gene has a subtle phenotype that may be significant (check t-score)
+	• -2 < Fitness < 2 indicates that the loss of the gene has strong effects on fitness
 - Cofitness represents the Pearson correlation between the fitness pattern of two genes. 
 - Conserved cofitness is evidence of a functional relationship, and means that the two genes and their orthologs all have cofitness scores > 0.6.
 
