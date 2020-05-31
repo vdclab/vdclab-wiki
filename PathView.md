@@ -2,15 +2,15 @@
 title: PathView
 description: Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 published: true
-date: 2020-05-31T20:47:14.257Z
+date: 2020-05-31T20:47:26.497Z
 tags: tool, 2017, data visualization, mapping, metabolic pathways, 2013
 ---
 
 # PathView
 
 > Pathview maps, integrates and renders a wide variety of biological data on relevant pathway graphs.
-&NewLine;
-Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
+>
+> Pathview Web provides easy interactive access, and generates high quality, hyperlinked graphs.
 {.is-info}
 
 ## Website
