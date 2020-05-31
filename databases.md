@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-31T18:50:15.285Z
+date: 2020-05-31T20:58:19.558Z
 tags: category
 ---
 
@@ -20,6 +20,7 @@ tags: category
 
 ## Data Integration Databases
 
+- [:star: DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [EuPathDB *Eukaryotic pathogens database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
@@ -31,6 +32,7 @@ tags: category
 ## General databases
 
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [:star: RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 {.links-list}
 
 ### Eukaryote databases
@@ -40,9 +42,10 @@ tags: category
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
 {.links-list}
 
-##### Organism specific databases 
+#### Organism specific databases 
 
 - [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
+- [:star: CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
 - [ChlamyNet Clusters *Exploration of gene co-expression network of Chlamydomonas transcriptome*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ChlamyNet-Clusters)
 - [:star: SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
@@ -65,6 +68,7 @@ tags: category
 ##### Organism specific databases
 
 - [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
+- [EchoBASE *Integrated post-genomic database for E.coli*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EchoBASE)
 - [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
 - [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
 {.links-list}
@@ -99,8 +103,16 @@ tags: category
 - [:star: OrthoMCL *OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoMCL)
 {.links-list}
 
+## Phenotypes And Fitness Databases
+
+- [:star: Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
+- [:star: FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
+- [:star: OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
+{.links-list}
+
 ## Protein-Protein Interaction Databases
 
+- [:star: APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
 - [DIP *Catalogs experimentally determined interactions between proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/DIP)
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
