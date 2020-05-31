@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T20:52:24.679Z
+date: 2020-05-31T20:58:35.063Z
 tags: reference, resource reference
 ---
 
@@ -46,6 +46,7 @@ tags: reference, resource reference
 ## General databases
 
 - [KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 {.links-list}
 
 ### Eukaryote databases
