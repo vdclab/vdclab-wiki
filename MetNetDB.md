@@ -2,7 +2,7 @@
 title: MetNetDB
 description: The MetNet database (MetNetDB) contains information on networks of metabolic and regulatory and interactions in Arabidopsis.
 published: true
-date: 2020-05-31T18:42:52.787Z
+date: 2020-05-31T18:43:04.923Z
 tags: database, metabolism, data visualization, model organism, organism-specific
 ---
 
@@ -27,5 +27,5 @@ Types of interactions in MetNetDB include transcription, translation, protein mo
 
 See link below for full list of MetNet publications, including but not limited to those for the software/tools:
 
-- [MetNet Publications](http://metnetweb.gdcb.iastate.edu/MetNet_public.htm)
+- [MetNet Publications *Citations page*](http://metnetweb.gdcb.iastate.edu/MetNet_public.htm)
 {.links-list}
