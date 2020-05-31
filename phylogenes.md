@@ -2,7 +2,7 @@
 title: PhyloGenes
 description: PhyloGenes displays pre-computed phylogenetic trees of gene families alongside experimental gene function data to facilitate inference of unknown gene function in plants.
 published: true
-date: 2020-05-21T11:31:40.408Z
+date: 2020-05-31T19:26:58.167Z
 tags: phylogeny, data capture, gene, phyletic pattern
 ---
 
@@ -11,7 +11,6 @@ tags: phylogeny, data capture, gene, phyletic pattern
 > PhyloGenes is a web resource that displays pre-computed phylogenetic trees of gene families alongside experimental gene function data to facilitate inference of unknown gene function in plants.
 >
 > Currently contains 40 plant species and 10 other non-plant model organisms.
-
 {.is-info}
 
 ## Website
