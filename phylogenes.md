@@ -2,7 +2,7 @@
 title: PhyloGenes
 description: PhyloGenes displays pre-computed phylogenetic trees of gene families alongside experimental gene function data to facilitate inference of unknown gene function in plants.
 published: true
-date: 2020-05-31T19:27:29.538Z
+date: 2020-05-31T19:27:33.211Z
 tags: phylogeny, data capture, gene, phyletic pattern
 ---
 
@@ -19,6 +19,7 @@ tags: phylogeny, data capture, gene, phyletic pattern
 {.links-list}
 
 ## Notes from User
+
 - Many difficulties with downloads: PNG download of tree does not work and SVG distorts tree; cannot download MSA offered; when downloading multiple gene families in one day, downloads each successive gene family to same file (so they appear at the bottom)
 - References to experimental data are easy to use, input from GO annotations.
 - Not for phylogenetic queries.
