@@ -2,7 +2,7 @@
 title: EchoBASE
 description: EchoBASE an integrated post-genomic database for E.coli.
 published: true
-date: 2020-05-21T18:16:29.611Z
+date: 2020-05-31T20:23:08.427Z
 tags: annotation, annotation tools, bacteria, tool, genes, database, gene annotation
 ---
 
@@ -16,6 +16,7 @@ The aim of the database is to provide hypothesis for the functions of uncharacte
 {.is-info}
 
 ## Notes from user
+
 - Specific for E. coli
 - Some gene entries have not been updated since 2004, verify annotations with other databases
 - Lots of detailed annotation for genes
@@ -23,10 +24,8 @@ The aim of the database is to provide hypothesis for the functions of uncharacte
 - The Keyword search and experiment search didn't seem to work when tested but the gene search still works
 
 ## Ease of use
-> This database is very dated and lacks modern design. The annotation can be very complete and up to date or lagging behind modern publications. There are explanations available for their gene and experiment annotations.
 
-
-
+- This database is very dated and lacks modern design. The annotation can be very complete and up to date or lagging behind modern publications. There are explanations available for their gene and experiment annotations.
 
 ## Website
 
