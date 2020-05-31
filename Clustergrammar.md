@@ -2,7 +2,7 @@
 title: Clustergrammar
 description: Clustergrammer is a web-based tool for visualizing and analyzing high-dimensional data as interactive and shareable hierarchically clustered heatmaps.
 published: true
-date: 2020-05-27T17:13:44.387Z
+date: 2020-05-31T22:20:31.373Z
 tags: genomics, tool, transcriptomics, co-expression, data visualization, gene expression
 ---
 
@@ -10,6 +10,11 @@ tags: genomics, tool, transcriptomics, co-expression, data visualization, gene e
 
 > Clustergrammer is a web-based tool for visualizing and analyzing high-dimensional data as interactive and shareable hierarchically clustered heatmaps. Clustergrammer enables intuitive exploration of high-dimensional data and has several optional biology-specific features.
 {.is-info}
+
+## Website
+
+- [Clustergrammar *Main Page*](http://amp.pharm.mssm.edu/clustergrammer/)
+{.links-list}
 
 ## Notes from user
 - This tool is a great option for making interactive and high detail heatmaps.
@@ -20,12 +25,8 @@ tags: genomics, tool, transcriptomics, co-expression, data visualization, gene e
 - Heatmaps come with their own permenant links that users can quickly share with others
 
 ## Ease of use
-> Clustergrammer makes good looking and easy to use heatmaps that can quickly be shared with others. The webtool offers a fair level of customization and is easy to upload data too. Some care needs to be taken with the way the data is formated, examine the provided example data closely and mimic the format for best results. 
 
-## Website
-
-- [Clustergrammar *Main Page*](http://amp.pharm.mssm.edu/clustergrammer/)
-{.links-list}
+- Clustergrammer makes good looking and easy to use heatmaps that can quickly be shared with others. The webtool offers a fair level of customization and is easy to upload data too. Some care needs to be taken with the way the data is formated, examine the provided example data closely and mimic the format for best results. 
 
 ## Citation
 
