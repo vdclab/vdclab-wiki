@@ -2,7 +2,7 @@
 title: Fitness Browser
 description: Browse thousands of genome-wide fitness experiments from diverse bacteria, identify fitness phenotypes and compare fitness between genes and organisms.
 published: true
-date: 2020-05-31T19:36:37.110Z
+date: 2020-05-31T19:36:44.651Z
 tags: bacteria, comparative genomics, functional association, database, gene, fitness, browser, co-occurrence, conservation, omics, orthologs, phenotype, essentiality
 ---
 
