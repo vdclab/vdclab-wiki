@@ -2,7 +2,7 @@
 title: NCBI iCn3D
 description: iCn3D ("I see in 3D") is a WebGL-based viewer for interactive viewing of three-dimensional macromolecular structures and chemicals on the web, without the need to install a separate application.
 published: true
-date: 2020-05-28T00:53:26.696Z
+date: 2020-05-31T22:33:12.341Z
 tags: annotation, tool, proteins, data visualization, model, protein domain, modeling
 ---
 
@@ -11,24 +11,21 @@ tags: annotation, tool, proteins, data visualization, model, protein domain, mod
 > iCn3D ("I see in 3D") is a WebGL-based viewer for interactive viewing of three-dimensional macromolecular structures and chemicals on the web, without the need to install a separate application.
 {.is-info}
 
+## Website
+
+- [iCn3D *Main Page*](https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html)
+{.links-list}
+
 ## Notes from user
+
 - Comprehensive protein modeling tool with a lot of features
 - There is a high degree of user control of the visualized protein including other macromolecules it interacts with
 - Allows user to save visualizations for use in other modeling software
 - Can be used to visualize aligned proteins
 
 ## Ease of use
-> This web-tool is similar to other online protein modeling tools that don't require the user to instal any software to use the tool. Unlike other modeling tools, NCBI iCn3D has more robust features and more integration into other protein modeling tools. Additionally, visualizations can be exported as files that can be used in other applications or even 3D printers.
 
-
-
-
-
-
-## Website
-
-- [iCn3D *Main Page*](https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html)
-{.links-list}
+- This web-tool is similar to other online protein modeling tools that don't require the user to instal any software to use the tool. Unlike other modeling tools, NCBI iCn3D has more robust features and more integration into other protein modeling tools. Additionally, visualizations can be exported as files that can be used in other applications or even 3D printers.
 
 ## Citation
 
