@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T23:14:09.676Z
+date: 2020-05-31T23:26:27.859Z
 tags: reference, resource reference
 ---
 
@@ -172,12 +172,18 @@ tags: reference, resource reference
 
 # Structure
 
+## Modeling Protein Structures
+
+- [RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
+{.links-list}
+
 ## Structure Visualization Platforms 
 
 - [Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
 - [iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 - [Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
 - [RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
+- [SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
 {.links-list}
 
 # Tools
