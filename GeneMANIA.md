@@ -2,7 +2,7 @@
 title: GeneMANIA
 description: GeneMANIA help you predict the functions of your favorite genes and gene sets.
 published: true
-date: 2020-05-20T15:43:45.787Z
+date: 2020-05-31T19:43:15.345Z
 tags: genomics, tool, gene, co-expression, protein, gene expression, model organism, network, gene annotation
 ---
 
@@ -18,8 +18,8 @@ tags: genomics, tool, gene, co-expression, protein, gene expression, model organ
 - limited to a few model organisms
 
 ## Ease of use
-> The website is simple to use and easy to understand but the gene names need to be specific in order for the database to recognize the users query. The user should read the evidence for how genes are related to each other if genes are related from the "other" catagory.
 
+- The website is simple to use and easy to understand but the gene names need to be specific in order for the database to recognize the users query. The user should read the evidence for how genes are related to each other if genes are related from the "other" catagory.
 
 ## Website
 
