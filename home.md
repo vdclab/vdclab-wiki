@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-05-31T21:48:17.929Z
+date: 2020-05-31T22:00:57.060Z
 tags: 
 ---
 
@@ -34,11 +34,6 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 # Omics Data
 
 - [Omics data *Omics data linked website*](https://vdclab-wiki.herokuapp.com/en/omics-data)
-{.links-list}
-
-# Ontology & Enrichment 
-
-- [Gene ontology & Enrichment *List gene ontology & Enrichment tools*](https://vdclab-wiki.herokuapp.com/e/en/ontology)
 {.links-list}
 
 # Phylogeny
