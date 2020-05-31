@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T22:19:48.160Z
+date: 2020-05-31T22:27:37.419Z
 tags: reference, resource reference
 ---
 
@@ -170,6 +170,13 @@ tags: reference, resource reference
 - [Sequence Manipulation Suite *Sequence Manipulation Suite of bioinformatics.org*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation/changing-format/sequence-manipulation-suite)
 {.links-list}
 
+# Structure
+
+## Structure Visualization Platforms 
+
+- [Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
+{.links-list}
+
 # Tools
 
 ## Analysis Tools
@@ -227,6 +234,7 @@ tags: reference, resource reference
 
 ## Data Visualization
 
+- [Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
 - [Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 {.links-list}
