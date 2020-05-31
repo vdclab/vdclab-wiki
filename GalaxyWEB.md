@@ -2,15 +2,15 @@
 title: GalaxyWEB
 description: GalaxyWEB is a web server for protein structure prediction, refinement, and related methods.
 published: true
-date: 2020-05-31T23:30:19.102Z
+date: 2020-05-31T23:30:27.296Z
 tags: tool, sequence analysis, proteins, prediction, 2012, interaction, protein-protein
 ---
 
 # GalaxyWEB
 
 > Three-dimensional protein structures provide invaluable information for understanding and regulating biological functions of proteins. The GalaxyWEB server predicts protein structure from sequence by template-based modeling and refines loop or terminus regions by ab initio modeling. This web server is based on the method tested in CASP9 (9th Critical Assessment of techniques for protein Structure Prediction) as 'Seok-server', which was assessed to be among top performing template-based modeling servers. 
-&NewLine;
-The method generates reliable core structures from multiple templates and re-builds unreliable loops or termini by using an optimization-based refinement method. In addition to structure prediction, a user can also submit a refinement only job by providing a starting model structure and locations of loops or termini to refine. 
+>
+> The method generates reliable core structures from multiple templates and re-builds unreliable loops or termini by using an optimization-based refinement method. In addition to structure prediction, a user can also submit a refinement only job by providing a starting model structure and locations of loops or termini to refine. 
 {.is-info}
 
 
