@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T22:27:37.419Z
+date: 2020-05-31T22:35:09.685Z
 tags: reference, resource reference
 ---
 
@@ -175,6 +175,7 @@ tags: reference, resource reference
 ## Structure Visualization Platforms 
 
 - [Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
+- [iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 {.links-list}
 
 # Tools
