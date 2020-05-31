@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-31T18:45:47.729Z
+date: 2020-05-31T21:17:47.998Z
 tags: category
 ---
 
@@ -53,7 +53,15 @@ tags: category
 
 - [:star: BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 - [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+- [:star: InterMine *Integrates biological data sources, making it easy to query and analyse data*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/InterMine)
 - [ProtPhylo *Web server to retrieve phenotype-to-protein and protein-to-protein functional associations*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/ProtPhylo)
+{.links-list}
+
+## Gene Networks
+
+- [AraNet *Functional gene network for Arabidopsis thaliana*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/AraNet)
+- [:star: GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
+- [:star: IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
 {.links-list}
 
 ## Gene Ontology Enrichment Tools
@@ -75,4 +83,17 @@ tags: category
 - [KEGG Ortholog Cluster *Database of ortholog clusters (OCs) based on the whole genome comparison*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KEGG-OC)
 - [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
 - [:star: OrthoInspector *inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/phylogenetic-distribution/OrthoInspector/)
+{.links-list}
+
+## Tools to Make Figures
+
+- [Caleydo *Tools that focuses on biological data visualization*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Caleydo)
+{.links-list}
+
+## Visualizing Pathways - Mapping Data To Pathways
+
+- [GENIES *Predict potential functional associations between genes*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/GENIES)
+- [KEGG-Mapper *Collection of tools for KEGG mapping*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/KEGG-Mapper)
+- [:star: PaintOmics *Integrative visualization of multiple omic datasets onto KEGG pathways*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PaintOmics)
+- [:star: PathView *Provides easy interactive access, and generates high quality, hyperlinked graphs*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PathView)
 {.links-list}
