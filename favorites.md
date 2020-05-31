@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T19:17:00.117Z
+date: 2020-05-31T20:22:32.300Z
 tags: reference, resource reference
 ---
 
@@ -49,8 +49,10 @@ tags: reference, resource reference
 {.links-list}
 
 ### Eukaryote databases
-##### Organism specific databases 
 
+#### Organism specific databases 
+
+- [CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
 - [SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 {.links-list}
@@ -146,6 +148,13 @@ tags: reference, resource reference
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
 {.links-list}
 
+## Eukaryotes Resources
+
+### Plant Resources
+
+- [Phylogenes *Pre-computed phylogenetic trees of gene families alongside experimental gene function data*](https://vdclab-wiki.herokuapp.com/en/resources/plant/phylogenes)
+{.links-list}
+
 ## Homology
 
 - [Genoscope Microscope Phyloprofile *Allows to search for common OR specific genes between genomes*](https://vdclab-wiki.herokuapp.com/en/resources/homology/Genoscope-Microscope-Phyloprofile)
@@ -183,10 +192,17 @@ tags: reference, resource reference
 {.links-list}
 
 ## Gene finders
+
 - [BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 - [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+- [InterMine *Integrates biological data sources, making it easy to query and analyse data*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/InterMine)
 {.links-list}
 
+## Gene Networks
+
+- [GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
+- [IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
+{.links-list}
 
 # Trainings & Tutorials
 
