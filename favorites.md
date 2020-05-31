@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T23:26:27.859Z
+date: 2020-05-31T23:33:48.271Z
 tags: reference, resource reference
 ---
 
@@ -174,6 +174,7 @@ tags: reference, resource reference
 
 ## Modeling Protein Structures
 
+- [GalaxyWEB *Web server for protein structure prediction, refinement, and related methods*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/GalaxyWEB)
 - [RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
 {.links-list}
 
