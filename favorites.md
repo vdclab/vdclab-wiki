@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T20:58:35.063Z
+date: 2020-05-31T22:19:48.160Z
 tags: reference, resource reference
 ---
 
@@ -227,6 +227,7 @@ tags: reference, resource reference
 
 ## Data Visualization
 
+- [Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 {.links-list}
 
