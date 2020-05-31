@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-18T20:43:05.755Z
+date: 2020-05-31T20:40:58.527Z
 tags: annotation, annotation tools, tool, metabolic reconstruction, data visualization, mapping, metabolic pathways, 2020, id mapper
 ---
 
@@ -16,39 +16,55 @@ tags: annotation, annotation tools, tool, metabolic reconstruction, data visuali
 ## Website
 - [KEGG Mapper *Main Page*](https://www.genome.jp/kegg/mapper.html)
 - [Reconstruct Pathway *Annotation tool*](https://www.genome.jp/kegg/tool/map_pathway.html)
-- [Search Pathway *basic mapping tool*](https://www.genome.jp/kegg/tool/map_pathway1.html)
-- [Search&Color Pathway *advanced mapping tool*](https://www.genome.jp/kegg/tool/map_pathway2.html)
-- [Color Pathway *multiple coloring for mapping*](https://www.genome.jp/kegg/tool/map_pathway3.html)
+- [Search Pathway *Basic mapping tool*](https://www.genome.jp/kegg/tool/map_pathway1.html)
+- [Search&Color Pathway *Advanced mapping tool*](https://www.genome.jp/kegg/tool/map_pathway2.html)
+- [Color Pathway *Multiple coloring for mapping*](https://www.genome.jp/kegg/tool/map_pathway3.html)
 - [Join Brite *Mapping on Brite files*](https://www.genome.jp/kegg/tool/map_brite3.html)
 - [Convert ID *ID mapper to KEGGids*](https://www.kegg.jp/kegg/tool/conv_id.html)
 - [Annotate Sequence *Interface to BlastKoala in KEGG mapper*](https://www.kegg.jp/kegg/tool/annotate_sequence.html)
 {.links-list}
 
 ## Notes from Users
+
 #### Reconstruct Pathway
+
 - take a table of KEGG KO number as entry (see example).
 - can take multiple organisms with the # separation (see example 2).
 - Get a result on KEGG Metabolic map, Brite and Modules.
+
 #### Search Pathway
+
 - take different KEGG object to map them.
 - same type of result as previous tool.
+
 #### Search&Color Pathway
+
 - same tool as above but you can specify colors.
+
 #### Color Pathway
+
 - color chosen pathway.
 - choose color depnding on input (see examples).
+
 #### Join Brite
+
 - used to add a column of your choice to the Brite tables.
 - you need to be familiar with the Brite tables first.
+
 #### Convert ID
+
 - convert NCBI or Uniprot id to KO id.
+
 #### Annotate Sequence
+
 - enter a protein multifasta.
 - sequenced are annotated and mapped to the pathways.
 
 ## Ease of use
+
 - As all KEGG tools, it can be confusing at first.
 - Try with the provided examples to get familiar with the tools.
+
 > Easy to get the KO id with their convert ID tool.
 {.is-success}
 
