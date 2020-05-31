@@ -2,7 +2,7 @@
 title: Integrative Multi-species Prediction (IMP)
 description: Analyze your experimental results in the functional context of gene-gene networks from multiple organisms.
 published: true
-date: 2020-05-20T18:54:40.643Z
+date: 2020-05-31T20:16:22.014Z
 tags: genomics, tool, genes, co-expression, protein, gene expression, model organism, network
 ---
 
@@ -18,8 +18,8 @@ tags: genomics, tool, genes, co-expression, protein, gene expression, model orga
 - Users can save searches and gene networks
 
 ## Ease of use
-> There are tutorials availabe in either a video format or a guided case study. Results are easy to comprehend and the networks results can be made more or less stringent in real time. 
 
+- There are tutorials availabe in either a video format or a guided case study. Results are easy to comprehend and the networks results can be made more or less stringent in real time. 
 
 ## Website
 
