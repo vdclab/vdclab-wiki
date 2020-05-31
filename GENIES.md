@@ -2,7 +2,7 @@
 title: Gene Network Inference Engine based on Supervised Analysis (GENIES)
 description: The GENIES enables us to predict potential functional associations between genes, based on other genomic data or high-throughput experimental data such as phylogenetic profiles and gene expression profiles.
 published: true
-date: 2020-05-31T20:31:38.746Z
+date: 2020-05-31T20:31:44.506Z
 tags: tool, metabolic reconstruction, mapping, metabolic pathways, 2012, 2005
 ---
 
@@ -20,6 +20,7 @@ tags: tool, metabolic reconstruction, mapping, metabolic pathways, 2012, 2005
 ## Notes from Users
 - take a matrixes of data as an entry.
 - clickable and downloadable results.
+
 > Not updated since 2012, but linked to the update KEGG database
 {.is-warning}
 
