@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-05-21T16:49:49.176Z
+date: 2020-05-31T21:13:04.138Z
 tags: category
 ---
 
@@ -11,6 +11,7 @@ tags: category
 ## Eukaryote Resources
 
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
+- [EpiGenie *Search out and compile a list of the best free tools and databases that epigenetics researchers*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/EpiGenie)
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
 {.links-list}
 
@@ -22,9 +23,11 @@ tags: category
 
 ### Plant Resources
 
+- [AraNet *Functional gene network for Arabidopsis thaliana*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/AraNet)
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [Diurnal *Provides convenient access to circadian and diurnal genome-wide gene expression data*](https://vdclab-wiki.herokuapp.com/resources/plant/Diurnal)
 - [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
+- [:star: Phylogenes *Pre-computed phylogenetic trees of gene families alongside experimental gene function data*](https://vdclab-wiki.herokuapp.com/en/resources/plant/phylogenes)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
 
