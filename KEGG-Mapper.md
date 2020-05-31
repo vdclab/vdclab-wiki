@@ -2,7 +2,7 @@
 title: KEGG Mapper
 description: KEGG Mapper is a collection of tools for KEGG mapping: most popular KEGG pathway mapping, as well as BRITE mapping and MODULE mapping.
 published: true
-date: 2020-05-31T20:41:05.884Z
+date: 2020-05-31T20:42:26.338Z
 tags: annotation, annotation tools, tool, metabolic reconstruction, data visualization, mapping, metabolic pathways, 2020, id mapper
 ---
 
@@ -24,39 +24,39 @@ tags: annotation, annotation tools, tool, metabolic reconstruction, data visuali
 
 ## Notes from Users
 
-#### Reconstruct Pathway
+### Reconstruct Pathway
 
-- take a table of KEGG KO number as entry (see example).
-- can take multiple organisms with the # separation (see example 2).
+- Take a table of KEGG KO number as entry (see example).
+- Can take multiple organisms with the # separation (see example 2).
 - Get a result on KEGG Metabolic map, Brite and Modules.
 
-#### Search Pathway
+### Search Pathway
 
-- take different KEGG object to map them.
-- same type of result as previous tool.
+- Take different KEGG object to map them.
+- Same type of result as previous tool.
 
-#### Search&Color Pathway
+### Search&Color Pathway
 
-- same tool as above but you can specify colors.
+- Same tool as above but you can specify colors.
 
-#### Color Pathway
+### Color Pathway
 
-- color chosen pathway.
-- choose color depnding on input (see examples).
+- Color chosen pathway.
+- Choose color depnding on input (see examples).
 
-#### Join Brite
+### Join Brite
 
-- used to add a column of your choice to the Brite tables.
-- you need to be familiar with the Brite tables first.
+- Used to add a column of your choice to the Brite tables.
+- You need to be familiar with the Brite tables first.
 
-#### Convert ID
+### Convert ID
 
-- convert NCBI or Uniprot id to KO id.
+- Convert NCBI or Uniprot Id to KO Id.
 
-#### Annotate Sequence
+### Annotate Sequence
 
-- enter a protein multifasta.
-- sequenced are annotated and mapped to the pathways.
+- Enter a protein multifasta.
+- Sequenced are annotated and mapped to the pathways.
 
 ## Ease of use
 
