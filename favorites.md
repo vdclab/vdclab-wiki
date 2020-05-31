@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T20:49:32.551Z
+date: 2020-05-31T20:52:24.679Z
 tags: reference, resource reference
 ---
 
@@ -206,6 +206,7 @@ tags: reference, resource reference
 
 ## Visualizing Pathways - Mapping Data To Pathways
 
+- [PaintOmics *Integrative visualization of multiple omic datasets onto KEGG pathways*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PaintOmics)
 - [PathView *Provides easy interactive access, and generates high quality, hyperlinked graphs*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PathView)
 {.links-list}
 
