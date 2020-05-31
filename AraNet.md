@@ -2,7 +2,7 @@
 title: AraNet
 description: AraNet is a probabilistic functional gene network for Arabidopsis thaliana, which is a model plant organism that has been studied intensively for several decades.
 published: true
-date: 2020-05-20T17:03:44.978Z
+date: 2020-05-31T19:48:29.107Z
 tags: genes, comparative genomics, co-expression, gene neighborhood, model organism, network
 ---
 
@@ -18,7 +18,8 @@ tags: genes, comparative genomics, co-expression, gene neighborhood, model organ
 - Locus names for genes link to TAIR for annotation information
 
 ## Ease of use
-> Tutorials are available with several sets of example genes to complete guided case studies with to familiarize the user with the tool. The results are not visually pleasing but the "AUC" score and P values are a nice detail available to the user. 
+
+- Tutorials are available with several sets of example genes to complete guided case studies with to familiarize the user with the tool. The results are not visually pleasing but the "AUC" score and P values are a nice detail available to the user. 
 
 ## Website
 
