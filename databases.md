@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-05-21T17:23:36.476Z
+date: 2020-05-31T18:48:57.984Z
 tags: category
 ---
 
@@ -101,6 +101,7 @@ tags: category
 
 ## Protein-Protein Interaction Databases
 
+- [DIP *Catalogs experimentally determined interactions between proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/DIP)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
 {.links-list}
 
