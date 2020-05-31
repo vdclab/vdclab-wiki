@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T20:22:32.300Z
+date: 2020-05-31T20:49:32.551Z
 tags: reference, resource reference
 ---
 
@@ -202,6 +202,11 @@ tags: reference, resource reference
 
 - [GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
 - [IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
+{.links-list}
+
+## Visualizing Pathways - Mapping Data To Pathways
+
+- [PathView *Provides easy interactive access, and generates high quality, hyperlinked graphs*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PathView)
 {.links-list}
 
 # Trainings & Tutorials
