@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-06-01T00:47:57.464Z
+date: 2020-06-01T15:31:34.259Z
 tags: category
 ---
 
@@ -10,6 +10,7 @@ tags: category
 
 ## Databases Related To Enzymes And Pathways
 
+- [:star: Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 {.links-list}
 
