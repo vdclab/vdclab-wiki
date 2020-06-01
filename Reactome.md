@@ -2,7 +2,7 @@
 title: Reactome
 description: Reactome is a free, open-source, curated and peer-reviewed pathway database.
 published: true
-date: 2020-05-29T20:45:42.210Z
+date: 2020-06-01T10:59:56.283Z
 tags: aggregator, analysis tools, resource center, database, metabolic pathways, model organism, networks
 ---
 
@@ -21,7 +21,7 @@ The cornerstone of Reactome is a freely available, open source relational databa
 {.links-list}
 
 ## User Notes
-- For tools, limited to a small set of model organisms
+- For tools, limited to a small set of model organisms, just one Bacteria and two yeast
 - Often, large amount of data shown all at once; can be daunting without viewing tutorials
 - Also makes available some tools for download
 
