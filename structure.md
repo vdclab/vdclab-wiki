@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-06-01T00:46:16.030Z
+date: 2020-06-01T00:48:22.429Z
 tags: category
 ---
 
