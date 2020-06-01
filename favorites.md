@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-01T00:46:36.110Z
+date: 2020-06-01T11:18:39.647Z
 tags: reference, resource reference
 ---
 
@@ -134,7 +134,7 @@ tags: reference, resource reference
 {.links-list}
 
 
-# Plarform
+# Platform
 
 ## Integrated Prokaryotic Genome Analysis Platforms
 
