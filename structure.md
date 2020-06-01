@@ -2,15 +2,25 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-05-31T23:22:19.518Z
+date: 2020-06-01T00:46:16.030Z
 tags: category
 ---
 
 # Structure
 
+## Ligand prediction
+
+- [:star: BindUP *Predicting DNA and RNA binding proteins using the electrostatic patches on the protein surface*](https://vdclab-wiki.herokuapp.com/en/structure/ligand-prediction/BindUP)
+- [COACH *Meta-server approach to protein-ligand binding site prediction*](https://vdclab-wiki.herokuapp.com/en/structure/ligand-prediction/COACH)
+{.links-list}
+
 ## Modeling Protein Structures
 
+- [3DLigandSite *Automated method for the prediction of ligand binding sites*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/3DLigandSite)
+- [:star: GalaxyWEB *Web server for protein structure prediction, refinement, and related methods*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/GalaxyWEB)
 - [I-TASSER *Hierarchical approach to protein structure and function prediction*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/I-TASSER)
+- [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
+- [:star: RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
 {.links-list}
 
 ## Structure Visualization Platforms 
