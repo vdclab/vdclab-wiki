@@ -2,7 +2,7 @@
 title: GOrilla
 description: GOrilla is a tool for identifying and visualizing enriched GO terms in ranked lists of genes.
 published: true
-date: 2020-06-01T11:03:53.867Z
+date: 2020-06-01T11:03:59.389Z
 tags: tool, genes, analysis tools, eukaryotes, data visualization, model organism, eukaryota, networks, enrichment, ontology
 ---
 
