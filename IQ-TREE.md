@@ -2,8 +2,8 @@
 title: IQ TREE
 description: IQ TREE: Efficient software for phylogenomic inference
 published: true
-date: 2020-06-01T18:02:48.779Z
-tags: phylogeny, mapping
+date: 2020-06-01T19:32:14.600Z
+tags: 2018, 2019, tool, phylogeny, 2017, 2015, 2016
 ---
 
 # IQ-TREE
@@ -32,9 +32,11 @@ Key Features:
 
 ## Notes from Users
 - Downloadable version and online version.
+- lots of option to play with.
 
 ## Ease of use
-
+- Input data are multi-sequence alignements.
+- Different type of biological data possible (DNA, protein, etc)
 
 ## Citations
 
