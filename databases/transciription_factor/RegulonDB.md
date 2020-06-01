@@ -2,7 +2,7 @@
 title: RegulonDB
 description: RegulonDB is the primary database on transcriptional regulation in Escherichia coli K-12 containing knowledge manually curated from original scientific publications, complemented with high throughput datasets and comprehensive computational predictions.
 published: true
-date: 2020-05-21T02:34:06.384Z
+date: 2020-06-01T11:13:13.567Z
 tags: bacteria, database, transcriptomes, gene expression, regulation
 ---
 
@@ -24,6 +24,7 @@ To this already complex picture, we have to add the more recent high throughput 
 
 ## User Notes
 - Easy to use; search input must be specific
+- One the best sites to capture regulation and operon information about E. coli K12
 
 
 ## Citation
