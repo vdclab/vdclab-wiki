@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-05-31T21:17:47.998Z
+date: 2020-06-01T00:47:20.252Z
 tags: category
 ---
 
@@ -66,7 +66,10 @@ tags: category
 
 ## Gene Ontology Enrichment Tools
 
+- [AgriGO *Web-based tool and database for gene ontology analyses*](https://vdclab-wiki.herokuapp.com/en/ontology/AgriGO)
+- [DiVenn *Venn diagram is widely used to compare gene lists between multiple experiments*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DiVenn)
 - [The BAR *Explore large-scale data sets from Arabidopsis and other species, and for hypothesis generation*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/The-BAR)
+- [YeastEnrichr *New gene list enrichment analysis tool for Saccharomyces cerevisiae*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/YeastEnrichr)
 {.links-list}
 
 ## Phylogeny Tools
@@ -88,6 +91,8 @@ tags: category
 ## Tools to Make Figures
 
 - [Caleydo *Tools that focuses on biological data visualization*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Caleydo)
+- [:star: Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
+- [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 {.links-list}
 
 ## Visualizing Pathways - Mapping Data To Pathways
@@ -96,4 +101,5 @@ tags: category
 - [KEGG-Mapper *Collection of tools for KEGG mapping*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/KEGG-Mapper)
 - [:star: PaintOmics *Integrative visualization of multiple omic datasets onto KEGG pathways*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PaintOmics)
 - [:star: PathView *Provides easy interactive access, and generates high quality, hyperlinked graphs*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PathView)
+- [Pathway-Commons *Access and discover data integrated from public pathway and interactions databases*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/Pathway-Commons)
 {.links-list}
