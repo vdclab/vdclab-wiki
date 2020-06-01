@@ -2,8 +2,8 @@
 title: Emili Lab Databases & Links
 description: Emili Lab research findings accessed via public databases, and their own dedicated web portals and publications.
 published: true
-date: 2020-06-01T19:37:06.337Z
-tags: project library, bacteria, fungi, proteins, functional association, data capture, resource center, database, proteomes, proteomics, data export, eukaryota, interaction, protein-protein, yeast
+date: 2020-06-01T19:38:12.783Z
+tags: project library, bacteria, fungi, proteins, functional association, data capture, resource center, database, proteomes, proteomics, data export, conservation, eukaryota, interaction, protein-protein, networks, yeast
 ---
 
 # Emili Lab Databases & Links
