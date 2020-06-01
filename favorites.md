@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-05-31T23:33:48.271Z
+date: 2020-06-01T00:46:36.110Z
 tags: reference, resource reference
 ---
 
@@ -171,6 +171,11 @@ tags: reference, resource reference
 {.links-list}
 
 # Structure
+
+## Ligand prediction
+
+- [BindUP *Predicting DNA and RNA binding proteins using the electrostatic patches on the protein surface*](https://vdclab-wiki.herokuapp.com/en/structure/ligand-prediction/BindUP)
+{.links-list}
 
 ## Modeling Protein Structures
 
