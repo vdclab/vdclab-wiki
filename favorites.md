@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-01T15:23:19.141Z
+date: 2020-06-01T15:32:11.577Z
 tags: reference, resource reference
 ---
 
@@ -34,6 +34,11 @@ tags: reference, resource reference
 {.links-list}
 
 # Databases
+
+## Databases Related To Enzymes And Pathways
+
+- [Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
+{.links-list}
 
 ## Data Integration Databases
 
