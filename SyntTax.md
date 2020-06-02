@@ -2,8 +2,8 @@
 title: SyntTax
 description: SyntTax: synteny web service designed to take full advantage of the large amount or archaeal and bacterial genomes by linking them through taxonomic relationships.
 published: true
-date: 2020-04-17T18:09:50.127Z
-tags: 
+date: 2020-06-02T15:23:05.564Z
+tags: gene neighborhood
 ---
 
 # SyntTax
@@ -18,7 +18,21 @@ SyntTax aims to produce robust syntenies by providing a prompt access to the tax
 ## Website
 
 - [SyntTax *Main Page*](https://archaea.i2bc.paris-saclay.fr/SyntTax/)
+- [Help *Help page*](https://archaea.i2bc.paris-saclay.fr/SyntTax/SyntTax_Help.html)
 {.links-list}
+
+## Notes from Users
+- Can select 100 chromosome maximum.
+- Uses pBLAST results to bring genomes.
+- The website is slow to refresh in betwwen clicks.
+- Genes are clickable and link to NCBI.
+
+## Ease of use
+- Enter your protein sequence and choose your genomes.
+- Genome selection is tidious.
+- Genomic view are colored by fnctions.
+- Image can be exported in PDF.
+- Results table can be exported in CSV.
 
 ## Citation
 
