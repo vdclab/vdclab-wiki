@@ -2,8 +2,8 @@
 title: Gene Context Tool NG
 description: Gene Context Tool NG is a web tool that strives to give the scientific community a useful and accessible tool to visualize the genomic context of a gene or a group of genes and their orthologous relationships within fully sequenced bacterial genomes.
 published: true
-date: 2020-06-02T17:30:31.168Z
-tags: tool, 2008, gene neighborhood
+date: 2020-06-02T17:42:05.694Z
+tags: genomes, tool, 2008, gene neighborhood
 ---
 
 # Gene Context Tool NG
