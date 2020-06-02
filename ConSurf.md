@@ -2,13 +2,13 @@
 title: The ConSurf Server
 description: Server for the Identification of Functional Regions in Proteins
 published: true
-date: 2020-06-02T15:35:47.083Z
+date: 2020-06-02T15:37:49.236Z
 tags: tool, proteins, evolution, rna, sequence identity, conservation, structural analysis, residue
 ---
 
 # The ConSurf Server
 
-> Server for the Identification of Functional Regions in Proteins
+> The ConSurf server (Glaser et al., 2003; Landau et al., 2005; Ashkenazy et al., 2010; Celniker et al., 2013; Ashkenazy et al., 2016) is a bioinformatics tool for estimating the evolutionary conservation of amino/nucleic acid positions in a protein/DNA/RNA molecule based on the phylogenetic relations between homologous sequences.
 
 
 {.is-info}
