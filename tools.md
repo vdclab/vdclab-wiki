@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-01T15:32:22.135Z
+date: 2020-06-03T17:25:52.136Z
 tags: category
 ---
 
@@ -68,7 +68,10 @@ tags: category
 ## Gene Ontology Enrichment Tools
 
 - [AgriGO *Web-based tool and database for gene ontology analyses*](https://vdclab-wiki.herokuapp.com/en/ontology/AgriGO)
+- [DAVID *Database for Annotation, Visualization and Integrated Discovery*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DAVID)
 - [DiVenn *Venn diagram is widely used to compare gene lists between multiple experiments*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DiVenn)
+- [:star: GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
+- [GOrilla *Identifying and visualizing enriched GO terms in ranked lists of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GOrilla)
 - [The BAR *Explore large-scale data sets from Arabidopsis and other species, and for hypothesis generation*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/The-BAR)
 - [YeastEnrichr *New gene list enrichment analysis tool for Saccharomyces cerevisiae*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/YeastEnrichr)
 {.links-list}
