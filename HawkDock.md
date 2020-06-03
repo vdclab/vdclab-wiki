@@ -2,8 +2,8 @@
 title: HawkDock
 description: HawkDock: a web server for the structural prediction and analysis of protein-protein complex.
 published: true
-date: 2020-04-14T20:27:18.972Z
-tags: 
+date: 2020-06-03T15:31:48.590Z
+tags: tool, proteins, prediction, binding, interaction, protein-protein
 ---
 
 # HawkDock
@@ -16,6 +16,11 @@ tags:
 
 - [HawkDock *Main Page*](http://cadd.zju.edu.cn/hawkdock/)
 {.links-list}
+
+## Notes from User
+- Takes up to 24 hours to get results, stays in queue for a long time
+- Further analysis of MM/GBSA (predict binding free energy) can be done on chosen models 
+- Reference [help](http://cadd.zju.edu.cn/hawkdock/help) page to understand results page features 
 
 ## Citations
 
