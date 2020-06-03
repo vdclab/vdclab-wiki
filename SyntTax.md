@@ -2,7 +2,7 @@
 title: SyntTax
 description: SyntTax: synteny web service designed to take full advantage of the large amount or archaeal and bacterial genomes by linking them through taxonomic relationships.
 published: true
-date: 2020-06-03T18:09:43.242Z
+date: 2020-06-03T18:10:29.353Z
 tags: genomes, gene neighborhood, 2013
 ---
 
@@ -28,9 +28,10 @@ tags: genomes, gene neighborhood, 2013
 - Genes are clickable and link to NCBI.
 
 ## Ease of use
+
 - Enter your protein sequence and choose your genomes.
 - Genome selection is tidious.
-- Genomic view are colored by fnctions.
+- Genomic view are colored by functions.
 - Image can be exported in PDF.
 - Results table can be exported in CSV.
 
