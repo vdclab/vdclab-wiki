@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-03T17:25:52.136Z
+date: 2020-06-03T18:20:39.427Z
 tags: category
 ---
 
@@ -78,6 +78,7 @@ tags: category
 
 ## Phylogeny Tools
 
+- [IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
 - [:star: NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 {.links-list}
@@ -96,6 +97,7 @@ tags: category
 
 - [Caleydo *Tools that focuses on biological data visualization*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Caleydo)
 - [:star: Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
+- [GraPhlAn *Tool that produces high-quality, compact visualizations of microbial genomes*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/GraPhlAn)
 - [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 {.links-list}
 
