@@ -2,7 +2,7 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-06-03T17:23:44.665Z
+date: 2020-06-03T17:23:52.086Z
 tags: annotation tools, genes, proteins, functional association, database, data visualization, mapping, interaction, enrichment, ontology, id mapper
 ---
 
@@ -26,8 +26,6 @@ tags: annotation tools, genes, proteins, functional association, database, data 
 >      - Convert gene identifiers from one type to another.
 >      - And more
 {.is-info}
-
-
 
 ## Website
 
