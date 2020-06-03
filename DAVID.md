@@ -2,34 +2,29 @@
 title: The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 description:  DAVID provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
 published: true
-date: 2020-06-01T11:05:46.137Z
+date: 2020-06-03T17:23:44.665Z
 tags: annotation tools, genes, proteins, functional association, database, data visualization, mapping, interaction, enrichment, ontology, id mapper
 ---
 
 # The Database for Annotation, Visualization and Integrated Discovery (DAVID)
 
-The Database for Annotation, Visualization and Integrated Discovery (DAVID ) v6.8 comprises a full Knowledgebase update to the sixth version of our original web-accessible programs. DAVID now provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
-
-For any given gene list, DAVID tools are able to:
-
-&NewLine;
-
-     - Identify enriched biological themes, particularly GO terms
-     - Discover enriched functional-related gene groups
-     - Cluster redundant annotation terms
-     - Visualize genes on BioCarta & KEGG pathway maps
-     - Display related many-genes-to-many-terms on 2-D view.
-     - Search for other functionally related genes not in the list
-     - List interacting proteins
-     - Explore gene names in batch
-     - Link gene-disease associations
-     - Highlight protein functional domains and motifs
-     - Redirect to related literatures
-     - Convert gene identifiers from one type to another.
-     - And more
-     
-&NewLine;
-
+> The Database for Annotation, Visualization and Integrated Discovery (DAVID ) v6.8 comprises a full Knowledgebase update to the sixth version of our original web-accessible programs. DAVID now provides a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
+> 
+> For any given gene list, DAVID tools are able to:
+> &NewLine;
+>      - Identify enriched biological themes, particularly GO terms
+>      - Discover enriched functional-related gene groups
+>      - Cluster redundant annotation terms
+>      - Visualize genes on BioCarta & KEGG pathway maps
+>      - Display related many-genes-to-many-terms on 2-D view.
+>      - Search for other functionally related genes not in the list
+>      - List interacting proteins
+>      - Explore gene names in batch
+>      - Link gene-disease associations
+>      - Highlight protein functional domains and motifs
+>      - Redirect to related literatures
+>      - Convert gene identifiers from one type to another.
+>      - And more
 {.is-info}
 
 
