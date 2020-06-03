@@ -2,7 +2,7 @@
 title: SyntTax
 description: SyntTax: synteny web service designed to take full advantage of the large amount or archaeal and bacterial genomes by linking them through taxonomic relationships.
 published: true
-date: 2020-06-03T18:10:29.353Z
+date: 2020-06-03T18:14:27.679Z
 tags: genomes, gene neighborhood, 2013
 ---
 
