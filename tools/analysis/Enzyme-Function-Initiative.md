@@ -2,7 +2,7 @@
 title: Enzyme Function Initiative (EFI)
 description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach.
 published: true
-date: 2020-06-03T14:37:20.214Z
+date: 2020-06-03T14:37:31.058Z
 tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, genome browser, comparative genomics, sequence similarity, data capture, homolog discovery, bioinformatics, browser, data visualization, prediction, clustering, protein family, data export, conservation, orthologs, eukaryota, curated, network, protein domain
 ---
 
@@ -22,6 +22,7 @@ tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, ge
 - There are well written descriptions/explanations and tutorials making the tools easy to use. Users are also able to email for help, reporting issues, or suggestions.
 
 ## User Notes
+
 - In order to view and analyze your SSN or GNNs you will need to download Cytoscape.  The EFI Help and YouTube links (below) have tips/tutorials for using Cytoscape effectively. 
 - When using the Gene Neighborhood Tool (GNT), SSNs generated from FASTA sequences (option C) without the "Read Header" option activated are not accepted.
 - Prior to generating a GNN, it's beneficial to edit your input SSN by removing singlets and nodes in clusters of fewer than 6. 
