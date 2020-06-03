@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-03T18:16:16.043Z
+date: 2020-06-03T18:20:16.787Z
 tags: category
 ---
 
@@ -19,6 +19,7 @@ tags: category
 
 ## Gene Neighborhood Figures Tools
 
+- [:star: GCTNG *Visualize the genomic context of a gene or a group of genes and their orthologous relationships*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/GCTNG)
 - [:star: Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
 - [SyntTax *Synteny web service to take full advantage of the large amount or archaeal and bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/SyntTax)
 {.links-list}
