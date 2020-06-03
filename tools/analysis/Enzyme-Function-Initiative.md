@@ -2,7 +2,7 @@
 title: Enzyme Function Initiative (EFI)
 description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach.
 published: true
-date: 2020-06-03T14:36:00.315Z
+date: 2020-06-03T14:36:38.173Z
 tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, genome browser, comparative genomics, sequence similarity, data capture, homolog discovery, bioinformatics, browser, data visualization, prediction, clustering, protein family, data export, conservation, orthologs, eukaryota, curated, network, protein domain
 ---
 
@@ -14,9 +14,8 @@ tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, ge
 ## Website
 
 - [Enzyme Function Initiative *Main Page*](https://efi.igb.illinois.edu/)
-- [EFI Help *Training Resources*](https://efi.igb.illinois.edu/training/index.php)
-- [EFI YouTube *Cytoscape Video Tutorials*](https://www.youtube.com/channel/UCShNWZLlJYevN2TlypX71ng)
 {.links-list}
+
 
 ## Ease of Use
 > There are well written descriptions/explanations and tutorials making the tools easy to use. Users are also able to email for help, reporting issues, or suggestions.
@@ -28,6 +27,12 @@ tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, ge
 - Prior to generating a GNN, it's beneficial to edit your input SSN by removing singlets and nodes in clusters of fewer than 6. 
 - If you want both a colored SSN and a GNN, running the GNT with an un-colored SSN will output both. 
 - Use the Tutorial tabs provided for each tool, they're very helpful.
+
+## Help
+
+- [EFI Help *Training Resources*](https://efi.igb.illinois.edu/training/index.php)
+- [EFI YouTube *Cytoscape Video Tutorials*](https://www.youtube.com/channel/UCShNWZLlJYevN2TlypX71ng)
+{.links-list}
 
 ## Citations
 
