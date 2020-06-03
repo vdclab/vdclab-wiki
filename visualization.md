@@ -2,16 +2,11 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-01T00:47:50.034Z
+date: 2020-06-03T17:57:23.127Z
 tags: category
 ---
 
 # Visualization
-
-## Genome Browsers Within Integrated Platforms
-
-- [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
-{.links-list}
 
 ## Data Visualization
 
@@ -20,6 +15,16 @@ tags: category
 - [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [:star: Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 - [SeaView *Software to visualize alignment, create alignment and infer phylogeny*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PRABI-Doua-SeaView)
+{.links-list}
+
+## Gene Neighborhood Figures Tools
+
+- [:star: Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
+{.links-list}
+
+## Genome Browsers Within Integrated Platforms
+
+- [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 {.links-list}
 
 ## Structure Visualization Platforms 
