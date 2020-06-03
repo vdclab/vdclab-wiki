@@ -2,7 +2,7 @@
 title: Gene Graphics
 description: Gene Graphics is an application that allows for consistent, visually appealing representations of physical gene neighborhoods with minimal effort or expertise.
 published: true
-date: 2020-06-03T17:57:47.889Z
+date: 2020-06-03T17:57:57.901Z
 tags: genomes, 2017, data visualization, gene neighborhood
 ---
 
@@ -17,11 +17,10 @@ Users may export images as portable network graphics (PNG) files, high-quality v
 Gene Graphics has been tested on Firefox 56, Chrome 61, and Safari 11. Older versions of these browsers and other browsers may not be compatible with the application.
 {.is-info}
 
-
-
 ## Website
 
 - [Gene Graphics *Main Page*](https://katlabs.cc/genegraphics/)
+{.links-list}
 
 ## Notes from Users
 - Helpfull to visualize multiple genome contexts at the same time.
