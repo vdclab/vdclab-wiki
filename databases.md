@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-06-01T15:32:29.421Z
+date: 2020-06-03T18:20:46.559Z
 tags: category
 ---
 
@@ -10,6 +10,7 @@ tags: category
 
 ## Databases Related To Enzymes And Pathways
 
+- [InnateDB *Genes, proteins, interactions and signaling pathways involved in the innate immune response*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/InnateDB)
 - [:star: Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 {.links-list}
@@ -27,6 +28,7 @@ tags: category
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
+- [Reactome *Signaling and metabolic molecules and their relations organized into biological pathways*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/Reactome)
 - [:star: SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
