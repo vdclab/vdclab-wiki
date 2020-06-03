@@ -2,7 +2,7 @@
 title: GraPhlAn
 description: Research article describing GraPhlAn (Graphical Phylogenetic Analysis), a computational tool that produces high-quality, compact visualizations of microbial genomes and metagenomes.
 published: true
-date: 2020-06-03T17:39:24.067Z
+date: 2020-06-03T17:39:34.061Z
 tags: tool, taxonomic profiling, bioinformatics, data visualization, data mapping, 2015, computational biology
 ---
 
@@ -31,8 +31,8 @@ tags: tool, taxonomic profiling, bioinformatics, data visualization, data mappin
 ## Help
 
 - [GitHub *Instalation files*](https://github.com/biobakery/graphlan)
-- [Help 1 *Tutorial 1*](https://github.com/biobakery/graphlan/wiki)
-- [Help 2 *Tutorial 2*](https://github.com/biobakery/biobakery/wiki/graphlan)
+- [Help *Tutorial 1*](https://github.com/biobakery/graphlan/wiki)
+- [Help *Tutorial 2*](https://github.com/biobakery/biobakery/wiki/graphlan)
 {.links-list}
 
 ## Citation
