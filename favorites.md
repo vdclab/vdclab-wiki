@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-01T15:32:11.577Z
+date: 2020-06-03T18:20:52.771Z
 tags: reference, resource reference
 ---
 
@@ -129,6 +129,7 @@ tags: reference, resource reference
 
 ## Phylogeny Tools
 
+- [IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 {.links-list}
 
@@ -176,6 +177,11 @@ tags: reference, resource reference
 {.links-list}
 
 # Structure
+
+## Evolutionary Conserved Residues On Structure
+
+- [ConSurf *Server for the Identification of Functional Regions in Proteins*](https://vdclab-wiki.herokuapp.com/en/structure/evolutionary_conserved_residues/ConSurf)
+{.links-list}
 
 ## Ligand prediction
 
@@ -233,6 +239,12 @@ tags: reference, resource reference
 - [IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
 {.links-list}
 
+## Gene Ontology Enrichment Tools
+
+- [GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
+{.links-list}
+
+
 ## Visualizing Pathways - Mapping Data To Pathways
 
 - [PaintOmics *Integrative visualization of multiple omic datasets onto KEGG pathways*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PaintOmics)
@@ -258,6 +270,12 @@ tags: reference, resource reference
 - [Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
 - [Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
+{.links-list}
+
+## Gene Neighborhood Figures Tools
+
+- [GCTNG *Visualize the genomic context of a gene or a group of genes and their orthologous relationships*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/GCTNG)
+- [Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
 {.links-list}
 
 ## Venn Diagram Tools
