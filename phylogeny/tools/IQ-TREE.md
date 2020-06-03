@@ -2,7 +2,7 @@
 title: IQ TREE
 description: IQ TREE: Efficient software for phylogenomic inference
 published: true
-date: 2020-06-03T17:46:34.157Z
+date: 2020-06-03T17:53:04.567Z
 tags: 2018, 2019, tool, phylogeny, 2017, 2015, 2016
 ---
 
@@ -29,8 +29,10 @@ tags: 2018, 2019, tool, phylogeny, 2017, 2015, 2016
 {.links-list}
 
 ## Notes from Users
+
 - Downloadable version and online version.
 - Lots of option to play with.
+- Active development of new features and correction of bug
 
 ## Ease of use
 
@@ -42,6 +44,8 @@ tags: 2018, 2019, tool, phylogeny, 2017, 2015, 2016
 ## Help
 
 - [Doc *Help page*](http://www.iqtree.org/doc/)
+- [FAQ *Frequently asked questions*](http://www.iqtree.org/doc/Frequently-Asked-Questions)
+- [Github *Issue page*](https://github.com/Cibiv/IQ-TREE/issues)
 {.links-list}
 
 ## Citations
