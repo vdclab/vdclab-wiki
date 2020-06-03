@@ -2,7 +2,7 @@
 title: Protein Interaction Property Similarity Analysis (PIPSA)
 description: This PIPSA service is provided for the comparison of the electrostatic interaction properties of proteins. It permits the classification of proteins according to their interaction properties.
 published: true
-date: 2020-06-02T21:04:20.876Z
+date: 2020-06-03T17:38:35.104Z
 tags: tool, proteins, interaction, gui
 ---
 
@@ -19,7 +19,7 @@ tags: tool, proteins, interaction, gui
 {.links-list}
 
 ## Notes from User
-- Can use as GUI or dwonload Python code
+- Can use as GUI or download Python code
 - Easy to input with PDB ID, need interacting proteins
 - Queries run quickly and with updates at each step 
 ## Citation
