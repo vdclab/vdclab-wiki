@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-03T17:57:23.127Z
+date: 2020-06-03T18:16:16.043Z
 tags: category
 ---
 
@@ -20,6 +20,7 @@ tags: category
 ## Gene Neighborhood Figures Tools
 
 - [:star: Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
+- [SyntTax *Synteny web service to take full advantage of the large amount or archaeal and bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/SyntTax)
 {.links-list}
 
 ## Genome Browsers Within Integrated Platforms
