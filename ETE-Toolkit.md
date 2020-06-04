@@ -2,16 +2,19 @@
 title: ETE Toolkit
 description: A Python framework for the analysis and visualization of trees.
 published: true
-date: 2020-04-16T16:52:59.965Z
-tags: 
+date: 2020-06-04T22:58:09.978Z
+tags: data visualization, data mapping
 ---
 
 # ETE Toolkit
 
-> A Python framework for the analysis and visualization of trees.
+> The Python Environment for tree expoloration is a python framework available for the user to download and use for the analysis and visualization of trees. Additionally, there are instructions for phylogenetic tools within the the environment available for the user to further analyze their trees.
 {.is-info}
 
+## Notes from the user
 
+
+## Ease of use
 
 ## Website
 
