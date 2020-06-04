@@ -1,20 +1,29 @@
 ---
-title: NCBI
-description: to be fill
+title: National Center for Biotechnology Information (NCBI)
+description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-04-07T17:19:56.134Z
-tags: 
+date: 2020-06-04T16:23:03.105Z
+tags: resource center, database, publisher
 ---
 
-# NCBI
+# National Center for Biotechnology Information (NCBI)
 
-> To be fill
+> The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
+>
+> The NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease. More specifically, the NCBI has been charged with creating automated systems for storing and analyzing knowledge about molecular biology, biochemistry, and genetics; facilitating the use of such databases and software by the research and medical community; coordinating efforts to gather biotechnology information both nationally and internationally; and performing research into advanced methods of computer-based information processing for analyzing the structure and function of biologically important molecules.
 {.is-info}
 
-# Website
+ 
+
+## Website 
+
+- [NCBI *Main Page*](https://www.ncbi.nlm.nih.gov/)
+- [About NCBI *About Page*](https://www.ncbi.nlm.nih.gov/home/about/)
+ {.links-list}
+
+ 
 
 # NCBI page related on the wiki
 
 Other name for this section could be used. Maybe `tools of the website` or `interesting features`. Need some reflexion about it
 
-# Citation
