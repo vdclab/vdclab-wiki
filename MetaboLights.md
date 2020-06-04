@@ -2,8 +2,8 @@
 title: EMBL-EBI MetaboLights
 description: MetaboLights is a database for Metabolomics experiments and derived information.
 published: true
-date: 2020-04-09T18:39:22.236Z
-tags: 
+date: 2020-06-04T21:03:43.158Z
+tags: database, metabolism
 ---
 
 # EMBL-EBI MetaboLights
@@ -18,6 +18,8 @@ MetaboLights semantic quality is based on various controlled vocabularies and on
 ## Website
 
 - [MetaboLights *Main Page*](https://www.ebi.ac.uk/metabolights/)
+- [MetaboLights Quick Tour *User Training*](https://www.ebi.ac.uk/training/online/course/metabolights-quick-tour-0)
+
 {.links-list}
 
 ## Citation
