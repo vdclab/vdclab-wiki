@@ -2,8 +2,8 @@
 title: Network Protein Sequence @nalysis
 description: NPS@ is an interactive web server dedicated to protein sequence analysis.
 published: true
-date: 2020-04-16T16:19:52.596Z
-tags: 
+date: 2020-06-04T20:37:40.036Z
+tags: tool, sequence analysis, proteins
 ---
 
 # Network Protein Sequence @nalysis
@@ -16,6 +16,13 @@ tags:
 
 - [NPS@ *Main Page*](https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_server.html)
 {.links-list}
+
+## Notes from the user
+- A collection of web services which are focused protein analysis
+- Contains links to seminal and useful tools like BLAStp, FASTA, and HMMSEARCH
+
+## Ease of use
+> This collection of tools provides the user with everything they need to analyze protein seqeuces. The site sticks mainly to the bigger and well published tools. Most of the interface is as simple as inputing the sequence and adjusting parameters but the help page only tells the user what types of sequences are acceptable. Results are sometimes cluttered but it all depends on which tool is being used. 
 
 ## Citation
 
