@@ -2,7 +2,7 @@
 title: VIZBI Blog
 description: The VIZBI initiative is an international conference series bringing together researchers developing and using computational visualisation to address a broad range of biological research areas.
 published: true
-date: 2020-06-04T22:30:51.959Z
+date: 2020-06-04T22:31:28.948Z
 tags: tool, data visualization
 ---
 
