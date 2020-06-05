@@ -2,7 +2,7 @@
 title: AgriGO
 description: AgriGO v2.0 is a web-based tool and database for gene ontology analyses.
 published: true
-date: 2020-05-28T17:01:13.375Z
+date: 2020-06-05T14:54:47.695Z
 tags: tool, database, gene, enrichment, ontology
 ---
 
@@ -21,6 +21,7 @@ tags: tool, database, gene, enrichment, ontology
 
 ## Notes from User
 - When using analysis, boxes to right give description of tool and allowed gene IDs for selected species as it varies per species 
+- Says you can save Job ID and check within 3 days, but this does not always work (keep tab open with job processing)
 - Once data is submitted and run (depending on number of genes input) gives two options for types of visualization, very easy 
 - Can edit images some, but not full control of image colors, etc. 
 
