@@ -2,8 +2,8 @@
 title: The Yang Zhang Lab
 description: Web page dedicated to the research, publications, information, and various other aspects of the Zhang Lab at the University of Michigan.
 published: true
-date: 2020-06-04T19:37:53.570Z
-tags: wiki
+date: 2020-06-05T14:34:21.884Z
+tags: wiki, tool, sequence analysis, sequence alignment, proteins, analysis tools, structural alignment, structural analysis, toolbox
 ---
 
 # The Yang Zhang Lab
