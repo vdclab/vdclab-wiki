@@ -2,8 +2,8 @@
 title: EvolView
 description: EvolView is an easy-to-use online tool for displaying, managing and customizing phylogenetic trees.
 published: true
-date: 2020-06-04T23:44:13.257Z
-tags: data visualization, data mapping
+date: 2020-06-05T15:16:09.821Z
+tags: taxonomy, data visualization, data mapping, phylogen
 ---
 
 # EvolView
