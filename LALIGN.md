@@ -2,8 +2,8 @@
 title: LALIGN Server
 description: Find multiple matching subsegments in two sequences.
 published: true
-date: 2020-06-08T20:10:09.377Z
-tags: tool, sequence matching
+date: 2020-06-08T20:11:44.242Z
+tags: tool, sequence matching, sequence alignment, 1991
 editor: markdown
 ---
 
