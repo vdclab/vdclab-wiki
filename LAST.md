@@ -2,8 +2,9 @@
 title: LAST Web Service
 description: LAST finds similar regions between sequences.
 published: true
-date: 2020-05-23T20:46:40.775Z
-tags: tool, sequence similarity
+date: 2020-06-08T17:41:40.029Z
+tags: tool, sequence alignment, sequence similarity, 2010, 2011
+editor: markdown
 ---
 
 # LAST Web Service
@@ -24,6 +25,15 @@ tags: tool, sequence similarity
 - [LAST *Home Page*](http://last.cbrc.jp/)
 - [LAST *Web Service Page*](http://lastweb.cbrc.jp/)
 {.links-list}
+
+## Notes from Users
+- Alignment custumisable. 
+- DNA or protein sequences.
+- The colouring is a little bit unfortunate to read the alignment.
+
+## Ease of use
+- Enter 2 sets of sequences to align.
+- Get a graphic reprenstation of the alignments and the alignments.
 
 ## Citations 
 
