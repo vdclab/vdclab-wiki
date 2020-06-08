@@ -2,8 +2,9 @@
 title: SynMap
 description: SynMap generates a syntenic dotplot between two organisms and identifies syntenic regions.
 published: true
-date: 2020-05-23T20:51:39.075Z
+date: 2020-06-08T18:46:24.641Z
 tags: tool, data visualization
+editor: markdown
 ---
 
 # SynMap
@@ -23,6 +24,15 @@ Synmap:
 
 - [SynMap *Main Page*](https://genomevolution.org/CoGe/SynMap.pl)
 {.links-list}
+
+## Notes from Users
+- This tool is part of a bigger plateform of tools.
+- Some additional analysis options for advanced searches.
+
+## Ease of use
+- Choose your two genomes from the list provide (start by typing).
+- Choose if you want to align CDS or genomic DNA.
+- Output is a Dotplot of the alignments.
 
 ## Citations
 
