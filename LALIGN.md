@@ -2,8 +2,9 @@
 title: LALIGN Server
 description: Find multiple matching subsegments in two sequences.
 published: true
-date: 2020-04-21T18:23:23.294Z
-tags: 
+date: 2020-06-08T20:10:09.377Z
+tags: tool, sequence matching
+editor: markdown
 ---
 
 # LALIGN Server
@@ -19,6 +20,19 @@ The LALIGN/plalign/fasta programs use a standard text format sequence file. Line
 
 - [LALIGN Server *Main Page*](https://embnet.vital-it.ch/software/LALIGN_form.html)
 {.links-list}
+
+
+## Help
+- [Manual *Help Page*](https://embnet.vital-it.ch/software/LALIGN.man.html)
+{.links-list}
+
+## Notes from Users
+- Only to align 2 sequences.
+
+## Ease of use
+- Input your sequences and format.
+- Choose your comparaison matrix.
+- Get your alignment.
 
 ## Citation
 
