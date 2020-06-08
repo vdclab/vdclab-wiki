@@ -2,8 +2,9 @@
 title: Pairwise Alignment
 description: Insert two sequences using the single letter amino acid code or enter two UniProtKB identifiers codes and the alignment results will show the SSEARCH Smith-Waterman full-length alignments between two sequences 
 published: true
-date: 2020-04-21T18:13:14.764Z
-tags: 
+date: 2020-06-08T19:26:40.954Z
+tags: tool, sequence alignment
+editor: markdown
 ---
 
 # Pairwise Alignment
@@ -17,6 +18,16 @@ tags:
 
 - [Pairwise Alignment *Main Page*](https://proteininformationresource.org/pirwww/search/pairwise.shtml)
 {.links-list}
+
+## Notes from Users
+- Basic protein alignment tool.
+- Only 2 sequences alignments.
+- Not suitable for publication.
+
+
+## Ease of use
+- Enter your protein sequence or Uniprot ids.
+- Get the alignment.
 
 ## Citation
 
