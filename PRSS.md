@@ -2,7 +2,7 @@
 title: PRSS
 description: PRSS3 - evaluates the significance of a protein sequence alignment
 published: true
-date: 2020-06-08T21:45:09.479Z
+date: 2020-06-10T15:18:01.802Z
 tags: tool, sequence alignment, sequence similarity, dna, protein
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 ## Notes from Users
 - This is a 2 sequences alignment tool.
 - You can choose the matrix of alignment and gap scoring.
-- Not suitable for publucation.
+- Not suitable for publication.
 - Result in text format.
 
 ## Ease of use
