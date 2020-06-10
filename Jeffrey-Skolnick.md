@@ -2,14 +2,22 @@
 title: Center for the Study of Systems Biology - Jeffrey Skolnick
 description: Web page dedicated to the research interests, publications, and information around Jeffrey Skolnick, the director of the Center for the Study of Systems Biology 
 published: true
-date: 2020-06-04T20:11:15.454Z
+date: 2020-06-10T14:32:38.171Z
 tags: publisher
+editor: markdown
 ---
 
 # Center for the Study of Systems Biology - Jeffrey Skolnick
 
 > Web page dedicated to the research interests, publications, and information around Jeffrey Skolnick, the director of the Center for the Study of Systems Biology. Included on the web page are links to several online web-tools and services. These tools range from protein structure, ligand interactions, and tools to asses human disease associated nutations for personalized medicine. 
 {.is-info}
+
+## Website
+
+- [Center for the Study of Systems Biology  *About Jeffrey Skolnick*](http://pwp.gatech.edu/cssb/jeffrey-skolnick/)
+{.links-list}
+
+
 
 ## Notes from user
 - The web-tools are listed under "software and services" where they are organized into groups
