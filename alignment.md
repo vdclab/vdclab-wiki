@@ -2,7 +2,7 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-06-10T18:35:44.045Z
+date: 2020-06-10T19:16:38.530Z
 tags: category
 editor: markdown
 ---
@@ -26,4 +26,7 @@ editor: markdown
 ## Two Sequences Alignment
 
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
+- [LALIGN *Find multiple matching subsegments in two sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LALIGN)
+- [:star: Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [:star: PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 {.links-list}
