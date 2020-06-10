@@ -2,7 +2,7 @@
 title: ConsensusPathDB
 description: ConsensusPathDB integrates interaction networks in Homo sapiens including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory and drug-target interactions, as well as biochemical pathways.
 published: true
-date: 2020-06-10T19:59:18.620Z
+date: 2020-06-10T19:59:28.207Z
 tags: annotation, genes, proteins, metabolics, gene expression, metabolic pathways, gene annotation
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 
 
 ## Ease of use
--  Search for pathways for protien interactiosn by gene name or by pathway name (like glycolysis). This tool quickly gives the user a list of known pathways and genes that the user can select to futher explore as visualized pathways.
+Search for pathways for protien interactiosn by gene name or by pathway name (like glycolysis). This tool quickly gives the user a list of known pathways and genes that the user can select to futher explore as visualized pathways.
 
 
 ## Citations
