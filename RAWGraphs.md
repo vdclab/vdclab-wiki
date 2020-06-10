@@ -2,8 +2,9 @@
 title: RAWGraphs
 description: RAW Graphs is an open source data visualization framework built with the goal of making the visual representation of complex data easy for everyone.
 published: true
-date: 2020-06-05T17:47:21.009Z
+date: 2020-06-10T19:46:21.659Z
 tags: data visualization
+editor: markdown
 ---
 
 # RAWGraphs
@@ -18,6 +19,9 @@ tags: data visualization
 ## Website 
 
 - [RAWGraphs *Main Page*](https://app.rawgraphs.io/)
+{.links-list}
+
+## Help
 - [Frequently Asked Questions *FAQ Page*](https://github.com/rawgraphs/raw/wiki/FAQs)
 {.links-list}
 
