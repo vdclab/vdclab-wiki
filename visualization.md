@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-10T18:11:35.341Z
+date: 2020-06-10T18:21:17.122Z
 tags: category
 editor: markdown
 ---
@@ -42,6 +42,13 @@ editor: markdown
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
+{.links-list}
+
+## Tools to Make Figures
+
+- [ETE-Toolkit *A Python framework for the analysis and visualization of trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/ETE-Toolkit)
+- [GraPhlAn *Tool that produces high-quality, compact visualizations of microbial genomes*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/GraPhlAn)
+- [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 {.links-list}
 
 ## Venn Diagram Tools
