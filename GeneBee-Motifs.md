@@ -2,14 +2,14 @@
 title: Advanced GeneBee Motifs' Collection Map
 description: Web tool that allows the construction of pairwise motifs.
 published: true
-date: 2020-06-10T15:09:47.058Z
+date: 2020-06-10T15:10:50.806Z
 tags: tool, sequence matching, sequence alignment, motif, 1993, 1995
 editor: markdown
 ---
 
 # Advanced GeneBee Motifs' Collection Map
 
-> Web tool that allows the construction of Dotplots for nucelic acids or proteins
+> Web tool that allows the construction of pairwise motifs.
 {.is-info}
 
 
@@ -25,12 +25,13 @@ editor: markdown
 ## Notes from Users
 - Alignment customisable (see help page).
 - Sequences must be in fasta format.
+- Robust.
 > not updated since 2001
 {.is-warning}
 
 
 ## Ease of use
-- Enter your unaligned sequences.
+- Enter your unlagnined sequences.
 - Choose your option and get your results.
 - Result include alignment nmap and motifs.
 
