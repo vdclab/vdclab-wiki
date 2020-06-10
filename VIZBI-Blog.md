@@ -2,7 +2,7 @@
 title: VIZBI Blog
 description: The VIZBI initiative is an international conference series bringing together researchers developing and using computational visualisation to address a broad range of biological research areas.
 published: true
-date: 2020-06-10T14:35:41.191Z
+date: 2020-06-10T18:06:25.819Z
 tags: community, video, data visualization
 editor: markdown
 ---
@@ -18,15 +18,11 @@ editor: markdown
 {.links-list}
 
 ## Notes from user
+
 - Blog for current trends in computational visualization of biological data
 - Large repository of talks and posters
 
-
 ## Citation
+
 - Summary of the supplement on visualizing biological data. Nat Methods 7, 194–195 (2010). https://doi.org/10.1038/nmeth0310-194
-
-## Website
-
-- [VIZBI *Blog Page*](https://vizbi.org/blog/)
-{.links-list}
-
+{.grid-list}
