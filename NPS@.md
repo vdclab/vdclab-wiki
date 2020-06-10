@@ -2,7 +2,7 @@
 title: Network Protein Sequence @nalysis
 description: NPS@ is an interactive web server dedicated to protein sequence analysis.
 published: true
-date: 2020-06-10T14:44:25.112Z
+date: 2020-06-10T18:02:38.536Z
 tags: tool, sequence analysis, proteins
 editor: markdown
 ---
@@ -28,5 +28,5 @@ editor: markdown
 
 ## Citation
 
-- [NPS@: Network Protein Sequence Analysis](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(99)01540-6) TIBS 2000 March Vol. 25, No 3 [291]:147-150 Combet C., Blanchet C., Geourjon C. and Deléage G.
+- Combet C., Blanchet C., Geourjon C. and Deléage G., [NPS@: Network Protein Sequence Analysis](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(99)01540-6) TIBS 2000 March Vol. 25, No 3 [291]:147-150 
 {.grid-list}
