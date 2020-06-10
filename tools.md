@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-10T17:56:45.585Z
+date: 2020-06-10T17:58:22.764Z
 tags: category
 editor: markdown
 ---
@@ -16,7 +16,6 @@ editor: markdown
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
-- [:star: Zhang Lab *Web page dedicated to the research, publications, information, of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
 ## Analysis Tools
@@ -31,6 +30,7 @@ editor: markdown
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 - [:star: SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
+- [:star: Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
 ## Creating Or Finding Sequence Logos
