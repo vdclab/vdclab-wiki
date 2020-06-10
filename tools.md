@@ -2,8 +2,9 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-03T18:20:39.427Z
+date: 2020-06-10T17:56:45.585Z
 tags: category
+editor: markdown
 ---
 
 # Tools
@@ -15,6 +16,7 @@ tags: category
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
+- [:star: Zhang Lab *Web page dedicated to the research, publications, information, of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
 ## Analysis Tools
