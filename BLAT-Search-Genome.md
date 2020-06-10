@@ -2,7 +2,7 @@
 title: BLAT Search Genome
 description: BLAT on DNA is designed to quickly find sequences of 95% and greater similarity of length 25 bases or more.
 published: true
-date: 2020-06-08T22:19:48.225Z
+date: 2020-06-10T15:24:00.443Z
 tags: tool, sequence similarity, data visualization, mapping, genome, eukaryota, 2002
 editor: markdown
 ---
@@ -18,12 +18,12 @@ BLAT is not BLAST. DNA BLAT works by keeping an index of the entire genome in me
 
 ## Website
 
-- [BLAT Search Genome *Mai Page*](http://genome.ucsc.edu/cgi-bin/hgBlat?hgsid=412713987_NrFiBsC7HAfLzfiAeKNgr11VBglP&command=start)
+- [BLAT Search Genome *Main Page*](http://genome.ucsc.edu/cgi-bin/hgBlat?hgsid=412713987_NrFiBsC7HAfLzfiAeKNgr11VBglP&command=start)
 {.links-list}
 
 ## Norte from Users
 - Only model Eukaryotic genome available.
-- Not sentive with bacterial homologs.
+- Not sensitive with bacterial homologs.
 
 ## Ease of use
 - Input your sequence.
