@@ -2,7 +2,7 @@
 title: iTOL: Interactive Tree of Life
 description: Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic trees.
 published: true
-date: 2020-06-10T14:52:13.840Z
+date: 2020-06-10T18:12:11.776Z
 tags: annotation tools, taxonomy, phylogeny, data visualization
 editor: markdown
 ---
@@ -27,12 +27,9 @@ iTOL provides WYSIWYG high quality export into vector and bitmap graphics format
 - One major issue is that iTOL requires a newick file  with Taxonomic ids as input for spceis trees. The associated [PhyloT tool](https://phylot.biobyte.de) was great but it is not free for over >10 genomes. So Work-arounds using Patric can be done
 - There now also  are adding paying features to iTOL itself, so for the moment, it is still the most user friendly tool to map data to trees but if they are not free , it might be worth switching to  ETE
 
-
-
-
 ## Ease of use
- > iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
 
+- iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
 
 ## Citations
 
