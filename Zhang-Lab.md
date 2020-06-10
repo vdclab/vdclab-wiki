@@ -2,7 +2,7 @@
 title: The Yang Zhang Lab
 description: Web page dedicated to the research, publications, information, and various other aspects of the Zhang Lab at the University of Michigan.
 published: true
-date: 2020-06-10T14:43:23.291Z
+date: 2020-06-10T17:53:27.865Z
 tags: wiki, tool, sequence analysis, sequence alignment, proteins, analysis tools, structural alignment, structural analysis, toolbox
 editor: markdown
 ---
@@ -22,11 +22,12 @@ editor: markdown
 - Regularly updated and maintained
 - The numerous tools are given a brief description in the "online services page"
 - One favorite tool is "COACH" to predict ligands
-- Another interesting analysis is the prediction for structures and interactions for E. coli proteins [E.coli predictions](https://zhanglab.ccmb.med.umich.edu/Ecoli/)
-{.links-list}
+- Another interesting analysis is the prediction for structures and interactions for E. coli proteins: [E.coli predictions](https://zhanglab.ccmb.med.umich.edu/Ecoli/)
+
 
 ## Ease of use
-> This website offers a wide variety of tools that are specialized for protein related research. Most of them are easy to use and simply require the user to input an amino acid sequence into the query field. Some of the tools also have example inputs that help the user format their data properly.
+
+This website offers a wide variety of tools that are specialized for protein related research. Most of them are easy to use and simply require the user to input an amino acid sequence into the query field. Some of the tools also have example inputs that help the user format their data properly.
 
 
 
