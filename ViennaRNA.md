@@ -2,8 +2,9 @@
 title: ViennaRNA
 description: The ViennaRNA Package consists of a C code library and several stand-alone programs for the prediction and comparison of RNA secondary structures.
 published: true
-date: 2020-06-04T15:54:08.234Z
+date: 2020-06-10T19:30:48.520Z
 tags: comparative genomics, rna, database, prediction
+editor: markdown
 ---
 
 # ViennaRNA
@@ -18,7 +19,7 @@ tags: comparative genomics, rna, database, prediction
 ## Websites
 
 - [ViennaRNA *Main Page*](https://www.tbi.univie.ac.at/RNA/)
-- [How-to *Introduction Page*](hhttps://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/index.html#introduction)
+- [How-to *Introduction Page*](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/index.html#introduction)
 {.links-list}
 
 ## Citation
