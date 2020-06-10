@@ -2,19 +2,22 @@
 title: raxmlGUI
 description: A new graphical interface for RAxML
 published: true
-date: 2020-05-27T18:24:10.217Z
+date: 2020-06-10T19:43:27.410Z
 tags: tool, phylogeny
+editor: markdown
 ---
 
 # raxmlGUI
 
 > raxmlGUI1,2 is a graphical user interface to RAxML3, 4, one of the most popular and widely used software for phylogenetic inference using maximum likelihood. This is the first public beta of raxmlGUI v2.0, featuring:
->
-> - Intuitive graphical front-end to set up and run phylogenetic analyses
-> - Seamless integration with RAxML and RAxML-NG available on all major operating systems
-> - Automated pipelines for analyses that require multiple successive calls of RAxML
-> - Built-in functions to concatenate alignment files with automatic partition settings
+> 
+>  • Intuitive graphical front-end to set up and run phylogenetic analyses
+>  • Seamless integration with RAxML and RAxML-NG available on all major operating systems
+>  • Automated pipelines for analyses that require multiple successive calls of RAxML
+>  • Built-in functions to concatenate alignment files with automatic partition settings
 {.is-info}
+
+
  
 
 ## Website 
