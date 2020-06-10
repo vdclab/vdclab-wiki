@@ -2,8 +2,9 @@
 title: FAIRsharing
 description: A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.
 published: true
-date: 2020-05-25T17:34:44.547Z
+date: 2020-06-10T19:21:30.467Z
 tags: database, curated, repository
+editor: markdown
 ---
 
 # FAIRsharing
@@ -23,7 +24,9 @@ tags: database, curated, repository
 
 ## Citations 
 
-- If you have used FAIRsharing or BioSharing during the course of your work, please cite our FAIRSharing paper: 
--	Sansone, S.-A., McQuilton, P., Rocca-Serra, P., Gonzalez-Beltran, A., Izzo, M., Lister, A.L. and Thurston, M. (2019) FAIRsharing as a community approach to standards, repositories and policies. Nature biotechnology, 37, 358: [10.1038/s41587-019-0080-8.](https://www.nature.com/articles/s41587-019-0080-8)
--	When referring directly to the website, please cite the following URL: https://www.FAIRsharing.org
+If you have used FAIRsharing or BioSharing during the course of your work, please cite our FAIRSharing paper: 
+-	Sansone, S.-A., McQuilton, P., Rocca-Serra, P., Gonzalez-Beltran, A., Izzo, M., Lister, A.L. and Thurston, M. (2019) [FAIRsharing as a community approach to standards, repositories and policies](https://www.nature.com/articles/s41587-019-0080-8). Nature biotechnology, 37, 358: 10.1038/s41587-019-0080-8.
 {.grid-list}
+
+When referring directly to the website, please cite the following URL: https://www.FAIRsharing.org
+
