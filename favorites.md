@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-10T17:58:01.235Z
+date: 2020-06-10T17:58:29.860Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -213,7 +213,7 @@ editor: markdown
 - [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
-- [Zhang Lab *Web page dedicated to the research, publications, information, of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
+- [Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
 ## Creating Or Finding Sequence Logos
