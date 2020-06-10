@@ -2,7 +2,7 @@
 title: iTOL: Interactive Tree of Life
 description: Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic trees.
 published: true
-date: 2020-06-10T18:12:11.776Z
+date: 2020-06-10T18:12:17.306Z
 tags: annotation tools, taxonomy, phylogeny, data visualization
 editor: markdown
 ---
@@ -29,7 +29,7 @@ iTOL provides WYSIWYG high quality export into vector and bitmap graphics format
 
 ## Ease of use
 
-- iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
+iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
 
 ## Citations
 
