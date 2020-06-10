@@ -2,7 +2,7 @@
 title: The Yang Zhang Lab
 description: Web page dedicated to the research, publications, information, and various other aspects of the Zhang Lab at the University of Michigan.
 published: true
-date: 2020-06-10T14:28:13.893Z
+date: 2020-06-10T14:29:05.395Z
 tags: wiki, tool, sequence analysis, sequence alignment, proteins, analysis tools, structural alignment, structural analysis, toolbox
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 - There are many different tools on this website that focus on protein folding and interactions
 - Regularly updated and maintained
 - The numerous tools are given a brief description in the "online services page"
-- One interesting analysis are the predictions for E. coli proteins [E.coli predictions] (https://zhanglab.ccmb.med.umich.edu/Ecoli/)
+- One interesting analysis are the predictions for E. coli proteins [E.coli predictions](https://zhanglab.ccmb.med.umich.edu/Ecoli/)
 {.links-list}
 
 ## Ease of use
