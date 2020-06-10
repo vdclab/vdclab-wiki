@@ -2,8 +2,9 @@
 title: The GUIDANCE2 Server
 description: Server for alignment confidence score
 published: true
-date: 2020-05-25T17:55:54.223Z
+date: 2020-06-10T19:24:23.176Z
 tags: sequence alignment, server
+editor: markdown
 ---
 
 # The GUIDANCE2 Server
@@ -17,6 +18,10 @@ tags: sequence alignment, server
 ## Website 
 
 - [The GUIDANCE2 Server *Main Page*](http://guidance.tau.ac.il/)
+ {.links-list}
+ 
+ ## Citation
+ 
 - [How-to Cite *Reference Page*](http://guidance.tau.ac.il/credits.php)
  {.links-list}
 
