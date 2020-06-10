@@ -2,8 +2,9 @@
 title: iTOL: Interactive Tree of Life
 description: Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic trees.
 published: true
-date: 2020-06-05T15:04:20.639Z
+date: 2020-06-10T14:52:13.840Z
 tags: annotation tools, taxonomy, phylogeny, data visualization
+editor: markdown
 ---
 
 # iTOL: Interactive Tree of Life
@@ -13,18 +14,25 @@ tags: annotation tools, taxonomy, phylogeny, data visualization
 iTOL provides WYSIWYG high quality export into vector and bitmap graphics formats. Interactively adjust the tree as you like, and the exported figure will mirror what is shown on your screen.
 {.is-info}
 
-## Notes from the user
-- A great tool for visualizing phylogenetic trees
-- The user must already have a phylogenetic tree file (Newick, Nexus or PhyloXML)
-- Offers a wide variety of ways to annotate your trees with metadata
-- can export vector images of generated trees
-
-## Ease of use
- > iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
 ## Website
 
 - [iTOL *Main Page*](https://itol.embl.de/)
 {.links-list}
+
+## Notes from the user
+- A great tool for visualizing phylogenetic trees
+- The user must already have a phylogenetic tree file (Newick, Nexus or PhyloXML)
+- Offers a wide variety of ways to annotate your trees with metadata
+- Can export vector images of generated trees
+- One major issue is that iTOL requires a newick file  with Taxonomic ids as input for spceis trees. The associated [PhyloT tool](https://phylot.biobyte.de) was great but it is not free for over >10 genomes. So Work-arounds using Patric can be done
+- There now also  are adding paying features to iTOL itself, so for the moment, it is still the most user friendly tool to map data to trees but if they are not free , it might be worth switching to  ETE
+
+
+
+
+## Ease of use
+ > iTOL is a simple web-tool that allows the user to completely customize their own phylogenetic trees. The interface is easy to use and understand. The user must use a second service or software to generate a phylogenetic tree before iTOL can be used. 
+
 
 ## Citations
 
