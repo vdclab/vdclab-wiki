@@ -2,8 +2,9 @@
 title: MolView
 description: MolView is mainly intended as web-based data visualization platform. 
 published: true
-date: 2020-05-06T18:20:55.055Z
+date: 2020-06-10T19:33:45.599Z
 tags: tool, database, data visualization
+editor: markdown
 ---
 
 # MolView
@@ -16,6 +17,9 @@ tags: tool, database, data visualization
 ## Websites
 
 - [MolView *Main Page*](http://molview.org/)
+{.links-list}
+
+## Citation
 - [MolView Terms of Use *Terms of Use Page*](http://molview.org/legal)
 {.links-list}
 
