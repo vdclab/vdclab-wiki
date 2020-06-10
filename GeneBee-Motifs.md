@@ -2,7 +2,7 @@
 title: Advanced GeneBee Motifs' Collection Map
 description: Web tool that allows the construction of pairwise motifs.
 published: true
-date: 2020-06-10T15:11:52.603Z
+date: 2020-06-10T18:30:36.440Z
 tags: tool, sequence matching, sequence alignment, motif, 1993, 1995
 editor: markdown
 ---
@@ -18,10 +18,6 @@ editor: markdown
 - [GeneBee Motifs *Main Page*](http://www.genebee.msu.su/services/dhm/advanced.html)
 {.links-list}
 
-## Help
-- [Help *Help page*](http://www.genebee.msu.su/services/dhm/help.html)
-{.links-list}
-
 ## Notes from Users
 - Alignment customisable (see help page).
 - Sequences must be in fasta format.
@@ -29,12 +25,14 @@ editor: markdown
 > not updated since 2001
 {.is-warning}
 
-
 ## Ease of use
 - Enter your unlagnined sequences.
 - Choose your option and get your results.
 - Result include alignment nmap and motifs.
 
+## Help
+- [Help *Help page*](http://www.genebee.msu.su/services/dhm/help.html)
+{.links-list}
 
 ## Citations
 
