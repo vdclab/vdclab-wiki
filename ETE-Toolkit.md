@@ -2,7 +2,7 @@
 title: ETE Toolkit
 description: A Python framework for the analysis and visualization of trees.
 published: true
-date: 2020-06-10T18:19:43.258Z
+date: 2020-06-10T18:19:58.531Z
 tags: taxonomy, phylogeny, data visualization, data mapping, programming
 editor: markdown
 ---
@@ -28,5 +28,5 @@ The python environment is a harder tool to use than other online options but off
 
 ## Citation
 
-- [ETE 3: Reconstruction, analysis and visualization of phylogenomic data.](https://academic.oup.com/mbe/article/33/6/1635/2579822) Jaime Huerta-Cepas, Francois Serra and Peer Bork. Mol Biol Evol 2016; doi: 10.1093/molbev/msw046
+- Jaime Huerta-Cepas, Francois Serra and Peer Bork. [ETE 3: Reconstruction, analysis and visualization of phylogenomic data.](https://academic.oup.com/mbe/article/33/6/1635/2579822)  Mol Biol Evol 2016; doi: 10.1093/molbev/msw046
 {.grid-list}
