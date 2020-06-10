@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-10T18:38:06.788Z
+date: 2020-06-10T19:17:47.463Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -21,8 +21,13 @@ editor: markdown
 - [T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
-# Annotation
+## Two Sequences Alignment
 
+- [Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
+{.links-list}
+
+# Annotation
 
 ## General Annotation Pipeline
 
