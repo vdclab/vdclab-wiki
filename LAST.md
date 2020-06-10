@@ -2,12 +2,12 @@
 title: LAST Web Service
 description: LAST finds similar regions between sequences.
 published: true
-date: 2020-06-08T17:41:40.029Z
+date: 2020-06-10T15:14:35.369Z
 tags: tool, sequence alignment, sequence similarity, 2010, 2011
 editor: markdown
 ---
 
-# LAST Web Service
+# LAST Web Service (Dotplots)
 
 > LAST can:
 > • Handle big sequence data.
@@ -27,7 +27,7 @@ editor: markdown
 {.links-list}
 
 ## Notes from Users
-- Alignment custumisable. 
+- Alignment customisable. 
 - DNA or protein sequences.
 - The colouring is a little bit unfortunate to read the alignment.
 
