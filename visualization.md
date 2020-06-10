@@ -2,8 +2,9 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-03T18:20:16.787Z
+date: 2020-06-10T18:11:35.341Z
 tags: category
+editor: markdown
 ---
 
 # Visualization
@@ -27,6 +28,11 @@ tags: category
 ## Genome Browsers Within Integrated Platforms
 
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
+{.links-list}
+
+## Miscellaneous
+
+- [VIZBI Blog *A conference series bringing together researchers developing and using computational visualisation*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/VIZBI-Blog)
 {.links-list}
 
 ## Structure Visualization Platforms 
