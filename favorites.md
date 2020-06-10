@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-10T18:05:00.632Z
+date: 2020-06-10T18:18:47.611Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -279,6 +279,11 @@ editor: markdown
 
 - [GCTNG *Visualize the genomic context of a gene or a group of genes and their orthologous relationships*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/GCTNG)
 - [Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
+{.links-list}
+
+## Tools to Make Figures
+
+- [iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 {.links-list}
 
 ## Venn Diagram Tools
