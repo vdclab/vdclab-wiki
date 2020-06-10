@@ -2,8 +2,9 @@
 title: UniProt Mapping
 description: 
 published: true
-date: 2020-05-07T00:18:14.012Z
-tags: tool, protein
+date: 2020-06-10T19:55:01.102Z
+tags: tool, protein, id mapping
+editor: markdown
 ---
 
 # UniProt Mapping
