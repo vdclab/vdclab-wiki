@@ -2,8 +2,9 @@
 title: The Yang Zhang Lab
 description: Web page dedicated to the research, publications, information, and various other aspects of the Zhang Lab at the University of Michigan.
 published: true
-date: 2020-06-05T14:34:21.884Z
+date: 2020-06-10T14:24:13.517Z
 tags: wiki, tool, sequence analysis, sequence alignment, proteins, analysis tools, structural alignment, structural analysis, toolbox
+editor: markdown
 ---
 
 # The Yang Zhang Lab
@@ -15,7 +16,7 @@ tags: wiki, tool, sequence analysis, sequence alignment, proteins, analysis tool
 ## Notes from user
 - There are many different tools on this website that focus on protein folding and interactions
 - Regularly updated and maintained
-- Their many online tools are given a breif description in the "online services page"
+- The numerous tools are given a brief description in the "online services page"
 
 ## Ease of use
 > This website offers a wide variety of tools that are specialized for protein related research. Most of them are easy to use and simply require the user to input an amino acid sequence into the query field. Some of the tools also have example inputs that help the user format their data properly.
