@@ -2,7 +2,7 @@
 title: LALIGN Server
 description: Find multiple matching subsegments in two sequences.
 published: true
-date: 2020-06-08T20:11:44.242Z
+date: 2020-06-10T18:44:55.118Z
 tags: tool, sequence matching, sequence alignment, 1991
 editor: markdown
 ---
@@ -14,16 +14,9 @@ editor: markdown
 The LALIGN/plalign/fasta programs use a standard text format sequence file. Lines beginning with '>' or ';' are considered comments and ignored; sequences can be upper or lower case, blanks,tabs and unrecognizable characters are ignored. LALIGN/plalign expect sequences to use the single letter amino acid codes.
 {.is-info}
 
-
-
 ## Website
 
 - [LALIGN Server *Main Page*](https://embnet.vital-it.ch/software/LALIGN_form.html)
-{.links-list}
-
-
-## Help
-- [Manual *Help Page*](https://embnet.vital-it.ch/software/LALIGN.man.html)
 {.links-list}
 
 ## Notes from Users
@@ -33,6 +26,10 @@ The LALIGN/plalign/fasta programs use a standard text format sequence file. Line
 - Input your sequences and format.
 - Choose your comparaison matrix.
 - Get your alignment.
+
+## Help
+- [Manual *Help Page*](https://embnet.vital-it.ch/software/LALIGN.man.html)
+{.links-list}
 
 ## Citation
 
