@@ -2,8 +2,9 @@
 title: Semantic Scholar
 description: A Free, AI-powered Tool for Navigating the Scientific Literature.
 published: true
-date: 2020-06-04T16:55:42.106Z
+date: 2020-06-10T19:39:39.484Z
 tags: tool, literature
+editor: markdown
 ---
 
 # Semantic Scholar
@@ -20,6 +21,9 @@ tags: tool, literature
 ## Website 
 
 - [Semantic Scholar *Main Page*](https://www.semanticscholar.org/)
+ {.links-list}
+ 
+## Help
 - [Frequently Asked Questions *FAQ Page*](https://www.semanticscholar.org/faq)
  {.links-list}
 
