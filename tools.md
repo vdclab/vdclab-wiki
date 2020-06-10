@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-10T18:22:05.866Z
+date: 2020-06-10T18:36:09.601Z
 tags: category
 editor: markdown
 ---
@@ -13,6 +13,7 @@ editor: markdown
 
 - [Clustal Omega *MSA program that uses seeded guide trees and HMM profile-profile techniques*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA-ClustalOmega)
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+- [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
