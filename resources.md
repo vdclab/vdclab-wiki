@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-06-11T13:58:14.285Z
+date: 2020-06-11T14:50:20.892Z
 tags: category
 editor: markdown
 ---
@@ -16,6 +16,7 @@ editor: markdown
 
 ## Eukaryote Resources
 
+- [:star: BLAT Search Genome *Quickly find sequences of 95% and greater similarity of length 25 bases or more*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BLAT-Search-Genome)
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 - [EpiGenie *Search out and compile a list of the best free tools and databases that epigenetics researchers*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/EpiGenie)
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
