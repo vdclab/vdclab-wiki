@@ -2,7 +2,7 @@
 title: GNPS: Global Natural Products Social Molecular Networking
 description: Open-access mass spectrometry knowledge base for community-wide organization and sharing of raw, processed, or annotated fragmentation mass spectrometry data (MS/MS).
 published: true
-date: 2020-06-11T18:25:16.025Z
+date: 2020-06-11T18:25:58.502Z
 tags: annotation, annotation tools, tool, resource center, database, data visualization, interaction, networks, metabolomics
 editor: markdown
 ---
@@ -26,6 +26,7 @@ editor: markdown
 ## Ease of Use
 
 > The website has well written and thorough instructions for users, but users must create an account and optimize their connections to use. 
+{.is-info}
 
 ## User Notes
 
