@@ -2,8 +2,9 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-05-17T22:33:16.994Z
+date: 2020-06-11T14:42:35.621Z
 tags: template, help
+editor: markdown
 ---
 
 # Name of the website
@@ -21,6 +22,25 @@ tags: template, help
 - [Website name *Description that will be here*](https://url_of_the_website)
 - [If two website *Short description of the link*](https://url_of_the_website)
 {.links-list}
+
+
+ ## Notes from the user
+ 
+ - All in bullet points
+ - What are the main features of the website.
+
+ 
+ ## Ease of use
+
+- What the users need to know about the website : problem you encounter, data format of the input...
+
+
+## Help
+
+- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+{.links-list}
+
 
 ## Citation(s) <- 's' if more than one
 
