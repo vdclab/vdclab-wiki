@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-11T14:51:28.905Z
+date: 2020-06-11T14:51:44.506Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -164,6 +164,7 @@ editor: markdown
 ## Eukaryotes Resources
 
 - [BLAT Search Genome *Quickly find sequences of 95% and greater similarity of length 25 bases or more*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BLAT-Search-Genome)
+{.links-list}
 
 ### Plant Resources
 
