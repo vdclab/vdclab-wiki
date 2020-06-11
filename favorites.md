@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-11T13:46:42.616Z
+date: 2020-06-11T13:56:32.194Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -245,6 +245,7 @@ editor: markdown
 
 ## Gene Networks
 
+- [EcoliNet *Probabilistic functional gene network for Escherichia coli*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/EcoliNet)
 - [GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
 - [IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
 {.links-list}
