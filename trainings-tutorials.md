@@ -2,8 +2,9 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-05-21T02:41:32.287Z
+date: 2020-06-11T14:00:10.335Z
 tags: category
+editor: markdown
 ---
 
 # Trainings & Tutorials
