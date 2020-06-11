@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-10T19:17:05.931Z
+date: 2020-06-11T14:28:33.262Z
 tags: category
 editor: markdown
 ---
@@ -15,6 +15,7 @@ editor: markdown
 - [:star: Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
 - [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [:star: Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
+- [PCAGO *Analyzing your RNA-Seq read counts with principal component analysis (PCA)*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PCAGO)
 - [SeaView *Software to visualize alignment, create alignment and infer phylogeny*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PRABI-Doua-SeaView)
 {.links-list}
 
