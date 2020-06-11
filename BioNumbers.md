@@ -2,8 +2,9 @@
 title: BioNumbers
 description: In BioNumbers we aim to enable you to find in one minute any useful molecular biology number that can be important for your research.
 published: true
-date: 2020-04-20T20:28:01.973Z
-tags: 
+date: 2020-06-11T18:26:02.007Z
+tags: tool, specialized search, data capture, database
+editor: markdown
 ---
 
 # BioNumbers
@@ -16,6 +17,15 @@ tags:
 ## Website
 - [BioNumbers *Main Page*](https://bionumbers.hms.harvard.edu/search.aspx)
 {.links-list}
+
+## Notes from the user
+- A organized and searchable list of statistics for various biologically relevant subjects
+- Great for quickly putting a number to a random biological thing/process
+- Citations are provided for every entry
+
+## Ease of use
+> This database is very easy to search and seems to have entries for any combination of search terms. Simply put a combination of terms that relate to a statistic you want to know about and wait for the database to find some relevant information.
+
 
 ## Citation
 
