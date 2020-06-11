@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-11T13:56:45.870Z
+date: 2020-06-11T14:25:25.056Z
 tags: category
 editor: markdown
 ---
@@ -115,6 +115,7 @@ editor: markdown
 
 ## Visualizing Pathways - Mapping Data To Pathways
 
+- [ConsensusPathDB *Integrates interaction networks in Homo sapiens*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/ConsensusPathDB)
 - [GENIES *Predict potential functional associations between genes*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/GENIES)
 - [KEGG-Mapper *Collection of tools for KEGG mapping*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/KEGG-Mapper)
 - [:star: PaintOmics *Integrative visualization of multiple omic datasets onto KEGG pathways*](https://vdclab-wiki.herokuapp.com/en/tools/pathways/PaintOmics)
