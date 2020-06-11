@@ -2,8 +2,9 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-06-03T18:20:46.559Z
+date: 2020-06-11T13:57:26.468Z
 tags: category
+editor: markdown
 ---
 
 # Databases
@@ -72,6 +73,7 @@ tags: category
 
 - [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
 - [EchoBASE *Integrated post-genomic database for E.coli*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EchoBASE)
+- [:star: EcoliNet *Probabilistic functional gene network for Escherichia coli*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/EcoliNet)
 - [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
 - [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
 {.links-list}
