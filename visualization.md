@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-11T14:28:33.262Z
+date: 2020-06-11T14:45:19.745Z
 tags: category
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 ## Tools to Make Figures
 
 - [ETE-Toolkit *A Python framework for the analysis and visualization of trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/ETE-Toolkit)
+- [:star: EvolView *Easy-to-use online tool for displaying, managing and customizing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/EvolView)
 - [GraPhlAn *Tool that produces high-quality, compact visualizations of microbial genomes*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/GraPhlAn)
 - [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 {.links-list}
