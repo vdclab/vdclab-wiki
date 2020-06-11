@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-11T13:56:32.194Z
+date: 2020-06-11T14:46:11.522Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -291,6 +291,7 @@ editor: markdown
 
 ## Tools to Make Figures
 
+- [EvolView *Easy-to-use online tool for displaying, managing and customizing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/EvolView)
 - [iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 {.links-list}
 
