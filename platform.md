@@ -2,8 +2,9 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-05-21T16:46:37.203Z
+date: 2020-06-11T13:58:02.285Z
 tags: category
+editor: markdown
 ---
 
 # Platform
