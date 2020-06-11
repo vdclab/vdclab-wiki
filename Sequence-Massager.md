@@ -2,8 +2,8 @@
 title: Nucleic Acid Sequence “Massager”
 description: Web tool that allows easy modification and editing of user-inputted nucleic acid sequences.
 published: true
-date: 2020-06-11T18:48:04.179Z
-tags: tool, genes, sequence format, dna, rna
+date: 2020-06-11T18:50:42.754Z
+tags: tool, sequence format, dna, rna, protein
 editor: markdown
 ---
 
