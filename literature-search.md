@@ -2,8 +2,9 @@
 title: Literature Search
 description: Tools use to find literature connected to biological sequences
 published: true
-date: 2020-05-14T14:28:05.393Z
+date: 2020-06-11T13:58:53.117Z
 tags: category
+editor: markdown
 ---
 
 # Literature Search
