@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-11T14:28:25.242Z
+date: 2020-06-11T14:45:02.022Z
 tags: category
 editor: markdown
 ---
@@ -108,6 +108,7 @@ editor: markdown
 - [Caleydo *Tools that focuses on biological data visualization*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Caleydo)
 - [:star: Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
 - [ETE-Toolkit *A Python framework for the analysis and visualization of trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/ETE-Toolkit)
+- [:star: EvolView *Easy-to-use online tool for displaying, managing and customizing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/EvolView)
 - [GraPhlAn *Tool that produces high-quality, compact visualizations of microbial genomes*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/GraPhlAn)
 - [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
