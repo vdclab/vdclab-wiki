@@ -2,7 +2,7 @@
 title: EvolView
 description: EvolView is an easy-to-use online tool for displaying, managing and customizing phylogenetic trees.
 published: true
-date: 2020-06-11T10:46:27.573Z
+date: 2020-06-11T14:37:15.453Z
 tags: taxonomy, data visualization, data mapping, phylogen
 editor: markdown
 ---
@@ -10,11 +10,11 @@ editor: markdown
 # EvolView
 
 > EvolView is an easy-to-use online tool for displaying, managing and customizing phylogenetic trees. EvolView provides a WYSIWYG (What-You-See-Is-What-You-Get) editor and a desktop-like web interface. With EvolView, you can:
-&NewLine;
--visualize phylogenetic trees of various formats,
--add datasets and do customizations to phylogenetic trees,
--export trees to various text (newick, nhx, phyloXML, etc) and graphic formats
--organize trees, projects and datasets in an intuitive and efficient way.
+> 
+> • Visualize phylogenetic trees of various formats,
+> • Add datasets and do customizations to phylogenetic trees,
+> • Export trees to various text (newick, nhx, phyloXML, etc) and graphic formats
+> • Organize trees, projects and datasets in an intuitive and efficient way.
 {.is-info}
 
  ## Website
