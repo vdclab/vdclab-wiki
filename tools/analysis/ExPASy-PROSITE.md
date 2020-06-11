@@ -2,8 +2,9 @@
 title: PROSITE
 description: 
 published: true
-date: 2020-05-13T20:51:32.870Z
+date: 2020-06-11T10:37:34.133Z
 tags: proteins, analysis tools, database, protein family, function
+editor: markdown
 ---
 
 # ExPASy PROSITE (Motifs)
@@ -17,8 +18,8 @@ tags: proteins, analysis tools, database, protein family, function
 
 ## Notes from users 
 - Part of the suite of protein analysis tools available from ExPASy.
-- This is really the only place to extract "motifs" in some type of standard format that can used in Phi Blast
-- Good visuals as also generates Logos
+- This is really the only place to extract "motifs" in some type of standard format that can BE used in Phi Blast
+- Good visuals as also generates logos
 
 ## Ease of use
 - PROSITE allows the user to search for domains and protein families alone or within a given protein. 
