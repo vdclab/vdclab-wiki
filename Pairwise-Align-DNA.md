@@ -2,7 +2,7 @@
 title: Pairwise Align DNA
 description: Pairwise Align DNA accepts two DNA sequences and determines the optimal global alignment. Use Pairwise Align DNA to look for conserved sequence regions.
 published: true
-date: 2020-06-11T18:08:42.413Z
+date: 2020-06-11T18:34:58.825Z
 tags: tool, sequence alignment, sequence similarity, dna
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
 {.links-list}
 
 ## Notes from user
+- Part of the Sequence Manipulation Suite
 - A very basic sequence alignment tool
 - The only customizable feature is score weights for gaps in sequences
 
