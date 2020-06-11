@@ -2,8 +2,9 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-06-03T18:20:33.183Z
+date: 2020-06-11T13:59:47.189Z
 tags: category
+editor: markdown
 ---
 
 # Structure
