@@ -2,7 +2,7 @@
 title: Dotlet JS
 description: Dotlet is a program for comparing sequences by the diagonal plot method. It is designed to be platform-independent and to run in a Web browser, thus enabling the majority of researchers to use it.
 published: true
-date: 2020-06-11T17:28:30.193Z
+date: 2020-06-15T18:01:40.373Z
 tags: tool, sequence matching, sequence alignment, sequence similarity
 editor: markdown
 ---
@@ -22,7 +22,6 @@ editor: markdown
 ## Notes from the user
 - Is limited to 2 sequences
 - The generated dot plot is interactive
-- 
 
 ## Ease of use
 > Dotlet's simple user interface allows the user to quickly compare two sequences. There a few parameters that the user is allowed to interact with such as scoring matrix which allow for some customization but not a lot.
