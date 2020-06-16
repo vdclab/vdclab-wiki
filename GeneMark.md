@@ -2,7 +2,7 @@
 title: GeneMark
 description: A family of gene prediction programs.
 published: true
-date: 2020-06-16T12:43:40.011Z
+date: 2020-06-16T12:53:55.457Z
 tags: tool, gene, prediction
 editor: markdown
 ---
@@ -23,9 +23,15 @@ Gene Prediction in Bacteria, Archaea, Metagenomes, Metatranscriptomes, Eukaryote
 {.links-list}
 
 ## Notes from Users
-
+- Several tools for different organisms/purposes.
+- Different options for output.
+- Still develloping new tools.
+- Can get your results by e-mail.
 
 ## Ease of use
+- Can be difficult to choose the right tool to fit your data. Some trial and error might be requiered.
+- Enter your sequence(s), choose your options and send.
+
 
 ## Citation
 
