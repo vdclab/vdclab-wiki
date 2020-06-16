@@ -2,8 +2,8 @@
 title: GeneMark
 description: A family of gene prediction programs.
 published: true
-date: 2020-06-16T12:53:55.457Z
-tags: tool, gene, prediction
+date: 2020-06-16T12:56:52.973Z
+tags: metagenomes, annotation tools, archaea, bacteria, tool, gene, prediction, hmm, eukaryota
 editor: markdown
 ---
 
