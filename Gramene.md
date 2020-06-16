@@ -2,7 +2,7 @@
 title: Gramene
 description: Gramene is a curated, open-source, integrated data resource for comparative functional genomics in crops and model plant species.
 published: true
-date: 2020-06-16T17:41:27.369Z
+date: 2020-06-16T18:26:59.884Z
 tags: aggregator, comparative genomics, genome annotation
 editor: markdown
 ---
@@ -19,6 +19,20 @@ editor: markdown
 - [Gramene *Main Page in Ensembl*](http://ensembl.gramene.org/genome_browser/index.html)
 - [Gramene *Main Page*](http://www.gramene.org/)
 {.links-list}
+
+## Help
+- [Help *EnsemblGramene Help Page*](http://ensembl.gramene.org/info/website/index.html)
+{.links-list}
+
+## Notes from Users
+- Lots of tool to analyse plant data.
+- Geonomic, transcriptomic, metabolisms. 
+- Downloadable data.
+
+
+## Ease of use
+- Easy to get lost on the website.
+- Ask a little bit of habits to get familiar with it.
 
 ## Citations
 
