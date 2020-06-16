@@ -2,8 +2,9 @@
 title: GeneMark
 description: A family of gene prediction programs.
 published: true
-date: 2020-05-23T21:14:00.095Z
+date: 2020-06-16T12:43:40.011Z
 tags: tool, gene, prediction
+editor: markdown
 ---
 
 # GeneMark
@@ -18,7 +19,13 @@ Gene Prediction in Bacteria, Archaea, Metagenomes, Metatranscriptomes, Eukaryote
 ## Website 
 
 - [GeneMark *Main Page*](http://exon.gatech.edu/GeneMark/)
+- [Background informations *Introduction to tools*](http://exon.gatech.edu/GeneMark/background.html#GeneMarkES_info)
 {.links-list}
+
+## Notes from Users
+
+
+## Ease of use
 
 ## Citation
 
