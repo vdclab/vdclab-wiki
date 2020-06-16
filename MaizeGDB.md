@@ -2,8 +2,9 @@
 title: MaizeGDB
 description: MaizeGDB is a community-oriented, long-term, federally funded informatics service to researchers focused on the crop plant and model organism Zea mays.
 published: true
-date: 2020-04-23T19:08:01.506Z
-tags: 
+date: 2020-06-16T19:25:35.631Z
+tags: resource reference, genomics, 2018, database, metabolism, plant
+editor: markdown
 ---
 
 # MaizeGDB
@@ -18,6 +19,13 @@ MaizeGDB is a founding member of AgBioData, a consortuim of agriculture-related 
 
 - [MaizeGDB *Main Page*](https://www.maizegdb.org/)
  {.links-list}
+ 
+ ## Notes from Users
+ - Lots of tools for Omic data on Maize.
+ - Genomes, Metabolism, Litterature.
+ 
+ ## Ease of use
+ - Asks a little bit of habits to get familiar with it.
 
 ## Citation 
 
