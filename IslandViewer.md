@@ -2,8 +2,9 @@
 title: IslandViewer
 description: IslandViewer is a computational tool that integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander.
 published: true
-date: 2020-04-23T18:31:43.716Z
-tags: 
+date: 2020-06-17T21:36:30.190Z
+tags: tool, prediction
+editor: markdown
 ---
 
 # IslandViewer
@@ -19,6 +20,11 @@ The source code and entire GI data sets are available for download and acknowled
 
 - [IslandViewer4 *Main Page*](http://www.pathogenomics.sfu.ca/islandviewer/browse/)
 {.links-list}
+
+## Notes from the user
+
+
+## Ease of use
 
 ## Citation
 
