@@ -2,7 +2,7 @@
 title: Reverse Complement
 description: Reverse Complement converts a DNA sequence into its reverse, complement, or reverse-complement counterpart.
 published: true
-date: 2020-06-15T16:51:32.567Z
+date: 2020-06-18T09:32:23.675Z
 tags: tool, sequence format, dna
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 
 ## Notes from the user
 - Part of the Sequence Manipulation Suite
-- Converts DNA sequences into a reverse compliment, compliment, or reverse sequence. 
+- Converts DNA sequences into a reverse complement, complement, or reverse sequence. 
 
 ## Ease of use
 > This tool is very easy to use but surprisingly helpful. Input your sequence as either fasta format or just a string of nucleotides and then select which option you want your sequence transformed into.
