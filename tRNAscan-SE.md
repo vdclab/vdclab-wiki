@@ -2,8 +2,8 @@
 title: tRNAscan-SE
 description: Searching for tRNA genes in genomic sequence.
 published: true
-date: 2020-06-18T16:06:43.008Z
-tags: sequence alignment, genes, sequence similarity, specialized search, align, structural analysis, trna
+date: 2020-06-18T17:13:00.861Z
+tags: sequence alignment, genes, sequence similarity, specialized search, structural analysis, trna, alignment
 editor: markdown
 ---
 
