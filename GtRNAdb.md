@@ -2,8 +2,8 @@
 title: Genomic tRNA Database
 description: This genomic tRNA database contains tRNA gene predictions made by the program tRNAscan-SE on complete or nearly complete genomes.
 published: true
-date: 2020-06-18T09:49:03.175Z
-tags: genomes, archaea, bacteria, rna, database, prediction, 2009, eukaryota, 1997
+date: 2020-06-18T14:44:27.361Z
+tags: genomes, archaea, bacteria, rna, database, prediction, 2009, eukaryota, 1997, trna
 editor: markdown
 ---
 
