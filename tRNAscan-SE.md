@@ -2,7 +2,7 @@
 title: tRNAscan-SE
 description: Searching for tRNA genes in genomic sequence.
 published: true
-date: 2020-06-18T15:05:07.655Z
+date: 2020-06-18T16:06:43.008Z
 tags: sequence alignment, genes, sequence similarity, specialized search, align, structural analysis, trna
 editor: markdown
 ---
@@ -19,7 +19,7 @@ editor: markdown
  {.links-list}
 
 ## Notes from the user
-- Quickly identifies tRNA sequences from genomic sequences and predicts usefult characteristics about tRNA
+- Quickly identifies tRNA sequences from genomic sequences and predicts useful characteristics about tRNA
 - Great for identifying new tRNA sequences
 - Can be used with multiple tRNA sequences with itemized results for each submitted sequence
 
