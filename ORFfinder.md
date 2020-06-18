@@ -2,7 +2,7 @@
 title: ORFfinder
 description: ORF finder searches for open reading frames (ORFs) in the DNA sequence you enter.
 published: true
-date: 2020-06-18T16:30:04.367Z
+date: 2020-06-18T16:37:43.439Z
 tags: annotation, annotation tools, specialized search, dna, protein, gene annotation
 editor: markdown
 ---
