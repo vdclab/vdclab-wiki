@@ -2,7 +2,7 @@
 title: GeneMark
 description: A family of gene prediction programs.
 published: true
-date: 2020-06-16T12:56:52.973Z
+date: 2020-06-18T09:47:00.131Z
 tags: metagenomes, annotation tools, archaea, bacteria, tool, gene, prediction, hmm, eukaryota
 editor: markdown
 ---
@@ -24,12 +24,13 @@ Gene Prediction in Bacteria, Archaea, Metagenomes, Metatranscriptomes, Eukaryote
 
 ## Notes from Users
 - Several tools for different organisms/purposes.
+- The GeneMark.hmm is one the best gene calling tools for bacteria
 - Different options for output.
-- Still develloping new tools.
+- Still developing new tools.
 - Can get your results by e-mail.
 
 ## Ease of use
-- Can be difficult to choose the right tool to fit your data. Some trial and error might be requiered.
+- Can be difficult to choose the right tool to fit your data. Some trial and error might be required.
 - Enter your sequence(s), choose your options and send.
 
 
