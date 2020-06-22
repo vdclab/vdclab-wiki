@@ -2,8 +2,9 @@
 title: Phobius
 description: Phobius: prediction of transmembrane topology and signal peptides.
 published: true
-date: 2020-04-28T18:42:26.121Z
-tags: 
+date: 2020-06-22T14:16:00.536Z
+tags: tool, proteins, prediction
+editor: markdown
 ---
 
 # Phobius
@@ -17,6 +18,16 @@ tags:
 
 - [Phobius *Main Page*](https://www.ebi.ac.uk/Tools/pfa/phobius/)
  {.links-list}
+
+## Help
+- [Phobius *Help and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Phobius+Help+and+Documentation)
+ {.links-list}
+
+## Notes from Users
+
+
+## Ease of use
+
 
 ## Citation 
 
