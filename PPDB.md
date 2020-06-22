@@ -2,7 +2,7 @@
 title: The Plant Proteome Database (PPDB)
 description:  PPDB is a Plant Proteome DataBase for Arabidopsis thaliana and maize (Zea mays). Initially PPDB was dedicated to plant plastids, but has now expanded to the whole plant proteome.
 published: true
-date: 2020-06-22T15:10:27.501Z
+date: 2020-06-22T15:11:28.280Z
 tags: database, proteomics
 editor: markdown
 ---
@@ -32,5 +32,5 @@ Multiple search methods are provided so that the user can retrieve information b
 
 ## Citation 
 
-- Sun, Q., Zybailov, B., Majeran, W., Friso, G., Olinares, P. D. B., & Van Wijk, K. J. (2009). PPDB, the plant proteomics database at Cornell. Nucleic acids research, 37(suppl_1), D969-D974.
+- Sun, Q., Zybailov, B., Majeran, W., Friso, G., Olinares, P. D. B., & Van Wijk, K. J. (2009). [PPDB, the plant proteomics database at Cornell.](https://academic.oup.com/nar/article/37/suppl_1/D969/1002325) Nucleic acids research, 37(suppl_1), D969-D974.
 {.grid-list}
