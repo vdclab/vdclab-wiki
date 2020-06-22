@@ -2,7 +2,7 @@
 title:  PSORTb v3.0.2
 description: PSORTb v3.0.2 is the most precise bacterial localization prediction tool available.
 published: true
-date: 2020-06-22T13:51:28.224Z
+date: 2020-06-22T13:51:37.757Z
 tags: archaea, bacteria, tool, 2010, prediction, 2003, 2005
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
  {.links-list}
  
  ## Help
- - [PSORTb v3.0.2 *Documentation*](https://www.psort.org/documentation/index.html#using)
+ - [PSORTb  *Documentation*](https://www.psort.org/documentation/index.html#using)
  {.links-list}
  
 ## Notes from Users
