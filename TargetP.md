@@ -2,8 +2,9 @@
 title: TargetP - 2.0
 description: Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway, or other
 published: true
-date: 2020-04-28T18:37:28.080Z
-tags: 
+date: 2020-06-22T14:02:14.017Z
+tags: tool, prediction, protein, 2007, eukaryota, plant
+editor: markdown
 ---
 
 # TargetP - 2.0
@@ -16,6 +17,17 @@ tags:
 
 - [TargetP - 2.0 *Main Page*](https://services.healthtech.dtu.dk/service.php?TargetP-2.0)
  {.links-list}
+ 
+ ## Notes from Users
+ - Mostly for plants.
+>  Not sure if it has been updated since the release.
+{.is-warning}
+
+ ## Ease of use
+ - Enter your protein sequence(s).
+ - Choose if it is a plant or another eukaryote.
+ - Get your results.
+ - Results easy to read with graphics.
 
 ## Citation
 
