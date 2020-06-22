@@ -2,8 +2,8 @@
 title: Phobius
 description: Phobius: prediction of transmembrane topology and signal peptides.
 published: true
-date: 2020-06-22T14:22:30.660Z
-tags: tool, proteins, prediction
+date: 2020-06-22T14:23:51.134Z
+tags: 2019, tool, proteins, prediction, 2004
 editor: markdown
 ---
 
