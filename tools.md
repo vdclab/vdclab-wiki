@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-11T14:45:02.022Z
+date: 2020-06-25T14:00:27.798Z
 tags: category
 editor: markdown
 ---
@@ -16,7 +16,8 @@ editor: markdown
 - [LALIGN *Find multiple matching subsegments in two sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LALIGN)
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
-- [:star: Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [Pairwise Align DNA *Basic DNA pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-DNA)
+- [:star: Pairwise Alignment Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
 - [:star: PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
@@ -57,6 +58,8 @@ editor: markdown
 ## Data formatting
 
 - [EMBOSS Seqret *Extracting sequences from databases, displaying sequences, reformatting sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/EMBOSS-Seqret)
+- [Reverse Complement *Converts a DNA sequence into its reverse, complement, or reverse-complement*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/Reverse-Complement)
+- [:star: Sequence Massager *Easy modification and editing of user-inputted nucleic acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/Sequence-Massager)
 {.links-list}
 
 ## Gene finders
