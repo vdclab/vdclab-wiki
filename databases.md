@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-06-25T14:30:23.720Z
+date: 2020-06-25T18:30:53.892Z
 tags: category
 editor: markdown
 ---
@@ -91,7 +91,7 @@ editor: markdown
 - [ModelSEED *Resource for the reconstruction, exploration, comparison, and analysis of metabolic models*](https://vdclab-wiki.herokuapp.com/en/databases/metabolic_pathways/ModelSEED)
 {.links-list}
 
-## Microarray and Rnaseq databases
+## Microarray and RNAseq databases
 
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [ArrayExpress *Functional Genomics Data stores data from high-throughput functional genomics experiments*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ArrayExpress)
