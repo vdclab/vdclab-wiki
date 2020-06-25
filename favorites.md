@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-25T14:00:47.860Z
+date: 2020-06-25T14:11:08.883Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -23,7 +23,8 @@ editor: markdown
 
 ## Two Sequences Alignment
 
-- [Pairwise Alignment Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [Dotlet JS *Comparing sequences by the diagonal plot method*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Dotlet)
+- [Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
 - [PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 {.links-list}
 
@@ -31,6 +32,7 @@ editor: markdown
 
 ## General Annotation Pipeline
 
+- [GeneMark *Web page hosting families of gene prediction programs*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
 - [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 {.links-list}
 
