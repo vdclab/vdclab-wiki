@@ -2,7 +2,7 @@
 title: Online Structure Alignment Resources
 description: Web page provided by Dr. Elaine C. Meng (UCSF) listing various tools and resources used in online structure alignments.
 published: true
-date: 2020-06-25T14:38:52.124Z
+date: 2020-06-25T14:39:12.122Z
 tags: resource reference, resource center, protein, structural alignment, structural analysis, webserver
 editor: markdown
 ---
@@ -20,3 +20,4 @@ editor: markdown
 
 ## Ease of Use
 > The website is a reference list hosted by UCSF.  It is straight forward and has some useful information and tips.
+{.is-info}
