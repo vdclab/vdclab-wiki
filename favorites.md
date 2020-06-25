@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-25T13:44:16.354Z
+date: 2020-06-25T13:55:34.593Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -157,6 +157,8 @@ editor: markdown
 
 ## General Resources
 
+
+- [BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
 - [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
 {.links-list}
