@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-11T14:51:44.506Z
+date: 2020-06-25T13:44:16.354Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -237,6 +237,11 @@ editor: markdown
 
 - [bioDBnet-db2db *Database to Database Conversions*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/bioDBnet-db2db)
 - [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
+{.links-list}
+
+## Data formatting
+
+- [Sequence Massager *Easy modification and editing of user-inputted nucleic acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/Sequence-Massager)
 {.links-list}
 
 ## Gene finders
