@@ -2,8 +2,9 @@
 title: ArDock
 description: ArDock: detect interaction sites by docking arbitrary proteins.
 published: true
-date: 2020-04-14T20:21:24.164Z
-tags: 
+date: 2020-06-25T17:25:27.333Z
+tags: tool, proteins, prediction, interaction, protein-protein
+editor: markdown
 ---
 
 # ArDock
@@ -18,6 +19,11 @@ Docking is performed by the Hex software using spherical polar Fourier Correlati
 
 - [ArDock *Main Page*](https://ardock.ibcp.fr/)
 {.links-list}
+
+## User Notes
+- Time to completion can vary depending on the complexity of submitted structures
+- User-friendly in most respects; visually appealing, light-weight user experience
+
 
 ## Citations
 
