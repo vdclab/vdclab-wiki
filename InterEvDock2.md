@@ -2,8 +2,9 @@
 title: InterEvDock2
 description: A docking server to predict the structure of protein-protein interactions using evolutionary information.
 published: true
-date: 2020-04-14T20:17:05.395Z
-tags: 
+date: 2020-06-25T16:31:36.213Z
+tags: tool, proteins, prediction, interaction, protein-protein
+editor: markdown
 ---
 
 # InterEvDock2
@@ -19,6 +20,10 @@ InterEvDock2 is an update of InterEvDock that can handle protein sequences as in
 
 - [InterEvDock2 *Main Page*](https://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock2/)
 {.links-list}
+
+## User Notes
+- (!) Some jobs may take up to or more than 24 hours to complete so it is essential to plan ahead when using this tool in the anticipation of any deadlines
+- Jobs/data/tools are most easily utilized, managed through a registered user account
 
 ## Citations
 
