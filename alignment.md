@@ -2,7 +2,7 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-06-25T14:03:15.988Z
+date: 2020-06-25T14:06:48.523Z
 tags: category
 editor: markdown
 ---
@@ -25,6 +25,7 @@ editor: markdown
 
 ## Two Sequences Alignment
 
+- [:star: Dotlet JS *Comparing sequences by the diagonal plot method*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Dotlet)
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [LALIGN *Find multiple matching subsegments in two sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LALIGN)
 - [Pairwise Align DNA *Basic DNA pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-DNA)
