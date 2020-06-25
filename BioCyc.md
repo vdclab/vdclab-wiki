@@ -1,27 +1,43 @@
 ---
 title: BioCyc
-description: BioCyc is a collection of 17043 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
+description: BioCyc is a collection of 16,822 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
 published: true
-date: 2020-04-10T18:34:33.187Z
-tags: 
+date: 2020-06-25T13:53:14.717Z
+tags: archaea, bacteria, tool, genome browser, comparative genomics, data capture, resource center, database, transcriptomics, gene, co-expression, browser, data visualization, protein, clustering, mapping, metabolic pathways, data export, omics, eukaryota, curated, enrichment, essentiality, metabolomics
+editor: markdown
 ---
 
 # BioCyc Database Collection
 
-> BioCyc is a collection of 17043 Pathway/Genome Databases (PGDBs), plus software tools for exploring them [Karp17]. Key aspects of BioCyc data:
+> BioCyc provides access to a collection of 16,822 pathway and genome databases as well as software tools for exploring them. 
 &NewLine;
--Quality data curated from tens of thousands of publications, including curated databases for E. coli, B. subtilis, H. sapiens, and S. cerevisiae.
--Computationally predicted metabolic pathways and operons.
--Data integrated from other databases including gene essentiality, regulatory networks, protein features, and GO annotations. 
+Data found in BioCyc is curated from thousands of publications and integrated from other reputable databases offering information on gene essentiality, regulatory networks, protein features, GO annotations, and more. 
 &NewLine;
-Subscriptions are required to access most of BioCyc beyond a limited period of free use.
+BioCyc tools are provided for users to navigate, visualize, and analyze underlying databases as well as personal omics data. 
 {.is-info}
 
 
 ## Website
 
 - [BioCyc *Main Page*](https://biocyc.org/)
+- [BioCyc Users Guide *Intro to BioCyc*](https://biocyc.org/intro.shtml)
+- [BioCyc Webinars *Video Tutorials*](https://biocyc.org/webinar.shtml)
+- [BioCyc Omics Dashboard *Invoke the Omics Dashboard*](https://biocyc.org/dashboard/dashboard-intro.shtml)
+- [Omics Dashboard Help *Tool Overview and Guide*](https://biocyc.org/dashboard/dashboard-help.html)
 {.links-list}
+
+## Ease of Use
+
+> BioCyc is intuitive and user friendly. BioCyc Tier 1 databases (EcoCyc and MetaCyc) have the general schemes and tools and the websites will automatically interchange when appropriate.
+{.is-info}
+
+## User Notes
+
+- BioCyc has a limited period of free use (users are allotted around 10 queries per month), but full access requires a paid subscription. The subscription fees support curation effots. 
+- Users have unlimited access to Escherichia coli K-12 substr. MG1655 data (via EcoCyc).
+- Users should create a BioCyc account (even if just using the free E. coli model), this allows you to save the work you do using the BioCyc tools and access it later.  For example, Smart tables are very useful for gathering data, storing personal experimental data, and linking your known data directly to information of interest very quickly.
+- The Omics Dashboard is very useful for analysis of personal user data.  It has many functions available and a guide to help users obtain the results they want (links above in Website section).
+- There are many metabolism and metabolic mapping tools available that users should explore. 
 
 ## Citations
 
