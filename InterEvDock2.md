@@ -2,7 +2,7 @@
 title: InterEvDock2
 description: A docking server to predict the structure of protein-protein interactions using evolutionary information.
 published: true
-date: 2020-06-25T16:31:36.213Z
+date: 2020-06-25T17:14:10.083Z
 tags: tool, proteins, prediction, interaction, protein-protein
 editor: markdown
 ---
