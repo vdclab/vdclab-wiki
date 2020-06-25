@@ -2,8 +2,9 @@
 title: National Center for Biotechnology Information (NCBI)
 description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-06-04T16:23:32.078Z
+date: 2020-06-25T18:28:32.131Z
 tags: resource center, database, publisher
+editor: markdown
 ---
 
 # National Center for Biotechnology Information (NCBI)
@@ -26,4 +27,20 @@ tags: resource center, database, publisher
 # NCBI page related on the wiki
 
 Other name for this section could be used. Maybe `tools of the website` or `interesting features`. Need some reflexion about it
+
+## Databases
+- [NCBI *Gene Expression Omnibus (GEO)*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/NCBI-GEO)
+- [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
+{.links-list}
+
+## Literature search
+
+- [PubMed Advanced Search Builder *Builder to do advanced search on PubMed*](https://vdclab-wiki.herokuapp.com/en/literature-search/PubMed-Advanced-Search-Builder)
+- [Pubtator *Web-based tool for accelerating manual literature curation*](https://vdclab-wiki.herokuapp.com/en/literature-search/pubtator)
+{.links-list}
+
+## Tutorial
+
+- [NCBI *Tutorial page*](https://vdclab-wiki.herokuapp.com/trainings-tutorials/tutorials/NCBI-tutorials/)
+{.links-list}
 
