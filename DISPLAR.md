@@ -2,7 +2,7 @@
 title: DISPLAR
 description: DISPLAR is a neural network method. Given the structure of a protein known to bind DNA, the method predicts residues that contact DNA.
 published: true
-date: 2020-06-25T16:11:29.021Z
+date: 2020-06-25T16:18:04.036Z
 tags: tool, proteins, dna, prediction, binding
 editor: markdown
 ---
