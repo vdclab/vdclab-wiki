@@ -2,7 +2,7 @@
 title: BioNumbers
 description: In BioNumbers we aim to enable you to find in one minute any useful molecular biology number that can be important for your research.
 published: true
-date: 2020-06-11T18:26:02.007Z
+date: 2020-06-25T13:48:09.604Z
 tags: tool, specialized search, data capture, database
 editor: markdown
 ---
@@ -24,7 +24,8 @@ editor: markdown
 - Citations are provided for every entry
 
 ## Ease of use
-> This database is very easy to search and seems to have entries for any combination of search terms. Simply put a combination of terms that relate to a statistic you want to know about and wait for the database to find some relevant information.
+
+This database is very easy to search and seems to have entries for any combination of search terms. Simply put a combination of terms that relate to a statistic you want to know about and wait for the database to find some relevant information.
 
 
 ## Citation
