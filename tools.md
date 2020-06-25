@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-25T14:00:27.798Z
+date: 2020-06-25T14:03:54.206Z
 tags: category
 editor: markdown
 ---
@@ -17,7 +17,8 @@ editor: markdown
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [Pairwise Align DNA *Basic DNA pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-DNA)
-- [:star: Pairwise Alignment Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [Pairwise Align Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-Protein)
+- [:star: Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
 - [:star: PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
