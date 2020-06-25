@@ -2,7 +2,7 @@
 title: PubTator
 description: Web-based tool for accelerating manual literature curation
 published: true
-date: 2020-06-25T18:26:24.938Z
+date: 2020-06-25T18:26:37.305Z
 tags: reference, annotation, tool, specialized search, data capture, text-mining
 editor: markdown
 ---
@@ -27,8 +27,6 @@ Very easy to use and self-explanatory.
 [Tutorial PubTator central](https://www.ncbi.nlm.nih.gov/research/pubtator/tutorial.html)
 
 ## Citations
-
-[RIS](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator/reference/PubTator.ris), [BibTeX](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator/reference/PubTator.bib):
 
 - Wei CH et. al., [PubTator: a Web-based text mining tool for assisting Biocuration](http://nar.oxfordjournals.org/content/early/2013/05/22/nar.gkt441.abstract?keytype=ref&ijkey=mj3EevK5My5SA5D), Nucleic acids research, 2013, 41 (W1): W518-W522. doi: 10.1093/nar/gkt44 
 - Wei CH et. al., [Accelerating literature curation with text-mining tools: a case study of using PubTator to curate genes in PubMed abstracts](http://database.oxfordjournals.org/content/2012/bas041.abstract), Database (Oxford), bas041, 2012
