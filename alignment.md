@@ -2,7 +2,7 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-06-25T14:06:48.523Z
+date: 2020-06-25T14:30:11.829Z
 tags: category
 editor: markdown
 ---
@@ -16,7 +16,6 @@ editor: markdown
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
-
 
 ## Structural Base Alignments
 
