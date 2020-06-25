@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-06-25T13:55:34.593Z
+date: 2020-06-25T14:00:47.860Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 
 ## Two Sequences Alignment
 
-- [Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
+- [Pairwise Alignment Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
 - [PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 {.links-list}
 
