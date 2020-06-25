@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-06-11T14:50:20.892Z
+date: 2020-06-25T13:54:54.970Z
 tags: category
 editor: markdown
 ---
@@ -45,6 +45,7 @@ editor: markdown
 
 ## General Resources
 
+- [:star: BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
 - [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
