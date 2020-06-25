@@ -2,14 +2,14 @@
 title: BioNumbers
 description: In BioNumbers we aim to enable you to find in one minute any useful molecular biology number that can be important for your research.
 published: true
-date: 2020-06-25T13:48:09.604Z
+date: 2020-06-25T13:50:11.649Z
 tags: tool, specialized search, data capture, database
 editor: markdown
 ---
 
 # BioNumbers
 
-> In BioNumbers we aim to enable you to find in one minute any useful molecular biology number that can be important for your research. BioNumbers currently attracts >3000 visitors a month from over 50 countries.
+> In BioNumbers they aim to enable you to find in one minute any useful molecular biology number that can be important for your research. 
 {.is-info}
 
 
