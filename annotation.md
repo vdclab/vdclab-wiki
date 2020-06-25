@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-06-11T13:58:39.613Z
+date: 2020-06-25T14:10:43.918Z
 tags: category
 editor: markdown
 ---
@@ -12,6 +12,7 @@ editor: markdown
 ## General Annotation Pipeline
 
 - [Bologna Annotation Resource *Server for the annotation of protein sequences*](https://vdclab-wiki.herokuapp.com/annotation/general_annotation/bologna-annotation-resource/)
+- [:star: GeneMark *Web page hosting families of gene prediction programs*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [:star: KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
 {.links-list}
