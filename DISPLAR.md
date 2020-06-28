@@ -1,15 +1,15 @@
 ---
 title: DISPLAR
-description: DISPLAR is a neural network method. Given the structure of a protein known to bind DNA, the method predicts residues that contact DNA.
+description: Suite of tools designed, produced, and made available by the Skolnick Lab, a member of the Center for the Study of Systems Biology at Georgia Tech.
 published: true
-date: 2020-06-25T16:18:04.036Z
+date: 2020-06-28T20:45:11.350Z
 tags: tool, proteins, dna, prediction, binding
 editor: markdown
 ---
 
 # DISPLAR
 
-> DISPLAR is a neural network method. Given the structure of a protein known to bind DNA, the method predicts residues that contact DNA. The inputs to the neural network include position-specific sequence profiles and solvent accessibilities of each residue and its spatial neighbors. The neural network is trained on known structures of protein-DNA complexes. On our test set, DISPLAR shows prediction accuracy over 80% and coverage of over 60% of actual DNA-contacting residues.
+> The laboratory of Dr. Jeffrey Skolnick is dedicated to systems and computational biology research and tool development. Through their suite of tools hosted by the Center for the Study of Systems Biology at Georgia Tech, the Skolnick group offers a diversity of resources and tools to aid researchers in their work. 
 {.is-info}
 
 
