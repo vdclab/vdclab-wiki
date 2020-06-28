@@ -2,7 +2,7 @@
 title: DISPLAR
 description: Suite of tools designed, produced, and made available by the Skolnick Lab, a member of the Center for the Study of Systems Biology at Georgia Tech.
 published: true
-date: 2020-06-28T23:13:33.568Z
+date: 2020-06-28T23:15:48.402Z
 tags: tool, proteins, dna, prediction, binding
 editor: markdown
 ---
