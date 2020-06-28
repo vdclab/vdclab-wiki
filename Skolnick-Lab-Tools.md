@@ -2,7 +2,7 @@
 title: Skolnick Tools Suite
 description: Suite of tools designed, produced, and made available by the Skolnick Lab, a member of the Center for the Study of Systems Biology at Georgia Tech.
 published: true
-date: 2020-06-28T23:16:11.302Z
+date: 2020-06-28T23:16:20.160Z
 tags: tool, proteins, dna, prediction, binding
 editor: markdown
 ---
