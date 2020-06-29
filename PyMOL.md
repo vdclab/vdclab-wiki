@@ -2,8 +2,9 @@
 title: PyMOL
 description: Educational-use-only PyMOL available at no cost to teachers and high school and college students (including online courses, homeschooling, etc.) for classroom instruction, homework assignments, and to provide a means for creating high quality figures.
 published: true
-date: 2020-04-29T17:56:28.935Z
-tags: 
+date: 2020-06-29T16:57:53.013Z
+tags: resource reference, data visualization
+editor: markdown
 ---
 
 # Educational-Use-Only PyMOL
@@ -21,4 +22,7 @@ The Educational-use-only PyMOL builds are provided "AS IS" with no obligation to
 - [PyMOL *Main Page*](http://pymol.org/edu/?q=educational/)
  {.links-list}
 
+ ## User Notes
+ - If accessible, useful for producing figures; useful in performing structural alignments, residue-level analyses, atomic-level comparisons of protein structures
+ 
  
