@@ -2,8 +2,8 @@
 title: PlantPromoterDB (PPDB)
 description: PPDB is a plant promoter database that provides information on transcription start sites, core promoter structure, and regulatory element groups as putative and comprehensive transcriptional regulatory elements.
 published: true
-date: 2020-06-29T16:08:07.216Z
-tags: genes, database, transcriptomics, homology, transcription, regulation
+date: 2020-06-29T16:08:51.010Z
+tags: genes, database, eukaryotes, transcriptomics, homology, eukaryota, transcription, regulation
 editor: markdown
 ---
 
