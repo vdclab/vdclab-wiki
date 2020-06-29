@@ -2,8 +2,9 @@
 title: NCBI Search
 description: Search through the various news, tools, and databases hosted by the National Center for Biotechnology Information.
 published: true
-date: 2020-04-17T19:07:42.275Z
-tags: 
+date: 2020-06-29T17:13:20.368Z
+tags: tool, resource center, database
+editor: markdown
 ---
 
 # NCBI Search
@@ -17,3 +18,8 @@ tags:
 - [NCBI Search *Search Page*](https://www.ncbi.nlm.nih.gov/search/)
 {.links-list}
 
+
+## User Notes
+
+- As of 6/29/2020, website had been recently redesigned and (officially) published post-beta
+- Page is separated into two major sections: News & Databases (news appears first, above databases and immediately above a subsection featuring NCBI's most popular resources)
