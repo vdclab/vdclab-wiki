@@ -2,8 +2,8 @@
 title: PyMOL
 description: Educational-use-only PyMOL available at no cost to teachers and high school and college students (including online courses, homeschooling, etc.) for classroom instruction, homework assignments, and to provide a means for creating high quality figures.
 published: true
-date: 2020-06-29T16:57:53.013Z
-tags: resource reference, data visualization
+date: 2020-06-29T16:58:55.387Z
+tags: sequence analysis, sequence alignment, proteins, data visualization, structural alignment, structural analysis
 editor: markdown
 ---
 
