@@ -2,8 +2,9 @@
 title: CD-Search
 description: CD-Search is NCBI's interface to searching the Conserved Domain Database with protein or nucleotide query sequences.
 published: true
-date: 2020-04-21T19:34:39.099Z
-tags: 
+date: 2020-06-29T17:30:01.051Z
+tags: annotation, annotation tools, sequence analysis, proteins, sequence similarity, database, sequence annotation, functional annotation
+editor: markdown
 ---
 
 # CD-Search
@@ -17,6 +18,11 @@ tags:
 
 - [CD-Search *Main Page*](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi)
 {.links-list}
+
+## User Notes
+- useful in determining functional annotation for a sequence, especially if annotation is not indicated in other protein family databases
+- comparison to other databases is recommended; permits for different output settings (i.e., concise/standard/full)
+
 
 ## Citations
 
