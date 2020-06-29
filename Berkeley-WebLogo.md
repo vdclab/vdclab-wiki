@@ -2,8 +2,9 @@
 title: Berkeley WebLogo
 description: WebLogo is a web based application designed to make the generation of sequence logos as easy and painless as possible.
 published: true
-date: 2020-04-21T19:26:21.679Z
-tags: 
+date: 2020-06-29T15:36:39.902Z
+tags: tool
+editor: markdown
 ---
 
 # Berkeley WebLogo
@@ -19,6 +20,12 @@ Sequence logos are a graphical representation of an amino acid or nucleic acid m
 
 - [Berkeley WebLogo *Create Page*](http://weblogo.berkeley.edu/logo.cgi)
 {.links-list}
+
+## User Notes
+
+- Easy to use; ensure input is properly formatted (sequences have been aligned)
+- Can be used to visualize the alignments of RNA/DNA or proteins
+
 
 ## Citations
 
