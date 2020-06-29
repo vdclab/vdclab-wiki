@@ -2,8 +2,9 @@
 title: RNAPredator
 description: RNAPredator: a bacterial sRNA target prediction webserver
 published: true
-date: 2020-04-24T18:24:22.228Z
-tags: 
+date: 2020-06-29T16:02:23.972Z
+tags: tool, rna, database, prediction, interaction
+editor: markdown
 ---
 
 # RNAPredator
@@ -18,6 +19,10 @@ Post-processing steps allow to look at accessibility differences on the target m
 
 - [RNAPredator *Main Page*](http://rna.tbi.univie.ac.at/cgi-bin/RNApredator/target_search.cgi)
  {.links-list}
+
+## User Notes
+
+- Output is not immediate but processing times are not extreme (minutes, not hours)
 
 ## Citation 
 
