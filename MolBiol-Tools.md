@@ -2,8 +2,8 @@
 title: Internet Resources for Molecular Biologists
 description: Online tools and resources for molecular biologists. 
 published: true
-date: 2020-06-29T14:44:37.636Z
-tags: tool, resource center
+date: 2020-06-29T14:48:31.186Z
+tags: resource reference, tool, sequence analysis, analysis tools, resource center, bioinformatics
 editor: markdown
 ---
 
