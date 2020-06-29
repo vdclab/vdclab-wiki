@@ -2,7 +2,7 @@
 title: Zhou Biophysics Group Tools
 description: Suite of tools for prediction of protein-protein interactions
 published: true
-date: 2020-06-29T12:49:06.710Z
+date: 2020-06-29T12:59:36.492Z
 tags: tool, proteins, prediction, interaction, protein-protein
 editor: markdown
 ---
@@ -15,7 +15,8 @@ editor: markdown
 
 ## Website
 
-- [PI^2^PE *Main Page*](https://pipe.rcc.fsu.edu)
+- [PI^2^PE *Main Page (Tool Suite)*](https://pipe.rcc.fsu.edu)
+- [Zhou Biophysics Group *Main Page*](http://web2.physics.fsu.edu/~zhou/)
 {.links-list}
 
 Select Tools/VDC Lab Favorites
@@ -23,6 +24,11 @@ Select Tools/VDC Lab Favorites
 - [cons-PPISP *consensus Protein-Protein Interaction Site Predictor*](https://pipe.rcc.fsu.edu/ppisp/)
 - [meta-PPISP *meta server for Protein-Protein Interaction Site Prediction*](https://pipe.rcc.fsu.edu/meta-ppisp/)
 {.links-list}
+
+## User Notes
+
+- Each tool may have a short wait time (is ***not*** instantaneous); results page pending results is updated during wait every 5 minutes; may take up to 15 minutes to complete
+- Results viewers require Java plugin installation/activation/access
 
 ## Citation
 - Tjong , H. and Zhou, H.-X. DISPLAR: an accurate method for predicting DNA-binding sites on protein surfaces. Nucl. Acids Res. 35:1465-1477 (2007) [PubMed](https://pubmed.ncbi.nlm.nih.gov/17284455/)
