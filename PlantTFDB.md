@@ -2,8 +2,9 @@
 title: PlantTFDB
 description: Plant transcription factor database, a portal for the functional and evolutionary study of plant transcription factors.
 published: true
-date: 2020-04-24T18:52:55.520Z
-tags: 
+date: 2020-06-29T16:17:21.628Z
+tags: comparative genomics, analysis tools, database, eukaryotes, transcriptomics, homology, transcriptomes, prediction, gene expression, orthology, data export, eukaryota, transcription, enrichment, regulation
+editor: markdown
 ---
 
 # PlantTFDB
@@ -13,14 +14,15 @@ tags:
 To provide comprehensive information for the TF family, a brief introduction and key references are presented for each family. Comprehensive annotations are made for each identified TF, including functional domains, 3D structures, gene ontology (GO), plant ontology (PO), expression information, expert-curated functional description, binding motifs, regulation information, interaction, references, and cross-linsk to various databases such as UniProt, RefSeq, STRING and Entrez Gene.
 {.is-info}
 
-> April 24th, 2020: PLEASE NOTE: The main PlantTFDB website is currently down.
-{.is-warning}
-
 ## Websites 
 
 - [PlantTFDB *Main Page*](http://planttfdb.cbi.pku.edu.cn/)
 - [PlantTFDB About *About Us Page*](http://planttfdb.cbi.pku.edu.cn/aboutus.php)
 {.links-list}
+
+## User Notes
+
+- As of 6/29/2020, site was last updated on October 11, 2019
 
 ## Citations
 
