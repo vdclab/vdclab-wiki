@@ -2,8 +2,9 @@
 title: MolScript v2.1
 description: MolScript is a program for creating schematic or detailed molecular graphics images from molecular 3D coordinates, usually, but not exclusively, protein structures.
 published: true
-date: 2020-04-29T17:41:14.219Z
-tags: 
+date: 2020-06-29T16:47:47.374Z
+tags: tool, proteins, data visualization, structural analysis
+editor: markdown
 ---
 
 # MolScript v2.1
@@ -17,6 +18,11 @@ tags:
 
 - [MolScript v2.1 *Main Page*](https://kraulis.se/MolScript/)
  {.links-list}
+
+## User Notes
+- As of 6/29/2020, last update indicated was in 2014 (MIT, publisher)
+- Official MolScript GitHub website is unavailable
+
 
 ## Citation 
 
