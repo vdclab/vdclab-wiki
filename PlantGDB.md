@@ -2,8 +2,9 @@
 title: PlantGDB
 description: PlantGDB: resources for comparative plant genomics.
 published: true
-date: 2020-04-24T18:19:12.551Z
-tags: 
+date: 2020-06-29T15:53:51.902Z
+tags: annotation, annotation tools, genome browser, comparative genomics, database, eukaryotes, sequence annotation, eukaryota, organism-specific
+editor: markdown
 ---
 
 # PlantGDB
@@ -22,6 +23,13 @@ In the long run, the project seeks to explore the extent to which genomic biolog
 
 - [PlantGDB *Main Page*](http://www.plantgdb.org/)
  {.links-list}
+
+## User Notes
+
+- As of 6/29/2020, website was last updated July 1, 2015 with an announcement of the project's end due to NSF funding termination; related project described at: [http://goblinx.soic.indiana.edu](http://goblinx.soic.indiana.edu)
+- Resource is limited to plant bioinformatic data, analyses; genomes, annotations may not be up-to-date
+
+
 
 ## Citation 
 
