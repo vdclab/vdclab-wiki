@@ -2,8 +2,9 @@
 title: InterPro
 description: InterPro provides functional analysis of proteins by classifying them into families and predicting domains and important sites.
 published: true
-date: 2020-05-23T20:56:20.111Z
-tags: proteins, protein family
+date: 2020-06-29T15:44:40.043Z
+tags: aggregator, annotation, proteins, database, protein family
+editor: markdown
 ---
 
 # InterPro
@@ -17,6 +18,11 @@ tags: proteins, protein family
 
 - [InterPro *Main Page*](http://www.ebi.ac.uk/interpro/)
 {.links-list}
+
+## User Notes
+
+- HMM-driven family assignment
+- Database integrates the family assignments and accessions of other protein family databases (e.g., TIGR, Pfam, CDD)
 
 ## Citation
 
