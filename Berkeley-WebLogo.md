@@ -2,8 +2,8 @@
 title: Berkeley WebLogo
 description: WebLogo is a web based application designed to make the generation of sequence logos as easy and painless as possible.
 published: true
-date: 2020-06-29T15:36:39.902Z
-tags: tool
+date: 2020-06-29T15:37:51.713Z
+tags: tool, sequence analysis, genes, proteins, dna, rna, data visualization, logo
 editor: markdown
 ---
 
