@@ -2,8 +2,9 @@
 title: Molecular Visualization Freeware
 description: Biomolecular graphics for all.
 published: true
-date: 2020-04-29T17:36:23.525Z
-tags: 
+date: 2020-06-29T16:39:25.709Z
+tags: tool, data visualization
+editor: markdown
 ---
 
 # Molecular Visualization Freeware
@@ -17,6 +18,10 @@ tags:
 
 - [RasMol *Main Page*](http://www.umass.edu/microbio/rasmol/)
  {.links-list}
+
+## User Notes
+
+- Site is dedicated to describing/catalogging their own freeware for viewing of molecular/protein structures; takes additional navigating to reach tool/tools
 
 ## Citation 
 
