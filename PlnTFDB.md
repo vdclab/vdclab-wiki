@@ -2,7 +2,7 @@
 title: PlnTFDB
 description: PlnTFDB (3.0) is a public database arising from efforts to identify and catalogue all Plant genes involved in transcriptional control.
 published: true
-date: 2020-06-29T16:26:49.666Z
+date: 2020-06-29T16:27:10.974Z
 tags: annotation, annotation tools, genes, proteins, analysis tools, database, eukaryotes, transcriptomics, transcriptomes, eukaryota, transcription, regulation
 editor: markdown
 ---
@@ -25,8 +25,7 @@ Additionally, 1280 proteins were categorized as Orphans. These proteins contain 
 
 ## User Notes
 
-- As of 6/29/2020, no apparent updates have been made in exception of the release of 2009
-- 
+- As of 6/29/2020, no apparent updates have been made in exception of the release of 2009 (unclear)
 
 
 ## Citation 
