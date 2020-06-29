@@ -2,8 +2,9 @@
 title: Phylo.io
 description: A web app and library for visualising and comparing phylogenetic trees.
 published: true
-date: 2020-04-29T17:29:26.444Z
-tags: 
+date: 2020-06-29T16:34:21.167Z
+tags: tool, phylogeny, data visualization
+editor: markdown
 ---
 
 # Phylo.io
@@ -17,6 +18,10 @@ tags:
 
 - [Phylo.io *Main Page*](http://phylo.io/)
  {.links-list}
+
+## User Notes
+- Data visualization tool with easy-to-use front-end accessibility; simple input with simple output
+- Labels can be edited, individually; plus other editing features
 
 ## Citation 
 
