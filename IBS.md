@@ -2,8 +2,9 @@
 title: Illustrator for Biological Sequences (IBS)
 description: We present a new tool called Illustrator for Biological Sequences (IBS) for assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences.
 published: true
-date: 2020-04-17T18:43:32.915Z
-tags: 
+date: 2020-06-29T14:29:02.943Z
+tags: tool, data visualization
+editor: markdown
 ---
 
 # Illustrator for Biological Sequences (IBS)
@@ -17,6 +18,13 @@ tags:
 
 - [IBS *Main Page*](http://ibs.biocuckoo.org/index.php)
 {.links-list}
+
+## User Notes
+
+- Illustration tools for figures used in biological research; includes downloadable softwares for various operating systems
+- Some tools (e.g., WocEA or Word Cloud for Enrichment Analysis) are available via webservers
+- Updated recently; at date of review (6/29/2020) website had been last updated June 1st 2020
+
 
 ## Citation
 
