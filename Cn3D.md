@@ -2,8 +2,9 @@
 title: Cn3D
 description: Cn3D ("see in 3D") is a helper application for your web browser that allows you to view 3-dimensional structures from NCBI's Entrez Structure database.
 published: true
-date: 2020-05-23T21:37:00.210Z
+date: 2020-06-29T17:02:05.094Z
 tags: annotation tools, sequence alignment, proteins, data visualization
+editor: markdown
 ---
 
 # Cn3D Macromolecular Structure Viewer
@@ -21,6 +22,11 @@ tags: annotation tools, sequence alignment, proteins, data visualization
 ## Help
 - [Cn3D Tutorial *Tutorial Page*](https://www.ncbi.nlm.nih.gov/Structure/CN3D/cn3dtut.shtml)
  {.links-list}
+
+## User Notes
+
+- Software download required; freeware, easy-to-use
+
 
 ## Citation 
 
