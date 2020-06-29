@@ -2,8 +2,9 @@
 title: FunGeco
 description: Functional potential of bacterial genomes and microbiomes from gene context information.
 published: true
-date: 2020-04-17T18:34:56.716Z
-tags: 
+date: 2020-06-29T13:13:11.662Z
+tags: genomes, gene neighborhood
+editor: markdown
 ---
 
 # FunGeco
@@ -23,6 +24,12 @@ tags:
 
 - [FunGeco *Main Page*](https://web.rniapps.net/fungeco/)
 {.links-list}
+
+## User Notes
+
+- Modular genome/pathway system for tool can require some familiarity; see tutorial for improved ease-of-use
+- Pathway/metabolism modules (depending on organism) appear to be somewhat incomplete (?) 
+
 
 ## Citation
 
