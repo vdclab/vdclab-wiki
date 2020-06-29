@@ -2,8 +2,8 @@
 title: FunGeco
 description: Functional potential of bacterial genomes and microbiomes from gene context information.
 published: true
-date: 2020-06-29T13:13:11.662Z
-tags: genomes, gene neighborhood
+date: 2020-06-29T13:21:55.396Z
+tags: genomics, genomes, comparative genomics, gene neighborhood, co-occurrence, protein domain
 editor: markdown
 ---
 
