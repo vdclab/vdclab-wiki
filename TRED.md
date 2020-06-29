@@ -2,8 +2,9 @@
 title: Transcriptional Regulatory Element Database (TRED)
 description:  TRED collects cis - and trans -regulatory elements and is dedicated to easy data access and analysis for both single-gene-based and genome-scale studies. 
 published: true
-date: 2020-04-27T21:30:27.062Z
-tags: 
+date: 2020-06-29T16:29:22.852Z
+tags: genomics
+editor: markdown
 ---
 
 # Name of the website
@@ -27,6 +28,9 @@ TRED can provide good training datasets for further genome wide cis-regulatory e
 
 - [TRED *Main Page*](http://rulai.cshl.edu/cgi-bin/TRED/tred.cgi?process=searchPromForm)
  {.links-list}
+
+## User Notes
+- As of 6/29/2020, site was inaccessible/down
 
 ## Citations
 
