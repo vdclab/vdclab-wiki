@@ -2,8 +2,9 @@
 title: Galaxy @ Pasteur
 description: A public Galaxy platform at Pasteur used as an execution engine for web services.
 published: true
-date: 2020-04-21T19:15:32.739Z
-tags: 
+date: 2020-06-29T15:24:54.437Z
+tags: tool, proteins, prediction
+editor: markdown
 ---
 
 # Galaxy @ Pasteur
@@ -16,7 +17,15 @@ tags:
 ## Website
 
 - [Galaxy@Pasteur *Welcome Page*](https://galaxy.pasteur.fr/static/welcome.html)
+- [Learn Galaxy *Introduction & Tutorials*](https://galaxyproject.org/learn/)
 {.links-list}
+
+## User Notes
+- May be challenging to novice bioinformaticians, users without programming experience
+- Familiarity with database queries via command line or computer programming in an object oriented language would benefit all users; learning curve determined by user's computer programming experience
+- Tools are highly diverse and flexible; knowledge/familiarity with digital organization and workflows is essential to proper use
+- Primarily acts as a within-browser work environment for programmatically manipulating, formatting and analyzing bioinformatic data (e.g., transcriptomics data, proteomics data, etc.)
+
 
 ## Citation
 
