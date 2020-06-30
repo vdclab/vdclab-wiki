@@ -2,8 +2,8 @@
 title: RNAcentral
 description: The non-coding RNA sequence database.
 published: true
-date: 2020-06-30T18:25:12.945Z
-tags: rna, database
+date: 2020-06-30T20:05:25.956Z
+tags: aggregator, rna, database, 2017
 editor: markdown
 ---
 
@@ -27,9 +27,11 @@ The development of RNAcentral is coordinated by European Bioinformatics Institut
 
 ## Notes from Users
 - Browse by sequence, gene name or genome.
-
+- Agregator of databases for RNA.
 
 ## Ease of Use
+- Once you know what you are looking for, you'll find it.
+- Reults link to other databases.
 
 ## Citation 
 
