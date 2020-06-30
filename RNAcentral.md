@@ -2,7 +2,7 @@
 title: RNAcentral
 description: The non-coding RNA sequence database.
 published: true
-date: 2020-06-30T17:42:56.328Z
+date: 2020-06-30T17:43:47.901Z
 tags: rna, database
 editor: markdown
 ---
@@ -31,5 +31,5 @@ The development of RNAcentral is coordinated by European Bioinformatics Institut
 ## Ease of Use
 ## Citation 
 
-- ["RNAcentral: a comprehensive database of non-coding RNA sequences."](https://academic.oup.com/nar/article/45/D1/D128/2333921) Nucleic acids research 45, no. D1 (2017): D128-D134.
+- The RNAcentral Consortium, ["RNAcentral: a comprehensive database of non-coding RNA sequences."](https://academic.oup.com/nar/article/45/D1/D128/2333921) Nucleic acids research 45, no. D1 (2017): D128-D134.
 {.grid-list}
