@@ -2,8 +2,8 @@
 title: neXtProt Search
 description: Exploring the universe of human proteins.
 published: true
-date: 2020-06-30T15:21:21.806Z
-tags: annotation, database, proteomics, model organism
+date: 2020-06-30T15:25:17.906Z
+tags: aggregator, annotation, database, proteomics, model organism, curated, 2020
 editor: markdown
 ---
 
