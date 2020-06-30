@@ -2,8 +2,9 @@
 title: The Comparative Toxicogenomics Database
 description: CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.
 published: true
-date: 2020-05-07T18:02:03.575Z
+date: 2020-06-30T15:36:02.534Z
 tags: database, model organism
+editor: markdown
 ---
 
 # The Comparative Toxicogenomics Database (CTD)
@@ -19,12 +20,17 @@ We also have additional ongoing projects involving manual curation of exposome d
 
 - [CTD *Main Page*](http://ctdbase.org/)
  {.links-list}
+ 
+## Help
+ 
+- [Help *Help Section*](http://ctdbase.org/help/;jsessionid=8C2B04E3CC74569E0CE9BD4ABEF316B8)
+{.links-list}
+
+## Notes from Users
+
+
+## Ease of Use
 
 ## Citations
-To cite CTD in your publications:
 - Davis AP, Grondin CJ, Johnson RJ, Sciaky D, McMorran R, Wiegers J, Wiegers TC, Mattingly CJ. [The Comparative Toxicogenomics Database: update 2019.](https://academic.oup.com/nar/article/47/D1/D948/5106145) Nucleic Acids Res. 2018 Sep 24.
-{.grid-list}
-
-To cite specific data:
-- Curated [chemical–gene interactions|chemical–disease|gene–disease] data were retrieved from the Comparative Toxicogenomics Database (CTD), MDI Biological Laboratory, Salisbury Cove, Maine, and NC State University, Raleigh, North Carolina. World Wide Web (URL: http://ctdbase.org/). [Month, year of data retrieval].
 {.grid-list}
