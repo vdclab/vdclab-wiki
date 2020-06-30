@@ -2,8 +2,8 @@
 title: NextBio - Correlation Engine
 description: NextBio provides a state of the art scientific platform to aggregate and interpret large quantities of genomic data for research and clinical applications.
 published: true
-date: 2020-06-30T14:55:31.217Z
-tags: aggregator, repository
+date: 2020-06-30T14:58:52.222Z
+tags: aggregator, genomics, data capture, proteomics, omics, repository
 editor: markdown
 ---
 
