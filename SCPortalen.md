@@ -2,8 +2,9 @@
 title: SCPortalen
 description: Single-cell centric database
 published: true
-date: 2020-05-07T18:43:54.912Z
+date: 2020-07-01T19:22:57.496Z
 tags: database
+editor: markdown
 ---
 
 # SCPortalen
@@ -19,6 +20,14 @@ As an added-value to the raw data, we performed manual curation and annotation o
 
 - [SCPortalen *Main Page*](http://single-cell.clst.riken.jp/)
  {.links-list}
+ 
+ ## Notes from the user
+ - Each data set comes with a full QC report to verify data integrity of sequencing reads
+ - Entries of single cell studies come with pre-analyzed figures for quick analysis by the user
+ - Lots of data formats for downloads 
+ 
+ ## Ease of use
+ > While there is a comprehensive user guide, the user will need to familiarize themselves with the database and the search function.
 
 ## Citation 
 
