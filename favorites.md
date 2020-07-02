@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T18:56:34.532Z
+date: 2020-07-02T19:06:02.696Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -245,6 +245,7 @@ editor: markdown
 
 - [Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
