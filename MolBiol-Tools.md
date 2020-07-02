@@ -2,7 +2,7 @@
 title: Internet Resources for Molecular Biologists
 description: Online tools and resources for molecular biologists. 
 published: true
-date: 2020-07-02T19:00:32.795Z
+date: 2020-07-02T19:00:59.173Z
 tags: resource reference, tool, sequence analysis, analysis tools, resource center, bioinformatics
 editor: markdown
 ---
@@ -39,8 +39,8 @@ editor: markdown
 - Founded with the intention of improving the accessibility and findability of biological tools on the internet
 - As per the page properties (html) accessed on 6/29/2020, the last edit was made: "04/07/2020 11:03:53"
 
-
 ## Contact Authors
-- Dr. Andrew M. Kropinski,  Departments of Food Science and Pathobiology University of Guelph,  Guelph, Ontario, N1G 2W1 CANADA
+
+Dr. Andrew M. Kropinski,  Departments of Food Science and Pathobiology University of Guelph,  Guelph, Ontario, N1G 2W1 CANADA
 Problems and suggestions: Contact - Andrew M. Kropinski (Email: Phage.Canada@gmail.com)
 
