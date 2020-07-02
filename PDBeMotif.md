@@ -2,13 +2,14 @@
 title: PDBeMotif
 description: PDBeMotif is an extremely fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB) by combining protein sequence, chemical structure and 3D data in a single search.
 published: true
-date: 2020-04-15T19:48:17.700Z
-tags: 
+date: 2020-07-02T17:09:14.542Z
+tags: tool, proteins, comparative genomics, data capture, database, browser, data visualization, mapping, protein family, data export, conservation, model, protein domain, binding, interaction, motif, structural analysis, analysis tool
+editor: markdown
 ---
 
 # PDBeMotif
 
->    PDBeMotif is an extremely fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB) by combining protein sequence, chemical structure and 3D data in a single search. Currently it is the only tool that offers this kind of integration at this speed. PDBeMotif can be used to examine the characteristics of the binding sites of single proteins or classes of proteins such as Kinases and the conserved structural features of their immediate environments either within the same specie or across different species. For example, it can highlight a conserved activation loop common to protein kinases, which is important in regulating activity and is marked by conserved DFG and APE motifs at the start and end of the loop, respectively. 
+>    PDBeMotif is an extremely fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB) by combining protein sequence, chemical structure and 3D data in a single search. Currently it is the only tool that offers this kind of integration at this speed. PDBeMotif can be used to examine the characteristics of the binding sites of single proteins or classes of proteins such as Kinases and the conserved structural features of their immediate environments, either within the same specie or across different species. 
 &NewLine;
 The prediction of the effect of modifications to small molecules that bind to the active and/or regulatory sites of proteins on their efficacy can be based on the outcome of analytic work done using PDBeMotif.
 {.is-info}
@@ -18,7 +19,19 @@ The prediction of the effect of modifications to small molecules that bind to th
 ## Website
 
 - [PDBeMotif *Main Page*](https://www.ebi.ac.uk/pdbe-site/pdbemotif/)
+- [PDBeMotif Help *Examples and Guide*](https://www.ebi.ac.uk/pdbe-site/pdbemotif/help/help.jsp?topic=eg)
 {.links-list}
+
+## Ease of Use
+
+> This tool is not immediately intuitive, but has a fairly thorough help guide.  Users will likely need to play around with the tool for some time before grasping its full capacity. 
+{.is-info}
+
+## User Notes
+
+- Users need to use Java applet-enabled web browsers to view 3D motif and ligand binding structural information.
+- Users can search for specific motifs, for motifs within specific proteins, by small molecules or ligands, or perform a multi-criteria search by combining different searches into one.
+
 
 ## Citations
 
