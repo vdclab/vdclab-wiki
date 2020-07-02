@@ -2,7 +2,7 @@
 title: Omics Data
 description: List of website of omics data
 published: true
-date: 2020-07-02T16:03:35.997Z
+date: 2020-07-02T19:50:42.177Z
 tags: category
 editor: markdown
 ---
