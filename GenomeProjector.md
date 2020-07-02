@@ -2,7 +2,7 @@
 title: Genome Projector
 description: Genome Projector: zoomable user interface for molecular biology. 
 published: true
-date: 2020-06-18T14:32:15.533Z
+date: 2020-07-02T21:37:08.032Z
 tags: genomes, genome browser, specialized search, database, gene, genome, metabolic pathways
 editor: markdown
 ---
@@ -27,7 +27,8 @@ editor: markdown
 
 
 ## Ease of use
-> This tool is easy to use, especially if you are already familiar with google maps. Simply select a genome, which view you want to see, and explore the genome with ease. 
+
+This tool is easy to use, especially if you are already familiar with google maps. Simply select a genome, which view you want to see, and explore the genome with ease. 
 
 ## Citation 
 
