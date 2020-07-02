@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-02T21:39:24.430Z
+date: 2020-07-02T22:18:24.249Z
 tags: category
 editor: markdown
 ---
