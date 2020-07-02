@@ -2,7 +2,7 @@
 title: IslandViewer
 description: IslandViewer is a computational tool that integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander.
 published: true
-date: 2020-06-18T14:11:32.792Z
+date: 2020-07-02T21:19:54.220Z
 tags: annotation, genomes, archaea, bacteria, tool, genome browser, prediction
 editor: markdown
 ---
@@ -28,7 +28,8 @@ The source code and entire GI data sets are available for download and acknowled
 - Can be used to compare two genomes
 
 ## Ease of use
-> This tool is easy to use and has an interactive tutorial of the genome viewer. The user can save different views of their genomes and view them later. 
+
+This tool is easy to use and has an interactive tutorial of the genome viewer. The user can save different views of their genomes and view them later. 
 
 ## Citation
 
