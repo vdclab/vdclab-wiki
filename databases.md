@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-02T22:12:44.726Z
+date: 2020-07-02T22:16:25.884Z
 tags: category
 editor: markdown
 ---
@@ -51,6 +51,7 @@ editor: markdown
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
 - [PlantGDB *Resources for comparative plant genomics*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlantGDB)
 - [PlantPromoterDB *Provides comprehensive transcriptional regulatory elements informations*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlantPromoterDB)
+- [PlnTFDB *Identification and cataloging all Plant genes involved in transcriptional control*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlnTFDB)
 {.links-list}
 
 #### Organism specific databases 
