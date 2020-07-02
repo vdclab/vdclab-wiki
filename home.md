@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-07-02T18:10:46.897Z
+date: 2020-07-02T18:11:36.703Z
 tags: 
 editor: markdown
 ---
@@ -14,17 +14,17 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 # Alignment
 
-- [Alignment website *List of website to align two or more sequences*](https://vdclab-wiki.herokuapp.com/en/alignment)
+- [Alignment websites *List of websites to align two or more sequences*](https://vdclab-wiki.herokuapp.com/en/alignment)
 {.links-list}
 
 # Annotation
 
-- [Annotation website *List of the annotation websites*](https://vdclab-wiki.herokuapp.com/en/annotation)
+- [Annotation websites *List of the annotation websites*](https://vdclab-wiki.herokuapp.com/en/annotation)
 {.links-list}
 
 # Databases
 
-- [Database website *List of the database websites*](https://vdclab-wiki.herokuapp.com/en/databases)
+- [Database websites *List of the database websites*](https://vdclab-wiki.herokuapp.com/en/databases)
 {.links-list}
 
 # Literature Search
@@ -39,12 +39,12 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 # Phylogeny
 
-- [Phylogeny website *List of website to do phylogeny*](https://vdclab-wiki.herokuapp.com/en/phylogeny)
+- [Phylogeny websites *List of websites to do phylogeny*](https://vdclab-wiki.herokuapp.com/en/phylogeny)
 {.links-list}
 
 # Platform
 
-- [Platform website *List of website hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/platform)
+- [Platform websites *List of websites hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/platform)
 {.links-list}
 
 # Prediction
@@ -59,22 +59,22 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 # Sequence Manipulation
 
-- [Sequence Manipulation *List of website to manupilate sequences*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation)
+- [Sequence Manipulation *List of websites to manupilate sequences*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation)
 {.links-list}
 
 # Structure
 
-- [Structure *List of website linked to structure*](https://vdclab-wiki.herokuapp.com/en/structure)
+- [Structure *List of websites linked to structure*](https://vdclab-wiki.herokuapp.com/en/structure)
 {.links-list}
 
 # Tools
 
-- [Tools *List of website that provides useful tools*](https://vdclab-wiki.herokuapp.com/en/tools)
+- [Tools *List of websites that provides useful tools*](https://vdclab-wiki.herokuapp.com/en/tools)
 {.links-list}
 
 # Trainings & Tutorials
 
-- [Trainings & Tutorials *List of website that provides trainings and tutorials*](https://vdclab-wiki.herokuapp.com/en/tools)
+- [Trainings & Tutorials *List of websites that provides trainings and tutorials*](https://vdclab-wiki.herokuapp.com/en/tools)
 {.links-list}
 
 # Visualization
@@ -84,7 +84,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 # VDC Favorite
 
-- [Favorite website *A selection of the website described here*](https://vdclab-wiki.herokuapp.com/en/favorites)
+- [Favorite websites *A selection of the websites described here*](https://vdclab-wiki.herokuapp.com/en/favorites)
 {.links-list}
 
 ---
