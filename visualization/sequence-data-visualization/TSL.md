@@ -1,8 +1,8 @@
 ---
 title: Two Sample Logos
-description: wo Sample Logo is a web-based application that calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides.
+description: Two Sample Logo is a web-based application that calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides.
 published: true
-date: 2020-07-02T18:47:54.219Z
+date: 2020-07-02T18:50:22.853Z
 tags: tool, sequence alignment, gene, data visualization, protein, logo
 editor: markdown
 ---
