@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T20:05:41.224Z
+date: 2020-07-02T20:35:38.066Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -259,6 +259,7 @@ editor: markdown
 
 ## Creating Or Finding Sequence Logos
 
+- [Berkeley WebLogo *Designed to make the generation of sequence logos as easy and painless as possible*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/Berkeley-WebLogo)
 - [Skylign *Creating logos representing both sequence alignments and profile hidden Markov models*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/Skylign)
 - [WebLogo3 *Take multiple sequence alignments and generate a graphical representation of the consensus*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/WebLogo3)
 {.links-list}
@@ -345,5 +346,6 @@ editor: markdown
 
 ## Venn Diagram Tools
 
+- [BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BEG-Venn)
 - [BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
 {.links-list}
