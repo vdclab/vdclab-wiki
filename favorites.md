@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T20:05:32.595Z
+date: 2020-07-02T20:05:41.224Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -139,7 +139,7 @@ editor: markdown
 # Literature Search
 
 - [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
-- [:star: PubMed Advanced Search Builder *Builder to do advanced search on PubMed*](https://vdclab-wiki.herokuapp.com/en/literature-search/PubMed-Advanced-Search-Builder)
+- [PubMed Advanced Search Builder *Builder to do advanced search on PubMed*](https://vdclab-wiki.herokuapp.com/en/literature-search/PubMed-Advanced-Search-Builder)
 {.links-list}
 
 # Omics Data
