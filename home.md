@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-07-02T18:13:12.077Z
+date: 2020-07-02T18:13:16.890Z
 tags: 
 editor: markdown
 ---
@@ -82,7 +82,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 - [Vizualization tools *List of the websites for vizualization*](https://vdclab-wiki.herokuapp.com/en/visualization)
 {.links-list}
 
-## VDC Favorite
+# VDC Favorite
 
 - [:star: Favorite websites *A selection of the websites described here*](https://vdclab-wiki.herokuapp.com/en/favorites)
 {.links-list}
