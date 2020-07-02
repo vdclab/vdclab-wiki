@@ -2,7 +2,7 @@
 title: Prediction
 description: Prediction related websites
 published: true
-date: 2020-07-02T18:31:00.638Z
+date: 2020-07-02T19:50:46.365Z
 tags: category
 editor: markdown
 ---
