@@ -2,7 +2,7 @@
 title: BioCyc
 description: BioCyc is a collection of 16,822 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
 published: true
-date: 2020-07-02T17:36:43.425Z
+date: 2020-07-02T17:37:00.661Z
 tags: archaea, bacteria, tool, genome browser, comparative genomics, data capture, resource center, database, transcriptomics, gene, co-expression, browser, data visualization, protein, clustering, mapping, metabolic pathways, data export, omics, eukaryota, curated, enrichment, essentiality, metabolomics
 editor: markdown
 ---
@@ -39,6 +39,7 @@ BioCyc is intuitive and user friendly. BioCyc Tier 1 databases (EcoCyc and MetaC
 - [BioCyc Webinars *Video Tutorials*](https://biocyc.org/webinar.shtml)
 - [BioCyc Omics Dashboard *Invoke the Omics Dashboard*](https://biocyc.org/dashboard/dashboard-intro.shtml)
 - [Omics Dashboard Help *Tool Overview and Guide*](https://biocyc.org/dashboard/dashboard-help.html)
+{.links-list}
 
 ## Citations
 
