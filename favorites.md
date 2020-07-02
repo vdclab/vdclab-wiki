@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T21:36:52.034Z
+date: 2020-07-02T21:40:14.629Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -329,6 +329,12 @@ editor: markdown
 - [GCTNG *Visualize the genomic context of a gene or a group of genes and their orthologous relationships*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/GCTNG)
 - [Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
 {.links-list}
+
+## Genome Browsers Within Integrated Platforms
+
+- [:star: GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
+{.links-list}
+
 
 ## Miscellaneous
 
