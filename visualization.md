@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-02T18:50:48.158Z
+date: 2020-07-02T19:51:20.111Z
 tags: category
 editor: markdown
 ---
@@ -33,6 +33,7 @@ editor: markdown
 
 ## Miscellaneous
 
+- [:star: IBS *Assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/IBS)
 - [VIZBI Blog *A conference series bringing together researchers developing and using computational visualisation*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/VIZBI-Blog)
 {.links-list}
 
