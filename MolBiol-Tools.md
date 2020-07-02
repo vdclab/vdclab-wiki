@@ -2,7 +2,7 @@
 title: Internet Resources for Molecular Biologists
 description: Online tools and resources for molecular biologists. 
 published: true
-date: 2020-06-29T14:48:31.186Z
+date: 2020-07-02T18:58:00.846Z
 tags: resource reference, tool, sequence analysis, analysis tools, resource center, bioinformatics
 editor: markdown
 ---
@@ -10,6 +10,8 @@ editor: markdown
 # Internet Resources for Molecular Biologists
 
 > Online tools and resources for molecular biologists, including sequence analysis, genomics, metabolomics, transcription analysis, and many more tools.
+{.is-info}
+
 
 ### Listed Categories:
 - Bioinformatic Tutorials
