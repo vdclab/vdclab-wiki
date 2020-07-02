@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-06-25T14:30:43.019Z
+date: 2020-07-02T21:36:25.529Z
 tags: category
 editor: markdown
 ---
@@ -13,6 +13,7 @@ editor: markdown
 
 - [Bologna Annotation Resource *Server for the annotation of protein sequences*](https://vdclab-wiki.herokuapp.com/annotation/general_annotation/bologna-annotation-resource/)
 - [:star: GeneMark *Web page hosting families of gene prediction programs*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
+- [:star: IslandViewer *Integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/IslandViewer)
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [:star: KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
 {.links-list}
