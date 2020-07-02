@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-02T21:13:38.779Z
+date: 2020-07-02T22:05:24.145Z
 tags: category
 editor: markdown
 ---
@@ -49,6 +49,7 @@ editor: markdown
 
 - [Gramene *Integrated data resource for comparative functional genomics in crops and model plant species*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/Gramene)
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
+- [PlantGDB *Resources for comparative plant genomics*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlantGDB)
 {.links-list}
 
 #### Organism specific databases 
