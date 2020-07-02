@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T20:35:38.066Z
+date: 2020-07-02T21:14:02.988Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -60,6 +60,7 @@ editor: markdown
 
 ## General databases
 
+- [InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 {.links-list}
@@ -245,6 +246,7 @@ editor: markdown
 
 ## Analysis Tools
 
+- [CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
 - [Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
