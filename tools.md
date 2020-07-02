@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-02T18:47:20.706Z
+date: 2020-07-02T19:51:01.030Z
 tags: category
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 - [:star: Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [:star: MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
 - [:star: NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
