@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-02T20:08:44.065Z
+date: 2020-07-02T21:39:24.430Z
 tags: category
 editor: markdown
 ---
@@ -28,6 +28,7 @@ editor: markdown
 
 ## Genome Browsers Within Integrated Platforms
 
+- [:star: GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 {.links-list}
 
@@ -44,6 +45,7 @@ editor: markdown
 
 ## Sequence Data Visualization
 
+- [:star: Berkeley WebLogo *Designed to make the generation of sequence logos as easy and painless as possible*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/Berkeley-WebLogo)
 - [:star: Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
 {.links-list}
 
