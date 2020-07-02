@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T16:03:00.270Z
+date: 2020-07-02T16:08:50.027Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -84,6 +84,7 @@ editor: markdown
 
 ##### Organism specific databases
 
+- [EcoCyc *Scientific database for the bacterium Escherichia coli K-12 MG1655*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
 - [SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
 {.links-list}
 
@@ -132,7 +133,6 @@ editor: markdown
 - [ORENZA *Accurate and up to date list of Enzyme Activities for which no sequences are available*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/ORENZA)
 - [Orphan Enzyme Project *Associate an amino-acid sequence with every known orphan enzyme*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/Orphan-Enzymes)
 {.links-list}
-
 
 # Literature Search
 
