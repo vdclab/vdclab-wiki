@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-07-02T19:44:35.109Z
+date: 2020-07-02T19:44:40.039Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -37,7 +37,7 @@ editor: markdown
 - As an organization, sets many standards of biological data usage, formatting, reference and publishing
 - Provides a variety of bioinformatic, research/analytic, networking/career services within a large network of service providers, analytical groups/platforms and other organizations, all dedicated to the submission, analysis, formatting, organization, visualization and interpretation of biological data
 
-# NCBI page related on the wiki
+# EMBL page related on the wiki
 
 - []()
 {.links-list}
