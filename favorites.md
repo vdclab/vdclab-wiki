@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T18:17:32.629Z
+date: 2020-07-02T18:30:02.488Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -162,7 +162,6 @@ editor: markdown
 - [OrthoInspector *Inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/phylogenetic-distribution/OrthoInspector/)
 {.links-list}
 
-
 # Platform
 
 ## Integrated Prokaryotic Genome Analysis Platforms
@@ -174,6 +173,7 @@ editor: markdown
 
 ## Predicting Protein/Protein Interaction
 
+- [ArDock *Detect interaction sites by docking arbitrary proteins*](https://vdclab-wiki.herokuapp.com/ArDock)
 - [Skolnick Tools Suite *Suite of tools designed, produced, and made available by the Skolnick Lab*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Skolnick-Lab-Tools)
 - [Zhou Group Tools *Suite of tools for prediction of protein-protein interactions*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Zhou-Group-Tools)
 {.links-list}
