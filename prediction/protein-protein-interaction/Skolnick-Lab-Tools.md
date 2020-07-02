@@ -2,7 +2,7 @@
 title: Skolnick Tools Suite
 description: Suite of tools designed, produced, and made available by the Skolnick Lab, a member of the Center for the Study of Systems Biology at Georgia Tech.
 published: true
-date: 2020-06-28T23:16:20.160Z
+date: 2020-07-02T18:16:19.871Z
 tags: tool, proteins, dna, prediction, binding
 editor: markdown
 ---
@@ -30,7 +30,7 @@ editor: markdown
 
 ## Citations
 
-- Gao, M, Zhou H, Skolnick J. 2019. DESTINI: A deep-learning approach to contact-driven protein structure prediction. Scientific Reports. 9: 3514. https://doi.org/10.1038/s41598-019-40314-1.
+- Gao, M, Zhou H, Skolnick J. 2019. [DESTINI: A deep-learning approach to contact-driven protein structure prediction](https://doi.org/10.1038/s41598-019-40314-1). Scientific Reports. 9: 3514. .
 - M. Gao and J. Skolnick. 2008. DBD-Hunter: A knowledge-based method for the prediction of DNA-protein interactions. Nucleic Acids Research, 36(12): 3978-3992.
 - M. Gao and J. Skolnick. 2009. A threading-based method for the prediction of DNA-binding proteins with application to the human genome.. PLoS computational biology. 5(11):e1000567.
 {.grid-list}
