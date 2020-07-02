@@ -2,7 +2,7 @@
 title: tRNAscan-SE
 description: Searching for tRNA genes in genomic sequence.
 published: true
-date: 2020-06-18T17:13:00.861Z
+date: 2020-07-02T21:43:21.305Z
 tags: sequence alignment, genes, sequence similarity, specialized search, structural analysis, trna, alignment
 editor: markdown
 ---
@@ -19,13 +19,15 @@ editor: markdown
  {.links-list}
 
 ## Notes from the user
+
 - Quickly identifies tRNA sequences from genomic sequences and predicts useful characteristics about tRNA
 - Great for identifying new tRNA sequences
 - Can be used with multiple tRNA sequences with itemized results for each submitted sequence
 
 
 ## Ease of use
-> This tool is very reminiscent of the BLAST tool by NCBI. Just like in BLAST, input a sequence and select which database to search. The results are simple and are easy to navigate through. 
+
+This tool is very reminiscent of the BLAST tool by NCBI. Just like in BLAST, input a sequence and select which database to search. The results are simple and are easy to navigate through. 
 
 ## Citations
 
