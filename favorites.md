@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T18:14:42.466Z
+date: 2020-07-02T18:17:32.629Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -174,6 +174,7 @@ editor: markdown
 
 ## Predicting Protein/Protein Interaction
 
+- [Skolnick Tools Suite *Suite of tools designed, produced, and made available by the Skolnick Lab*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Skolnick-Lab-Tools)
 - [Zhou Group Tools *Suite of tools for prediction of protein-protein interactions*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Zhou-Group-Tools)
 {.links-list}
 
