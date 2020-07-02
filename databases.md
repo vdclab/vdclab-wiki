@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-02T16:08:22.570Z
+date: 2020-07-02T17:59:11.919Z
 tags: category
 editor: markdown
 ---
@@ -23,6 +23,8 @@ editor: markdown
 
 ## Data Integration Databases
 
+
+- [:star: BioCyc *Collection of 16,822 Pathway/Genome Databases (PGDBs)*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BioCyc)
 - [:star: DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [EuPathDB *Eukaryotic pathogens database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
