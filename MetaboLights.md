@@ -2,7 +2,7 @@
 title: EMBL-EBI MetaboLights
 description: MetaboLights is a database for submitting, browsing, and downloading metabolomics experiments, protocols and derived information.
 published: true
-date: 2020-06-11T17:58:11.481Z
+date: 2020-07-02T15:43:17.310Z
 tags: registry, archaea, bacteria, data capture, database, metabolism, browser, data export, eukaryota, metabolomics
 editor: markdown
 ---
@@ -20,14 +20,7 @@ MetaboLights semantic quality is based on various controlled vocabularies and on
 
 - [MetaboLights *Main Page*](https://www.ebi.ac.uk/metabolights/)
 - [MetaboLights Quick Tour *User Training*](https://www.ebi.ac.uk/training/online/course/metabolights-quick-tour-0)
-
 {.links-list}
-
-## Ease of Use
-> The website is easy to use, but easier and more useful if you are searching for specific information versus browsing. 
->
-> There are well written, detailed instructions for submitting your published metabolomics data. 
-{.is-info}
 
 ## User Notes
 
@@ -36,6 +29,9 @@ MetaboLights semantic quality is based on various controlled vocabularies and on
 - Structures, chemical formulas, chemical properties, and database-specific metabolite identifiers can be found for each metabolite. 
 - Data can be downloaded directly from the details page of the study in which it as produced. 
 
+## Ease of Use
+- The website is easy to use, but easier and more useful if you are searching for specific information versus browsing. 
+- There are well written, detailed instructions for submitting your published metabolomics data. 
 
 ## Citation
 
