@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T18:30:02.488Z
+date: 2020-07-02T18:51:12.414Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -322,6 +322,11 @@ editor: markdown
 
 - [GCTNG *Visualize the genomic context of a gene or a group of genes and their orthologous relationships*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/GCTNG)
 - [Gene Graphics *Application that allows for visually representations of physical gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/visualization/gene-neighborhood/Gene-Graphics)
+{.links-list}
+
+## Sequence Data Visualization
+
+- [:star: Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
 {.links-list}
 
 ## Tools to Make Figures
