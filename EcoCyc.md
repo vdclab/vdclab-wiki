@@ -2,7 +2,7 @@
 title: EcoCyc
 description: EcoCyc is a scientific database for the bacterium Escherichia coli K-12 MG1655. 
 published: true
-date: 2020-07-02T16:05:06.077Z
+date: 2020-07-02T16:06:24.596Z
 tags: bacteria, tool, genome browser, data capture, resource center, database, transcriptomics, bioinformatics, gene, browser, data visualization, data mapping, proteomics, metabolic pathways, model organism, data export, omics, phenotype, enrichment, essentiality, metabolomics, library
 editor: markdown
 ---
@@ -16,15 +16,9 @@ editor: markdown
 > In addition, a steady-state metabolic flux model is generated from each new version of EcoCyc and can be executed via the database. The model can predict metabolic flux rates, nutrient uptake rates, and growth rates for different gene knockouts and nutrient conditions. This review outlines the data content of EcoCyc and of the procedures by which this content is generated. EcoCyc provides tools for navigating, visualizing, and analyzing the underlying databases, and for analyzing omics data.
 {.is-info}
 
-
-
 ## Website
 
 - [EcoCyc *Main Page*](https://ecocyc.org/)
-- [EcoCyc Tour *EcoCyc/BioCyc Guided Tour*](https://ecocyc.org/samples.shtml)
-- [EcoCyc Webinars *Instructional Videos*](https://ecocyc.org/webinar.shtml)
-- [EcoCyc User Guide *User Guide*](https://www.asmscience.org/docserver/fulltext/ecosalplus/8/1/ESP-0006-2018.pdf?expires=1592854109&id=id&accname=guest&checksum=40DB04A7BC36EA22B652DF15DB034F51)
-- [Student Portal *E. coli-specific Microbiology Education Site*](http://ecolistudentportal.org/)
 {.links-list}
 
 ## User Notes
@@ -36,7 +30,15 @@ editor: markdown
 
 ## Ease of Use
 
- The EcoCyc website is generally very easy to use and there are very useful instructional videos, guides and examples available if needed. (See Websites)
+ The EcoCyc website is generally very easy to use and there are very useful instructional videos, guides and examples available if needed. (See Help)
+
+## Help
+
+- [EcoCyc Tour *EcoCyc/BioCyc Guided Tour*](https://ecocyc.org/samples.shtml)
+- [EcoCyc Webinars *Instructional Videos*](https://ecocyc.org/webinar.shtml)
+- [EcoCyc User Guide *User Guide*](https://www.asmscience.org/docserver/fulltext/ecosalplus/8/1/ESP-0006-2018.pdf?expires=1592854109&id=id&accname=guest&checksum=40DB04A7BC36EA22B652DF15DB034F51)
+- [Student Portal *E. coli-specific Microbiology Education Site*](http://ecolistudentportal.org/)
+{.links-list}
 
 ## Citation
 
