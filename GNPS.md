@@ -2,7 +2,7 @@
 title: GNPS: Global Natural Products Social Molecular Networking
 description: Open-access mass spectrometry knowledge base for community-wide organization and sharing of raw, processed, or annotated fragmentation mass spectrometry data (MS/MS).
 published: true
-date: 2020-06-11T18:25:58.502Z
+date: 2020-07-02T15:56:53.307Z
 tags: annotation, annotation tools, tool, resource center, database, data visualization, interaction, networks, metabolomics
 editor: markdown
 ---
@@ -17,22 +17,24 @@ editor: markdown
 ## Website
 
 - [GNPS *Main Page*](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp)
-- [GNPS Help *Quick Start Guide*](https://ccms-ucsd.github.io/GNPSDocumentation/quickstart/)
 - [GNPS Help *Uploading Your Data*](https://ccms-ucsd.github.io/GNPSDocumentation/fileupload/)
 - [GNPS Help *Creating a Molecular Network*](https://ccms-ucsd.github.io/GNPSDocumentation/networking/)
-
 {.links-list}
 
 ## Ease of Use
 
-> The website has well written and thorough instructions for users, but users must create an account and optimize their connections to use. 
-{.is-info}
+- The website has well written and thorough instructions for users, but users must create an account and optimize their connections to use. 
 
 ## User Notes
 
 - Users must register a new account and login to analyze data. 
 - To upload personal data you must install an FTP client if you don't already have one. 
 - Users can create molecular networks of there metabolomics data.  The process is not simple, but detailed instructions are provided.
+
+## Help
+
+- [GNPS Help *Quick Start Guide*](https://ccms-ucsd.github.io/GNPSDocumentation/quickstart/)
+{.links-list}
 
 ## Citation
 
