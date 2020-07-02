@@ -2,7 +2,7 @@
 title: RNAmmer
 description: The RNAmmer 1.2 server predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences.
 published: true
-date: 2020-06-18T16:05:19.541Z
+date: 2020-07-02T21:55:16.361Z
 tags: genomes, annotation tools, sequence analysis, rna, prediction, sequence
 editor: markdown
 ---
@@ -25,7 +25,8 @@ editor: markdown
 
  
  ## Ease of use
-> A simple tool that does what it claims. The results are not easy to read and only identify the nucleotides where the rRNA feature begins and ends. 
+
+A simple tool that does what it claims. The results are not easy to read and only identify the nucleotides where the rRNA feature begins and ends. 
 
 ## Citation 
 
