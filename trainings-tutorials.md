@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-06-11T14:00:10.335Z
+date: 2020-07-02T19:59:35.084Z
 tags: category
 editor: markdown
 ---
@@ -19,4 +19,5 @@ editor: markdown
 ## Tutorials
 
 - [:star: NCBI *Tutorial page*](https://vdclab-wiki.herokuapp.com/trainings-tutorials/tutorials/NCBI-tutorials/)
+- [Entrez Help *Summary Matrices*](https://vdclab-wiki.herokuapp.com/en/trainings-tutorials/tutorials/NCBI-Summary-Matrices)
 {.links-list}
