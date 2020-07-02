@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-02T19:51:20.111Z
+date: 2020-07-02T20:08:44.065Z
 tags: category
 editor: markdown
 ---
@@ -66,8 +66,8 @@ editor: markdown
 
 ## Venn Diagram Tools
 
-- [BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BEG-Venn)
+- [:star: BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BEG-Venn)
 - [:star: BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
-- [Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
+- [:star: Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
 {.links-list}
