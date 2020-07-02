@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T21:40:47.378Z
+date: 2020-07-02T21:52:44.801Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -296,6 +296,10 @@ editor: markdown
 - [GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
 {.links-list}
 
+## Prediction
+
+- [:star: tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
+{.links-list}
 
 ## Visualizing Pathways - Mapping Data To Pathways
 
