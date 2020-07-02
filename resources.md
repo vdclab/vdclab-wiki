@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-02T19:50:52.463Z
+date: 2020-07-02T20:29:15.098Z
 tags: category
 editor: markdown
 ---
@@ -41,6 +41,7 @@ editor: markdown
 ## Galaxy Resources
 
 - [Galaxy UF *Galaxy on UF*](https://vdclab-wiki.herokuapp.com/resources/galaxy/Galaxy-UF)
+- [Galaxy Pasteur *Galaxy at Pasteur*](https://vdclab-wiki.herokuapp.com/en/resources/galaxy/Galaxy-Pasteur)
 {.links-list}
 
 ## General Resources
@@ -50,6 +51,7 @@ editor: markdown
 - [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
+- [:star: NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
 - [Online Structure Alignment Resources *Web page provided a list of various tools and resources used in online structure alignments*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Online-Structure-Alignment-Resources)
 - [SAT *Web page describing various structural alignment tools and resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/SAT)
