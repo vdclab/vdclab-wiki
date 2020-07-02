@@ -2,7 +2,7 @@
 title: XSuLT
 description: XSuLT is a tool for the annotation and formatting of a multiple protein sequence alignment or single structure.
 published: true
-date: 2020-06-25T14:58:25.624Z
+date: 2020-07-02T18:39:20.234Z
 tags: annotation tools, sequence analysis, sequence alignment, data visualization, protein, structural alignment, model, protein domain, structural analysis, residue
 editor: markdown
 ---
@@ -17,19 +17,22 @@ editor: markdown
 ## Website
 
 - [XSuLT *Main Page*](http://mordred.bioc.cam.ac.uk/xsult/)
-- [XSuLT Help *Help Page and Tutorial*](http://mordred.bioc.cam.ac.uk/xsult/help)
 {.links-list}
-
-## Ease of Use
-
-> Job submission is fairly self-explanatory, but users should check the help page for any key points that may pertain to their job.
-{.is-info}
 
 ## User Notes
 
 - It is recommended that users use this tool in a Chrome browser.
 - If users run into issues or are unable to submit a job after using the help page tutorial, they should send the developers a message by clicking on the "Problem?" button at the bottom of the page. 
 - Annotating an entry as 'structureM' will mark it as both sequence AND structure, allowing the combined use of secondary structure prediction and analysis, which can be useful for the assessment of predicted models.
+
+## Ease of Use
+
+Job submission is fairly self-explanatory, but users should check the help page for any key points that may pertain to their job.
+
+## Help
+
+- [XSuLT Help *Help Page and Tutorial*](http://mordred.bioc.cam.ac.uk/xsult/help)
+{.links-list}
 
 ## Citation
 
