@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-02T18:42:17.381Z
+date: 2020-07-02T18:47:20.706Z
 tags: category
 editor: markdown
 ---
@@ -71,6 +71,11 @@ editor: markdown
 - [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
 - [:star: InterMine *Integrates biological data sources, making it easy to query and analyse data*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/InterMine)
 - [ProtPhylo *Web server to retrieve phenotype-to-protein and protein-to-protein functional associations*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/ProtPhylo)
+{.links-list}
+
+## Gene Neighborhoods
+
+- [FunGeco *Functional potential of bacterial genomes and microbiomes from gene context information*](https://vdclab-wiki.herokuapp.com/en/tools/gene-neighborhoods/FunGeco)
 {.links-list}
 
 ## Gene Networks
