@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T15:31:17.590Z
+date: 2020-07-02T15:31:24.331Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -107,7 +107,7 @@ editor: markdown
 
 - [Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
 - [FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
-- [:star: FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
+- [FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
 - [OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
 {.links-list}
 
