@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-06-11T14:45:19.745Z
+date: 2020-07-02T18:50:48.158Z
 tags: category
 editor: markdown
 ---
@@ -39,6 +39,11 @@ editor: markdown
 ## Motifs
 
 - [GeneBee Motifs *Web tool that allows the construction of pairwise motifs*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/GeneBee-Motifs)
+{.links-list}
+
+## Sequence Data Visualization
+
+- [:star: Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
 {.links-list}
 
 ## Structure Visualization Platforms 
