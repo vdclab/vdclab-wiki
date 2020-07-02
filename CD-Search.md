@@ -2,7 +2,7 @@
 title: CD-Search
 description: CD-Search is NCBI's interface to searching the Conserved Domain Database with protein or nucleotide query sequences.
 published: true
-date: 2020-07-02T21:07:16.658Z
+date: 2020-07-02T21:07:54.623Z
 tags: annotation, annotation tools, sequence analysis, proteins, sequence similarity, database, sequence annotation, functional annotation
 editor: markdown
 ---
@@ -26,9 +26,9 @@ editor: markdown
 
 ## Citations
 
-- Shennan Lu et al. (2020), ["CDD/SPARCLE: the conserved domain database in 2020."](https://academic.oup.com/nar/article/48/D1/D265/5645006), Nucleic Acids Res.48(D1)265-8.
--	Marchler-Bauer A et al. (2017), ["CDD/SPARCLE: functional classification of proteins via subfamily domain architectures."](https://academic.oup.com/nar/article/45/D1/D200/2605748), Nucleic Acids Res.45(D)200-3.
--	Marchler-Bauer A et al. (2015), ["CDD: NCBI's conserved domain database."](https://academic.oup.com/nar/article/43/D1/D222/2439461), Nucleic Acids Res.43(D)222-6.
--	Marchler-Bauer A et al. (2011), ["CDD: a Conserved Domain Database for the functional annotation of proteins."](https://academic.oup.com/nar/article/39/suppl_1/D225/2507607), Nucleic Acids Res.39(D)225-9.
--	Marchler-Bauer A, Bryant SH (2004), ["CD-Search: protein domain annotations on the fly."](https://academic.oup.com/nar/article/32/suppl_2/W327/1040692), Nucleic Acids Res.32(W)327-331.
+- Shennan Lu et al. ["CDD/SPARCLE: the conserved domain database in 2020."](https://academic.oup.com/nar/article/48/D1/D265/5645006),(2020),  Nucleic Acids Res.48(D1)265-8.
+-	Marchler-Bauer A et al. ["CDD/SPARCLE: functional classification of proteins via subfamily domain architectures."](https://academic.oup.com/nar/article/45/D1/D200/2605748), (2017), Nucleic Acids Res.45(D)200-3.
+-	Marchler-Bauer A et al. ["CDD: NCBI's conserved domain database."](https://academic.oup.com/nar/article/43/D1/D222/2439461), (2015), Nucleic Acids Res.43(D)222-6.
+-	Marchler-Bauer A et al. ["CDD: a Conserved Domain Database for the functional annotation of proteins."](https://academic.oup.com/nar/article/39/suppl_1/D225/2507607), (2011), Nucleic Acids Res.39(D)225-9.
+-	Marchler-Bauer A, Bryant SH ["CD-Search: protein domain annotations on the fly."](https://academic.oup.com/nar/article/32/suppl_2/W327/1040692), (2004), Nucleic Acids Res.32(W)327-331.
 {.grid-list}
