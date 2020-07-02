@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T21:40:14.629Z
+date: 2020-07-02T21:40:39.836Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -332,18 +332,18 @@ editor: markdown
 
 ## Genome Browsers Within Integrated Platforms
 
-- [:star: GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
+- [GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
 {.links-list}
 
 
 ## Miscellaneous
 
-- [:star: IBS *Assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/IBS)
+- [IBS *Assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/IBS)
 {.links-list}
 
 ## Sequence Data Visualization
 
-- [:star: Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
+- [Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
 {.links-list}
 
 ## Tools to Make Figures
