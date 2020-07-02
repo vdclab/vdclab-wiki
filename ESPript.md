@@ -2,20 +2,38 @@
 title: ESPript
 description: ESPript, 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
 published: true
-date: 2020-04-15T19:42:37.850Z
-tags: 
+date: 2020-07-02T16:39:18.089Z
+tags: tool, sequence analysis, sequence matching, bioinformatics, data visualization, prediction, protein, structural alignment, conservation, curated, model, protein domain, interaction, protein-protein, structural analysis, residue, webserver
+editor: markdown
 ---
 
 # ESPript
 
 > ESPript, 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
+&NewLine;
+ESPript calculates a similarity score for each residue of User-provided aligned sequences.
 {.is-info}
 
 
 ## Website
 
 - [ESPript *Main Page*](http://espript.ibcp.fr/ESPript/ESPript/)
+- [ESPript Help *Web Tutorial & Examples*](http://espript.ibcp.fr/ESPript/ESPript/esp_tutorial.php)
+- [ESPript User Guide *Command-line & Web Guide*](http://espript.ibcp.fr/ESPript/ESPript/esp_userguide.php)
 {.links-list}
+
+## Ease of Use
+
+> ESPript 3.0 is easy to use and has extensive tutorials and user guides.
+{.is-info}
+
+## User Notes
+
+- ESPript input is a MSA file. Many of the supported MSA format types are interfaced with ESPript (ex: MultAlin), making an easy transition between tools.  
+- PyMOL is required for users to take advantage of the interactive representations.
+- Making figures is most effective when using ESPript alongside ENDscript.
+- ESPript is not able to predict protein secondary structures (it only uses experimentally determined structures), but users can include additional files depicting secondary structures.
+- Results are displayed in a pop-up window, so users must ensure their results pop-up window isn't blocked by their browsers.
 
 ## Citation
 
