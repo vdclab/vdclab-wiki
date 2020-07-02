@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-06-25T14:30:51.191Z
+date: 2020-07-02T18:42:17.381Z
 tags: category
 editor: markdown
 ---
@@ -62,6 +62,7 @@ editor: markdown
 - [EMBOSS Seqret *Extracting sequences from databases, displaying sequences, reformatting sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/EMBOSS-Seqret)
 - [Reverse Complement *Converts a DNA sequence into its reverse, complement, or reverse-complement*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/Reverse-Complement)
 - [:star: Sequence Massager *Easy modification and editing of user-inputted nucleic acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/Sequence-Massager)
+- [XSuLT *Annotation and formatting of a multiple protein sequence alignment or single structure*](https://vdclab-wiki.herokuapp.com/en/tools/data-formatting/XSuLT)
 {.links-list}
 
 ## Gene finders
