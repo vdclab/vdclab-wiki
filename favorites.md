@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T21:14:02.988Z
+date: 2020-07-02T21:36:52.034Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -33,6 +33,7 @@ editor: markdown
 ## General Annotation Pipeline
 
 - [GeneMark *Web page hosting families of gene prediction programs*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
+- [IslandViewer *Integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/IslandViewer)
 - [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 {.links-list}
 
@@ -49,7 +50,6 @@ editor: markdown
 {.links-list}
 
 ## Data Integration Databases
-
 
 - [BioCyc *Collection of 16,822 Pathway/Genome Databases (PGDBs)*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BioCyc)
 - [DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
