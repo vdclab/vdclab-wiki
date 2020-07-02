@@ -2,7 +2,7 @@
 title: ORFfinder
 description: ORF finder searches for open reading frames (ORFs) in the DNA sequence you enter.
 published: true
-date: 2020-06-18T16:37:43.439Z
+date: 2020-07-02T21:56:53.187Z
 tags: annotation, annotation tools, specialized search, dna, protein, gene annotation
 editor: markdown
 ---
@@ -28,7 +28,8 @@ This web version of the ORF finder is limited to the subrange of the query seque
 - Identified ORFs can be blasted directly from the tool.
 
 ## Ease of use
-> NCBI ORF finder should be among the first choices for identifying unknown protein encoding sequences. The tool accepts a variety of different inputs and has a couple of example sequences to help familiarize the user with the program. Results are simple and very visual but the integrated BLAST feature make the tool useful immediately for annotation.
+
+NCBI ORF finder should be among the first choices for identifying unknown protein encoding sequences. The tool accepts a variety of different inputs and has a couple of example sequences to help familiarize the user with the program. Results are simple and very visual but the integrated BLAST feature make the tool useful immediately for annotation.
 
 ## Citation 
 
