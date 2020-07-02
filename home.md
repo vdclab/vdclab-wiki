@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-07-02T18:13:16.890Z
+date: 2020-07-02T18:13:50.176Z
 tags: 
 editor: markdown
 ---
@@ -49,7 +49,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 ## Prediction
 
-- [prediction *List of websites linked to prediction (protein interaction, ligands, DNA binding site...)*](https://vdclab-wiki.herokuapp.com/en/prediction)
+- [Prediction *List of websites linked to prediction (protein interaction, ligands, DNA binding site...)*](https://vdclab-wiki.herokuapp.com/en/prediction)
 {.links-list}
 
 ## Resources
