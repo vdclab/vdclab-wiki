@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-02T15:30:53.020Z
+date: 2020-07-02T15:42:39.209Z
 tags: category
 editor: markdown
 ---
@@ -123,6 +123,7 @@ editor: markdown
 
 - [:star: APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
 - [DIP *Catalogs experimentally determined interactions between proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/DIP)
+- [Emili Lab Database *Emili Lab research findings accessed via public databases*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Emili-Lab-Database)
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
 {.links-list}
