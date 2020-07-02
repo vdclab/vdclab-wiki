@@ -2,8 +2,9 @@
 title: Fitness Browser
 description: Browse thousands of genome-wide fitness experiments from diverse bacteria, identify fitness phenotypes and compare fitness between genes and organisms.
 published: true
-date: 2020-05-31T19:36:44.651Z
+date: 2020-07-02T14:35:52.860Z
 tags: bacteria, comparative genomics, functional association, database, gene, fitness, browser, co-occurrence, conservation, omics, orthologs, phenotype, essentiality
+editor: markdown
 ---
 
 # Fitness Browser
@@ -15,9 +16,10 @@ tags: bacteria, comparative genomics, functional association, database, gene, fi
 >For each fitness experiment, we compare the abundance of each strain at the end of the experiment to its abundance at the beginning. The beginning sample is also referred to as the "Time0" sample. Typically, we recover the pool of mutants from the freezer in rich media, wash the cells and take Time0 sample(s), and transfer the washed cells into many different tubes or wells. Thus, many different conditions may be compared to the same Time0 sample(s).
 {.is-info}
 
-## Ease of Use
+## Website
 
-- The website is very easy to use and the help page has detailed, easy to read descriptions of exactly what is being looked at and what that means, in regards to fitness score values. 
+- [Fitness Browser *Main Page*](http://fit.genomics.lbl.gov/cgi-bin/myFrontPage.cgi)
+{.links-list}
 
 ## User Notes  
 - Gene fitness values: 
@@ -31,10 +33,9 @@ tags: bacteria, comparative genomics, functional association, database, gene, fi
 - Cofitness represents the Pearson correlation between the fitness pattern of two genes. 
 - Conserved cofitness is evidence of a functional relationship, and means that the two genes and their orthologs all have cofitness scores > 0.6.
 
-## Website
+## Ease of Use
 
-- [Fitness Browser *Main Page*](http://fit.genomics.lbl.gov/cgi-bin/myFrontPage.cgi)
-{.links-list}
+The website is very easy to use and the help page has detailed, easy to read descriptions of exactly what is being looked at and what that means, in regards to fitness score values. 
 
 ## Help
 
