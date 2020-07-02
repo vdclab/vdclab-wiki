@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T21:56:33.592Z
+date: 2020-07-02T22:01:14.199Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -34,12 +34,13 @@ editor: markdown
 
 - [GeneMark *Web page hosting families of gene prediction programs*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
 - [IslandViewer *Integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/IslandViewer)
-- [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
+- [:star: ORFfinder *Searches for open reading frames (ORFs) in the DNA sequence you enter*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 {.links-list}
 
 ### Prokaryotic Genome Annotation Pipelines
 
 - [KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
+- [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 {.links-list}
 
 # Databases
