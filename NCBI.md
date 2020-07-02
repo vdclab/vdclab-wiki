@@ -2,7 +2,7 @@
 title: National Center for Biotechnology Information (NCBI)
 description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-06-25T18:49:05.573Z
+date: 2020-07-02T19:44:57.698Z
 tags: resource center, database, publisher
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 
  
 
-# NCBI page related on the wiki
+# NCBI pages related on the wiki
 
 Other name for this section could be used. Maybe `tools of the website` or `interesting features`. Need some reflexion about it
 
