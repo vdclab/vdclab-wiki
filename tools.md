@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-02T21:10:10.212Z
+date: 2020-07-02T21:11:31.878Z
 tags: category
 editor: markdown
 ---
@@ -36,7 +36,7 @@ editor: markdown
 - [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [:star: MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
-- [:star: NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
+- [:star: NCBI *Conserved Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [:star: NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [:star: PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
