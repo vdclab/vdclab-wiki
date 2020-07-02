@@ -2,7 +2,7 @@
 title: IslandViewer
 description: IslandViewer is a computational tool that integrates four different genomic island prediction methods: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander.
 published: true
-date: 2020-07-02T21:19:54.220Z
+date: 2020-07-02T21:20:02.551Z
 tags: annotation, genomes, archaea, bacteria, tool, genome browser, prediction
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 # IslandViewer
 
 > This web site was developed so that researchers could easily view and download genomic islands for all published sequenced bacterial and archaeal genomes that have been predicted using the the currently most accurate GI prediction methods. Users can also upload their own unpublished genomes for analysis.
-&NewLine;
-The source code and entire GI data sets are available for download and acknowledgement information is available for those who use our resources. This software and website is developed and maintained by the Brinkman lab at Simon Fraser University, Canada. 
+> 
+> The source code and entire GI data sets are available for download and acknowledgement information is available for those who use our resources. This software and website is developed and maintained by the Brinkman lab at Simon Fraser University, Canada. 
 {.is-info}
 
 
