@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-02T21:56:11.380Z
+date: 2020-07-02T22:07:16.678Z
 tags: category
 editor: markdown
 ---
@@ -120,6 +120,7 @@ editor: markdown
 ## Prediction
 
 - [:star: RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
+- [RNApredator *Bacterial sRNA target prediction webserver*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNApredator)
 - [:star: tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 {.links-list}
 
