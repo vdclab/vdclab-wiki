@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-02T15:54:22.655Z
+date: 2020-07-02T16:03:00.270Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -137,6 +137,13 @@ editor: markdown
 # Literature Search
 
 - [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
+{.links-list}
+
+# Omics Data
+
+## Omics Database
+
+- [GNPS *Mass spectrometry knowledge base for community-wide organization*](https://vdclab-wiki.herokuapp.com/en/omics-data/omics-data/GNPS)
 {.links-list}
 
 # Phylogeny
