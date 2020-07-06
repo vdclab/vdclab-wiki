@@ -2,8 +2,9 @@
 title: FuzDB
 description: This database assembles fuzzy protein complexes based on experimental evidence.
 published: true
-date: 2020-05-19T16:57:38.148Z
+date: 2020-07-06T19:48:49.467Z
 tags: proteins, database
+editor: markdown
 ---
 
 # FuzDB
@@ -18,6 +19,16 @@ tags: proteins, database
 ## Website 
 
 - [FuzDB *Main Page*](http://protdyn-database.org/)
+{.links-list}
+
+## Notes from Users
+
+
+## Ease of use
+
+
+## Help
+- [FuzDB Help *Help Section*](http://protdyn-database.org/help.php)
 {.links-list}
 
 ## Citation 
