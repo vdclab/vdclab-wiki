@@ -2,8 +2,9 @@
 title: GenAtlas
 description: The mission of GenAtlas is to provide the international scientific and medical community with scientific and clinical digests on genes and diseases.
 published: true
-date: 2020-05-18T21:25:27.229Z
+date: 2020-07-06T19:11:50.390Z
 tags: aggregator, annotation, curated
+editor: markdown
 ---
 
 # GenAtlas
@@ -18,6 +19,15 @@ tags: aggregator, annotation, curated
 ## Website
 - [GenAtlas *Home Page*](http://www.genatlas.org/)
  {.links-list}
+ 
+ ## Notes from the user
+ - Gene search can be used in a simplified or advanced version where the user can add extra information about their query genes
+ - Plenty of links to original sources of annotations for genes
+ - limited to eukaryotic genes
+ 
+ ## Ease of use
+ > The tool is easy to use and there is a lot of information contained within the results.
+ 
 
 ## Citation 
 
