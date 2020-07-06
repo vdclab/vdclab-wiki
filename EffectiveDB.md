@@ -2,8 +2,8 @@
 title: EffectiveDB
 description: Prediction of bacterial protein secretion.
 published: true
-date: 2020-07-06T15:07:38.912Z
-tags: tool, proteins, model
+date: 2020-07-06T15:10:10.596Z
+tags: bacteria, tool, proteins, database, prediction, 2016, model
 editor: markdown
 ---
 
