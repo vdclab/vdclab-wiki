@@ -2,8 +2,9 @@
 title: EffectiveDB
 description: Prediction of bacterial protein secretion.
 published: true
-date: 2020-05-08T18:43:18.775Z
+date: 2020-07-06T15:07:38.912Z
 tags: tool, proteins, model
+editor: markdown
 ---
 
 # EffectiveDB
@@ -18,6 +19,20 @@ Beyond the analysis of arbitrary protein sequence collections, the new release o
 ## Website 
 - [EffectiveDB *Main Page*](https://effectors.csb.univie.ac.at/)
  {.links-list}
+ 
+## Notes from Users
+- Sequence based predictions.
+> Last updated in 2017
+{.is-warning}
+
+
+## Ease of use
+- Browse per genomes to see what was already detected.
+- Prediction of secretion based on sequence. Easy to analyse, lots of downloadables.
+
+## Help
+- [EffectiveDB Help *Q&A and Tutorials*](https://effectors.csb.univie.ac.at/help)
+{.links-list}
 
 ## Citation 
 
