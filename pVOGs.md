@@ -2,8 +2,8 @@
 title: pVOGs
 description: This website provides access to the most recent database 9,518 orthologous groups shared among nearly 3,000 thousand complete genomes of viruses that infect bacteria and archaea.
 published: true
-date: 2020-07-06T14:19:01.426Z
-tags: genomes, database, orthologs
+date: 2020-07-06T14:22:20.244Z
+tags: genomes, hmm profile, database, 2017, phages, orthologs
 editor: markdown
 ---
 
