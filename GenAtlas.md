@@ -2,8 +2,8 @@
 title: GenAtlas
 description: The mission of GenAtlas is to provide the international scientific and medical community with scientific and clinical digests on genes and diseases.
 published: true
-date: 2020-07-06T19:11:50.390Z
-tags: aggregator, annotation, curated
+date: 2020-07-06T19:12:21.468Z
+tags: aggregator, annotation, eukaryotes, gene expression, curated, gene annotation, searc
 editor: markdown
 ---
 
