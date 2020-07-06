@@ -2,8 +2,8 @@
 title: Metascape
 description: A Gene Annotation & Analysis Resource
 published: true
-date: 2020-07-06T18:08:25.467Z
-tags: analysis tools, gene annotation, model specific
+date: 2020-07-06T19:46:26.456Z
+tags: 2019, analysis tools, ontology, gene annotation, model specific
 editor: markdown
 ---
 
@@ -22,13 +22,14 @@ editor: markdown
  {.links-list}
 
 ## Notes from Users
-
+- Excel add-in available.
+- Problems when your genes are not in human.
 
 ## Ease of use
-
-
-## Help
-
+- Take a list of gene id from different plateform.
+- Fetch the human gene ids correlated with the gene ids you entered.
+- Analyse the ontology of these id.
+- Lots of output data (heat map, networks).
 
 ## Citation
 
