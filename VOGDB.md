@@ -2,8 +2,8 @@
 title: VOGDB
 description: Virus orthologous groups.
 published: true
-date: 2020-07-06T15:32:53.503Z
-tags: metagenomics, database, orthologs
+date: 2020-07-06T15:34:09.148Z
+tags: database, 2017, orthologs, virus
 editor: markdown
 ---
 
