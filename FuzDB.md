@@ -2,8 +2,8 @@
 title: FuzDB
 description: This database assembles fuzzy protein complexes based on experimental evidence.
 published: true
-date: 2020-07-06T19:48:49.467Z
-tags: proteins, database
+date: 2020-07-06T19:56:09.634Z
+tags: proteins, database, 2017
 editor: markdown
 ---
 
@@ -22,10 +22,14 @@ editor: markdown
 {.links-list}
 
 ## Notes from Users
+- Linked to PDB.
+- Literature evidences of the protein.
+- Possibility to submit your protein.
 
 
 ## Ease of use
-
+- Search per terms or just brows the list.
+- Lots of informations per proteins.
 
 ## Help
 - [FuzDB Help *Help Section*](http://protdyn-database.org/help.php)
