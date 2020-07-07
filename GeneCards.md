@@ -2,8 +2,9 @@
 title: GeneCards
 description: The Human Gene Database
 published: true
-date: 2020-05-23T21:54:03.330Z
-tags: annotation, database, model organism
+date: 2020-07-07T14:34:05.392Z
+tags: annotation, database, eukaryotes, gene expression, model organism, curated, gene annotation
+editor: markdown
 ---
 
 # GeneCards
