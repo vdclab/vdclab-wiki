@@ -2,7 +2,7 @@
 title: AnnoTree
 description: AnnoTree is a web tool for visualization of genome annotations across large phylogenetic trees.
 published: true
-date: 2020-07-07T13:51:51.790Z
+date: 2020-07-07T13:52:07.202Z
 tags: taxonomy, 2019, tool, phylogeny, data visualization, orthology
 editor: markdown
 ---
@@ -17,7 +17,6 @@ Future releases will include additional types of functional annotations and expa
 ## Website
 
 - [AnnoTree *Main Page*](http://annotree.uwaterloo.ca/)
-- [Help *Examples of Use*](http://annotree.uwaterloo.ca/app/examples.html)
 {.links-list}
 
 ## Notes from Users
@@ -27,6 +26,11 @@ Future releases will include additional types of functional annotations and expa
 
 ## Ease of use
 Fairly easy to get an image of distribution on the tree of life.
+
+## Help
+
+- [Help *Examples of Use*](http://annotree.uwaterloo.ca/app/examples.html)
+{.links-list}
 
 ## Citation
 
