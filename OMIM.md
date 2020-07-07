@@ -2,7 +2,7 @@
 title: OMIM - Online Mendelian Inheritance in Man
 description: OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily.
 published: true
-date: 2020-07-07T14:34:36.947Z
+date: 2020-07-07T14:51:54.530Z
 tags: eukaryotes, gene expression, curated, phenotype, genotype, gene annotation
 editor: markdown
 ---
@@ -19,6 +19,19 @@ editor: markdown
 - [About OMIM *About Page*](https://www.omim.org/about)
 
  {.links-list}
+ 
+## Notes from the user
+- Biocurators manually curate descriptions of gene function and implications in disease
+- Lots of details about function and interactions
+- Easy to read descriptions graphical representations of interactions with the query gene and its associated diseases/phenotypes
+- Full references 
+- Human genes only
+
+## Ease of use
+> The combination between a simple and effective search function and a professionally curated database makes for a pleasant time for finding human genes and their phenotypes.
+
+
+
 
 ## Citations
 Citing OMIM as a whole:
