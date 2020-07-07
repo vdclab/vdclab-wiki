@@ -2,7 +2,7 @@
 title: AnnoTree
 description: AnnoTree is a web tool for visualization of genome annotations across large phylogenetic trees.
 published: true
-date: 2020-07-06T21:45:35.105Z
+date: 2020-07-07T13:51:51.790Z
 tags: taxonomy, 2019, tool, phylogeny, data visualization, orthology
 editor: markdown
 ---
@@ -21,8 +21,9 @@ Future releases will include additional types of functional annotations and expa
 {.links-list}
 
 ## Notes from Users
-Be sure to have the Id numbers you need. This tool doesn't show the distribution per protein, but just each branch that have all of the a member of the family queried. The results are really dependent on the family chosen . Some pfam are really broad and this is not very useful. KO families are usually more specific. Very useful also to gather statistics and all proteins of a given family
-You can't have the full tree of life, it is only either Bacteria or Archaea.
+
+- Be sure to have the Id numbers you need. This tool doesn't show the distribution per protein, but just each branch that have all of the a member of the family queried. The results are really dependent on the family chosen . Some pfam are really broad and this is not very useful. KO families are usually more specific. Very useful also to gather statistics and all proteins of a given family.
+- You can't have the full tree of life, it is only either Bacteria or Archaea.
 
 ## Ease of use
 Fairly easy to get an image of distribution on the tree of life.
