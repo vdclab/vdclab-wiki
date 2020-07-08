@@ -2,7 +2,7 @@
 title: pVOGs
 description: This website provides access to the most recent database 9,518 orthologous groups shared among nearly 3,000 thousand complete genomes of viruses that infect bacteria and archaea.
 published: true
-date: 2020-07-06T14:22:20.244Z
+date: 2020-07-08T11:57:53.746Z
 tags: genomes, hmm profile, database, 2017, phages, orthologs
 editor: markdown
 ---
@@ -21,13 +21,13 @@ editor: markdown
  
 ## Notes from Users
 - Sections of the website are at the bottom of the main page.
-- Some VOGs are poorly define, some verification are needed.
+- Some VOGs are poorly defined, some verification is needed.
 
 ## Ease of Use
-- Search the site by genome: each collumn can be searched.
+- Search the site by genome: each column can be searched.
 - Search website directly by VOGs.
-- All tables of the databe can be downloaded.
-- Downloadable per VOG: Allignment, tables and HHmers.
+- All tables of the database can be downloaded.
+- Downloadable per VOG: Alignment, tables and HHmers.
 
 ## Help
 - [pVOGs Tutorial *Help page*](http://dmk-brain.ecn.uiowa.edu/pVOGs/tutorial.html#)
