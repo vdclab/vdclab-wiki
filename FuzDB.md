@@ -2,7 +2,7 @@
 title: FuzDB
 description: This database assembles fuzzy protein complexes based on experimental evidence.
 published: true
-date: 2020-07-06T19:56:09.634Z
+date: 2020-07-08T12:02:27.836Z
 tags: proteins, database, 2017
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 
 ## Notes from Users
 - Linked to PDB.
-- Literature evidences of the protein.
+- Literature evidences  for the proteins.
 - Possibility to submit your protein.
 
 
