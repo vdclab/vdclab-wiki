@@ -2,8 +2,9 @@
 title: The Dali Server
 description: The Dali server is a network service for comparing protein structures in 3D.
 published: true
-date: 2020-05-19T18:12:26.491Z
+date: 2020-07-09T16:54:20.554Z
 tags: proteins, comparative genomics, structural analysis
+editor: markdown
 ---
 
 # The Dali Server
@@ -18,6 +19,12 @@ tags: proteins, comparative genomics, structural analysis
 - [The Dali Server *Main Page*](http://ekhidna2.biocenter.helsinki.fi/dali/)
  {.links-list}
 
+## Notes from the user
+- Offers several different methods for comparing protien structures
+- Can upload protein files or search for proteins from protein databank identifiers
+- Jobs can be queued and returned to later
+## Ease of use
+> The service is easy to use and upload your query to. There isn't a lot of customization for the analysis parameters but the results are clean and easy to understand. 
 ## Citation 
 
 - Holm, L. (2019). [Benchmarking fold detection by DaliLite v. 5.](https://academic.oup.com/bioinformatics/article-abstract/35/24/5326/5526869) Bioinformatics, 35(24), 5326-5327.
