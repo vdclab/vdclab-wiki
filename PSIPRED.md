@@ -2,8 +2,9 @@
 title: PSIPRED
 description: PSIPRED is a simple and accurate secondary structure prediction method, incorporating two feed-forward neural networks which perform an analysis on output obtained from PSI-BLAST (Position Specific Iterated - BLAST).
 published: true
-date: 2020-05-19T18:08:53.248Z
+date: 2020-07-09T17:08:30.630Z
 tags: sequence analysis, sequence alignment, prediction, modeling
+editor: markdown
 ---
 
 # Predict Secondary Structure (PSIPRED)
@@ -17,6 +18,13 @@ tags: sequence analysis, sequence alignment, prediction, modeling
 
 - [PSIPRED *Main Page*](http://bioinf.cs.ucl.ac.uk/psipred/)
  {.links-list}
+ 
+ ## Notes from the user
+ - great visualization of amino acid allocation in secondary structures
+ - color coded results and exports of results
+ 
+ ## Ease of use
+ > The PSIPRED service can be used on protein databank identifiers or with fasta sequences. This makes uploading query proteins easy and the results are easy to look at and understand. 
 
 ## Citation
 
