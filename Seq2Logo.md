@@ -2,8 +2,9 @@
 title: Seq2Logo
 description: Sequence logo generator
 published: true
-date: 2020-05-19T17:50:43.636Z
-tags: tool, data visualization, logo
+date: 2020-07-09T15:46:40.191Z
+tags: tool, sequence alignment, sequence similarity, data visualization, protein domain, motif, logo
+editor: markdown
 ---
 
 # Seq2Logo
@@ -17,6 +18,13 @@ tags: tool, data visualization, logo
 
 - [Seq2Logo *Main Page*](https://services.healthtech.dtu.dk/service.php?Seq2Logo-2.0)
  {.links-list}
+ 
+ ## Notes from the user
+ - Great for analyzing aligned amino acid sequences as a whole for shared motifs
+ - Unlike other tools, Seq2Logo needs only an alignment to generate the whole sequence logo for the query sequences
+ 
+ ## Ease of use
+ > Very standard alignment uploading process and lots of ways to customize the analysis (Logo type, clustering method, weight for alignment score, etc...). The resulting logo is easily exported as a PNG.
 
 ## Citation 
 
