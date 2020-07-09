@@ -2,7 +2,7 @@
 title: The Dali Server
 description: The Dali server is a network service for comparing protein structures in 3D.
 published: true
-date: 2020-07-09T17:00:15.756Z
+date: 2020-07-09T17:00:43.410Z
 tags: proteins, comparative genomics, structural alignment, protein domain, structural analysis
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
  {.links-list}
 
 ## Notes from the user
-- Offers several different methods for comparing protien structures
+- Offers several different methods for comparing protein structures
 - Can upload protein files or search for proteins from protein databank identifiers
 - Jobs can be queued and returned to later
 ## Ease of use
