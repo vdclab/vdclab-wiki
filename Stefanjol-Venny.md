@@ -2,8 +2,8 @@
 title: Stefanjol - Venny
 description: This tool is an online venn diagram generator.
 published: true
-date: 2020-07-09T15:26:52.771Z
-tags: tool
+date: 2020-07-09T15:28:17.828Z
+tags: tool, analysis tools
 editor: markdown
 ---
 
