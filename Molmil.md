@@ -2,8 +2,9 @@
 title: Molmil Viewer
 description: Browser-based protein structure viewer
 published: true
-date: 2020-05-23T22:20:02.831Z
+date: 2020-07-09T15:56:43.240Z
 tags: proteins, browser, structural analysis
+editor: markdown
 ---
 
 # Molmil Viewer
@@ -17,6 +18,14 @@ tags: proteins, browser, structural analysis
 
 - [Molmil Viewer *Web Application*](http://gjbekker.github.io/molmil/)
 {.links-list}
+
+## Notes from the user
+- A great tool for viewing protein structures but limited for analysis
+- Can use files from the protein databank by entering the desired protein's ID
+- lots of customization on residue color and model type
+
+## Ease of use
+> This protein modeling tool is easy to use if the user is familiar with other protein modeling software. Some features are hidden (like the amino acid sequence) and require some trial and error to find. Not ideal for analyzing multiple protein structures.
 
 ## Help
 - [MolMil *Home Page*](https://github.com/gjbekker/molmil/wiki)
