@@ -2,7 +2,7 @@
 title: GeneCards
 description: The Human Gene Database
 published: true
-date: 2020-07-07T15:20:42.346Z
+date: 2020-07-09T17:10:55.755Z
 tags: annotation, database, eukaryotes, gene expression, model organism, curated, gene annotation
 editor: markdown
 ---
@@ -21,10 +21,11 @@ editor: markdown
 {.links-list}
 
 ## Notes from the user
-- 
+- great tool for quick information about human genes
+- compiles results from various annotation sources in 1 locaiton
 
 ## Ease of use
-
+> Simple search bar for gene finding and delivers a wealth of results quickly. 
 ## Citations
 
 - [GeneCards Publications *How to Cite*](https://www.genecards.org/Guide/Publications)
