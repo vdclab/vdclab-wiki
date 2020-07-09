@@ -2,7 +2,7 @@
 title: Stefanjol - Venny
 description: This tool is an online venn diagram generator.
 published: true
-date: 2020-07-09T15:28:17.828Z
+date: 2020-07-09T15:29:46.483Z
 tags: tool, analysis tools
 editor: markdown
 ---
@@ -22,7 +22,7 @@ editor: markdown
  {.links-list}
  
  ## Notes from the user
- - The venn diagram is dynamic and interactive
+ - The Venn diagram is dynamic and interactive
  - Easy to upload data
  
  
