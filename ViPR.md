@@ -2,8 +2,9 @@
 title: ViPR
 description: ViPR: an open bioinformatics database and analysis resource for virology research
 published: true
-date: 2020-05-08T18:27:08.385Z
-tags: database, bioinformatics
+date: 2020-07-10T17:35:29.467Z
+tags: sequence analysis, sequence similarity, specialized search, database, bioinformatics, organism-specific
+editor: markdown
 ---
 
 # The Virus Pathogen Database and Analysis Resource (ViPR)
@@ -19,6 +20,14 @@ ViPR captures various types of information, including sequence records, gene and
 
 - [ViPR *Main Page*](https://www.viprbrc.org/brc/home.spg?decorator=vipr)
  {.links-list}
+
+## User Notes
+- Straight forward platform for very specific viral database queries
+- Pulls from various publicly available databases, as well; curated specifically for viral pathogens, biomolecular sequences of relevance to viral pathogens
+
+## Ease of Use
+- Slightly tedious in the formatting of the query tool; good for very specific queries; may be easier to perform a larger query with taxa-specific parameters in NCBI or similar database as an alternative, faster method
+
 
 ## Citation
 
