@@ -2,8 +2,8 @@
 title: NONCODE
 description: NONCODE (current version v5.0) is an integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs). 
 published: true
-date: 2020-07-10T18:08:43.427Z
-tags: rna, database
+date: 2020-07-10T19:28:35.430Z
+tags: annotation, annotation tools, functional association, specialized search, rna, database, functional annotation, non-coding
 editor: markdown
 ---
 
@@ -16,6 +16,16 @@ editor: markdown
 
 - [NONCODE *Main Page*](http://www.noncode.org/index.php)
  {.links-list}
+
+## User Notes
+- helpful for examining RNA specific data; diverse tool sets available; comparable to databases dedicated to other biological features (genes, proteins)
+- Recommended tools: BLAST, Conservation browser, sequence browser
+
+
+
+## Ease of Use
+- Very easy to use; similar organization to many common databases/resources
+
 
 ## Citation 
 
