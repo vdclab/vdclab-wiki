@@ -2,8 +2,8 @@
 title: Giant Virus
 description: Welcome to the Giant Virus site, home of mimivirus and other large DNA viruses.
 published: true
-date: 2020-07-10T18:09:17.567Z
-tags: dna, database
+date: 2020-07-10T19:42:52.175Z
+tags: genomics, database, resource, organism-specific, virus
 editor: markdown
 ---
 
@@ -18,6 +18,14 @@ Our objective is to help creating a sense of community among researchers working
 
 - [GiantVirus *Main Page*](http://www.giantvirus.org/)
  {.links-list}
+
+## User Notes
+- More of a reference tool or highly-specific resource than it is an analytic tool or database
+
+
+## Ease of Use
+- Straight-forward site map; major utilities are simple to find
+
 
  ## Citation
  
