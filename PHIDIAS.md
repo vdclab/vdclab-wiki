@@ -2,8 +2,9 @@
 title: PHIDIAS
 description: PHIDIAS is a web-based centralized resource for biomedical researchers to investigate integrated genome sequences, curated literature information, and gene expression data related to pathogen-host interactions for pathogens with high priority.
 published: true
-date: 2020-05-23T22:03:24.232Z
+date: 2020-07-10T17:25:30.296Z
 tags: resource center, model organism
+editor: markdown
 ---
 
 # PHIDIAS
@@ -17,6 +18,20 @@ tags: resource center, model organism
 
 - [PHIDIAS *Main Page*](http://www.phidias.us/index.php)
  {.links-list}
+
+## User Notes
+- Website is biased heavily toward host-pathogen interactions, datasets and literature; additional cross-checking with annotations of other databases is necessary
+- Website information is organized into several subsets by datatype and relevance:
+1. Victor (virulence factors)
+2. Phinfo (pathogen-host interaction information/literature search)
+3. Phinet (molecular networks of host-pathogen interactions)
+4. Phigen (genes related to host-pathogen interactions)
+5. Pacodom (conserved protein domains from pathogen genomes)
+6. BLAST Library (various BLAST search tools for pathogen-specific custom queries)
+
+## Ease of Use
+- Relatively easy to navigate, but more challenging to cross-reference; missing some hyperlinks or accessions of other databases that could facilitate this process
+
 
 ## Citations
 
