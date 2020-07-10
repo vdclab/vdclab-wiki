@@ -2,7 +2,7 @@
 title: Giant Virus
 description: Welcome to the Giant Virus site, home of mimivirus and other large DNA viruses.
 published: true
-date: 2020-07-10T18:09:01.282Z
+date: 2020-07-10T18:09:17.567Z
 tags: dna, database
 editor: markdown
 ---
@@ -19,4 +19,6 @@ Our objective is to help creating a sense of community among researchers working
 - [GiantVirus *Main Page*](http://www.giantvirus.org/)
  {.links-list}
 
+ ## Citation
  
+ Missing citation
