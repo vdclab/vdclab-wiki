@@ -2,8 +2,9 @@
 title: WashU
 description: The WashU Epigenome Browser provides visualization, integration and analysis tools for epigenomic datasets.
 published: true
-date: 2020-05-21T15:17:59.092Z
+date: 2020-07-13T14:47:33.502Z
 tags: analysis tools, data visualization, epigenetic
+editor: markdown
 ---
 
 # WashU
@@ -18,6 +19,16 @@ tags: analysis tools, data visualization, epigenetic
 
 - [WashU *Main Page*](http://epigenomegateway.wustl.edu/support/guide/index.html)
  {.links-list}
+
+## Notes from Users
+
+
+## Ease of use
+
+
+## Help
+- [**]()
+{.links-list}
 
 ## Citation 
 
