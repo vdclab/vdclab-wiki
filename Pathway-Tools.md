@@ -2,7 +2,7 @@
 title: Pathway Tools
 description: Pathway Tools supports creation, editing, querying, visualization, and analysis of PGDBs. The software also allows users to publish a PGDB on the Web for access by the scientific community.
 published: true
-date: 2020-07-13T12:54:04.201Z
+date: 2020-07-13T13:33:17.683Z
 tags: genomics, functional association, data mapping, metabolic pathways
 editor: markdown
 ---
@@ -21,6 +21,13 @@ editor: markdown
 {.links-list}
 
 ## Notes from Users
+> Not a online tool, you have to download and install. 
+{.is-warning}
+
+> Free for Academics.
+{.is-success}
+
+- Linked to BioCyc ([Wiki Page](https://vdclab-wiki.herokuapp.com/databases/data-integration/BioCyc), [Website](https://biocyc.org/)).
 
 
 ## Ease of use
@@ -30,6 +37,7 @@ editor: markdown
 - [Help *Tutorials*](http://bioinformatics.ai.sri.com/ptools/tutorial/)
 - [Help *FAQ*](http://bioinformatics.ai.sri.com/ptools/faq.html)
 - [Help *User Forum*](https://ask.pathwaytools.com/questions/)
+- [Help *YouTube Channel*](https://www.youtube.com/channel/UCl1ZLWJKdbdJFjoU1MOr40A)
 {.links-list}
 
 ## Citations
