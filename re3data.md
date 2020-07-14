@@ -2,8 +2,9 @@
 title: re3data
 description: re3data.org is a global registry of research data repositories that covers research data repositories from different academic disciplines.
 published: true
-date: 2020-05-06T18:35:20.001Z
+date: 2020-07-14T15:33:06.319Z
 tags: registry
+editor: markdown
 ---
 
 # re3data
@@ -20,5 +21,5 @@ tags: registry
 
 ## Citation
 
-- Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., ... & Dierolf, U. (2013). [Making research data repositories visible: the re3data. org registry.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3817176/) PloS one, 8(11).
+- Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., ... & Dierolf, U. (2013). [Making research data repositories visible: the re3data. org registry.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078080) PloS one, 8(11).
 {.grid-list}
