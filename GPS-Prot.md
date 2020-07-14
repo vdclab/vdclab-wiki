@@ -2,8 +2,9 @@
 title: GPS-Prot
 description: Data Visualization for Protein-Protein Interactions
 published: true
-date: 2020-05-25T17:24:28.052Z
+date: 2020-07-14T15:06:01.037Z
 tags: data visualization, interaction, protein-protein
+editor: markdown
 ---
 
 # GPS-Prot
@@ -17,6 +18,18 @@ tags: data visualization, interaction, protein-protein
 
 - [GPS-Prot *Main Page*](http://gpsprot.org/index.php)
  {.links-list}
+
+
+## Notes from Users
+
+
+## Ease of use
+
+
+## Help
+- [Help *User Guide*](http://gpsprot.org/userguide.php)
+- [Help *FAQ*](http://gpsprot.org/faq.php)
+{.links-list}
 
 ## Citation 
 
