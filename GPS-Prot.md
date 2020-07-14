@@ -2,8 +2,8 @@
 title: GPS-Prot
 description: Data Visualization for Protein-Protein Interactions
 published: true
-date: 2020-07-14T15:23:42.940Z
-tags: data visualization, interaction, protein-protein
+date: 2020-07-14T15:27:13.353Z
+tags: data visualization, 2011, model organism, interaction, protein-protein, virus
 editor: markdown
 ---
 
