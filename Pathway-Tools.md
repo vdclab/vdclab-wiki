@@ -2,7 +2,7 @@
 title: Pathway Tools
 description: Pathway Tools supports creation, editing, querying, visualization, and analysis of PGDBs. The software also allows users to publish a PGDB on the Web for access by the scientific community.
 published: true
-date: 2020-07-13T19:45:32.381Z
+date: 2020-07-14T12:56:34.977Z
 tags: genomics, functional association, data mapping, metabolic pathways
 editor: markdown
 ---
@@ -34,7 +34,8 @@ editor: markdown
 
 
 ## Ease of use
-
+- Requiere some training to use the software.
+- Once you know, access to a lot of data easily.
 
 ## Help
 - [Help *Tutorials*](http://bioinformatics.ai.sri.com/ptools/tutorial/)
