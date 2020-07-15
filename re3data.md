@@ -2,7 +2,7 @@
 title: re3data
 description: re3data.org is a global registry of research data repositories that covers research data repositories from different academic disciplines.
 published: true
-date: 2020-07-14T16:05:12.656Z
+date: 2020-07-15T13:21:43.262Z
 tags: registry, 2013
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 
 ## Notes from Users
 - Good repositories archived with many different filters.
-- Multidisciplinary..
+- Multidisciplinary.
 - Not sure how upto date this is. 
 - Not sure if they scan internet for new ressources or just wait for people to input their ressources. 
 
