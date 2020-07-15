@@ -2,7 +2,7 @@
 title: GPS-Prot
 description: Data Visualization for Protein-Protein Interactions
 published: true
-date: 2020-07-14T15:27:13.353Z
+date: 2020-07-15T13:20:46.357Z
 tags: data visualization, 2011, model organism, interaction, protein-protein, virus
 editor: markdown
 ---
@@ -24,8 +24,8 @@ editor: markdown
 - Only for human and HIV.
 
 ## Ease of use
-- The research bar is very specific on gene name or UniprotId.
-- Graoh result easy to read.
+- The search tool is very specific for gene name or UniprotId.
+- Graph results easy to read.
 
 ## Help
 - [Help *User Guide*](http://gpsprot.org/userguide.php)
