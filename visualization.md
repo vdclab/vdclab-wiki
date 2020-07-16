@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-16T17:59:01.127Z
+date: 2020-07-16T18:23:15.975Z
 tags: category
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 
 - [:star: Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
 - [:star: iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
+- [RasMol *Biomolecular graphics for all*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/RasMol)
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
