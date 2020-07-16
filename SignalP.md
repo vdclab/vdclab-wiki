@@ -2,7 +2,7 @@
 title: SignalP - 5.0
 description: Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences.
 published: true
-date: 2020-06-26T15:44:02.422Z
+date: 2020-07-16T17:35:15.943Z
 tags: tool, sequence analysis, proteins, prediction, protein domain
 editor: markdown
 ---
@@ -30,9 +30,8 @@ SignalP 5.0 is based on a deep convolutional and recurrent neural network archit
 
 
 ## Ease of use
-> The user only needs to provide a protein sequence and select the report length to use the tool. The results are simple and quickly identify Sec or Tat signals and cleavage sites. 
 
-
+The user only needs to provide a protein sequence and select the report length to use the tool. The results are simple and quickly identify Sec or Tat signals and cleavage sites. 
 
 
 ## Citation 
