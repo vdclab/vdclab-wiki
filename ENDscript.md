@@ -2,7 +2,7 @@
 title: ENDscript
 description: ENDscript is a friendly Web server, which extracts and renders a comprehensive analysis of primary to quaternary protein structure information in an automated way.
 published: true
-date: 2020-07-02T16:08:55.966Z
+date: 2020-07-16T14:43:24.488Z
 tags: tool, sequence analysis, sequence alignment, proteins, data capture, bioinformatics, browser, data visualization, prediction, data export, conservation, model, protein domain, interaction, protein-protein, structural analysis, residue, webserver
 editor: markdown
 ---
@@ -25,16 +25,15 @@ Hence, the experimenter can rapidly explore the structure of its favorite protei
 
 {.links-list}
 
-## Ease of Use
-
->ENDscript is relatively easy to use, has step-by-step explanations of the process, and an extensively detailed user guide.
-{.is-info}
-
 ## User Notes
 
 - PyMOL is required to take advantage of the ENDscript interactive representations.
 - Results are displayed in a pop-up window, so users must ensure the results pop-up isn't blocked by their browsers.
 - Results coloring and formatting explanations can be found in ESPript User Guide (see links, above).
+
+## Ease of Use
+
+ENDscript is relatively easy to use, has step-by-step explanations of the process, and an extensively detailed user guide.
 
 ## Citation
 
