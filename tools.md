@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T17:36:44.415Z
+date: 2020-07-16T17:44:15.204Z
 tags: category
 editor: markdown
 ---
@@ -44,6 +44,7 @@ editor: markdown
 - [:star: NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [PDBeMotif *Fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PDBeMotif)
 - [:star: PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
+- [:star: PSORTb *Precise bacterial localization prediction tool*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PSORTb)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 - [:star: SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [:star: SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
