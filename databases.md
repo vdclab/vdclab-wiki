@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-02T22:19:04.211Z
+date: 2020-07-16T15:33:24.203Z
 tags: category
 editor: markdown
 ---
@@ -31,6 +31,7 @@ editor: markdown
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
+- [PDBe-KB *Community-driven resource managed by the PDBe team*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/PDBe-KB)
 - [Reactome *Signaling and metabolic molecules and their relations organized into biological pathways*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/Reactome)
 - [:star: SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
