@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T15:25:30.237Z
+date: 2020-07-16T15:27:35.241Z
 tags: category
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 - [CMBL MotLoc *Uses aligned set of DNA sequence motifs  and finds similar motifs in the analyzed sequence*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CMBL-MotLoc)
 - [:star: ENDscript *Extracts and renders a comprehensive analysis of primary to quaternary protein structure information*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ENDscript)
 - [:star: Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
+- [:star: ESPript *Program which renders sequence similarities and secondary structure information from aligned sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ESPript)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
