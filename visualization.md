@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-16T18:46:05.486Z
+date: 2020-07-16T18:48:01.231Z
 tags: category
 editor: markdown
 ---
@@ -59,6 +59,7 @@ editor: markdown
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
 - [Swiss PdbViewer *Provides a user friendly interface allowing to analyze several proteins*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Swiss-PdbViewer)
+- [Chimera *Interactive visualization and analysis of molecular structures and related data*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Chimera)
 {.links-list}
 
 ## Tools to Make Figures
