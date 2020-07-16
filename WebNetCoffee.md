@@ -2,8 +2,9 @@
 title: WebNetCoffee
 description: WebNetCoffee is a web server based on the algorithm of NetCoffee for aligning multiple PPI networks in order to identify functional ortholog groups.
 published: true
-date: 2020-05-20T19:23:15.378Z
-tags: tool, orthologs
+date: 2020-07-16T17:29:28.282Z
+tags: tool, genes, proteins, orthologs
+editor: markdown
 ---
 
 # WebNetCoffee
@@ -17,6 +18,13 @@ tags: tool, orthologs
 
 - [WebNetCoffee *Main Page*](http://www.nwpu-bioinformatics.com/WebNetCoffee/index.php)
  {.links-list}
+
+## Notes from the user
+- This service takes a while to complete, make sure to save the jobid
+- Limited to the organmisms liste on the website
+
+## Ease of use
+> Using the tool isn't too difficult, you select organisms and which database to use and you initiate the service. The data upload is a little more complicated which require a PPI network file or a sequence similarity file.
 
 ## Citations
 
