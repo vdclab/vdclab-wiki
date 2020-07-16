@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T17:18:12.903Z
+date: 2020-07-16T17:34:56.790Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -260,6 +260,7 @@ editor: markdown
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
 - [SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
+- [TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
 - [Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
