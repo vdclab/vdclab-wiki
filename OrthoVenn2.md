@@ -2,8 +2,8 @@
 title: OrthoVenn2
 description: OrthoVenn is a web platform for comparison and annotation of orthologous gene clusters among multiple species.
 published: true
-date: 2020-07-16T16:31:03.149Z
-tags: annotation, comparative genomics, orthologs
+date: 2020-07-16T16:32:02.972Z
+tags: annotation, comparative genomics, analysis tools, clustering, orthologs
 editor: markdown
 ---
 
