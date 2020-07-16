@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T17:08:09.081Z
+date: 2020-07-16T17:36:44.415Z
 tags: category
 editor: markdown
 ---
@@ -22,6 +22,7 @@ editor: markdown
 - [:star: Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
 - [:star: PRSS *Evaluates the significance of a protein sequence alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/PRSS)
 - [RibEx *Search any sequence for known riboswitches as well as other predicted bacterial regulatory elements*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/RibEx)
+- [:star: SIAS *Calculates pairwise sequence identity and similarity from multiple sequence alignments*](https://vdclab-wiki.herokuapp.com/en/tools/alignment/SIAS)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
@@ -44,8 +45,10 @@ editor: markdown
 - [PDBeMotif *Fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PDBeMotif)
 - [:star: PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
+- [:star: SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [:star: SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
 - [:star: SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
+- [:star: TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
 - [:star: Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
@@ -123,6 +126,7 @@ editor: markdown
 
 ## Prediction
 
+- [:star: AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
 - [:star: RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
 - [RNApredator *Bacterial sRNA target prediction webserver*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNApredator)
 - [:star: tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
