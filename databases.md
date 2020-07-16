@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-16T17:52:30.319Z
+date: 2020-07-16T17:53:18.744Z
 tags: category
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 - [PlantGDB *Resources for comparative plant genomics*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlantGDB)
 - [PlantPromoterDB *Provides comprehensive transcriptional regulatory elements informations*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlantPromoterDB)
 - [PlnTFDB *Identification and cataloging all Plant genes involved in transcriptional control*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PlnTFDB)
+- [Plprot *Plastid protein database-integrates data from large scale proteome analyses*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/plprot)
 - [The Plant Proteome DataBase *Database for Arabidopsis thaliana and maize (Zea mays)*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PPDB)
 {.links-list}
 
