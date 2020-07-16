@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T17:59:32.221Z
+date: 2020-07-16T18:55:19.266Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -365,6 +365,11 @@ editor: markdown
 ## Sequence Data Visualization
 
 - [Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
+{.links-list}
+
+## Structure Visualization Platforms 
+
+- [:star: Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
 {.links-list}
 
 ## Tools to Make Figures
