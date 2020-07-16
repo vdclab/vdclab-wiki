@@ -2,7 +2,7 @@
 title: PyMOL
 description: Educational-use-only PyMOL available at no cost to teachers and high school and college students (including online courses, homeschooling, etc.) for classroom instruction, homework assignments, and to provide a means for creating high quality figures.
 published: true
-date: 2020-06-29T17:00:51.376Z
+date: 2020-07-16T18:51:31.778Z
 tags: tool, sequence analysis, sequence alignment, proteins, data visualization, structural alignment, structural analysis, analysis tool
 editor: markdown
 ---
@@ -20,6 +20,7 @@ The Educational-use-only PyMOL builds are provided "AS IS" with no obligation to
 ## Website 
 
 - [PyMOL *License Registration/Download Page*](http://pymol.org/edu/?q=educational/)
+- [PyMOL *Open source version*](https://github.com/schrodinger/pymol-open-source)
  {.links-list}
 
  ## User Notes
