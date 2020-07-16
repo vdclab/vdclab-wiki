@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T17:44:15.204Z
+date: 2020-07-16T17:45:54.202Z
 tags: category
 editor: markdown
 ---
@@ -49,6 +49,7 @@ editor: markdown
 - [:star: SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [:star: SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
 - [:star: SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
+- [:star: TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [:star: TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
 - [:star: Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
