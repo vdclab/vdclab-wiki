@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-16T18:27:21.171Z
+date: 2020-07-16T18:46:05.486Z
 tags: category
 editor: markdown
 ---
@@ -58,6 +58,7 @@ editor: markdown
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
+- [Swiss PdbViewer *Provides a user friendly interface allowing to analyze several proteins*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Swiss-PdbViewer)
 {.links-list}
 
 ## Tools to Make Figures
