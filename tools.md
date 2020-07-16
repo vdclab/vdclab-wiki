@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T15:29:34.479Z
+date: 2020-07-16T17:08:09.081Z
 tags: category
 editor: markdown
 ---
@@ -27,9 +27,10 @@ editor: markdown
 
 ## Analysis Tools
 
-- [Center for the Study of Systems Biology *Dedicated to the research interests, publications around Jeffrey Skolnick*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Jeffrey-Skolnick)
 - [:star: CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
+- [Center for the Study of Systems Biology *Dedicated to the research interests, publications around Jeffrey Skolnick*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Jeffrey-Skolnick)
 - [CMBL MotLoc *Uses aligned set of DNA sequence motifs  and finds similar motifs in the analyzed sequence*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CMBL-MotLoc)
+- [:star: Compute pI *Allows the computation of the theoretical pI (isoelectric point) and Mw (molecular weight)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Compute-pI)
 - [:star: ENDscript *Extracts and renders a comprehensive analysis of primary to quaternary protein structure information*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ENDscript)
 - [:star: Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [:star: ESPript *Program which renders sequence similarities and secondary structure information from aligned sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ESPript)
