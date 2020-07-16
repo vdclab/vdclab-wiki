@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-16T18:48:01.231Z
+date: 2020-07-16T18:50:12.124Z
 tags: category
 editor: markdown
 ---
@@ -52,14 +52,16 @@ editor: markdown
 ## Structure Visualization Platforms 
 
 - [:star: Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
+- [Chimera *Interactive visualization and analysis of molecular structures and related data*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Chimera)
 - [:star: iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 - [MolScript *Creating detailed molecular graphics images from molecular 3D coordinates*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/MolScript)
 - [RasMol *Biomolecular graphics for all*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/RasMol)
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
+- [PyMOL *Provide a means for creating high quality figures*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/PyMOL)
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
 - [Swiss PdbViewer *Provides a user friendly interface allowing to analyze several proteins*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Swiss-PdbViewer)
-- [Chimera *Interactive visualization and analysis of molecular structures and related data*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Chimera)
+
 {.links-list}
 
 ## Tools to Make Figures
