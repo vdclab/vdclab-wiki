@@ -2,8 +2,9 @@
 title: PSSMSearch
 description: PSSMSearch is a web application to discover novel protein motifs (SLiMs, mORFs, miniMotifs) and PTM sites.
 published: true
-date: 2020-05-21T14:01:18.562Z
-tags: proteins, motif
+date: 2020-07-16T14:13:42.975Z
+tags: sequence analysis, proteins, sequence similarity, protein domain, motif
+editor: markdown
 ---
 
 # PSSMSearch
@@ -18,6 +19,14 @@ tags: proteins, motif
 
 - [PSSMSearch *Main Page*](http://slim.icr.ac.uk/pssmsearch/)
  {.links-list}
+ 
+ ## Notes from the user
+ - Queries should be just the domains of interest from the proteins to be analyzed
+ - Lots of options for customizing the resulting heatmap and logo
+ - Heatmaps can be easily downloaded for figures
+ 
+ ## Ease of use
+ > It might take some time to get the query domains set up but the analysis is worth the wait. The logo and heatmap are very easy to understand and analyze with the provided features. 
 
 ## Citation 
 
