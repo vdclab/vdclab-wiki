@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T15:27:54.194Z
+date: 2020-07-16T17:08:41.732Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -248,6 +248,7 @@ editor: markdown
 ## Analysis Tools
 
 - [CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
+- [Compute pI *Allows the computation of the theoretical pI (isoelectric point) and Mw (molecular weight)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Compute-pI)
 - [ENDscript *Extracts and renders a comprehensive analysis of primary to quaternary protein structure information*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ENDscript)
 - [Enzyme Function Initiative (EFI) *Creating and interacting with sequence similarity networks*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Enzyme-Function-Initiative)
 - [ESPript *Program which renders sequence similarities and secondary structure information from aligned sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ESPript)
