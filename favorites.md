@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T17:11:45.748Z
+date: 2020-07-16T17:18:12.903Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -261,6 +261,12 @@ editor: markdown
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
 - [SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
 - [Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
+{.links-list}
+
+
+## Alignment tools
+
+- [SIAS *Calculates pairwise sequence identity and similarity from multiple sequence alignments*](https://vdclab-wiki.herokuapp.com/en/tools/alignment/SIAS)
 {.links-list}
 
 ## Creating Or Finding Sequence Logos
