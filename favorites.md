@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T17:45:52.452Z
+date: 2020-07-16T17:48:26.461Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -257,6 +257,7 @@ editor: markdown
 - [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
+- [Phobius *Prediction of transmembrane topology and signal peptides*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [PSORTb *Precise bacterial localization prediction tool*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PSORTb)
 - [SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
