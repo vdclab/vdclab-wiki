@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-16T17:44:22.217Z
+date: 2020-07-16T17:45:52.452Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -262,6 +262,7 @@ editor: markdown
 - [SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
 - [SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
+- [TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
 - [Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
