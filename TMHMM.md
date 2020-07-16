@@ -2,7 +2,7 @@
 title: TMHMM Server v. 2.0
 description: Prediction of transmembrane helices in proteins.
 published: true
-date: 2020-06-26T15:22:09.213Z
+date: 2020-07-16T17:29:48.338Z
 tags: tool, sequence analysis, proteins, prediction, protein domain
 editor: markdown
 ---
@@ -24,7 +24,8 @@ editor: markdown
 - The user can decide on how much detail the results contain 
 
 ## Ease of use
-> Inputting proteins is easy and the user can select how detailed the results will be with a few check boxes. The results are clear and even come with a visual representation of where the helices can be. 
+
+Inputting proteins is easy and the user can select how detailed the results will be with a few check boxes. The results are clear and even come with a visual representation of where the helices can be. 
 
 
 ## Citation 
