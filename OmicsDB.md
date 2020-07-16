@@ -2,7 +2,7 @@
 title: OmicsDB
 description: Accelerating in-silico gene discovery in plants, animals and microbes.
 published: true
-date: 2020-07-10T17:49:40.633Z
+date: 2020-07-16T17:32:33.578Z
 tags: annotation, genomics, comparative genomics, database, bioinformatics, co-expression, functional annotation
 editor: markdown
 ---
@@ -21,10 +21,12 @@ editor: markdown
  {.links-list}
 
 ## User Notes
+
 - Database is curated and dedicated to gene finding, and therein is restricted to several model or well-studied organisms
 
 ## Ease of Use
-- User friendly interface, despite errors (see warning)
+
+User friendly interface, despite errors (see warning)
 
 
 ## Citations
