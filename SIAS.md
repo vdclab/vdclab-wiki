@@ -2,7 +2,7 @@
 title: Sequence Identity And Similarity (SIAS) 
 description: SIAS calculates pairwise sequence identity and similarity from multiple sequence alignments.
 published: true
-date: 2020-06-26T14:40:40.692Z
+date: 2020-07-16T17:14:40.456Z
 tags: tool, sequence alignment, sequence similarity, analysis tools, protein, sequence identity
 editor: markdown
 ---
@@ -24,10 +24,8 @@ editor: markdown
 
 
 ## Ease of use
-> The user interface is a simple series of check boxes and the results are laid out in tables, one for sequence identity and another for amino acid identity.
 
-
-
+The user interface is a simple series of check boxes and the results are laid out in tables, one for sequence identity and another for amino acid identity.
 
 ## Citation
 
