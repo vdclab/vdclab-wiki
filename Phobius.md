@@ -2,7 +2,7 @@
 title: Phobius
 description: Phobius: prediction of transmembrane topology and signal peptides.
 published: true
-date: 2020-06-22T14:23:51.134Z
+date: 2020-07-16T17:46:08.998Z
 tags: 2019, tool, proteins, prediction, 2004
 editor: markdown
 ---
@@ -19,9 +19,6 @@ editor: markdown
 - [Phobius *Main Page*](https://www.ebi.ac.uk/Tools/pfa/phobius/)
  {.links-list}
 
-## Help
-- [Phobius *Help and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Phobius+Help+and+Documentation)
- {.links-list}
 
 ## Notes from Users
 - Different outups are downloadable.
@@ -31,6 +28,10 @@ editor: markdown
 - Input your protein sequence.
 - Get your results.
 - Results is a graphic representiong the prediction of localizations.
+
+## Help
+- [Phobius *Help and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Phobius+Help+and+Documentation)
+ {.links-list}
 
 ## Citation 
 - Madeira F, Park YM, Lee J, et al. [The EMBL-EBI search and sequence analysis tools APIs in 2019.](http://europepmc.org/article/MED/30976793) Nucleic Acids Research. 2019 Jul;47(W1):W636-W641. DOI: 10.1093/nar/gkz268. 
