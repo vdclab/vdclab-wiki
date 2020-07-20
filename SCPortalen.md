@@ -2,7 +2,7 @@
 title: SCPortalen
 description: Single-cell centric database
 published: true
-date: 2020-07-01T19:24:08.732Z
+date: 2020-07-20T19:00:37.849Z
 tags: database, eukaryotes, transcriptomics, gene expression
 editor: markdown
 ---
@@ -27,7 +27,8 @@ As an added-value to the raw data, we performed manual curation and annotation o
  - Lots of data formats for downloads 
  
  ## Ease of use
- > While there is a comprehensive user guide, the user will need to familiarize themselves with the database and the search function.
+
+While there is a comprehensive user guide, the user will need to familiarize themselves with the database and the search function.
 
 ## Citation 
 
