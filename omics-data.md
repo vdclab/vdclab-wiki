@@ -2,7 +2,7 @@
 title: Omics Data
 description: List of website of omics data
 published: true
-date: 2020-07-02T22:18:58.785Z
+date: 2020-07-20T19:02:24.631Z
 tags: category
 editor: markdown
 ---
@@ -21,4 +21,5 @@ editor: markdown
 - [:star: GNPS *Mass spectrometry knowledge base for community-wide organization*](https://vdclab-wiki.herokuapp.com/en/omics-data/omics-data/GNPS)
 - [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/prokaryote_databases/JGI-IMG)
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/virus_databases/JGI-IMG-VR/)
+- [SCPortalen *Single-cell centric database*](https://vdclab-wiki.herokuapp.com/en/omics-data/omics-data/SCPortalen)
 {.links-list}
