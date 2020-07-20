@@ -2,7 +2,7 @@
 title: cBiT
 description: cBiT is the first repository that offers biomaterial-based transcriptomics data together with all relevant biomaterial metadata.
 published: true
-date: 2020-07-01T19:02:07.269Z
+date: 2020-07-20T18:47:34.586Z
 tags: specialized search, database, transcriptomics, repository, compendium, organism-specific
 editor: markdown
 ---
@@ -24,9 +24,8 @@ editor: markdown
 - Lots of curated metadata
 
 ## Ease of use
-> Finding studies on specific features is easy to do with simple filters that the user can select from. The website well designed and links to external sites are abundant.
 
-
+Finding studies on specific features is easy to do with simple filters that the user can select from. The website well designed and links to external sites are abundant.
 
 ## Citation
 
