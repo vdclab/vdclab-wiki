@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-16T17:59:06.299Z
+date: 2020-07-20T18:52:59.341Z
 tags: category
 editor: markdown
 ---
@@ -38,6 +38,7 @@ editor: markdown
 
 ## General databases
 
+- [cBiT *Repository that offers biomaterial-based transcriptomics data together with biomaterial metadata*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/cBiT)
 - [:star: InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal)
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
