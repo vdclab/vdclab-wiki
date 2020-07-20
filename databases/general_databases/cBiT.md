@@ -2,7 +2,7 @@
 title: cBiT
 description: cBiT is the first repository that offers biomaterial-based transcriptomics data together with all relevant biomaterial metadata.
 published: true
-date: 2020-07-20T18:47:34.586Z
+date: 2020-07-20T18:51:09.427Z
 tags: specialized search, database, transcriptomics, repository, compendium, organism-specific
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
  
 
 ## Website 
-- [cBiT *Main Pagte*](https://cbit.bmt.tue.nl/welcome)
+- [cBiT *Main Page*](https://cbit.bmt.tue.nl/welcome)
  {.links-list}
 
 ## Notes from the user
@@ -29,5 +29,5 @@ Finding studies on specific features is easy to do with simple filters that the 
 
 ## Citation
 
-- Hebels et al., cBiT: A Transcriptomics Database for Innovative Biomaterial Engineering. Biomaterials, 149: 88-97 (2017)
+- Hebels et al., [cBiT: A Transcriptomics Database for Innovative Biomaterial Engineering](https://pubmed.ncbi.nlm.nih.gov/29020642/). Biomaterials, 149: 88-97 (2017)
 {.grid-list}
