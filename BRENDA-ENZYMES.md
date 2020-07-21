@@ -2,21 +2,33 @@
 title: BRENDA ENZYMES
 description: BRENDA is the main collection of enzyme functional data available to the scientific community.
 published: true
-date: 2020-04-20T19:17:47.291Z
-tags: 
+date: 2020-07-21T20:49:52.007Z
+tags: annotation, taxonomy, tool, comparative genomics, functional association, data capture, database, literature, browser, data visualization, protein, data export, curated, interaction, logo, library, mutant
+editor: markdown
 ---
 
 # BRENDA ENZYMES
 
-> The BRENDA enzyme database, recently appointed ELIXIR Core Data Resource, is the main enzyme and enzyme-ligand information system. The core database provides a comprehensive overview on enzymes. A collection of 4.3 million data for ∼84 000 enzymes manually evaluated and extracted from ∼140 000 primary literature references is combined with information obtained by text and data mining, data integration and prediction algorithms. Supplements comprise disease-related data, protein sequences, 3D structures, predicted enzyme locations and genome annotations. 
+> The BRENDA enzyme database is the main public information system for enzyme and enzyme-ligand related information. BRENDA provides a comprehensive overview of ~84,000 enzymes, including information on catalyzed reactions, nomenclature, taxonomy, enzyme–ligand interactions, inhibition, occurrence, stability, kinetics, mutants, application, protein sequences and structures, disease-related data, and more.
 {.is-info}
-
-
 
 ## Website
 
 - [BRENDA ENZYMES *Main Page*](https://www.brenda-enzymes.org/)
+- [BRENDA ENXYMES Help *Tutorial and Training Materials*](https://www.brenda-enzymes.org/tutorial.php)
+- [BRENDA Abbreviations *Index of Abbreviations*](https://www.brenda-enzymes.org/help/abbreviations.php)
+- [BRENDA Datafields *Description of Datafields*](https://www.brenda-enzymes.org/help/datafields_new.php#Catalysed_Reaction)
 {.links-list}
+
+## Ease of Use
+
+- The database is fairly straight forward and easy to use. 
+
+## User Notes
+
+- If an error is encountered during use or Users need help beyond available tutorials, Users can submit a help ticket (Help -> Contact).
+- Word maps are given as a new feature of search results, showing the most common relevant words used in peer-reviewed publication titles. 
+- BRENDA has a flexible query system, allowing Users to search by more than 50 categories of enzyme properties.
 
 ## Citation
 
