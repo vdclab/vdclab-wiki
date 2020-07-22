@@ -2,8 +2,8 @@
 title: NCBI - All Resources
 description: Web page compilation of the various databases, tools, and downloads offered by NCBI, as well as many 'how-tos' on various website functions.
 published: true
-date: 2020-07-10T17:50:57.809Z
-tags: tutorial, resource center
+date: 2020-07-22T13:03:57.549Z
+tags: aggregator, genomes, tool, genome browser, data capture, resource center, database, browser, library
 editor: markdown
 ---
 
@@ -20,7 +20,8 @@ editor: markdown
 
 ## Notes from User
 - Useful resources and databases for all domains of life
-- 
+- Great tool for BLAST
+- Good for searching isolated strain information 
 
 ## Citation
 - [Website](https://support.nlm.nih.gov/knowledgebase/article/KA-03391/en-us) for citing NCBI resources and databases 
