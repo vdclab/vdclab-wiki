@@ -2,7 +2,7 @@
 title: neXtProt Search
 description: Exploring the universe of human proteins.
 published: true
-date: 2020-07-22T19:44:44.157Z
+date: 2020-07-22T19:45:10.113Z
 tags: aggregator, annotation, database, proteomics, model organism, curated, 2020
 editor: markdown
 ---
@@ -17,7 +17,6 @@ editor: markdown
 ## Websites
 
 - [neXtProt Search *Main Page*](https://www.nextprot.org/)
-- [neXtProt Documentation *How to Cite Page*](https://www.nextprot.org/about/citing-nextprot)
 {.links-list}
 
 ## Notes from Users
@@ -31,6 +30,7 @@ editor: markdown
 
 ## Help
 - [Help *Help section*](https://www.nextprot.org/help/simple-search)
+- [neXtProt Documentation *How to Cite Page*](https://www.nextprot.org/about/citing-nextprot)
 {.links-list}
 
 ## Citation 
