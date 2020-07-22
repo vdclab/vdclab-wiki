@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-20T19:34:19.261Z
+date: 2020-07-22T19:41:32.410Z
 tags: category
 editor: markdown
 ---
@@ -21,6 +21,8 @@ editor: markdown
 - [EpiGenie *Search out and compile a list of the best free tools and databases that epigenetics researchers*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/EpiGenie)
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
+- [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
+- [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
 {.links-list}
 
 ### Fungi Resources
