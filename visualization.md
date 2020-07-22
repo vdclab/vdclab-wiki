@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-22T20:38:15.820Z
+date: 2020-07-22T20:55:52.434Z
 tags: category
 editor: markdown
 ---
@@ -41,6 +41,7 @@ editor: markdown
 ## Motifs
 
 - [GeneBee Motifs *Web tool that allows the construction of pairwise motifs*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/GeneBee-Motifs)
+- [:star: Seq2Logo *Sequence logo generator*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/Seq2Logo)
 {.links-list}
 
 ## Sequence Data Visualization
