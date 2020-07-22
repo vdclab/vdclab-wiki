@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-22T20:19:07.814Z
+date: 2020-07-22T20:38:31.349Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -393,4 +393,5 @@ editor: markdown
 
 - [BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BEG-Venn)
 - [BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
+- [Stefanjol Venny *Online venn diagram generator*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/Stefanjol-Venny)
 {.links-list}
