@@ -2,8 +2,9 @@
 title: esyN
 description: Build networks interactively: automatically retrieve interaction data and build a network.
 published: true
-date: 2020-05-25T17:46:54.374Z
+date: 2020-07-22T21:12:40.144Z
 tags: browser, data visualization, network
+editor: markdown
 ---
 
 # esyN
@@ -19,7 +20,7 @@ tags: browser, data visualization, network
 
 ## Website 
 
-- [esyN *Main Page*](http://www.esyn.org/index.php#START)
+- [esyN *Main Page*](http://www.esyn.org/index.php)
  {.links-list}
 
 ## Citation 
