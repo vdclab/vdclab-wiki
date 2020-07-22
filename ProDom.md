@@ -2,8 +2,9 @@
 title: ProDom
 description:  ProDom is a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.
 published: true
-date: 2020-04-22T18:51:08.283Z
-tags: 
+date: 2020-07-22T14:21:19.562Z
+tags: database, browser, sequence identity, protein family, protein domain, motif, gui
+editor: markdown
 ---
 
 # ProDom
@@ -19,6 +20,12 @@ Recent improvements to the server include: ProDom search by keyword; links to PR
 
 - [ProDom *Main Page*](http://prodom.prabi.fr/prodom/current/html/home.php)
 {.links-list}
+
+## Notes from User
+- Can change parameters for protein domain searches (including option to BLASTx rather than BLASTp)
+- Can search by multiple inputs, easy to use 
+- Matches with Pfam, HOGENOM and general information
+- Many options to view protein domain in terms of FASTA, phylogenetic tree: Easy to use, just many options to go through depending on question 
 
 ## Citations
 
