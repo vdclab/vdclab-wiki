@@ -2,7 +2,7 @@
 title: BioCyc
 description: BioCyc is a collection of 16,822 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
 published: true
-date: 2020-07-22T21:36:00.200Z
+date: 2020-07-22T21:36:17.643Z
 tags: archaea, bacteria, tool, genome browser, comparative genomics, data capture, resource center, database, transcriptomics, gene, co-expression, browser, data visualization, protein, clustering, mapping, metabolic pathways, data export, omics, eukaryota, curated, enrichment, essentiality, metabolomics
 editor: markdown
 ---
@@ -12,6 +12,9 @@ editor: markdown
 > BioCyc provides access to a collection of 16,822 pathway and genome databases as well as integrated and downloadable software tools. These tools give users the ability to navigate, visualize, and analyze the wealth of information in underlying databases as well as personal omics data. 
 >
 > Data curated from thousands of publications and integrated from other reputable databases offering information on gene essentiality, regulatory networks, protein features, GO annotations, and more. 
+{.is-info}
+
+> Pathway Tools is a comprehensive bioinformatics software package that spans genome data management, systems biology, and omics data analysis. The software has been licensed by more than 10,000 groups and powers multiple pathway/genome database websites. The software supports multiple use cases in bioinformatics and systems biology: 
 {.is-info}
 
 
