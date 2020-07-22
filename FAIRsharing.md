@@ -2,7 +2,7 @@
 title: FAIRsharing
 description: A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.
 published: true
-date: 2020-06-10T19:21:30.467Z
+date: 2020-07-22T20:53:42.226Z
 tags: database, curated, repository
 editor: markdown
 ---
@@ -21,6 +21,14 @@ editor: markdown
 - [FAIRsharing *Main Page*](https://fairsharing.org/)
 - [FAIRsharing Recommendations *Endorsed Resources Page*](https://fairsharing.org/recommendations/)
 {.links-list}
+
+## User Notes
+- Useful for reference of publishing standards (when publishing research)
+- Database record search tool/browser is useful for finding FAIR standards compliant databases
+
+## Ease of Use
+Relatively easy to use, straightforward; likely of less use to individuals that are not in the process of submitting data, publishing, or to those who do not specialize in data quality or data publishing standards
+
 
 ## Citations 
 
