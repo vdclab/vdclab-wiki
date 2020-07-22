@@ -2,7 +2,7 @@
 title: PHIDIAS
 description: PHIDIAS is a web-based centralized resource for biomedical researchers to investigate integrated genome sequences, curated literature information, and gene expression data related to pathogen-host interactions for pathogens with high priority.
 published: true
-date: 2020-07-22T20:26:15.670Z
+date: 2020-07-22T20:27:05.785Z
 tags: resource center, model organism
 editor: markdown
 ---
@@ -33,7 +33,7 @@ editor: markdown
 
 ## Ease of Use
 
-- Relatively easy to navigate, but more challenging to cross-reference; missing some hyperlinks or accessions of other databases that could facilitate this process
+Relatively easy to navigate, but more challenging to cross-reference; missing some hyperlinks or accessions of other databases that could facilitate this process
 
 
 ## Citations
