@@ -2,7 +2,7 @@
 title: Primer3
 description: Pick primers from a DNA sequence.
 published: true
-date: 2020-07-22T19:07:52.301Z
+date: 2020-07-22T19:28:47.926Z
 tags: tool, sequence analysis, dna, bioinformatics, eukaryota, gui
 editor: markdown
 ---
