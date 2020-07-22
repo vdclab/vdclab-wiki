@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-22T19:52:43.659Z
+date: 2020-07-22T20:00:47.212Z
 tags: category
 editor: markdown
 ---
@@ -126,6 +126,7 @@ editor: markdown
 ## Phenotypes And Fitness Databases
 
 - [:star: Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
+- [:star: CTD *Advance understanding about how environmental exposures affect human health*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/CTD)
 - [:star: FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
 - [:star: FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
