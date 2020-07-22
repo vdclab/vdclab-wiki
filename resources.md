@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-22T19:41:32.410Z
+date: 2020-07-22T20:00:45.079Z
 tags: category
 editor: markdown
 ---
@@ -57,6 +57,7 @@ editor: markdown
 - [:star: NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
 - [Omictools *Online community & aggregating resource of bioinformatic software, platforms & tools*](https://vdclab-wiki.herokuapp.com/resources/general_resources/omictools/)
 - [Online Structure Alignment Resources *Web page provided a list of various tools and resources used in online structure alignments*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Online-Structure-Alignment-Resources)
+- [:star: RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 - [SAT *Web page describing various structural alignment tools and resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/SAT)
 - [Quest for Orthologs *Provides a list of existing orthology databases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Quest-for-Orthologs)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
