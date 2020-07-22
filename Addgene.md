@@ -2,7 +2,7 @@
 title: Addgene
 description: Addgene distribute 85,239 plasmids on behalf of 4,206 labs from around the world. Addgene also produce 458 ready-to-use viral vectors from our plasmid collection. Find what you need for your next experiment.
 published: true
-date: 2020-07-22T23:07:04.306Z
+date: 2020-07-22T23:07:47.801Z
 tags: community, registry, annotation, project library, tool, sequence analysis, data capture, dna, resource center, database, resource, gene, data visualization, gene expression, data export, curated, regulation, library
 editor: markdown
 ---
