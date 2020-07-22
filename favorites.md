@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-22T20:08:58.802Z
+date: 2020-07-22T20:18:56.750Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -130,7 +130,7 @@ editor: markdown
 - [RegulonDB *Database on transcriptional regulation in Escherichia coli K-12 containing knowledge*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 {.links-list}
 
-## tRNA Database
+## RNA Database
 
 - [GtRNAdb *tRNA database contains tRNA gene predictions made by the program tRNAscan-SE*](https://vdclab-wiki.herokuapp.com/en/databases/tRNA-database/GtRNAdb)
 {.links-list}
