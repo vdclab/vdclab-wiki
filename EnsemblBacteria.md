@@ -2,7 +2,7 @@
 title: Ensembl Bacteria
 description: Ensembl Bacteria is a browser for bacterial and archaeal genomes.
 published: true
-date: 2020-07-22T20:01:16.577Z
+date: 2020-07-22T21:42:44.656Z
 tags: annotation, archaea, bacteria, taxonomy, sequence analysis, sequence alignment, phylogeny, genome browser, comparative genomics, data capture, database, gene, browser, data visualization, curated
 editor: markdown
 ---
@@ -40,6 +40,7 @@ In each domain, we aim to bring the integrative power of Ensembl tools for compa
 - Searching for gene names within an organism often results in empty results.  In order to find intended genes it may be more helpful to BLAST/BLAT search.
 - Successful searches give a customizable search table, allowing users to choose which information columns they wish to display. 
 - HMMER sequence feature/domain results provide accessions, family and clan IDs, descriptions, and cross-references (although some pages failed to load).
+- They are promising a Non-redundant prokaryotic set that could be precious but not aavailable yet.
 
 ## Citation
 
