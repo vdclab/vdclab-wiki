@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-22T20:33:57.642Z
+date: 2020-07-22T21:04:04.487Z
 tags: category
 editor: markdown
 ---
@@ -98,6 +98,7 @@ editor: markdown
 
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 - [GiantVirus *Mimivirus and other large DNA viruses*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/GiantVirus)
+- [pVOGs *Orthologous groups shared among complete genomes of viruses that infect bacteria and archaea*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/pVOGs)
 - [ViPR *Information for human pathogenic viruses*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ViPR)
 {.links-list}
 
