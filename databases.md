@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-22T20:00:47.212Z
+date: 2020-07-22T20:24:15.576Z
 tags: category
 editor: markdown
 ---
@@ -96,6 +96,7 @@ editor: markdown
 ### Virus databases
 
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
+- [GiantVirus *Mimivirus and other large DNA viruses*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/GiantVirus)
 {.links-list}
 
 ## Metabolic pathways
@@ -151,9 +152,10 @@ editor: markdown
 - [:star: RegulonDB *Database on transcriptional regulation in Escherichia coli K-12 containing knowledge*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 {.links-list}
 
-## tRNA Database
+## RNA Database
 
 - [:star: GtRNAdb *tRNA database contains tRNA gene predictions made by the program tRNAscan-SE*](https://vdclab-wiki.herokuapp.com/en/databases/tRNA-database/GtRNAdb)
+- [NONCODE *Integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs)*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/NONCODE)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
