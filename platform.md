@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-06-11T13:58:02.285Z
+date: 2020-07-22T20:35:25.445Z
 tags: category
 editor: markdown
 ---
@@ -12,6 +12,7 @@ editor: markdown
 ## General Integration Platforms
 
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
+- [OmicsDB *Accelerating in-silico gene discovery in plants, animals and microbes*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/OmicsDB)
 {.links-list}
 
 ## Integrated Prokaryotic Genome Analysis Platforms
