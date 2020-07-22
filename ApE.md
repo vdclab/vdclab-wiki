@@ -2,7 +2,7 @@
 title: ApE - A Plasmid Editor
 description: A Plasmid Editor.
 published: true
-date: 2020-07-22T20:00:25.824Z
+date: 2020-07-22T21:47:16.054Z
 tags: annotation tools, bacteria, tool, dna, sequence identity, model
 editor: markdown
 ---
@@ -23,6 +23,7 @@ editor: markdown
  - Easy to use 
  - Very useful for analysis of sequence results of plasmid, DNA
  - Good tool for visualizing plasmid construction and digestions
+ - One of the few free open source tools out there
 
 ## Help
 - For help or to report bugs, email: wdavis@biology.utah.edu (M. Wayne Davis)
