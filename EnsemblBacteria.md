@@ -2,8 +2,9 @@
 title: Ensembl Bacteria
 description: Ensembl Bacteria is a browser for bacterial and archaeal genomes.
 published: true
-date: 2020-04-22T19:46:37.823Z
-tags: 
+date: 2020-07-22T20:01:16.577Z
+tags: annotation, archaea, bacteria, taxonomy, sequence analysis, sequence alignment, phylogeny, genome browser, comparative genomics, data capture, database, gene, browser, data visualization, curated
+editor: markdown
 ---
 
 # Ensembl Bacteria
@@ -21,6 +22,24 @@ In each domain, we aim to bring the integrative power of Ensembl tools for compa
 
 - [Ensembl Bacteria *Main Page*](http://bacteria.ensembl.org/index.html)
 {.links-list}
+
+## Help
+
+- [Ensembl Bacteria Help *Help Page*](http://bacteria.ensembl.org/info/website/index.html)
+- [Ensembl Help *Tutorials and Worked Examples*](http://useast.ensembl.org/info/website/tutorials/index.html)
+{.links-list}
+
+## Ease of Use
+
+- The site is not immediately intuitive and searches need to be carried out very specifically or through use of multiple search methods to ensure the intended data is acquired. 
+
+## User Notes
+
+- Firefox is the recommonded browser for Ensembl
+- If searching for a gene in a specific organism, it is much easier to load the organism database prior to searching. 
+- Searching for gene names within an organism often results in empty results.  In order to find intended genes it may be more helpful to BLAST/BLAT search.
+- Successful searches give a customizable search table, allowing users to choose which information columns they wish to display. 
+- HMMER sequence feature/domain results provide accessions, family and clan IDs, descriptions, and cross-references (although some pages failed to load).
 
 ## Citation
 
