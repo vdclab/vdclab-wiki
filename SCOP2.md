@@ -2,7 +2,7 @@
 title: SCOP: Structural Classification of Proteins
 description: The SCOP database, created by manual inspection and abetted by a battery of automated methods, aims to provide a detailed and comprehensive description of the structural and evolutionary relationships between all proteins whose structure is known.
 published: true
-date: 2020-07-22T14:44:03.703Z
+date: 2020-07-22T20:57:15.603Z
 tags: annotation, taxonomic profiling, database, protein family, conservation, protein domain
 editor: markdown
 ---
@@ -24,6 +24,7 @@ editor: markdown
 - Says sequence search, but the function does not work 
 - Gives ancestry of domain which separates from other protein databases 
 - Connects to PDB, UniProt 
+- Sometimes does not find family using existing PDB id
 
 ## Citations
 
