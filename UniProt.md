@@ -2,7 +2,7 @@
 title: UniProt
 description: The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 published: true
-date: 2020-07-22T13:11:20.811Z
+date: 2020-07-22T20:25:04.976Z
 tags: aggregator, archaea, bacteria, data capture, resource center, database, proteomes, sequence identity, eukaryota, id mapping, locus tag
 editor: markdown
 ---
@@ -26,6 +26,7 @@ UniProt is a collaboration between the European Bioinformatics Institute (EMBL-E
 - Good for gathering information on proteins, can customize columns to protein searches 
 - Can use to find locus ID tags/gene IDs (an additional column)
 - Good for all domains of life 
+- The "Add a publication" button can be used to update an entry
 
 
 ## Citation
