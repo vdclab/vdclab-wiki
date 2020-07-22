@@ -2,7 +2,7 @@
 title: The Comparative Toxicogenomics Database
 description: CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health.
 published: true
-date: 2020-07-22T19:53:08.879Z
+date: 2020-07-22T19:53:31.959Z
 tags: 2018, 2019, database, model organism, eukaryota, curated, phenotype, binding, interaction
 editor: markdown
 ---
@@ -10,9 +10,10 @@ editor: markdown
 # The Comparative Toxicogenomics Database (CTD)
 
 > CTD is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health. It provides manually curated information about chemical–gene/protein interactions, chemical–disease and gene–disease relationships. These data are integrated with functional and pathway data to aid in development of hypotheses about the mechanisms underlying environmentally influenced diseases.
-&NewLine;
-We also have additional ongoing projects involving manual curation of exposome data and chemical–phenotype relationships to help identify pre–disease biomarkers resulting from environmental exposures.
+> 
+> We also have additional ongoing projects involving manual curation of exposome data and chemical–phenotype relationships to help identify pre–disease biomarkers resulting from environmental exposures.
 {.is-info}
+
 
  
 
