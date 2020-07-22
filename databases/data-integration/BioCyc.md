@@ -2,7 +2,7 @@
 title: BioCyc
 description: BioCyc is a collection of 16,822 Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
 published: true
-date: 2020-07-02T17:37:00.661Z
+date: 2020-07-22T21:33:51.334Z
 tags: archaea, bacteria, tool, genome browser, comparative genomics, data capture, resource center, database, transcriptomics, gene, co-expression, browser, data visualization, protein, clustering, mapping, metabolic pathways, data export, omics, eukaryota, curated, enrichment, essentiality, metabolomics
 editor: markdown
 ---
@@ -20,6 +20,12 @@ editor: markdown
 - [BioCyc *Main Page*](https://biocyc.org/)
 {.links-list}
 
+### Pathway Tools
+
+- [Pathway Tools *Overview Page*](http://bioinformatics.ai.sri.com/ptools/ptools-overview.html)
+- [Pathway Tools *Main Page*](http://bioinformatics.ai.sri.com/ptools/)
+{.links-list}
+
 ## User Notes
 
 - BioCyc has a limited period of free use (users are allotted around 10 queries per month), but full access requires a paid subscription. The subscription fees support curation effots. 
@@ -28,10 +34,28 @@ editor: markdown
 - The Omics Dashboard is very useful for analysis of personal user data.  It has many functions available and a guide to help users obtain the results they want (links above in Website section).
 - There are many metabolism and metabolic mapping tools available that users should explore. 
 
+### Pathway Tools
+
+> Not a online tool, you have to download and install. 
+{.is-warning}
+
+> Free for Academics.
+{.is-success}
+
+- Requests to obtain licence can take up to 2 business days.
+- Version for Linux, PC and MAC.
+- Linked to BioCyc ([Wiki Page](https://vdclab-wiki.herokuapp.com/databases/data-integration/BioCyc), [Website](https://biocyc.org/)).
+- Some of the elaborated versions requiere the paid version of BioCyc.
+
 ## Ease of Use
 
 BioCyc is intuitive and user friendly. BioCyc Tier 1 databases (EcoCyc and MetaCyc) have the general schemes and tools and the websites will automatically interchange when appropriate.
 {.links-list}
+
+### Pathway Tools
+
+- Requiere some training to use the software.
+- Once you know, access to a lot of data easily.
 
 ## Help
 
@@ -41,6 +65,13 @@ BioCyc is intuitive and user friendly. BioCyc Tier 1 databases (EcoCyc and MetaC
 - [Omics Dashboard Help *Tool Overview and Guide*](https://biocyc.org/dashboard/dashboard-help.html)
 {.links-list}
 
+### Pathway Tools
+
+- [Pathway Tools Help *Tutorials*](http://bioinformatics.ai.sri.com/ptools/tutorial/)
+- [Pathway Tools Help *FAQ*](http://bioinformatics.ai.sri.com/ptools/faq.html)
+- [Pathway Tools Help *User Forum*](https://ask.pathwaytools.com/questions/)
+- [Pathway Tools Help *YouTube Channel*](https://www.youtube.com/channel/UCl1ZLWJKdbdJFjoU1MOr40A)
+{.links-list}
 ## Citations
 
 - Karp, P.D., et al., [The BioCyc collection of microbial genomes and metabolic pathways.](https://academic.oup.com/bib/article-abstract/20/4/1085/4084231?redirectedFrom=fulltext) Briefings in Bioinformatics (2017).
