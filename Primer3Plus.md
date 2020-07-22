@@ -2,7 +2,7 @@
 title: Primer3/Plus
 description: Primer3Plus: pick primers from a DNA sequence.
 published: true
-date: 2020-07-22T21:13:15.826Z
+date: 2020-07-22T21:13:44.458Z
 tags: tool, sequence analysis, dna, bioinformatics, eukaryota, gui
 editor: markdown
 ---
