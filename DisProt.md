@@ -2,7 +2,7 @@
 title: DisProt
 description: DisProt is a database of intrinsically disordered proteins.
 published: true
-date: 2020-07-22T22:08:55.498Z
+date: 2020-07-22T22:11:18.838Z
 tags: aggregator, annotation, bacteria, proteins, data capture, database, phages, eukaryota, curation, protein domain, structural analysis
 editor: markdown
 ---
