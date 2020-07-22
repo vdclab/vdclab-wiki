@@ -2,7 +2,7 @@
 title: Pseudomonas Genome Database
 description: The Pseudomonas Genome Database collaborates with an international panel of expert Pseudomonas researchers to provide high quality updates to the PAO1 genome annotation and make cutting edge genome analysis data available.
 published: true
-date: 2020-07-16T15:13:33.785Z
+date: 2020-07-22T20:34:15.277Z
 tags: annotation, annotation tools, bacteria, sequence matching, specialized search, data capture, database, genome annotation, gene, browser, protein, protein family, curated, protein domain
 editor: markdown
 ---
@@ -25,12 +25,12 @@ editor: markdown
 {.is-info}
 
 ## User Notes
-
->The database is easy to use. 
+ 
 
 - The gene/gene product search gives you a summary of all functional classifications/predictions, pathways, motifs, and sequences up and downstream of your query gene. 
 - The database has no help page, but users can email with questions or comments (pseudocap-mail@sfu.ca).
-
+- Good ortholog mapping tools between model Pseudomonas species
+- Integrated Tn data
 
 ## Citation
 
