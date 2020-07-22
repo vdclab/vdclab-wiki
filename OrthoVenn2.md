@@ -2,7 +2,7 @@
 title: OrthoVenn2
 description: OrthoVenn is a web platform for comparison and annotation of orthologous gene clusters among multiple species.
 published: true
-date: 2020-07-16T16:32:02.972Z
+date: 2020-07-22T22:10:58.043Z
 tags: annotation, comparative genomics, analysis tools, clustering, orthologs
 editor: markdown
 ---
@@ -29,7 +29,7 @@ editor: markdown
 - Each cluster in the Venn diagram can be clicked on to see the members of the group
 
 ## Ease of use
-> This tool has eceptional user interface and is very easy to use. The results are neatly displayed, and the orthologous clusters have plenty of links to delve into in addition to making a great Venn diagram figure.
+> This tool has exceptional user interface and is very easy to use. The results are neatly displayed, and the orthologous clusters have plenty of links to delve into in addition to making a great Venn diagram figure.
 
 
 ## Citation 
