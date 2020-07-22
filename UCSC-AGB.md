@@ -2,8 +2,9 @@
 title: UCSC Archaeal Genome Browser
 description: The UCSC Archaeal Genome Browser is a window on the biology of more than 100 microbial species from the domain Archaea.
 published: true
-date: 2020-04-22T19:17:03.131Z
-tags: 
+date: 2020-07-22T15:32:59.171Z
+tags: community, genomes, archaea, tool, phylogeny, genome browser, data capture, rna, browser, gene expression, trna
+editor: markdown
 ---
 
 # UCSC Archaeal Genome Browser
@@ -17,6 +18,12 @@ tags:
 
 - [Archaeal Genome Browser *Main Page*](http://archaea.ucsc.edu/)
 {.links-list}
+
+## Notes from User
+- Can create account and save sessions on database
+- Focus is genome browser, but contains easy to use tools for archaea
+- Can browse for NCBI-coding genes, tRNA-scan, and annotated RNA genes
+
 
 ## Citation
 
