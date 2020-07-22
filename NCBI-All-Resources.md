@@ -2,8 +2,8 @@
 title: NCBI - All Resources
 description: Web page compilation of the various databases, tools, and downloads offered by NCBI, as well as many 'how-tos' on various website functions.
 published: true
-date: 2020-07-22T13:03:57.549Z
-tags: aggregator, genomes, tool, genome browser, data capture, resource center, database, browser, library
+date: 2020-07-22T13:13:56.742Z
+tags: aggregator, genomes, archaea, bacteria, tool, genome browser, data capture, resource center, database, browser, eukaryota, library
 editor: markdown
 ---
 
