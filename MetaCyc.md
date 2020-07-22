@@ -2,8 +2,9 @@
 title: MetaCyc Metabolic Pathway Database
 description: MetaCyc is a curated database of experimentally elucidated metabolic pathways from all domains of life.
 published: true
-date: 2020-04-20T19:34:48.645Z
-tags: 
+date: 2020-07-22T00:32:03.998Z
+tags: aggregator, metabolics
+editor: markdown
 ---
 
 # MetaCyc Metabolic Pathway Database
@@ -12,13 +13,23 @@ tags:
 MetaCyc contains pathways involved in both primary and secondary metabolism, as well as associated metabolites, reactions, enzymes, and genes. The goal of MetaCyc is to catalog the universe of metabolism by storing a representative sample of each experimentally elucidated pathway.
 {.is-info}
 
-
-{.is-warning}
-
 ## Website
 
 - [MetaCyc *Main Page*](https://metacyc.org/)
+- [MetaCyc Help *User Guide*](https://metacyc.org/MetaCycUserGuide.shtml)
+- [MetaCyc Pathway Tools *Pathway Tools User Guide*](https://metacyc.org/PToolsWebsiteHowto.shtml)
+
 {.links-list}
+
+## Ease of Use
+
+
+## User Notes
+
+- MetaCyc data files can be downloaded for use offline/at a later time.
+- MetaCyc uses the same root platform as EcoCyc and BioCyc and will automatically reroute Users between sites.
+- Creating a user login allows Users to create, transform and save data using Smart Tables. 
+- MetaCyc has a "Metabolite Translation Service" which can be used to obtain a wide variety of metabolite identifiers. 
 
 ## Citation
 
