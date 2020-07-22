@@ -2,8 +2,9 @@
 title: GBrowse
 description: GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
 published: true
-date: 2020-04-22T19:23:09.075Z
-tags: 
+date: 2020-07-22T16:28:10.358Z
+tags: database, genome annotation
+editor: markdown
 ---
 
 # GBrowse
@@ -17,6 +18,11 @@ tags:
 
 - [GBrowse *Main Page*](http://www.pseudomonas.com/strain/browser)
 {.links-list}
+
+## Ease of Use
+
+## User Notes
+
 
 ## Citation
 
