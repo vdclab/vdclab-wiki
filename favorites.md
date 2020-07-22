@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-22T19:52:40.027Z
+date: 2020-07-22T20:00:31.393Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -112,6 +112,7 @@ editor: markdown
 ## Phenotypes And Fitness Databases
 
 - [Chemgen *Searching of growth data (strains/condition) of various E. coli*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/chemgen)
+- [CTD *Advance understanding about how environmental exposures affect human health*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/CTD)
 - [FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
 - [FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
 - [GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
@@ -192,6 +193,7 @@ editor: markdown
 - [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
+- [RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 {.links-list}
 
 ## Eukaryotes Resources
