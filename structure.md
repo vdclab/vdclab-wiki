@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-07-22T20:59:41.419Z
+date: 2020-07-22T21:01:44.686Z
 tags: category
 editor: markdown
 ---
@@ -24,6 +24,7 @@ editor: markdown
 ## Modeling Protein Structures
 
 - [3DLigandSite *Automated method for the prediction of ligand binding sites*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/3DLigandSite)
+- [Dali *Network service for comparing protein structures in 3D*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Dali)
 - [:star: GalaxyWEB *Web server for protein structure prediction, refinement, and related methods*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/GalaxyWEB)
 - [HawkDock *Web server for the structural prediction and analysis of protein-protein complex*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/HawkDock)
 - [I-TASSER *Hierarchical approach to protein structure and function prediction*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/I-TASSER)
