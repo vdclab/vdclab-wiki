@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-22T21:04:04.487Z
+date: 2020-07-22T21:24:24.363Z
 tags: category
 editor: markdown
 ---
@@ -100,6 +100,7 @@ editor: markdown
 - [GiantVirus *Mimivirus and other large DNA viruses*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/GiantVirus)
 - [pVOGs *Orthologous groups shared among complete genomes of viruses that infect bacteria and archaea*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/pVOGs)
 - [ViPR *Information for human pathogenic viruses*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ViPR)
+- [VOGDB *Virus orthologous groups*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/VOGDB)
 {.links-list}
 
 ## Metabolic pathways
