@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-20T19:33:44.325Z
+date: 2020-07-22T19:41:37.121Z
 tags: category
 editor: markdown
 ---
@@ -128,7 +128,9 @@ editor: markdown
 - [:star: FitDB *Searchable database of quantitative chemical-genetic interactions*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitDB)
 - [:star: FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
+- [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
 - [:star: OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
+- [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
