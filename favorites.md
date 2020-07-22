@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-22T20:00:31.393Z
+date: 2020-07-22T20:08:09.736Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -236,6 +236,12 @@ editor: markdown
 
 - [GalaxyWEB *Web server for protein structure prediction, refinement, and related methods*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/GalaxyWEB)
 - [RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
+{.links-list}
+
+
+## Structural Base Alignments
+
+- [:star: RNAcentral *The non-coding RNA sequence database*](https://vdclab-wiki.herokuapp.com/structure/structural_base_alignments/RNAcentral)
 {.links-list}
 
 ## Structure Visualization Platforms 
