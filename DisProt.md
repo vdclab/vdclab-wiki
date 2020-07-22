@@ -2,8 +2,9 @@
 title: DisProt
 description: DisProt is a database of intrinsically disordered proteins.
 published: true
-date: 2020-05-07T19:23:45.936Z
-tags: annotation, proteins, database
+date: 2020-07-22T22:08:55.498Z
+tags: aggregator, annotation, bacteria, proteins, data capture, database, phages, eukaryota, curation, protein domain, structural analysis
+editor: markdown
 ---
 
 # DisProt
@@ -16,6 +17,11 @@ tags: annotation, proteins, database
 ## Website 
 - [DisProt *Main Page*](https://www.disprot.org/)
  {.links-list}
+ 
+ ## Notes from User
+ - Easy to navigate 
+ - Majority of proteins from model organisms (collection of experimental evidence, not prediction site)
+ - Disorder ontology provides easy way to follow disorder content 
 
 ## Citations
 
