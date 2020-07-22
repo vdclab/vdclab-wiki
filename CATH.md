@@ -2,8 +2,9 @@
 title: CATH
 description: CATH is a classification of protein structures downloaded from the Protein Data Bank.
 published: true
-date: 2020-05-23T21:05:55.374Z
-tags: database, protein family
+date: 2020-07-22T15:21:50.791Z
+tags: sequence matching, database, protein, protein family, conservation, protein domain
+editor: markdown
 ---
 
 # CATH
@@ -17,6 +18,15 @@ tags: database, protein family
 
 - [CATH *Main Page*](http://www.cathdb.info/)
 {.links-list}
+
+
+## Notes from User
+- User friendly, easy interface
+- Searches supported by top keywords to help filter (word cloud)
+- Good for understanding superfamilies (in context to other superfamilies and metrics of superfamily)
+
+
+
 
 ## Citations
 - Dawson NL, Lewis TE, Das S, Lees JG, Lee D, Ashford P, Orengo CA, Sillitoe I. [CATH: an expanded resource to predict protein function through structure and sequence.](https://academic.oup.com/nar/article/45/D1/D289/2605733)  Nucleic Acids Res. 2017 Jan
