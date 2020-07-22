@@ -2,7 +2,7 @@
 title: Batch Entrez
 description: Given a file of Entrez accession numbers or other identifiers, Batch Entrez downloads the corresponding records.
 published: true
-date: 2020-07-22T21:31:13.835Z
+date: 2020-07-22T21:32:17.481Z
 tags: archaea, bacteria, tool, gene, protein, eukaryota, id mapping
 editor: markdown
 ---
