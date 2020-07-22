@@ -2,8 +2,8 @@
 title: FAIRsharing
 description: A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.
 published: true
-date: 2020-07-22T20:53:42.226Z
-tags: database, curated, repository
+date: 2020-07-22T20:54:06.495Z
+tags: resource reference, database, curated, repository
 editor: markdown
 ---
 
