@@ -2,13 +2,14 @@
 title: Primer3
 description: Pick primers from a DNA sequence.
 published: true
-date: 2020-04-27T21:40:59.673Z
-tags: 
+date: 2020-07-22T19:07:52.301Z
+tags: tool, sequence analysis, dna, bioinformatics, eukaryota, gui
+editor: markdown
 ---
 
 # Primer3
 
-> Pick primers from a DNA sequence.
+> Reliable primer design is crucial for successful PCR, and for over a decade, the open-source Primer3 software has been widely used for primer design, often in high-throughput genomics applications. Available web-suite. 
 {.is-info}
 
  
@@ -16,6 +17,11 @@ tags:
 
 - [Primer3 *Main Page*](http://bioinfo.ut.ee/primer3/#disclaimer)
  {.links-list}
+ 
+ ## Notes from User
+ - Takes time to learn for first use, but could be useful for experiment-dependent primers
+ - Designed for eukaryotes 
+ - Many parameters (explained well on page)
 
 ## Citations
 
