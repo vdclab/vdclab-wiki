@@ -2,8 +2,9 @@
 title: ProtParam
 description: ProtParam is a tool which allows the computation of various physical and chemical parameters for a given protein stored in Swiss-Prot or TrEMBL or for a user entered protein sequence. 
 published: true
-date: 2020-05-23T21:26:23.648Z
-tags: tool, proteins
+date: 2020-07-22T21:48:33.185Z
+tags: tool, sequence analysis, proteins, data capture, prediction, protein, computational biology, residue
+editor: markdown
 ---
 
 # ProtParam
@@ -17,6 +18,19 @@ tags: tool, proteins
 
 - [ProtParam *Main Page*](https://web.expasy.org/protparam/)
  {.links-list}
+
+## Help
+
+- [ProtParam Documentation *Help Page*](https://web.expasy.org/protparam/protparam-doc.html)
+{.links-list}
+
+## Ease of Use
+
+- This tool is self-explanatory and very easy to use.
+
+## User Notes
+
+- Using a Swiss-Prot/Uniprot protein ID as input gave very fast results. 
 
 ## Citations
 
