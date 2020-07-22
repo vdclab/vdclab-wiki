@@ -2,8 +2,9 @@
 title: MView - A Multiple Alignment Viewer
 description: MView reformats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout.
 published: true
-date: 2020-04-21T19:09:04.773Z
-tags: 
+date: 2020-07-22T22:27:36.122Z
+tags: tool, genes, sequence format, dna, rna
+editor: markdown
 ---
 
 # MView - A Multiple Alignment Viewer
@@ -17,6 +18,12 @@ tags:
 
 - [MView *Main Page*](https://www.ebi.ac.uk/Tools/msa/mview/)
 {.links-list}
+
+## User Notes
+
+
+## Ease of Use
+
 
 ## Citation
 
