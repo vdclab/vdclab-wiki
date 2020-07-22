@@ -2,8 +2,9 @@
 title: Primer3Plus
 description: Primer3Plus: pick primers from a DNA sequence.
 published: true
-date: 2020-04-27T21:48:33.375Z
-tags: 
+date: 2020-07-22T19:28:37.446Z
+tags: tool, sequence analysis, resource, eukaryota, gui
+editor: markdown
 ---
 
 # Primer3Plus
@@ -18,6 +19,10 @@ tags:
 - [Primer3Plus *Main Page*](http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi)
  {.links-list}
 
+## Notes from User
+- Easy to use 
+- Default parameters provided, but can change if needed
+- Open source code of Primer3 also linked to page
 ## Citation 
 
 - Andreas Untergasser, Harm Nijveen, Xiangyu Rao, Ton Bisseling, René Geurts, and Jack A.M. Leunissen: [Primer3Plus, an enhanced web interface to Primer3.](https://academic.oup.com/nar/article/35/suppl_2/W71/2922185) Nucleic Acids Research 2007 35: W71-W74; doi:10.1093/nar/gkm306
