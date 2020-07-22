@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-22T20:39:40.332Z
+date: 2020-07-22T20:55:47.146Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -366,10 +366,14 @@ editor: markdown
 - [GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
 {.links-list}
 
-
 ## Miscellaneous
 
 - [IBS *Assisting experimentalists in drawing publication-quality diagrams of both protein and nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/visualization/miscellaneous/IBS)
+{.links-list}
+
+## Motifs
+
+- [Seq2Logo *Sequence logo generator*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/Seq2Logo)
 {.links-list}
 
 ## Sequence Data Visualization
