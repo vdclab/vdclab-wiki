@@ -2,7 +2,7 @@
 title: neXtProt Search
 description: Exploring the universe of human proteins.
 published: true
-date: 2020-07-08T11:53:51.118Z
+date: 2020-07-22T19:44:44.157Z
 tags: aggregator, annotation, database, proteomics, model organism, curated, 2020
 editor: markdown
 ---
@@ -20,10 +20,6 @@ editor: markdown
 - [neXtProt Documentation *How to Cite Page*](https://www.nextprot.org/about/citing-nextprot)
 {.links-list}
 
-## Help
-- [Help *Help section*](https://www.nextprot.org/help/simple-search)
-{.links-list}
-
 ## Notes from Users
 - Lots of data available, linked and referenced.
 - Confidence of each data rated.
@@ -32,6 +28,10 @@ editor: markdown
 ## Ease of use
 - Enter your query and access the data.
 - Data well organized by categories and easy to access.
+
+## Help
+- [Help *Help section*](https://www.nextprot.org/help/simple-search)
+{.links-list}
 
 ## Citation 
 
