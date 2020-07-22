@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-16T19:12:31.996Z
+date: 2020-07-22T20:38:15.820Z
 tags: category
 editor: markdown
 ---
@@ -62,7 +62,6 @@ editor: markdown
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
 - [Swiss PdbViewer *Provides a user friendly interface allowing to analyze several proteins*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Swiss-PdbViewer)
-
 {.links-list}
 
 ## Tools to Make Figures
@@ -79,5 +78,6 @@ editor: markdown
 - [:star: BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BEG-Venn)
 - [:star: BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
+- [:star: Stefanjol Venny *Online venn diagram generator*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/Stefanjol-Venny)
 - [:star: Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
 {.links-list}
