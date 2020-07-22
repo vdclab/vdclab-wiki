@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-22T21:26:34.250Z
+date: 2020-07-22T21:50:22.027Z
 tags: category
 editor: markdown
 ---
@@ -96,6 +96,7 @@ editor: markdown
 - [AraNet *Functional gene network for Arabidopsis thaliana*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/AraNet)
 - [:star: EcoliNet *Probabilistic functional gene network for Escherichia coli*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/EcoliNet)
 - [:star: GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
+- [GPS-Prot *Data Visualization for Protein-Protein Interactions*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GPS-Prot)
 - [:star: IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
 {.links-list}
 
