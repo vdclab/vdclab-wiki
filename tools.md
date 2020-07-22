@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-16T17:59:02.858Z
+date: 2020-07-22T21:26:34.250Z
 tags: category
 editor: markdown
 ---
@@ -106,6 +106,7 @@ editor: markdown
 - [DiVenn *Venn diagram is widely used to compare gene lists between multiple experiments*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DiVenn)
 - [:star: GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
 - [GOrilla *Identifying and visualizing enriched GO terms in ranked lists of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GOrilla)
+- [Metascape *A Gene Annotation & Analysis Resource*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/Metascape)
 - [The BAR *Explore large-scale data sets from Arabidopsis and other species, and for hypothesis generation*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/The-BAR)
 - [YeastEnrichr *New gene list enrichment analysis tool for Saccharomyces cerevisiae*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/YeastEnrichr)
 {.links-list}
@@ -130,6 +131,7 @@ editor: markdown
 ## Prediction
 
 - [:star: AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
+- [EffectiveDB *Prediction of bacterial protein secretion*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/EffectiveDB)
 - [:star: RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
 - [RNApredator *Bacterial sRNA target prediction webserver*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNApredator)
 - [:star: tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
