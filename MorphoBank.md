@@ -2,8 +2,9 @@
 title: MorphoBank
 description: MorphoBank provides a digital archive of those data so that the observations can be shared in both words and pictures with future scientists and the public.
 published: true
-date: 2020-05-06T18:31:45.748Z
-tags: aggregator, database
+date: 2020-07-22T21:06:22.813Z
+tags: project library, database, phenotype, morphology
+editor: markdown
 ---
 
 # MorphoBank
@@ -20,6 +21,14 @@ MorphoBank is part of the new and growing cyberinfrastructure for phenotypes to 
 
 - [MorphoBank *Main Page*](https://morphobank.org/)
  {.links-list}
+
+## User Notes
+Due to the nature of morphological study, likely less useful for microbiological works, interests; however, contains over 300 microbiological projects
+
+
+## Ease of Use
+Easy to use and freely available, regardless of institutional membership
+
 
 ## CitationS
 
