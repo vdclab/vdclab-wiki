@@ -2,7 +2,7 @@
 title: Simple Phylogeny
 description: This tool provides access to phylogenetic tree generation methods from the ClustalW2 package.
 published: true
-date: 2020-07-22T21:00:55.524Z
+date: 2020-07-22T21:44:49.603Z
 tags: tool, phylogeny, evolution, resource, data visualization, data export, analysis tool
 editor: markdown
 ---
@@ -33,6 +33,7 @@ editor: markdown
 - Simple Phylogeny only accepts protein MSA inputs (Users cannot use the tool to perform a MSA).
 - Using Clustal Omega to perform an MSA gives the option to directly submit MSA results to Simple Phylogeny (via the "Results Viewers" tab).
 - Each sequence must have a unique name or the program will fail. 
+- Basic but precious to get a first view.
 
 ## Citation 
 
