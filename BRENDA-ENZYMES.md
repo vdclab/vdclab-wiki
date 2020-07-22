@@ -2,7 +2,7 @@
 title: BRENDA ENZYMES
 description: BRENDA is the main collection of enzyme functional data available to the scientific community.
 published: true
-date: 2020-07-21T20:49:52.007Z
+date: 2020-07-22T20:38:02.332Z
 tags: annotation, taxonomy, tool, comparative genomics, functional association, data capture, database, literature, browser, data visualization, protein, data export, curated, interaction, logo, library, mutant
 editor: markdown
 ---
@@ -29,6 +29,7 @@ editor: markdown
 - If an error is encountered during use or Users need help beyond available tutorials, Users can submit a help ticket (Help -> Contact).
 - Word maps are given as a new feature of search results, showing the most common relevant words used in peer-reviewed publication titles. 
 - BRENDA has a flexible query system, allowing Users to search by more than 50 categories of enzyme properties.
+- The GO-TO site to capture all published information on an enzyme 
 
 ## Citation
 
