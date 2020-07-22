@@ -2,7 +2,7 @@
 title: Center for non-coding RNA in Technology and Health (RTH)
 description: The center aims at developing technologies, computational methods as well as experimental approaches for analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases.
 published: true
-date: 2020-06-30T19:53:28.193Z
+date: 2020-07-22T19:57:13.481Z
 tags: 2014, 2018, 2019, rna, resource center, database, 2017, 2010, 2011, 2015, 2016, 2012, 2013, interaction, 2020
 editor: markdown
 ---
@@ -27,7 +27,8 @@ editor: markdown
 - Often updated.
 
 ## Ease of Use
-- Each tool is straight forwar and well explained.
+
+Each tool is straight forwar and well explained.
 
 ## Citations
 - [RTH publications](https://rth.dk/publications/)
