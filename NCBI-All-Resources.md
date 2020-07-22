@@ -2,7 +2,7 @@
 title: NCBI - All Resources
 description: Web page compilation of the various databases, tools, and downloads offered by NCBI, as well as many 'how-tos' on various website functions.
 published: true
-date: 2020-07-22T13:14:26.668Z
+date: 2020-07-22T20:22:53.357Z
 tags: aggregator, genomes, archaea, bacteria, tool, genome browser, data capture, resource center, database, browser, eukaryota, library
 editor: markdown
 ---
@@ -19,6 +19,7 @@ editor: markdown
 {.links-list}
 
 ## Notes from User
+- This allows to get a good view of all ressources available at NCBI
 - Useful resources and databases for all domains of life
 - Great tool for BLAST
 - Good for searching isolated strain information 
