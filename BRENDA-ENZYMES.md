@@ -2,7 +2,7 @@
 title: BRENDA ENZYMES
 description: BRENDA is the main collection of enzyme functional data available to the scientific community.
 published: true
-date: 2020-07-22T20:38:02.332Z
+date: 2020-07-23T18:42:27.008Z
 tags: annotation, taxonomy, tool, comparative genomics, functional association, data capture, database, literature, browser, data visualization, protein, data export, curated, interaction, logo, library, mutant
 editor: markdown
 ---
@@ -15,9 +15,6 @@ editor: markdown
 ## Website
 
 - [BRENDA ENZYMES *Main Page*](https://www.brenda-enzymes.org/)
-- [BRENDA ENXYMES Help *Tutorial and Training Materials*](https://www.brenda-enzymes.org/tutorial.php)
-- [BRENDA Abbreviations *Index of Abbreviations*](https://www.brenda-enzymes.org/help/abbreviations.php)
-- [BRENDA Datafields *Description of Datafields*](https://www.brenda-enzymes.org/help/datafields_new.php#Catalysed_Reaction)
 {.links-list}
 
 ## Ease of Use
@@ -30,6 +27,13 @@ editor: markdown
 - Word maps are given as a new feature of search results, showing the most common relevant words used in peer-reviewed publication titles. 
 - BRENDA has a flexible query system, allowing Users to search by more than 50 categories of enzyme properties.
 - The GO-TO site to capture all published information on an enzyme 
+
+## Help
+
+- [BRENDA ENXYMES Help *Tutorial and Training Materials*](https://www.brenda-enzymes.org/tutorial.php)
+- [BRENDA Abbreviations *Index of Abbreviations*](https://www.brenda-enzymes.org/help/abbreviations.php)
+- [BRENDA Datafields *Description of Datafields*](https://www.brenda-enzymes.org/help/datafields_new.php#Catalysed_Reaction)
+{.links-list}
 
 ## Citation
 
