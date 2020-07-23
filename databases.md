@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-22T21:29:11.306Z
+date: 2020-07-23T15:54:05.054Z
 tags: category
 editor: markdown
 ---
@@ -43,6 +43,7 @@ editor: markdown
 - [:star: InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal)
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [:star: NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [:star: RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 {.links-list}
 
