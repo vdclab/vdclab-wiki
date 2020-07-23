@@ -2,7 +2,7 @@
 title: The GUIDANCE2 Server
 description: Server for alignment confidence score
 published: true
-date: 2020-06-10T19:24:23.176Z
+date: 2020-07-23T18:29:35.737Z
 tags: sequence alignment, server
 editor: markdown
 ---
@@ -19,6 +19,13 @@ editor: markdown
 
 - [The GUIDANCE2 Server *Main Page*](http://guidance.tau.ac.il/)
  {.links-list}
+ 
+ ## User Notes
+Useful for comparing alignments of a set of sequences if uncertain of the representativeness of crucial motifs, domains; especially helpful for finding the appropriate algorithm for protein families, for example, with frequent and highly variable gaps between conserved motifs, domains.
+ 
+ ## Ease of Use
+Very easy to use; helpful visualization of results with easily interpretable confidence keys
+ 
  
  ## Citation
  
