@@ -2,7 +2,7 @@
 title: Interactive Pathways Explorer (iPath)
 description: Interactive Pathways Explorer (iPath) is a web-based tool for the visualization, analysis and customization of various pathway maps.
 published: true
-date: 2020-07-22T15:49:58.105Z
+date: 2020-07-23T19:20:06.376Z
 tags: comparative genomics, analysis tools, database, resource, data visualization, mapping, metabolic pathways, curated
 editor: markdown
 ---
@@ -17,19 +17,24 @@ editor: markdown
 ## Website
 
 - [iPath *Main Page*](https://pathways.embl.de/)
-- [iPath Help *Help Pages*](https://pathways.embl.de/help.cgi)
-- [iPath Help *Video Tutorials*](https://pathways.embl.de/video_tutorial.cgi)
 {.links-list}
 
-## Ease of Use
-
-- The site is fairly straight forward and the help pages and video tutorials make iPath3 easy to use. 
 
 ## User Notes
 
 - Users can visualize the presence/absence of KEGG KOs between two species using the "Species comparison" tool.
 - There are four basic iPath pathway maps to choose from. They are derived from KEGG pathways, but are much more visually appealing. 
 - Customization of the maps is available only for visualization aspects, the pathways within the maps cannot be editted.
+
+## Ease of Use
+
+- The site is fairly straight forward and the help pages and video tutorials make iPath3 easy to use. 
+
+## Help
+
+- [iPath Help *Help Pages*](https://pathways.embl.de/help.cgi)
+- [iPath Help *Video Tutorials*](https://pathways.embl.de/video_tutorial.cgi)
+{.links-list}
 
 ## Citation
 
