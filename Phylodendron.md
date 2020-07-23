@@ -2,21 +2,34 @@
 title: Phylodendron
 description: Phylogenetic tree printer.
 published: true
-date: 2020-04-28T19:29:32.513Z
-tags: 
+date: 2020-07-23T22:10:00.843Z
+tags: tool, phylogeny, evolution, data visualization, app
+editor: markdown
 ---
 
 # Phylodendron
 
-> Phylogenetic tree printer.
+> Phylodendron a tool for printing phylogenetic trees. The tool can be used online (Main Page, below) or the application software can be downloaded from the Indiana University website.
 {.is-info}
 
  
-
 ## Website 
 
 - [Phylodendron *Main Page*](http://iubioarchive.bio.net/treeapp/treeprint-form.html)
  {.links-list}
+
+## Help
+
+- There is no help page, but the tool is run through the Indiana University department of Biology.  Comments can be sent to them at archive@iubioarchive.bio.net.
+
+## Ease of Use
+
+- The tool if simple and straight forward. 
+
+## User Notes
+
+- The link to download the application software is at the bottom of the Main Page. 
+- Input is Tree data in newick of nh format.  Data can be uploaded, pasted into a text box, or submitted by URL. 
 
 ## Citation 
 
