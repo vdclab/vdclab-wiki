@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-23T18:45:24.965Z
+date: 2020-07-23T19:19:23.643Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -47,6 +47,7 @@ editor: markdown
 
 ## Databases Related To Enzymes And Pathways
 
+- [MetaCyc *Curated database of experimentally elucidated metabolic pathways*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/MetaCyc)
 - [Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
 {.links-list}
 
