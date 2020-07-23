@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T19:19:26.846Z
+date: 2020-07-23T19:53:37.876Z
 tags: category
 editor: markdown
 ---
@@ -22,6 +22,7 @@ editor: markdown
 ## Database Searches
 
 - [Bio.tools *Comprehensive registry of software and databases*](https://vdclab-wiki.herokuapp.com/databases/database_searches/biotools/)
+- [ProDom *Comprehensive set of protein domain families automatically generated from the UniProt KD*](https://vdclab-wiki.herokuapp.com/en/databases/database_searches/ProDom)
 {.links-list}
 
 ## Data Integration Databases
