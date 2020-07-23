@@ -2,7 +2,7 @@
 title: UniProt
 description: The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 published: true
-date: 2020-07-23T15:59:23.552Z
+date: 2020-07-23T16:00:41.450Z
 tags: aggregator, archaea, bacteria, data capture, resource center, database, proteomes, sequence identity, eukaryota, id mapping, locus tag
 editor: markdown
 ---
@@ -35,12 +35,12 @@ editor: markdown
 
 # UniProt pages related on the wiki
 
-## BLAST
-
-- [Uniprot *BLAST on Uniprot*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/BLAST)
-{.links-list}
-
 ## Database Linker
 
 - [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
+{.links-list}
+
+## Tools
+
+- [Uniprot *BLAST on Uniprot*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/BLAST)
 {.links-list}
