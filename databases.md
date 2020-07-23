@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T22:12:36.512Z
+date: 2020-07-23T22:12:45.580Z
 tags: category
 editor: markdown
 ---
@@ -110,7 +110,7 @@ editor: markdown
 
 #### Archaeal databases
 
-- [:star: UCSC Archaeal Genome Browser *Basic gene annotation 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
+- [:star: UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
 {.links-list}
 
 ### Virus databases
