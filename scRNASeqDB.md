@@ -2,8 +2,9 @@
 title: Single-cell RNA-Seq (scRNA-seq) Database
 description: scRNASeqDB database: contains 36 human single cell gene expression data sets collected from Gene Expression Omnibus (GEO), involving 8910 cells from 174 cell groups
 published: true
-date: 2020-05-18T20:47:13.220Z
-tags: rna, database
+date: 2020-07-23T23:48:41.248Z
+tags: sequencing projects, project library, data capture, rna, database, transcriptomics, resource, co-expression, browser, data visualization, eukaryota, enrichment
+editor: markdown
 ---
 
 # Single-cell RNA-Seq (scRNA-seq) Database
@@ -17,6 +18,21 @@ tags: rna, database
 
 - [scRNASeqDB *Main Page*](https://bioinfo.uth.edu/scrnaseqdb/index.php?r=site/index&csrt=10266486991585212369)
  {.links-list}
+
+## Help
+
+- [scRNASeqDB Help *Help Page*](https://bioinfo.uth.edu/scrnaseqdb/index.php?r=help/intro&csrt=5488992772079588396)
+- [scRNASeqDB Other *Related Resources*](https://bioinfo.uth.edu/scrnaseqdb/index.php?r=resource/index&csrt=5488992772079588396)
+{.links-list}
+
+## Ease of Use
+
+- This site is easy to use. 
+
+## User Notes
+
+- The top 100 positive and negative correlated genes for gene search/experimental results can be downloaded for use in enrichment analysis. (Although direct links to DAVID enrichment do not appear to be functional.
+- Each dataset has a well written description of the overall experimental design and summary, as well as links to the dataset and pubmed publication.
 
 ## Citation 
 
