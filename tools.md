@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-22T21:50:22.027Z
+date: 2020-07-23T19:42:50.456Z
 tags: category
 editor: markdown
 ---
@@ -149,6 +149,11 @@ editor: markdown
 - [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 - [PCAGO *Analyzing your RNA-Seq read counts with principal component analysis (PCA)*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PCAGO)
 - [:star: Phylo.io *Visualising and comparing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/Phylo-io)
+{.links-list}
+
+## Visualizing Pathways (No Data Mapping)
+
+- [iPath *Web-based tool for the visualization, analysis and customization of various pathway maps*](https://vdclab-wiki.herokuapp.com/en/tools/visualizing-pathways/iPath)
 {.links-list}
 
 ## Visualizing Pathways - Mapping Data To Pathways
