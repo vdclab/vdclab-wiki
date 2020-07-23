@@ -2,8 +2,9 @@
 title: ETviewer
 description: Evolutionary Trace (ET) computes the relative rank of functional and structural importance among protein homologs sequence positions.
 published: true
-date: 2020-05-20T18:32:50.141Z
-tags: tool, proteins, prediction
+date: 2020-07-23T18:56:06.102Z
+tags: tool, sequence analysis, proteins, prediction, essentiality, residue
+editor: markdown
 ---
 
 # ETviewer
@@ -15,8 +16,14 @@ tags: tool, proteins, prediction
 
 ## Website 
 
-- [ETviewer *Main Page*](http://evolution.lichtargelab.org/ETviewer)
+- [ETviewer *Main Page*](http://evolution.lichtargelab.org/uet)
  {.links-list}
+ 
+ ## Notes from User
+ - Easy to use
+ - Multiple input options
+ - PDB are pre-computed, while UniPort or aa sequences are analysed on the spot, so they take some time 
+ 
 
 ## Citations
 
