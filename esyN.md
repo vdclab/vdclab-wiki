@@ -2,7 +2,7 @@
 title: esyN
 description: Build networks interactively: automatically retrieve interaction data and build a network.
 published: true
-date: 2020-07-23T18:21:31.560Z
+date: 2020-07-23T18:23:19.726Z
 tags: genes, proteins, functional association, data visualization, network, interaction, protein-protein
 editor: markdown
 ---
