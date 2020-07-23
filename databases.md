@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T18:41:39.361Z
+date: 2020-07-23T18:44:43.137Z
 tags: category
 editor: markdown
 ---
@@ -26,6 +26,7 @@ editor: markdown
 
 
 - [:star: BioCyc *Collection of 16,822 Pathway/Genome Databases (PGDBs)*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BioCyc)
+- [:star: BRENDA ENZYMES *Main collection of enzyme functional data available*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BRENDA-ENZYMES)
 - [:star: DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [EuPathDB *Eukaryotic pathogens database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [ExPASy ENZYME *Repository of enzymes and information relative to the nomenclature of enzymes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/ExPASy-ENZYME)
