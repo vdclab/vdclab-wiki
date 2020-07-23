@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-23T15:54:03.903Z
+date: 2020-07-23T18:29:08.931Z
 tags: category
 editor: markdown
 ---
@@ -29,10 +29,12 @@ editor: markdown
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FUNGIpath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath)
+- [:star: Saccharomyces Genome Database *Comprehensive integrated biological information for the budding yeast S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SGD)
 {.links-list}
 
 ### Plant Resources
 
+- [:star: Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [AraNet *Functional gene network for Arabidopsis thaliana*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/AraNet)
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [Diurnal *Provides convenient access to circadian and diurnal genome-wide gene expression data*](https://vdclab-wiki.herokuapp.com/resources/plant/Diurnal)
@@ -62,6 +64,7 @@ editor: markdown
 - [:star: RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 - [SAT *Web page describing various structural alignment tools and resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/SAT)
 - [Quest for Orthologs *Provides a list of existing orthology databases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Quest-for-Orthologs)
+- [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
 {.links-list}
 
