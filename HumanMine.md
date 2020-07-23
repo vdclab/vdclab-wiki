@@ -2,7 +2,7 @@
 title: HumanMine
 description: An integrated database of Homo sapiens genomic data
 published: true
-date: 2020-07-23T18:12:34.881Z
+date: 2020-07-23T18:17:12.735Z
 tags: annotation, genomics, functional association, analysis tools, database, transcriptomics, gene, co-expression, protein, gene expression, gene annotation, organism-specific
 editor: markdown
 ---
