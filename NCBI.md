@@ -2,7 +2,7 @@
 title: National Center for Biotechnology Information (NCBI)
 description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-07-23T16:00:26.174Z
+date: 2020-07-23T23:16:40.106Z
 tags: resource center, database, publisher
 editor: markdown
 ---
@@ -85,4 +85,10 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 - [Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
 {.links-list}
 
+## Visualization
+
+### Genome Browsers Within Integrated Platforms
+
+- [NCBI *Genome Data Viewer*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GDV)
+{.links-list}
 
