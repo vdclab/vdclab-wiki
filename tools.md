@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-23T19:42:50.456Z
+date: 2020-07-23T19:50:26.310Z
 tags: category
 editor: markdown
 ---
@@ -17,6 +17,7 @@ editor: markdown
 - [LALIGN *Find multiple matching subsegments in two sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LALIGN)
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
+- [:star: MView *Reformats the results of a sequence database search or a multiple alignment*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/MView)
 - [Pairwise Align DNA *Basic DNA pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-DNA)
 - [Pairwise Align Protein *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Align-Protein)
 - [:star: Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
