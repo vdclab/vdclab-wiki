@@ -2,7 +2,7 @@
 title: Genome Browser Gateway
 description: Genome Browser Gateway: A mature web tool for rapid and reliable display of any requested portion of the genome at any scale, together with several dozen aligned annotation tracks.
 published: true
-date: 2020-07-23T22:14:13.613Z
+date: 2020-07-23T22:14:24.787Z
 tags: annotation, tool, sequence analysis, sequence alignment, fungi, genome browser, comparative genomics, dna, database, genome annotation, homology, gene, browser, gene expression, structural alignment, conservation, eukaryota, curated, structural analysis, regulation
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 # Genome Browser Gateway
 
 > Genome Browser Gateway is a mature web tool for rapid and reliable display of any requested portion of the genome at any scale, with several dozen aligned annotation tracks.
-&NewLine;
-This browser displays assembly contigs and gaps, mRNA and expressed sequence tag alignments, multiple gene predictions, cross-species homologies, single nucleotide polymorphisms, sequence-tagged sites, radiation hybrid data, transposon repeats, and more as a stack of coregistered tracks. Text and sequence-based searches provide quick and precise access to any region of specific interest. Secondary links from individual features lead to sequence details and supplementary off-site databases.
+> 
+> This browser displays assembly contigs and gaps, mRNA and expressed sequence tag alignments, multiple gene predictions, cross-species homologies, single nucleotide polymorphisms, sequence-tagged sites, radiation hybrid data, transposon repeats, and more as a stack of coregistered tracks. Text and sequence-based searches provide quick and precise access to any region of specific interest. Secondary links from individual features lead to sequence details and supplementary off-site databases.
 {.is-info}
 
 
