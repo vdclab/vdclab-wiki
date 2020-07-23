@@ -2,8 +2,8 @@
 title: cpnDB
 description: The goal of the cpnDB project is to provide a manually curated, taxonomically broad collection of chaperonin sequences.
 published: true
-date: 2020-07-22T22:34:54.873Z
-tags: proteins, taxonomic profiling, resource center, database
+date: 2020-07-23T01:59:15.414Z
+tags: archaea, bacteria, phylogeny, proteins, taxonomic profiling, data capture, database, eukaryota
 editor: markdown
 ---
 
@@ -22,8 +22,9 @@ As the largest curated collection of sequences available for a protein-encoding 
  {.links-list}
  
  ## Notes from User
- - Easy to browse and custom search for chaperonins
- - Can add chaperonins to cart, allows for easy download 
+ - Easy to browse or custom search for chaperonins
+ - Can add chaperonins to cart, allows for easy download of sequences
+ 
 
 ## Citations
 
