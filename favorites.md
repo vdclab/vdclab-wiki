@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-23T18:33:18.590Z
+date: 2020-07-23T18:45:24.965Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -53,6 +53,7 @@ editor: markdown
 ## Data Integration Databases
 
 - [BioCyc *Collection of 16,822 Pathway/Genome Databases (PGDBs)*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BioCyc)
+- [BRENDA ENZYMES *Main collection of enzyme functional data available*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BRENDA-ENZYMES)
 - [DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
