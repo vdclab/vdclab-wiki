@@ -2,7 +2,7 @@
 title: UniProt
 description: The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 published: true
-date: 2020-07-22T20:25:04.976Z
+date: 2020-07-23T15:56:49.012Z
 tags: aggregator, archaea, bacteria, data capture, resource center, database, proteomes, sequence identity, eukaryota, id mapping, locus tag
 editor: markdown
 ---
@@ -28,8 +28,14 @@ UniProt is a collaboration between the European Bioinformatics Institute (EMBL-E
 - Good for all domains of life 
 - The "Add a publication" button can be used to update an entry
 
-
 ## Citation
 
 - [The UniProt Consortium UniProt: a worldwide hub of protein knowledge.](https://academic.oup.com/nar/article/47/D1/D506/5160987) Nucleic Acids Res. 47: D506-515 (2019)
 {.grid-list}
+
+# UniProt pages related on the wiki
+
+## Database Linker
+
+- [UniProt-Mapping *Very usuful tool when you want to swap IDs from a database to another*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/UniProt-Mapping)
+{.links-list}
