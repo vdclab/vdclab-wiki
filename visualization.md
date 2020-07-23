@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-23T19:50:27.958Z
+date: 2020-07-23T23:19:08.567Z
 tags: category
 editor: markdown
 ---
@@ -29,6 +29,7 @@ editor: markdown
 ## Genome Browsers Within Integrated Platforms
 
 - [:star: GenomeProjector *Zoomable user interface for molecular biology*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GenomeProjector)
+- [NCBI *Genome Data Viewer*](https://vdclab-wiki.herokuapp.com/en/visualization/genome-browsers/GDV)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 {.links-list}
 
