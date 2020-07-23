@@ -2,7 +2,7 @@
 title: Genome Browser Gateway
 description: Genome Browser Gateway: A mature web tool for rapid and reliable display of any requested portion of the genome at any scale, together with several dozen aligned annotation tracks.
 published: true
-date: 2020-07-22T21:36:08.736Z
+date: 2020-07-23T22:14:13.613Z
 tags: annotation, tool, sequence analysis, sequence alignment, fungi, genome browser, comparative genomics, dna, database, genome annotation, homology, gene, browser, gene expression, structural alignment, conservation, eukaryota, curated, structural analysis, regulation
 editor: markdown
 ---
@@ -19,21 +19,23 @@ This browser displays assembly contigs and gaps, mRNA and expressed sequence tag
 ## Website
 
 - [Genome Browser Gateway *Main Page*](http://genome.ucsc.edu/cgi-bin/hgGateway)
-- [Genome Browser Help *User Guide*](http://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html)
-- [Genome Browser Training *Wide Variety of Training Tools*](http://genome.ucsc.edu/training/index.html)
-
-
 {.links-list}
-
-## Ease of Use
-
-- The site is relatively easy to use. 
 
 ## User Notes
 
 - The site specializes in Eukaryotic genomes, but also has the Ebola virus (G3683/KM034562.1/eboVir3; June 2014) and SARS-CoV-2 (ASM985889v3/wuhCor1; January 2020) available. 
 - Results also provide links to connected databases. 
 - Surprisingly E. coli is in this set.
+
+## Ease of Use
+
+The site is relatively easy to use. 
+
+## Help
+
+- [Genome Browser Help *User Guide*](http://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html)
+- [Genome Browser Training *Wide Variety of Training Tools*](http://genome.ucsc.edu/training/index.html)
+{.links-list}
 
 ## Citation
 
