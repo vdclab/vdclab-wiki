@@ -2,7 +2,7 @@
 title: The Arabidopsis Information Resource (TAIR)
 description: The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana.
 published: true
-date: 2020-07-23T18:24:28.465Z
+date: 2020-07-23T18:25:03.203Z
 tags: aggregator, genomes, genome browser, data capture, resource center, database, model organism, phenotype, plant
 editor: markdown
 ---
@@ -19,7 +19,8 @@ editor: markdown
 
 
 ## Notes from User
-- Community orientated, keeps track of labs which identified information in A. thaliana such as gene families 
+
+- Community orientated, keeps track of labs which identified information in *A. thaliana* such as gene families 
 - Database and tools focused on genome/genes, links out to other resources for rest 
 - Great tool for protocol searching 
 - So information dense that sometimes difficult to find what the user wants
