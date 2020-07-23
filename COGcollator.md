@@ -2,8 +2,9 @@
 title: COGcollator
 description: COGcollator: a web server for analysis of distant relationships between homologous protein families
 published: true
-date: 2020-05-20T17:57:02.227Z
-tags: aggregator, cog, database
+date: 2020-07-23T17:28:34.218Z
+tags: cog, hmm profile, database, prediction, protein family, protein-protein
+editor: markdown
 ---
 
 # COGcollator
@@ -17,6 +18,10 @@ tags: aggregator, cog, database
 
 - [COGcollator *Main Page*](https://depo.msu.ru/module/cogcollator)
  {.links-list}
+
+## Notes from User
+- Page default is Russian, can change to English (top right corner)
+- Good to read beginning of paper, site is not intuitive
 
 ## Citation 
 
