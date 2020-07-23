@@ -2,7 +2,7 @@
 title: NCBI - All Resources
 description: Web page compilation of the various databases, tools, and downloads offered by NCBI, as well as many 'how-tos' on various website functions.
 published: true
-date: 2020-07-22T20:22:53.357Z
+date: 2020-07-23T15:44:06.747Z
 tags: aggregator, genomes, archaea, bacteria, tool, genome browser, data capture, resource center, database, browser, eukaryota, library
 editor: markdown
 ---
@@ -25,4 +25,6 @@ editor: markdown
 - Good for searching isolated strain information 
 
 ## Citation
-- [Website](https://support.nlm.nih.gov/knowledgebase/article/KA-03391/en-us) for citing NCBI resources and databases 
+
+- [Website *Citing NCBI resources and databases*](https://support.nlm.nih.gov/knowledgebase/article/KA-03391/en-us) 
+{.links-list}
