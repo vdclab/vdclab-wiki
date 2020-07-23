@@ -2,7 +2,7 @@
 title: ExPASy ENZYME
 description: ENZYME is a repository of enzymes and information relative to the nomenclature of enzymes.
 published: true
-date: 2020-07-21T18:03:06.076Z
+date: 2020-07-23T18:34:01.296Z
 tags: reference, annotation, data capture, database, protein, curated, functional annotation
 editor: markdown
 ---
@@ -17,18 +17,21 @@ editor: markdown
 ## Website
 
 - [ExPASy ENZYME *Main Page*](https://enzyme.expasy.org/)
-- [ENZYME Help *User Manual*](https://enzyme.expasy.org/enzuser.txt)
-- [ENZYME - The Enzyme Data Bank *ENZYME Entries by Cofactor*](https://enzyme.expasy.org/enzyme-bycofactor.html)
 {.links-list}
-
-## Ease of Use
-
-- The site is fairly straight forward, giving Users search options for accessing the ENZYME repository. Downloading results isn't immediately intuitive (see user notes), but the user manual and other home page documents provide guidance. 
 
 ## User Notes
 
 - ENZYME now includes entries with preliminary EC numbers. Preliminary EC numbers include an 'n' as part of the fourth (serial) digit (e.g. EC 3.5.1.n3).
 - Gathering a collection of specific data (for example, all enzymes using a specified cofactor) isn't intuitive, Users should read and follow directions in "How to obtain ENZYME."
+
+## Ease of Use
+
+- The site is fairly straight forward, giving Users search options for accessing the ENZYME repository. Downloading results isn't immediately intuitive (see user notes), but the user manual and other home page documents provide guidance. 
+
+## Help
+- [ENZYME Help *User Manual*](https://enzyme.expasy.org/enzuser.txt)
+- [ENZYME - The Enzyme Data Bank *ENZYME Entries by Cofactor*](https://enzyme.expasy.org/enzyme-bycofactor.html)
+{.links-list}
 
 ## Citation
 
