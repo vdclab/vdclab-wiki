@@ -1,14 +1,15 @@
 ---
-title: MetaNetX
+title: MetaNetXd
 description:  Automated Model Construction and Genome Annotation for Large-Scale Metabolic Networks
 published: true
-date: 2020-05-20T18:06:34.323Z
-tags: genome annotation, metabolic pathways, modeling, toolbox
+date: 2020-07-23T18:38:42.798Z
+tags: community, genomics, archaea, bacteria, tool, metabolic reconstruction, genome annotation, metabolic pathways, eukaryota, networks, modeling
+editor: markdown
 ---
 
 # MetaNetX
 
-> MetaNetX.org is an online platform for accessing, analyzing and manipulating genome-scale metabolic networks (GSM) as well as biochemical pathways. To this end, it integrates a great variety of data sources and tools. 
+> MetaNetX is an online platform for accessing, analyzing and manipulating genome-scale metabolic networks (GSM) as well as biochemical pathways. To this end, it integrates a great variety of data sources and tools. 
 {.is-info}
 
  
@@ -17,6 +18,12 @@ tags: genome annotation, metabolic pathways, modeling, toolbox
 
 - [MetaNetX *Main Page*](https://www.metanetx.org/)
  {.links-list}
+ 
+## Notes from User
+- Difficult to learn, but good tutorials provided to help start
+- Can work from previously created models or start new 
+- Easy to manuever around site 
+
 
 ## Citations
 
