@@ -2,7 +2,7 @@
 title: National Center for Biotechnology Information (NCBI)
 description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-07-23T15:59:56.452Z
+date: 2020-07-23T16:00:26.174Z
 tags: resource center, database, publisher
 editor: markdown
 ---
@@ -42,11 +42,6 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 - [NCBI *Prokaryotic Genome Annotation Pipeline*](https://vdclab-wiki.herokuapp.com/en/annotation/prokaryotic/NCBI-PGAP)
 {.links-list}
 
-## BLAST
-
-- [NCBI *BLAST on NCBI*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/BLAST)
-{.links-list}
-
 ## Databases
 
 ### Microarray and RNAseq
@@ -78,10 +73,16 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 - [iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 {.links-list}
 
+## Tools
+
+- [NCBI *BLAST on NCBI*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/BLAST)
+{.links-list}
+
 ## Tutorial
 
 - [Entrez Help *Summary Matrices*](https://vdclab-wiki.herokuapp.com/en/trainings-tutorials/tutorials/NCBI-Summary-Matrices)
 - [NCBI *Tutorial page*](https://vdclab-wiki.herokuapp.com/trainings-tutorials/tutorials/NCBI-tutorials/)
 - [Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
 {.links-list}
+
 
