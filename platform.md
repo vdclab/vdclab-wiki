@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-07-22T21:48:36.904Z
+date: 2020-07-23T22:27:49.729Z
 tags: category
 editor: markdown
 ---
@@ -17,6 +17,7 @@ editor: markdown
 
 ## Genome Browsers Within Integrated Platforms
 
+- [Genome Browser Gateway *Web tool for rapid display of any portion of the genome with annotation*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/Genome-Browser-Gateway)
 - [WashU *Provides visualization, integration and analysis tools for epigenomic datasets*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/WashU)
 {.links-list}
 
