@@ -2,8 +2,8 @@
 title: esyN
 description: Build networks interactively: automatically retrieve interaction data and build a network.
 published: true
-date: 2020-07-22T21:12:40.144Z
-tags: browser, data visualization, network
+date: 2020-07-23T18:21:31.560Z
+tags: genes, proteins, functional association, data visualization, network, interaction, protein-protein
 editor: markdown
 ---
 
@@ -22,6 +22,13 @@ editor: markdown
 
 - [esyN *Main Page*](http://www.esyn.org/index.php)
  {.links-list}
+
+## User Notes
+Allows for generation, customization, download, upload and visualization of gene/protein interaction networks for model organism; pulls data from specific interaction databases
+
+## Ease of Use
+Very easy to use, but limited by its specificity in its use for research, etc.
+
 
 ## Citation 
 
