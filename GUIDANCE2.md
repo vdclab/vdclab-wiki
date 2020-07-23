@@ -2,8 +2,8 @@
 title: The GUIDANCE2 Server
 description: Server for alignment confidence score
 published: true
-date: 2020-07-23T18:29:35.737Z
-tags: sequence alignment, server
+date: 2020-07-23T18:33:29.803Z
+tags: sequence analysis, sequence alignment, analysis tools, data visualization, server
 editor: markdown
 ---
 
