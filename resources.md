@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-23T18:29:08.931Z
+date: 2020-07-23T19:46:31.326Z
 tags: category
 editor: markdown
 ---
@@ -41,6 +41,11 @@ editor: markdown
 - [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
 - [:star: Phylogenes *Pre-computed phylogenetic trees of gene families alongside experimental gene function data*](https://vdclab-wiki.herokuapp.com/en/resources/plant/phylogenes)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
+{.links-list}
+
+## Experimental Planning Resources
+
+- [Gene Infinity *Online place to find information and resources needed in molecular biology and biochemistry*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Gene-Infinity)
 {.links-list}
 
 ## Galaxy Resources
