@@ -2,7 +2,7 @@
 title: Seed Viewer: Plant SEED
 description: Plant SEED provide consistent and accurate genome annotations across many plant genomes.
 published: true
-date: 2020-07-23T17:52:23.943Z
+date: 2020-07-23T17:54:02.112Z
 tags: annotation, genomics, annotation tools, tool, database
 editor: markdown
 ---
