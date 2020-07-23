@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T19:56:50.956Z
+date: 2020-07-23T21:44:51.717Z
 tags: category
 editor: markdown
 ---
@@ -30,6 +30,7 @@ editor: markdown
 
 - [:star: BioCyc *Collection of 16,822 Pathway/Genome Databases (PGDBs)*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BioCyc)
 - [:star: BRENDA ENZYMES *Main collection of enzyme functional data available*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/BRENDA-ENZYMES)
+- [:star: CATH *Classification of protein structures downloaded from the Protein Data Bank*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
 - [:star: DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [EuPathDB *Eukaryotic pathogens database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [ExPASy ENZYME *Repository of enzymes and information relative to the nomenclature of enzymes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/ExPASy-ENZYME)
@@ -40,6 +41,7 @@ editor: markdown
 - [PDBe-KB *Community-driven resource managed by the PDBe team*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/PDBe-KB)
 - [Reactome *Signaling and metabolic molecules and their relations organized into biological pathways*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/Reactome)
 - [SCOP2 *Description of the structural and evolutionary relationships between all proteins whose structure is known*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOP2)
+- [:star: SCOPe *Database developed at the Berkeley Lab and UC Berkeley*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
 - [:star: SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
