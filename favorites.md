@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-23T19:50:42.617Z
+date: 2020-07-23T21:47:02.157Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -58,6 +58,7 @@ editor: markdown
 - [DEG *Database of Essential Genes*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/DEG)
 - [FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
+- [SCOPe *Database developed at the Berkeley Lab and UC Berkeley*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
 - [SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
