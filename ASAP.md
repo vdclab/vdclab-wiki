@@ -2,8 +2,9 @@
 title: ASAP
 description: ASAP is a relational database and web interface developed to store, update and distribute genome sequence data and gene expression data collected by or in collaboration with researchers at the University of Wisconsin - Madison.
 published: true
-date: 2020-05-19T17:02:26.857Z
-tags: database, genome annotation
+date: 2020-07-23T02:24:33.458Z
+tags: genomes, bacteria, tool, genome browser, comparative genomics, data capture, database, genome annotation, resource cneter
+editor: markdown
 ---
 
 # ASAP
@@ -19,6 +20,11 @@ tags: database, genome annotation
 
 - [ASAP *Main Page*](http://asap.ahabs.wisc.edu/asap/home.php)
  {.links-list}
+
+## Notes from User 
+- Takes some time to navigate through site and tools 
+- For subset of bacteria
+- Experimental work only with a few of the organisms which have genomes on site
 
 ## Citation
 
