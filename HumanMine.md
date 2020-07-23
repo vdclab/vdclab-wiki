@@ -2,7 +2,7 @@
 title: HumanMine
 description: An integrated database of Homo sapiens genomic data
 published: true
-date: 2020-07-23T18:11:46.600Z
+date: 2020-07-23T18:12:34.881Z
 tags: annotation, genomics, functional association, analysis tools, database, transcriptomics, gene, co-expression, protein, gene expression, gene annotation, organism-specific
 editor: markdown
 ---
@@ -22,6 +22,7 @@ editor: markdown
 ## User Notes
 - Part of a larger suite of model organism-specific resources under the InterMine umbrella of sites (http://intermine.org)
 - Provides thorough reports for individual genes or lists of genes through an easy-to-use, easily navigated interface
+- Customizable query building for functional/phenotype association determination, pattern-finding
 
 ## Ease of Use
 It is recommended that users register accounts for improved ease of use and optimized utilization of tools available. 
