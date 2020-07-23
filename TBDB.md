@@ -2,8 +2,9 @@
 title: TB Genomes Database
 description: TBDB: an integrated platform for Tuberculosis research
 published: true
-date: 2020-05-20T18:37:52.718Z
-tags: annotation, database, organism-specific
+date: 2020-07-23T19:23:58.110Z
+tags: genomes, bacteria, data capture, database, protein, phenotype, organism-specific, locus tag
+editor: markdown
 ---
 
 # TB Genomes Database
@@ -19,6 +20,13 @@ tags: annotation, database, organism-specific
 
 - [TB Genomes Database *Main Page*](http://tbdb.bu.edu/tbdb_sysbio/MultiHome.html)
  {.links-list}
+ 
+ ## Notes from User
+ - Comprehensive and easy to use database
+ - Quick search only recognizes locus tag or gene symbol 
+ - *Ortholog tab currently not working
+
+ 
 
 ## Citations
 
