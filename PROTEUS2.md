@@ -2,8 +2,9 @@
 title: PROTEUS2
 description: PROTEUS2 is a web server designed to support comprehensive protein structure prediction and structure-based annotation.
 published: true
-date: 2020-05-20T18:00:20.912Z
-tags: proteins, prediction
+date: 2020-07-23T17:38:57.710Z
+tags: bacteria, proteins, homology, prediction, proteomics, eukaryota, structural analysis
+editor: markdown
 ---
 
 # PROTEUS2
@@ -19,6 +20,13 @@ tags: proteins, prediction
 
 - [PROTEUS2 *Main Page*](http://www.proteus2.ca/proteus2/index.jsp)
  {.links-list}
+
+
+## Notes from User
+- Easy to use 
+- Single protein submission is quick
+- Can use for homology modelling by providing PDB file/accession number
+- Also provides secondary structure predicitons from other programs in results
 
 ## Citation 
 
