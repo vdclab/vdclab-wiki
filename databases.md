@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T15:54:05.054Z
+date: 2020-07-23T18:29:10.821Z
 tags: category
 editor: markdown
 ---
@@ -45,6 +45,7 @@ editor: markdown
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [:star: NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [:star: RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
+- [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 {.links-list}
 
 ### Eukaryote databases
@@ -62,11 +63,13 @@ editor: markdown
 
 #### Organism specific databases 
 
+- [:star: Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
 - [:star: CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
 - [ChlamyNet Clusters *Exploration of gene co-expression network of Chlamydomonas transcriptome*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ChlamyNet-Clusters)
 - [MaizeGDB *Focused on the crop plant and model organism Zea mays*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/MaizeGDB)
 - [:star: neXtProt *Exploring the universe of human proteins*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/neXtProt)
+- [:star: Saccharomyces Genome Database *Comprehensive integrated biological information for the budding yeast S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SGD)
 - [:star: SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 {.links-list} 
