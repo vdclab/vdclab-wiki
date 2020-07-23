@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-22T20:55:52.434Z
+date: 2020-07-23T19:49:35.989Z
 tags: category
 editor: markdown
 ---
@@ -47,6 +47,7 @@ editor: markdown
 ## Sequence Data Visualization
 
 - [:star: Berkeley WebLogo *Designed to make the generation of sequence logos as easy and painless as possible*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/Berkeley-WebLogo)
+- [:star: MView *Reformats the results of a sequence database search or a multiple alignment*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/MView)
 - [:star: Two Sample Logos *Calculates and visualizes differences between two sets of aligned samples of amino acids or nucleotides*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/TSL)
 {.links-list}
 
