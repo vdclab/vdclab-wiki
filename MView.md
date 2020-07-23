@@ -2,7 +2,7 @@
 title: MView - A Multiple Alignment Viewer
 description: MView reformats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout.
 published: true
-date: 2020-07-22T22:27:36.122Z
+date: 2020-07-23T17:36:40.989Z
 tags: tool, genes, sequence format, dna, rna
 editor: markdown
 ---
@@ -20,10 +20,10 @@ editor: markdown
 {.links-list}
 
 ## User Notes
-
+Easily allows for the visualization of aligned protein or nucleic acid sequences; must be in FASTA format.
 
 ## Ease of Use
-
+Easy to use, straightforward interface, although some features post-alignment require Java to be enabled in browser. 
 
 ## Citation
 
