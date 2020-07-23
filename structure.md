@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-07-22T21:01:44.686Z
+date: 2020-07-23T21:49:38.556Z
 tags: category
 editor: markdown
 ---
@@ -11,7 +11,9 @@ editor: markdown
 
 ## Evolutionary Conserved Residues On Structure
 
+- [:star: CATH *Classification of protein structures downloaded from the Protein Data Bank*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
 - [:star: ConSurf *Server for the Identification of Functional Regions in Proteins*](https://vdclab-wiki.herokuapp.com/en/structure/evolutionary_conserved_residues/ConSurf)
+- [SCOP2 *Description of the structural and evolutionary relationships between all proteins whose structure is known*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOP2)
 - [UET *Database offers pre-computed evolutionary trace analyses for the protein structure databank*](https://vdclab-wiki.herokuapp.com/en/structure/evolutionary_conserved_residues/UET)
 {.links-list}
 
