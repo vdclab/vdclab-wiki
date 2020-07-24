@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-24T16:09:19.951Z
+date: 2020-07-24T16:31:35.509Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -224,6 +224,11 @@ editor: markdown
 ### Plant Resources
 
 - [Phylogenes *Pre-computed phylogenetic trees of gene families alongside experimental gene function data*](https://vdclab-wiki.herokuapp.com/en/resources/plant/phylogenes)
+{.links-list}
+
+## Experimental Planning Resources
+
+- [NEBcutter *Take DNA sequence and find the large, open reading frames using the E.coli genetic code*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/NEBcutter)
 {.links-list}
 
 ## Homology
