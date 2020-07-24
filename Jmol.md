@@ -2,7 +2,7 @@
 title: Jmol
 description: Jmol: an open-source Java viewer for chemical structures in 3D with features for chemicals, crystals, materials and biomolecules.
 published: true
-date: 2020-07-22T20:24:04.984Z
+date: 2020-07-24T16:38:40.299Z
 tags: tool, proteins, prediction, structural alignment, structural analysis, webserver, plugin
 editor: markdown
 ---
@@ -29,7 +29,8 @@ Jmol is a free, open source viewer of molecular structures useful for students, 
 
 ## Citation
 
-Jmol: an open-source Java viewer for chemical structures in 3D. http://www.jmol.org/
+**Jmol:** an open-source Java viewer for chemical structures in 3D. http://www.jmol.org/
 {.grid-list}
 
-[Wiki of Jmol Literature](http://wiki.jmol.org/index.php/Literature) 
+- [Wiki *Jmol Literature*](http://wiki.jmol.org/index.php/Literature) 
+{.links-list}
