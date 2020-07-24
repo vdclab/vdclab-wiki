@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-24T16:37:29.872Z
+date: 2020-07-24T16:45:37.004Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -414,6 +414,7 @@ editor: markdown
 ## Structure Visualization Platforms 
 
 - [Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
+- [:star: JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
 {.links-list}
 
 ## Tools to Make Figures
