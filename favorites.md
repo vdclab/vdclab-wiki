@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-24T16:36:03.025Z
+date: 2020-07-24T16:37:29.872Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -228,6 +228,7 @@ editor: markdown
 
 ## Experimental Planning Resources
 
+- [ApE *Tool that allows information and editing of plasmids, as well as tools for data visualization*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/ApE)
 - [NEBcutter *Take DNA sequence and find the large, open reading frames using the E.coli genetic code*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/NEBcutter)
 - [Primer3Plus *Pick primers from a DNA sequence*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer3Plus)
 - [Primer-BLAST *A tool for finding specific primers*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer-BLAST)
