@@ -2,7 +2,7 @@
 title: AureoWiki
 description: Welcome to the repository of the Staphylococcus aureus research & annotation community
 published: true
-date: 2020-07-16T14:37:26.248Z
+date: 2020-07-24T18:42:41.882Z
 tags: annotation, gene, gene neighborhood, repository, organism-specific
 editor: markdown
 ---
@@ -26,7 +26,8 @@ editor: markdown
 - Lots of annotations and links available for well characterized proteins
 
 ## Ease of use
-> The database is as easy to use as any annotation database, but the trick is to know which locus tags to use. The database is limited to these strains: COL, N315, NCTC8325, Newman and USA300_FPR3757.
+
+The database is as easy to use as any annotation database, but the trick is to know which locus tags to use. The database is limited to these strains: COL, N315, NCTC8325, Newman and USA300_FPR3757.
 
 ## Citation 
 
