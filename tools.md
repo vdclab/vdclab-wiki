@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-23T19:50:26.310Z
+date: 2020-07-24T16:05:29.988Z
 tags: category
 editor: markdown
 ---
@@ -41,6 +41,7 @@ editor: markdown
 - [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [:star: MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
+- [:star: MitoMiner *Database of mammalian mitochondrial localisation evidence, phenotypes, and diseases*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MitoMiner)
 - [:star: NCBI *Conserved Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [:star: NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [PDBeMotif *Fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PDBeMotif)
