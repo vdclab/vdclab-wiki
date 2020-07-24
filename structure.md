@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-07-24T16:43:44.514Z
+date: 2020-07-24T16:45:48.041Z
 tags: category
 editor: markdown
 ---
@@ -55,4 +55,5 @@ editor: markdown
 ## Visualizing Structures In The Web
 
 - [Jmol *Viewer for chemical structures in 3D with features for chemicals, crystals, materials and biomolecules*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/Jmol)
+- [:star: JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
 {.links-list}
