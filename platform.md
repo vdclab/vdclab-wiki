@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-07-23T22:27:49.729Z
+date: 2020-07-24T16:02:32.738Z
 tags: category
 editor: markdown
 ---
@@ -17,6 +17,8 @@ editor: markdown
 
 ## Genome Browsers Within Integrated Platforms
 
+- [Ensembl *Genome browser for vertebrate genomes that supports research in comparative genomics, evolution*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/Ensembl)
+- [:star: Ensembl Bacteria *Browser for bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/EnsemblBacteria)
 - [Genome Browser Gateway *Web tool for rapid display of any portion of the genome with annotation*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/Genome-Browser-Gateway)
 - [WashU *Provides visualization, integration and analysis tools for epigenomic datasets*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/WashU)
 {.links-list}
