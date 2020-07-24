@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-24T16:42:31.526Z
+date: 2020-07-24T16:45:51.406Z
 tags: category
 editor: markdown
 ---
@@ -59,6 +59,7 @@ editor: markdown
 - [:star: Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
 - [:star: iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 - [Jmol *Viewer for chemical structures in 3D with features for chemicals, crystals, materials and biomolecules*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/Jmol)
+- [:star: JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
 - [MolScript *Creating detailed molecular graphics images from molecular 3D coordinates*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/MolScript)
 - [RasMol *Biomolecular graphics for all*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/RasMol)
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
