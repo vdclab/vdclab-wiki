@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-23T22:13:14.848Z
+date: 2020-07-24T16:03:10.069Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -182,6 +182,11 @@ editor: markdown
 {.links-list}
 
 # Platform
+
+## Genome Browsers Within Integrated Platforms
+
+- [Ensembl Bacteria *Browser for bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/en/platform/genome-browsers/EnsemblBacteria)
+{.links-list}
 
 ## Integrated Prokaryotic Genome Analysis Platforms
 
