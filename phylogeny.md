@@ -2,7 +2,7 @@
 title: Phylogeny
 description: List of the websites to do phylogeny
 published: true
-date: 2020-06-11T14:45:55.531Z
+date: 2020-07-24T16:08:51.545Z
 tags: 
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
 - [:star: IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
 - [:star: NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
+- [:star: Simple Phylogeny *Provides access to phylogenetic tree generation methods from the ClustalW2*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Simple-Phylogeny)
 {.links-list}
 
 ## Phylogenetic Distribution Tools
