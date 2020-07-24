@@ -2,7 +2,7 @@
 title: Ensembl Bacteria
 description: Ensembl Bacteria is a browser for bacterial and archaeal genomes.
 published: true
-date: 2020-07-22T21:42:44.656Z
+date: 2020-07-24T16:00:52.659Z
 tags: annotation, archaea, bacteria, taxonomy, sequence analysis, sequence alignment, phylogeny, genome browser, comparative genomics, data capture, database, gene, browser, data visualization, curated
 editor: markdown
 ---
@@ -23,15 +23,6 @@ In each domain, we aim to bring the integrative power of Ensembl tools for compa
 - [Ensembl Bacteria *Main Page*](http://bacteria.ensembl.org/index.html)
 {.links-list}
 
-## Help
-
-- [Ensembl Bacteria Help *Help Page*](http://bacteria.ensembl.org/info/website/index.html)
-- [Ensembl Help *Tutorials and Worked Examples*](http://useast.ensembl.org/info/website/tutorials/index.html)
-{.links-list}
-
-## Ease of Use
-
-- The site is not immediately intuitive and searches need to be carried out very specifically or through use of multiple search methods to ensure the intended data is acquired. 
 
 ## User Notes
 
@@ -41,6 +32,16 @@ In each domain, we aim to bring the integrative power of Ensembl tools for compa
 - Successful searches give a customizable search table, allowing users to choose which information columns they wish to display. 
 - HMMER sequence feature/domain results provide accessions, family and clan IDs, descriptions, and cross-references (although some pages failed to load).
 - They are promising a Non-redundant prokaryotic set that could be precious but not aavailable yet.
+
+## Ease of Use
+
+The site is not immediately intuitive and searches need to be carried out very specifically or through use of multiple search methods to ensure the intended data is acquired. 
+
+## Help
+
+- [Ensembl Bacteria Help *Help Page*](http://bacteria.ensembl.org/info/website/index.html)
+- [Ensembl Help *Tutorials and Worked Examples*](http://useast.ensembl.org/info/website/tutorials/index.html)
+{.links-list}
 
 ## Citation
 
