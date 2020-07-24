@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-23T22:12:45.580Z
+date: 2020-07-24T18:42:04.288Z
 tags: category
 editor: markdown
 ---
@@ -145,6 +145,7 @@ editor: markdown
 - [MBGD *Workbench system for comparative analysis of completely sequenced microbial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/MBGD)
 - [OrthoDB *OrthoDB presents a catalog of orthologous protein-coding genes*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoDB)
 - [:star: OrthoMCL *OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoMCL)
+- [WebNetCoffee *Web server based on the algorithm of NetCoffee for aligning multiple PPI networks*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/WebNetCoffee)
 {.links-list}
 
 ## Phenotypes And Fitness Databases
