@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-24T16:03:10.069Z
+date: 2020-07-24T16:05:52.201Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -284,6 +284,7 @@ editor: markdown
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
+- [MitoMiner *Database of mammalian mitochondrial localisation evidence, phenotypes, and diseases*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MitoMiner)
 - [NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [Phobius *Prediction of transmembrane topology and signal peptides*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
