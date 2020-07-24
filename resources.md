@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-23T19:46:31.326Z
+date: 2020-07-24T16:30:49.832Z
 tags: category
 editor: markdown
 ---
@@ -46,6 +46,7 @@ editor: markdown
 ## Experimental Planning Resources
 
 - [Gene Infinity *Online place to find information and resources needed in molecular biology and biochemistry*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Gene-Infinity)
+- [:star: NEBcutter *Take DNA sequence and find the large, open reading frames using the E.coli genetic code*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/NEBcutter)
 {.links-list}
 
 ## Galaxy Resources
