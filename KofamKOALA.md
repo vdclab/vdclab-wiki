@@ -2,8 +2,8 @@
 title: KofamKOALA
 description: KofamKOALA assigns K numbers to the user's sequence data by HMMER/HMMSEARCH against KOfam (a customized HMM database of KEGG Orthologs (KOs)).
 published: true
-date: 2020-07-24T20:04:58.256Z
-tags: sequencing projects, orthologs
+date: 2020-07-24T20:07:45.218Z
+tags: sequence analysis, sequence alignment, proteins, orthologs
 editor: markdown
 ---
 
