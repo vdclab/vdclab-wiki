@@ -2,7 +2,7 @@
 title: Ensembl
 description: Ensembl is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation.
 published: true
-date: 2020-07-24T15:57:03.997Z
+date: 2020-07-24T15:58:33.994Z
 tags: annotation, metagenomics, annotation tools, tool, sequence matching, sequence alignment, phylogeny, genome browser, evolution, comparative genomics, data capture, dna, transcriptomics, resource, homology, browser, data visualization, data mapping, data export, eukaryota, curated, id mapper, webserver, analysis tool
 editor: markdown
 ---
@@ -19,7 +19,7 @@ editor: markdown
 
 ## User Notes
 
-- The FAC page has helpful information for navigating the site and interpreting data. 
+- The FAQ page has helpful information for navigating the site and interpreting data. 
 - The Ensembl Tools tab has tools for predicting variants, searching genomes, ID conversion, and analysis of GWAS summary statistics. 
 - Users can upload their personal data to display in Ensembl. Data formatting and display tips can be found in the "Add a custom track" pop-up window.
 - Ensemble has sister sites that focus on Bacteria, Fungi, Plants, Protists, and Metazoa rather than Eukaryota.  Links to these sites can be found at the bottom of the home page. 
