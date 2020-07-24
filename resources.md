@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-24T16:30:49.832Z
+date: 2020-07-24T16:35:48.903Z
 tags: category
 editor: markdown
 ---
@@ -47,6 +47,8 @@ editor: markdown
 
 - [Gene Infinity *Online place to find information and resources needed in molecular biology and biochemistry*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Gene-Infinity)
 - [:star: NEBcutter *Take DNA sequence and find the large, open reading frames using the E.coli genetic code*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/NEBcutter)
+- [:star: Primer3Plus *Pick primers from a DNA sequence*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer3Plus)
+- [:star: Primer-BLAST *A tool for finding specific primers*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer-BLAST)
 {.links-list}
 
 ## Galaxy Resources
