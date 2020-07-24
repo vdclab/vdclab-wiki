@@ -2,8 +2,9 @@
 title: The VarSite Database
 description: VarSite aims to annotate known disease-associated variants in human genes with structural information from the 3D structures in the Protein Data Bank (PDB). The annotations are visualized using simple graphic depictions and various 3D molecular viewers.
 published: true
-date: 2020-06-04T16:14:31.362Z
+date: 2020-07-24T19:29:12.759Z
 tags: annotation tools, proteins, database, data visualization
+editor: markdown
 ---
 
 # The VarSite Database
@@ -19,6 +20,13 @@ tags: annotation tools, proteins, database, data visualization
 
 - [VarSite *Main Page*](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/VarSite/GetPage.pl?home=TRUE)
  {.links-list}
+
+## Notes from the user
+- A part of the EMBL-EBI suite of tools
+- Users can look for diseases associated with a protein of interest or search for proteins with a disease of interest
+
+## Ease of use
+> This database is easy to brows with two main ways to search for protiens. It is easy to find protiens from the graphical layout of human diseases on the body.
 
 ## Citation 
 
