@@ -2,8 +2,9 @@
 title: SABIO-RK
 description: SABIO-RK is a curated database that contains information about biochemical reactions, their kinetic rate equations with parameters and experimental conditions.
 published: true
-date: 2020-05-08T17:47:30.770Z
+date: 2020-07-24T18:28:45.608Z
 tags: database, metabolic pathways
+editor: markdown
 ---
 
 # SABIO-RK
@@ -19,6 +20,13 @@ The system offers standardized data for metabolic and newly also signaling react
 
 - [SABIO-RK *Main Page*](http://sabiork.h-its.org/)
  {.links-list}
+
+## Notes from the user
+- User can search for reactions by substrate or by enzyme
+- Ech reaction has a wealth of data and information like Stochiometric Equations, substrates and products, and EC numbers for enzymes.
+
+## Ease of use
+> Overall, the tool is not difficult to use. Searching for reations is "google-like".
 
 ## Citation 
 
