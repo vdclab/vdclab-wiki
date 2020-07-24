@@ -2,7 +2,7 @@
 title: Ensembl
 description: Ensembl is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation.
 published: true
-date: 2020-07-24T15:56:26.248Z
+date: 2020-07-24T15:56:31.142Z
 tags: annotation, metagenomics, annotation tools, tool, sequence matching, sequence alignment, phylogeny, genome browser, evolution, comparative genomics, data capture, dna, transcriptomics, resource, homology, browser, data visualization, data mapping, data export, eukaryota, curated, id mapper, webserver, analysis tool
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 
 ## Ease of Use
 
-- The website is not immediately intuitive, but has an extensive help page. 
+The website is not immediately intuitive, but has an extensive help page. 
 
 ## Help 
 
