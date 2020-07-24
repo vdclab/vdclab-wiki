@@ -2,8 +2,8 @@
 title: The VarSite Database
 description: VarSite aims to annotate known disease-associated variants in human genes with structural information from the 3D structures in the Protein Data Bank (PDB). The annotations are visualized using simple graphic depictions and various 3D molecular viewers.
 published: true
-date: 2020-07-24T19:29:12.759Z
-tags: annotation tools, proteins, database, data visualization
+date: 2020-07-24T19:31:27.465Z
+tags: proteins, database, mutant
 editor: markdown
 ---
 
