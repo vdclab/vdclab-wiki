@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-07-23T21:49:38.556Z
+date: 2020-07-24T16:43:44.514Z
 tags: category
 editor: markdown
 ---
@@ -50,4 +50,9 @@ editor: markdown
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
 - [:star: RCSB-PDB *Makes PDB data available at no charge to all data consumers*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
 - [:star: SWISS-MODEL *Web-based integrated service dedicated to protein structure homology modelling*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/SWISS-MODEL)
+{.links-list}
+
+## Visualizing Structures In The Web
+
+- [Jmol *Viewer for chemical structures in 3D with features for chemicals, crystals, materials and biomolecules*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/Jmol)
 {.links-list}
