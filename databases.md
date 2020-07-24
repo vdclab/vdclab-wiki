@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-24T18:42:04.288Z
+date: 2020-07-24T19:53:56.929Z
 tags: category
 editor: markdown
 ---
@@ -98,6 +98,7 @@ editor: markdown
 
 ##### Organism specific databases
 
+- [:star: AureoWiki *Repository of the Staphylococcus aureus research & annotation*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/AureoWiki)
 - [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
 - [EchoBASE *Integrated post-genomic database for E.coli*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EchoBASE)
 - [:star: EcoCyc *Scientific database for the bacterium Escherichia coli K-12 MG1655*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
