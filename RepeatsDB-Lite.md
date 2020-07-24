@@ -2,7 +2,7 @@
 title: RepeatsDB Lite
 description: RepeatsDB-lite is a web server for the prediction of repetitive structural elements and units in tandem repeat (TR) proteins.
 published: true
-date: 2020-07-16T16:07:50.859Z
+date: 2020-07-24T19:31:52.833Z
 tags: tool, proteins, prediction, structural alignment, protein family, protein domain
 editor: markdown
 ---
@@ -24,13 +24,15 @@ editor: markdown
  {.links-list}
  
  ## Notes from the user
+ 
  - Not only does this tool analyze structures but it also is a database for protein domains
  - Useful for proteins with repeated domains
  - Structural alignment recolors each subunit and makes it easy to see small differences
  - Classifies each domain and gives links to other proteins with similar domains
  
  ## Ease of use
- > This tool is easy to use, simply input a protein databank ID and a chain to analyze. There is a 3d structural alignment and a sequence alignment heatmap that give the user different options for viewing their query.
+
+This tool is easy to use, simply input a protein databank ID and a chain to analyze. There is a 3d structural alignment and a sequence alignment heatmap that give the user different options for viewing their query.
 
 ## Citation 
 
