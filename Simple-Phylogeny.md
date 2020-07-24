@@ -2,7 +2,7 @@
 title: Simple Phylogeny
 description: This tool provides access to phylogenetic tree generation methods from the ClustalW2 package.
 published: true
-date: 2020-07-22T21:44:49.603Z
+date: 2020-07-24T16:06:45.461Z
 tags: tool, phylogeny, evolution, resource, data visualization, data export, analysis tool
 editor: markdown
 ---
@@ -12,21 +12,10 @@ editor: markdown
 > This tool generates phylogenetic trees using methods from the ClustalW2 package, using protein multiple sequence alignments (MSAs) as input. 
 {.is-info}
 
- 
-
 ## Website 
 
 - [Simple Phylogeny *Main Page*](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
  {.links-list}
-
-## Help
-
-- [Simple Phylogeny Help *Help Page and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Simple+Phylogeny+Help+and+Documentation)
-{.links-list}
-
-## Ease of Use
-
-- Simple Phylogeny is very easy to use. 
 
 ## User Notes
 
@@ -34,6 +23,15 @@ editor: markdown
 - Using Clustal Omega to perform an MSA gives the option to directly submit MSA results to Simple Phylogeny (via the "Results Viewers" tab).
 - Each sequence must have a unique name or the program will fail. 
 - Basic but precious to get a first view.
+
+## Ease of Use
+
+Simple Phylogeny is very easy to use. 
+
+## Help
+
+- [Simple Phylogeny Help *Help Page and Documentation*](https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Simple+Phylogeny+Help+and+Documentation)
+{.links-list}
 
 ## Citation 
 
