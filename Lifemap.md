@@ -2,8 +2,8 @@
 title: Lifemap
 description: Exploring the Entire Tree of Life
 published: true
-date: 2020-06-30T14:33:29.000Z
-tags: tool, data visualization
+date: 2020-07-27T16:59:28.843Z
+tags: archaea, bacteria, species clusters, evolution, browser, eukaryota, model, webserver
 editor: markdown
 ---
 
@@ -19,6 +19,11 @@ editor: markdown
 - [Lifemap *Main Page*](http://lifemap.univ-lyon1.fr/)
  {.links-list}
 
+## Notes from User
+- Easy to use
+- Can search for specific species to view roots
+- Connects to Wikipedia pages when available
+- Very easy way to view ToL
 
 
 ## Help
