@@ -2,8 +2,9 @@
 title: The Molecular Modeling Toolkit
 description: The Molecular Modelling Toolkit (MMTK) is an Open Source program library for molecular simulation applications.
 published: true
-date: 2020-05-29T18:49:39.639Z
-tags: project library, programming
+date: 2020-07-27T14:47:10.746Z
+tags: project library, tool, bioinformatics, model, computing, programming, open source
+editor: markdown
 ---
 
 # The Molecular Modeling Toolkit
@@ -17,6 +18,10 @@ tags: project library, programming
 
 - [MMTK *Main Page*](http://dirac.cnrs-orleans.fr/MMTK.html)
  {.links-list}
+
+## Notes from User
+- Can only be used with Python 2.7 and NumPy 1.8
+
 
 ## Citation 
 
