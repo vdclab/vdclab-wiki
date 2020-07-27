@@ -2,8 +2,9 @@
 title: T-Psi-C Database
 description: This database allows you to search across all available tRNA sequences.
 published: true
-date: 2020-05-28T15:32:51.032Z
-tags: rna, database
+date: 2020-07-27T14:16:42.632Z
+tags: community, registry, data capture, database, gene, curation, 2020, trna
+editor: markdown
 ---
 
 # T-Psi-C Database
@@ -19,6 +20,11 @@ tags: rna, database
 
 - [T-Psi-C Database *Main Page*](http://tpsic.igcz.poznan.pl/info/start/)
  {.links-list}
+ 
+ ## Notes from User
+ - Easy to filter database or can BLAST
+ - Good database for finding available tRNA secondary/tertiary structures
+ - Efficient way to find original publication of tRNA
 
 ## Citation 
 
