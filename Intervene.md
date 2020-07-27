@@ -2,8 +2,8 @@
 title: Intervene
 description: Intervene: a tool for intersection and visualization of multiple gene or genomic region sets.
 published: true
-date: 2020-06-29T19:17:51.765Z
-tags: genomics, genome sets, tool, data visualization
+date: 2020-07-27T15:43:25.495Z
+tags: genomics, genome sets, tool, comparative genomics, bioinformatics, gene, data visualization
 editor: markdown
 ---
 
@@ -21,7 +21,10 @@ editor: markdown
 - [Intervene *Main Page*](https://asntech.shinyapps.io/intervene/)
  {.links-list}
 
-
+## Notes from User
+- Easy to use, good examples to learn with
+- App currently only accepts gene sets, need command line for genomic region sets (provided [here](https://bitbucket.org/CBGR/intervene/src/master/))
+- Can download images as PDF, PNG, SVG and TIFF
 
 ## Citation 
 
