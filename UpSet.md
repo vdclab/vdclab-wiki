@@ -2,8 +2,8 @@
 title: UpSet
 description: UpSet: a novel visualization technique for the quantitative analysis of sets.
 published: true
-date: 2020-06-29T19:23:22.054Z
-tags: data visualization, analysis tool
+date: 2020-07-27T15:51:19.022Z
+tags: bioinformatics, gene, data visualization, protein, interaction, webserver, analysis tool
 editor: markdown
 ---
 
@@ -19,7 +19,11 @@ editor: markdown
 - [UpSet *Main Page*](https://vcg.github.io/upset/)
  {.links-list}
 
- 
+ ## Notes from User
+ - Effective tool for visualizing intersecting sets
+ - Complex visual, takes time to understand graphics and options of way to visualize data
+ 	- Gives easy to understand example of Simpsons to start with
+- Can also use in R 
 
 ## Citation 
 
