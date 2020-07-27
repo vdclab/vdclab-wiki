@@ -2,8 +2,8 @@
 title: Phandango
 description: Phandango: an interactive viewer for bacterial population genomics.
 published: true
-date: 2020-06-29T19:29:20.500Z
-tags: genomics, bacteria, data visualization
+date: 2020-07-27T16:51:10.227Z
+tags: genomics, metagenomics, bacteria, species clusters, comparative genomics, data visualization, phyletic pattern
 editor: markdown
 ---
 
@@ -18,6 +18,11 @@ editor: markdown
 
 - [Phandango *Main Page*](http://jameshadfield.github.io/phandango/#/)
  {.links-list}
+
+## Notes from User
+- Simple design, easy to use 
+- Can submit phylogenetic tree in combination with many types of metadata to analyse
+- Can easily add and take away data from view
 
 ## Help
 
