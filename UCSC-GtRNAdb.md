@@ -2,8 +2,8 @@
 title: UCSC-GtRNAdb
 description: tRNAscan-SE analysis of complete genomes
 published: true
-date: 2020-06-10T19:26:05.317Z
-tags: genomes, rna, database, prediction
+date: 2020-07-27T14:40:09.200Z
+tags: annotation, genomes, archaea, bacteria, database, prediction, eukaryota, trna
 editor: markdown
 ---
 
@@ -18,6 +18,11 @@ editor: markdown
 
 - [GtRNAdb *Main Page*](http://gtrnadb.ucsc.edu/)
  {.links-list}
+ 
+## Notes from User
+- Comprehensive site of tRNA predictions 
+- User guide under help tab very quick and easy to follow for understanding of scoring of tRNA predictions and functions of database
+- T-Psi-C is a good complement to this website to check if there is published literature on tRNA and if annotation from this database is correct
 
 ## Citations
 
