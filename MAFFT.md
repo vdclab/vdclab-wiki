@@ -2,7 +2,7 @@
 title: MAFFT
 description: Multiple alignment program for amino acid or nucleotide sequences
 published: true
-date: 2020-07-27T13:51:25.848Z
+date: 2020-07-27T13:53:27.790Z
 tags: tool, sequence alignment, proteins, dna, webserver
 editor: markdown
 ---
