@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-29T22:21:44.954Z
+date: 2020-07-29T22:22:21.865Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -104,7 +104,7 @@ editor: markdown
 
 #### Archaeal databases
 
-- [:star: UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
+- [UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
 {.links-list}
 
 ### Virus databases
@@ -426,7 +426,7 @@ editor: markdown
 ## Structure Visualization Platforms 
 
 - [Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
-- [:star: JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
+- [JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
 {.links-list}
 
 ## Tools to Make Figures
