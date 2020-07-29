@@ -2,8 +2,9 @@
 title: CyBase
 description: The database of cyclic proteins.
 published: true
-date: 2020-05-07T19:19:38.749Z
-tags: proteins, database
+date: 2020-07-29T14:52:12.189Z
+tags: proteins, database, prediction, motif, toolbox
+editor: markdown
 ---
 
 # CyBase
@@ -19,6 +20,19 @@ Research in our lab is aimed at further characterising cyclic proteins and adapt
 
 - [CyBase *Main Page*](http://www.cybase.org.au/)
  {.links-list}
+
+
+## Ease of Use
+
+- The database is very specific for structural characterisation of cyclotides (or circular proteins). If users have a specific cyclotide of interest the site should be fairly intuitive. 
+
+## User Notes
+
+- Database contains information as well as several tools to analyze cyclotides. 
+
+## Help
+
+- No official help page.
 
 ## Citations
 
