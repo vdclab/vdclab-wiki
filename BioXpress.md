@@ -2,7 +2,7 @@
 title: BioXpress
 description: BioXpress is a gene/miRNA expression and disease association database with expression levels mapped to genes or miRNAs.
 published: true
-date: 2020-07-24T13:58:09.007Z
+date: 2020-07-29T20:28:20.733Z
 tags: rna, database, gene expression
 editor: markdown
 ---
@@ -20,16 +20,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
