@@ -2,7 +2,7 @@
 title: COMPLEAT
 description: COMPLEAT is an online tool used to analyze high-throughput datasets (or small-scale datasets) using protein complex enrichment analysis.
 published: true
-date: 2020-07-26T22:06:06.970Z
+date: 2020-07-29T21:50:53.106Z
 tags: protein, analysis tool
 editor: markdown
 ---
@@ -22,16 +22,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
