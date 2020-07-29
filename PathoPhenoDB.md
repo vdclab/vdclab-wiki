@@ -2,7 +2,7 @@
 title: PathoPhenoDB
 description: A database of pathogens and their phenotypes for diagnostic support in infections.
 published: true
-date: 2020-07-28T19:11:17.906Z
+date: 2020-07-29T21:50:08.602Z
 tags: database, phenotype
 editor: markdown
 ---
@@ -20,16 +20,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
