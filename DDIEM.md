@@ -2,7 +2,7 @@
 title:  Drug Database for Inborn Errors of Metabolism (DDIEM)
 description: Drug database for inborn errors of metabolism.
 published: true
-date: 2020-07-28T19:07:44.054Z
+date: 2020-07-29T21:49:40.318Z
 tags: database, metabolism, mutant
 editor: markdown
 ---
@@ -20,23 +20,13 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation
