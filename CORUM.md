@@ -2,7 +2,7 @@
 title: CORUM
 description: The comprehensive resource of mammalian protein complexes.
 published: true
-date: 2020-07-26T22:20:55.283Z
+date: 2020-07-29T20:30:19.967Z
 tags: annotation, database, resource, protein
 editor: markdown
 ---
@@ -20,24 +20,11 @@ editor: markdown
 {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
-
 
 ## Citation
 
