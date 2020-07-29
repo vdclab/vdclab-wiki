@@ -2,7 +2,7 @@
 title: ExPASy Proteomics
 description: Bioinformatic resources for proteomics.
 published: true
-date: 2020-07-23T21:09:55.309Z
+date: 2020-07-29T22:16:55.713Z
 tags: annotation, annotation tools, sequence analysis, sequence alignment, sequence similarity, functional association, data capture, homolog discovery, resource center, database, prediction, protein, protein family, proteomics, data export, protein domain, interaction, protein-protein, motif, toolbox
 editor: markdown
 ---
@@ -20,21 +20,23 @@ ExPASy proteomics provides tools for obtaining and identifying protein sequences
 - [ExPASy Proteomics *Proteomics Tools Page*](https://www.expasy.org/proteomics)
  {.links-list}
 
-## Help
 
-- [ExPASy Proteomics Help *Visual Guidance*](https://www.expasy.org/vg/index/Protein)
-- [ExPASy Help *Features Overview*](https://www.expasy.org/features)
-{.links-list}
-
-## Ease of Use
-
-- This site is essentially an organized collection of proteomic analysis tools.  The site is easy to navigate and many of the tools have their own help pages. 
 
 ## User Notes
 
 - ExPASy Proteomics is a set of 231 tools from 38 databases (see the "Visual Guidance" page for a list) for proteomic analysis. 
 - The ExPASy Proteomics "proteomic experiment" section provides experimental protocols.
 - Tools that are official SIB resources offer support from the ExPASy Team, but external resources do not.  If the tool is a SIB resource it will have the red SIB icon next to it. 
+
+## Ease of Use
+
+- This site is essentially an organized collection of proteomic analysis tools.  The site is easy to navigate and many of the tools have their own help pages. 
+
+## Help
+
+- [ExPASy Proteomics Help *Visual Guidance*](https://www.expasy.org/vg/index/Protein)
+- [ExPASy Help *Features Overview*](https://www.expasy.org/features)
+{.links-list}
 
 ## Citation 
 
