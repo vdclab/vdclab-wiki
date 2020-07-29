@@ -2,8 +2,9 @@
 title: Biostars
 description: This site's focus is bioinformatics, computational genomics and biological data analysis.
 published: true
-date: 2020-05-06T18:26:13.754Z
-tags: genomics, bioinformatics
+date: 2020-07-29T20:02:05.537Z
+tags: reference, community, resource reference, genomics, tool, tutorial, social, resource center, resource, bioinformatics, computing, programming, computational biology, toolbox, app
+editor: markdown
 ---
 
 # Biostars
@@ -18,6 +19,23 @@ The BioStar community has helped to answer over 2,300 questions from over 1,400 
 
 - [Biostars *Main Page*](https://www.biostars.org/)
  {.links-list}
+
+## Ease of Use
+
+- The site is straight forward and easy to use.  Typically, internet searches of bioinformatic trouble-shooting problems will provide direct links to the related forum(s).
+
+## User Notes
+
+- Questions and responses are dated, helping users to determine whether the information is still likely to be relevant. 
+- Users vote on posts/answers, which also helps indicate whether or not responses are likely to be relevant.
+- Tools are reviewed in the "Tools" section.
+- The site posts relevant job listings.
+
+## Help
+
+- [Biostars Help *Tutorials*](https://www.biostars.org/t/Tutorials/)
+- [Biostars Help *FACs*](https://www.biostars.org/info/faq/)
+{.links-list}
 
 ## Citation 
 
