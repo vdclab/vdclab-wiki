@@ -2,7 +2,7 @@
 title: Genevisible
 description: Find the top tissues, cell lines, cancers or perturbations for your gene of interest.
 published: true
-date: 2020-07-21T18:59:31.804Z
+date: 2020-07-29T15:23:25.116Z
 tags: tool, genes, specialized search
 editor: markdown
 ---
@@ -19,16 +19,10 @@ editor: markdown
 {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
-
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
