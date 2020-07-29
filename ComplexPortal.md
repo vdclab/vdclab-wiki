@@ -2,7 +2,7 @@
 title: The Complex Portal
 description: The Complex Portal is a manually curated, encyclopaedic resource of macromolecular complexes from a number of key model organisms.
 published: true
-date: 2020-07-26T22:16:53.315Z
+date: 2020-07-29T21:50:36.286Z
 tags: resource, model organism, curated
 editor: markdown
 ---
@@ -22,23 +22,12 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation
