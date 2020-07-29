@@ -2,7 +2,7 @@
 title: nf-core
 description: A community effort to collect a curated set of analysis pipelines built using Nextflow.
 published: true
-date: 2020-07-28T14:10:16.477Z
+date: 2020-07-29T21:48:53.380Z
 tags: community, curated, analysis tool
 editor: markdown
 ---
@@ -20,23 +20,14 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citations 
