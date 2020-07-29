@@ -2,7 +2,7 @@
 title: CellPhoneDB
 description: CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
 published: true
-date: 2020-07-21T15:09:11.081Z
+date: 2020-07-29T15:18:24.693Z
 tags: curated, repository
 editor: markdown
 ---
@@ -24,16 +24,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
