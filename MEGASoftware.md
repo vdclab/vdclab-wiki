@@ -2,7 +2,7 @@
 title: MEGA Software
 description: Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations.
 published: true
-date: 2020-07-27T19:32:59.426Z
+date: 2020-07-29T22:22:52.750Z
 tags: tool, sequence analysis, phylogeny, proteins, evolution, dna, conservation
 editor: markdown
 ---
@@ -19,21 +19,23 @@ editor: markdown
 - [MEGA Software *Main Page*](https://www.megasoftware.net/)
  {.links-list}
 
+
+
+## User Notes
+
+- MEGA software is free and can be run on Windows, MacOS, Ubuntu/Debian, RedHat and other Linux systems. 
+- MEGA software must be downloaded and installed for use. Users may choose to download a Graphical User Interface (GUI) or Command Line (CC). 
+
+## Ease of Use
+
+- MEGA Software has very detailed user guide as well as a variety of video tutorials to guide users through use. 
+
 ## Help
 
 - [MEGA Help *User Guide*](https://www.megasoftware.net/web_help_10/index.htm#t=Introduction.htm)
 - [MEGA Help *Video Tutorials*](https://www.megasoftware.net/videos)
 - [MEGA Help *FACs*](https://www.megasoftware.net/faq)
 {.links-list}
-
-## Ease of Use
-
-- MEGA Software has very detailed user guide as well as a variety of video tutorials to guide users through use. 
-
-## User Notes
-
-- MEGA software is free and can be run on Windows, MacOS, Ubuntu/Debian, RedHat and other Linux systems. 
-- MEGA software must be downloaded and installed for use. Users may choose to download a Graphical User Interface (GUI) or Command Line (CC). 
 
 ## Citation 
 
