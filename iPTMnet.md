@@ -2,7 +2,7 @@
 title: iPTMnet
 description: iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.
 published: true
-date: 2020-07-23T19:53:02.964Z
+date: 2020-07-29T15:25:34.434Z
 tags: resource, bioinformatics, protein
 editor: markdown
 ---
@@ -22,16 +22,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
