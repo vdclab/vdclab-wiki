@@ -2,7 +2,7 @@
 title: ExPASy Proteomics
 description: Bioinformatic resources for proteomics.
 published: true
-date: 2020-07-29T22:16:55.713Z
+date: 2020-07-29T22:17:09.247Z
 tags: annotation, annotation tools, sequence analysis, sequence alignment, sequence similarity, functional association, data capture, homolog discovery, resource center, database, prediction, protein, protein family, proteomics, data export, protein domain, interaction, protein-protein, motif, toolbox
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 # ExPASy Proteomics
 
 > In June 2011 the SIB ExPASy Bioformatics Resources Portal was launched by the SIB Swiss Institute of Bioinformatics. In particular, ExPASy has been designed, developed and maintained by the SIB Web Team in co-operation with several other SIB groups and ExPASy users. ExPASy is an extensible and integrative portal accessing many scientific resources, databases and software tools in different areas of life sciences. Refer to Features for more details. The portal enhances the original ExPASy server, previously known as "Expert Protein Analysis System"
-&NewLine;
-ExPASy proteomics provides tools for obtaining and identifying protein sequences, investigating protein functions, structures and interactions, creating protein alignments, and identifying protein features, motifs and modifications. 
+> 
+> ExPASy proteomics provides tools for obtaining and identifying protein sequences, investigating protein functions, structures and interactions, creating protein alignments, and identifying protein features, motifs and modifications. 
 {.is-info}
  
 
