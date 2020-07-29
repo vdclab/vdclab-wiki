@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-07-24T16:37:33.237Z
+date: 2020-07-29T22:22:25.926Z
 tags: category
 editor: markdown
 ---
@@ -11,6 +11,7 @@ editor: markdown
 
 ## Analysis Resources
 
+- [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/analysis/ExPASy-Proteomics)
 - [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
 {.links-list}
 
