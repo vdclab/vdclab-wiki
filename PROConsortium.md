@@ -2,7 +2,7 @@
 title: Protein Ontology
 description: PRO provides an ontological representation of protein-related entities by explicitly defining them and showing the relationships between them. 
 published: true
-date: 2020-07-29T15:12:16.470Z
+date: 2020-07-29T15:12:24.694Z
 tags: proteins, protein-protein, ontology
 editor: markdown
 ---
@@ -36,5 +36,4 @@ editor: markdown
 ## Citation 
 
 - Natale DA, Arighi CN, Blake JA, Bona J, Chen C, Chen SC, Christie KR, Cowart J, D'Eustachio P, Diehl AD, Drabkin HJ, Duncan WD, Huang H, Ren J, Ross K, Ruttenberg A, Shamovsky V, Smith B, Wang Q, Zhang J, El-Sayed A, Wu CH. ["Protein Ontology (PRO): enhancing and scaling up the representation of protein entities."](https://academic.oup.com/nar/article/45/D1/D339/2605841) Nucleic Acids Res. 2017, 45(D1): D339-D346.
-
 {.grid-list}
