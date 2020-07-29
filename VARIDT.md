@@ -2,7 +2,7 @@
 title: Variability of Drug Transporter Database (VARIDT)
 description: VARIDT is a variability of drug transporter database.
 published: true
-date: 2020-07-28T13:29:41.816Z
+date: 2020-07-29T21:47:11.651Z
 tags: database, protein
 editor: markdown
 ---
@@ -23,16 +23,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
