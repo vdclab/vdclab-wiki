@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-29T22:04:02.462Z
+date: 2020-07-29T22:07:04.839Z
 tags: category
 editor: markdown
 ---
@@ -55,6 +55,11 @@ editor: markdown
 - [:star: TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [:star: TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
 - [:star: Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
+{.links-list}
+
+## Cloning Tools Platforms
+
+- [Serial Cloner *Intuitive interface that assists you in DNA cloning, sequence analysis and visualization*](https://vdclab-wiki.herokuapp.com/en/tools/cloning-platforms/Serial-Cloner)
 {.links-list}
 
 ## Creating Or Finding Sequence Logos
