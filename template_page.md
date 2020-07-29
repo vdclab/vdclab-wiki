@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: true
-date: 2020-06-11T14:43:03.767Z
+date: 2020-07-29T21:49:54.066Z
 tags: template, help
 editor: markdown
 ---
@@ -24,13 +24,13 @@ editor: markdown
 {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
  - All in bullet points
  - What are the main features of the website.
 
  
- ## Ease of use
+## Ease of use
 
 - What the users need to know about the website : problem you encounter, data format of the input...
 - Short Paragraph or bullet points
