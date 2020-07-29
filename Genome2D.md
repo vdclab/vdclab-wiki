@@ -2,7 +2,7 @@
 title: Genome2D
 description: Genome2D webserver for Analysis and Visualization of Bacterial Genomes and Transcriptomes
 published: true
-date: 2020-07-28T13:22:18.749Z
+date: 2020-07-29T21:46:51.007Z
 tags: genomes, bacteria, sequence analysis, transcriptomes, data visualization, webserver
 editor: markdown
 ---
@@ -22,24 +22,12 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
-
 
 ## Citation 
 
