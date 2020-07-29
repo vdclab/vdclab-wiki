@@ -2,7 +2,7 @@
 title: TopSearch
 description: TopSearch is a new powerful gateway to protein structures and their structural relationships.
 published: true
-date: 2020-07-20T19:21:26.774Z
+date: 2020-07-29T15:10:47.979Z
 tags: tool, proteins, structural analysis
 editor: markdown
 ---
@@ -21,28 +21,16 @@ editor: markdown
 - [TopSearch *Main Page*](https://topsearch.services.came.sbg.ac.at/)
  {.links-list}
 
-
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
 
 - [TopSearch Help  *Help Section*](https://topsearch.services.came.sbg.ac.at/help/index.html)
- 
 {.links-list}
 
 
 ## Citation
-
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
-{.grid-list}
