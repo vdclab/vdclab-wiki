@@ -2,7 +2,7 @@
 title: TopSearch
 description: TopSearch is a new powerful gateway to protein structures and their structural relationships.
 published: true
-date: 2020-07-29T15:10:47.979Z
+date: 2020-07-29T15:11:13.924Z
 tags: tool, proteins, structural analysis
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 
 > TopSearch is a new powerful gateway to protein structures and their structural relationships. Given a query structure the search engine instantly returns a list of known protein structures sorted by structural similarity. 
 >
-> TopSearch operates on three structural levels: chains, biological assemblies/quaternary structures (yes, including ribosomes!), and asymmetric units. All at the same speed! In working with structures, numbers are not enough - with TopSearch you see what you get. Immediately!
+> TopSearch operates on three structural levels: chains, biological assemblies/quaternary structures (yes, including ribosomes), and asymmetric units. All at the same speed! In working with structures, numbers are not enough - with TopSearch you see what you get.
 {.is-info}
 
  
