@@ -2,7 +2,7 @@
 title: BioMuta
 description: BioMuta is a single-nucleotide variation (SNV) and disease association database where variations are mapped to genomes and RefSeq nucleotide entries, and unified through UniProtKB/Swiss-Prot positional coordinates.
 published: true
-date: 2020-07-23T20:05:56.042Z
+date: 2020-07-29T20:26:50.113Z
 tags: genomes, database
 editor: markdown
 ---
@@ -22,23 +22,13 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citations
