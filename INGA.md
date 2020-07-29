@@ -2,8 +2,8 @@
 title: Interaction Network GO Annotator (INGA)
 description: INGA - Interaction Network GO Annotator is a web server for the prediction of protein function.
 published: true
-date: 2020-07-01T19:03:17.899Z
-tags: annotation, homology, prediction, protein-protein
+date: 2020-07-29T20:13:58.602Z
+tags: annotation, homology, prediction, protein domain, protein-protein
 editor: markdown
 ---
 
@@ -20,8 +20,13 @@ editor: markdown
 - [INGA *Main Page*](https://inga.bio.unipd.it/)
  {.links-list}
 
+## Notes from the user
+- Utilizes several tools to annotate features within the input protein sequences
+- Input can be FASTA sequences or UniProtKB accession numbers
 
-  
+## Ease of use
+> This service allows user to easily annotate known or unknown protein sequences. Results are easy to view and displayed directly over the query sequence and links are provided to all databases used to generate each specific annotation.
+ 
 
 ## Citations
 
