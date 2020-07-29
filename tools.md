@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-24T16:09:24.967Z
+date: 2020-07-29T22:04:02.462Z
 tags: category
 editor: markdown
 ---
@@ -138,6 +138,7 @@ editor: markdown
 - [EffectiveDB *Prediction of bacterial protein secretion*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/EffectiveDB)
 - [:star: RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
 - [RNApredator *Bacterial sRNA target prediction webserver*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNApredator)
+- [TRED *Collects cis - and trans -regulatory elements and is dedicated to easy data access and analysis*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/TRED)
 - [:star: tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 {.links-list}
 
