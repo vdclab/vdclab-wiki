@@ -2,7 +2,7 @@
 title: eLibrary of Microbial Systematics and Genomics (eLMSG)
 description: The eLMSG database is intended to integrate microbial systematics, genomics and phenomics (polyphasic taxonomy related phenotypes).
 published: true
-date: 2020-07-27T20:11:14.323Z
+date: 2020-07-29T21:45:47.199Z
 tags: genomics, taxonomy
 editor: markdown
 ---
@@ -22,17 +22,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
-
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
 
@@ -40,8 +33,4 @@ editor: markdown
 {.links-list}
 
 
-## Citation(s) <- 's' if more than one
-
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
-{.grid-list}
+## Citation
