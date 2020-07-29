@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-29T22:12:33.167Z
+date: 2020-07-29T22:21:44.954Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -205,6 +205,11 @@ editor: markdown
 {.links-list}
 
 # Ressources
+
+## Analysis Resources
+
+- [ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/analysis/ExPASy-Proteomics)
+{.links-list}
 
 ## General Resources
 
