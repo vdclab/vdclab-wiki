@@ -2,7 +2,7 @@
 title: Structure-Function Linkage Database (SFLD)
 description: SFLD is a hierarchical classification of enzymes that relates specific sequence-structure features to specific chemical capabilities.
 published: true
-date: 2020-07-28T13:14:47.373Z
+date: 2020-07-29T21:46:29.442Z
 tags: proteins, structural alignment
 editor: markdown
 ---
@@ -21,16 +21,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
