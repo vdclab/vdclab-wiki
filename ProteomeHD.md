@@ -2,7 +2,7 @@
 title: ProteomeHD
 description: Protein Co-regulation Analysis
 published: true
-date: 2020-07-02T18:37:36.249Z
+date: 2020-07-29T21:01:46.306Z
 tags: proteins, regulation, analysis tool
 editor: markdown
 ---
@@ -20,6 +20,12 @@ editor: markdown
 - [ProteomeHD *Main Page*](https://www.proteomehd.net/index)
  {.links-list}
 
+## Notes from the user
+- Limited to human genes within the PROTEOMEHD protein list
+- Uses Uniprot Accession numbers only
+
+## Ease of use
+> This service allows the user to submit their email and wait for the service to finish later. Results are given as a PDF document which contains a graph of plotted Random Forrest scores with the Query protein scores highlighted. 
  
 ## Help
 - [Frequently Asked Questions *FAQ Section*](https://www.proteomehd.net/documentation)
