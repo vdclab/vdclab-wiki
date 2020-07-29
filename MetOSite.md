@@ -2,7 +2,7 @@
 title: MetOSite
 description: MetOSite is a collection of references to methionines that may be involved in regulatory processes.
 published: true
-date: 2020-07-29T15:25:06.688Z
+date: 2020-07-29T15:25:12.428Z
 tags: resource reference, regulation
 editor: markdown
 ---
@@ -28,9 +28,6 @@ editor: markdown
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
