@@ -2,7 +2,7 @@
 title: Simple ClinVar
 description: Simple ClinVar: an interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.
 published: true
-date: 2020-07-28T14:52:44.397Z
+date: 2020-07-29T21:49:25.287Z
 tags: genes, database, webserver
 editor: markdown
 ---
@@ -20,23 +20,15 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
  
- ## Ease of use
+## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citations
