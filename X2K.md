@@ -2,8 +2,9 @@
 title: X2K Web
 description: X2K Web infers upstream regulatory networks from signatures of differentially expressed genes.
 published: true
-date: 2020-05-18T20:57:59.438Z
-tags: gene expression, regulation
+date: 2020-07-29T12:13:07.681Z
+tags: data capture, transcriptomics, gene, data visualization, clustering, gene expression, data export, omics, eukaryota, model, interaction, protein-protein, networks, enrichment, regulation, epigenetic
+editor: markdown
 ---
 
 # X2K Web
@@ -19,6 +20,20 @@ tags: gene expression, regulation
 
 - [X2K Web *Main Page*](https://amp.pharm.mssm.edu/X2K/)
  {.links-list}
+
+## Help
+
+- There is no formal help page, but there is step-by-step example on the home page. 
+
+## Ease of Use
+
+- The site is very easy to use and the pipeline is fully automated. 
+
+## User Notes
+
+- The site offers a standard pipeline: transcription factor enrichment, protein-protein interaction expansion, kinase enrichment analysis, and creation of an "eXpression2Kinases" network display.
+- Input is a list of differentially expressed human genes. The final output is the eXpression2Kinases network. 
+- Additional outputs include interactive bargraphs and downloadable spreadsheet tables of transcription factor and kinase enrichments and an interactive protein-protein interaction network. 
 
 ## Citations
 
