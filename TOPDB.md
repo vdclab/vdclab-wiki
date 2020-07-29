@@ -2,7 +2,7 @@
 title: TOPDB
 description: TOPDB: Topology Database of Transmembrane Proteins
 published: true
-date: 2020-07-26T22:35:31.866Z
+date: 2020-07-29T20:30:35.968Z
 tags: proteins, database
 editor: markdown
 ---
@@ -19,16 +19,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
  ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
