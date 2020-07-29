@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-29T22:09:20.795Z
+date: 2020-07-29T22:14:33.886Z
 tags: category
 editor: markdown
 ---
@@ -59,6 +59,7 @@ editor: markdown
 
 ## Cloning Tools Platforms
 
+- [:star: Benchling *Electronic notebook and a suite of sequence design tools for free to academics*](https://vdclab-wiki.herokuapp.com/en/tools/cloning-platforms/Benchling)
 - [Serial Cloner *Intuitive interface that assists you in DNA cloning, sequence analysis and visualization*](https://vdclab-wiki.herokuapp.com/en/tools/cloning-platforms/Serial-Cloner)
 {.links-list}
 
