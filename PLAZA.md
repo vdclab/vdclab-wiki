@@ -2,7 +2,7 @@
 title: PLAZA
 description: PLAZA is an access point for plant comparative genomics, centralizing genomic data produced by different genome sequencing initiatives.
 published: true
-date: 2020-07-29T20:22:51.113Z
+date: 2020-07-29T20:25:04.204Z
 tags: reference, resource reference, sequence analysis, comparative genomics, resource center, database, eukaryota, curated, toolbox, organism-specific, plant
 editor: markdown
 ---
