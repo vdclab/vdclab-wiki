@@ -2,7 +2,7 @@
 title: Reference Viral Database (RVDB)
 description: RVDB was developed for enhancing virus detection using next-generation sequencing (NGS) technologies.
 published: true
-date: 2020-07-28T14:03:57.863Z
+date: 2020-07-29T21:48:18.693Z
 tags: sequencing projects, virus
 editor: markdown
 ---
@@ -22,23 +22,14 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
+## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
