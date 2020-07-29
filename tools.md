@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-07-29T22:26:31.202Z
+date: 2020-07-29T22:36:17.474Z
 tags: category
 editor: markdown
 ---
@@ -123,7 +123,7 @@ editor: markdown
 
 ## Phylogeny Tools
 
-- [IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
+- [:star: IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [LeBIBI-QBPP *Quick Bioinformatic Phylogeny of Prokaryotes web-server*](https://vdclab-wiki.herokuapp.com/phylogeny/tools/LeBIBI-QBPP/)
 - [MEGASoftware *Software for conducting statistical analysis of molecular evolution and for constructing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/MEGASoftware)
 - [:star: NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
