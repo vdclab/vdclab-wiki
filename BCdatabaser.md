@@ -2,7 +2,7 @@
 title:  BCdatabaser
 description:  BCdatabaser is a pipeline to create reference databases for arbitrary markers and taxonomic groups from NCBI data.
 published: true
-date: 2020-07-28T14:41:43.602Z
+date: 2020-07-29T21:49:10.124Z
 tags: reference, taxonomy, database
 editor: markdown
 ---
@@ -20,23 +20,12 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
