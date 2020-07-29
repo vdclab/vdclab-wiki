@@ -2,8 +2,9 @@
 title: PomBase
 description: The scientific resource for fission yeast.
 published: true
-date: 2020-05-06T18:38:33.078Z
-tags: annotation, genome sets, database
+date: 2020-07-29T18:59:13.611Z
+tags: reference, annotation, genome sets, sequence analysis, sequence alignment, fungi, phylogeny, genome browser, comparative genomics, data capture, homolog discovery, analysis tools, resource center, database, metabolism, gene, browser, data visualization, protein, model organism, data export, conservation, eukaryota, curated, phenotype, protein domain, interaction, toolbox, organism-specific
+editor: markdown
 ---
 
 # PomBase
@@ -17,6 +18,22 @@ tags: annotation, genome sets, database
 
 - [PomBase *Main Page*](https://www.pombase.org/)
  {.links-list}
+
+## Ease of Use
+
+- The database is fairly intuitive and easy to use. 
+
+## User Notes
+
+- Users can search for *S. pombe* genes using a variety of criteria, including protein domains, relation to diseases, GO terms, characterization status, etc. 
+- Queries are saved and can be analyzed using unions, intersections or subtractions. 
+- Results output provides users with links to related information in other databases. 
+
+## Help
+
+- [PomBase Help *Documentation*](https://www.pombase.org/documentation)
+- [PomBase Help *FACs*](https://www.pombase.org/faq)
+{.links-list}
 
 ## Citation
 
