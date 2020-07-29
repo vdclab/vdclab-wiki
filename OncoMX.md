@@ -2,7 +2,7 @@
 title: OncoMX
 description: OncoMX: A Knowledgebase for Exploring Cancer Biomarkers in the Context of Related Cancer and Healthy Data
 published: true
-date: 2020-07-24T13:46:46.565Z
+date: 2020-07-29T20:28:02.157Z
 tags: resource, mutant
 editor: markdown
 ---
@@ -22,17 +22,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
-
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
 
