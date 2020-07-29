@@ -2,7 +2,7 @@
 title: The SIGnaling Network Open Resource (SIGNOR)
 description: SIGNOR organizes and stores in a structured format signaling information published in the scientific literature.
 published: true
-date: 2020-07-26T23:01:54.881Z
+date: 2020-07-29T20:31:28.820Z
 tags: resource center
 editor: markdown
 ---
@@ -22,23 +22,15 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
+
 
 
 ## Citation 
