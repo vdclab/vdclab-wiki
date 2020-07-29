@@ -2,8 +2,9 @@
 title: BioInfo3D
 description: BioInfo3D: a suite of freely available web services for protein structural analysis.
 published: true
-date: 2020-05-19T17:27:58.435Z
-tags: proteins, database, structural analysis
+date: 2020-07-29T12:51:13.808Z
+tags: proteins, resource center, database, protein, clustering, binding, protein-protein, structural analysis, toolbox
+editor: markdown
 ---
 
 # BioInfo3D
@@ -16,7 +17,21 @@ tags: proteins, database, structural analysis
 ## Website 
 
 - [BioInfo3D *Main Page*](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Main_Page)
+- [BioInfo3D Tools *Servers and Software*](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software)
  {.links-list}
+
+## Help
+
+- There is no formal help page. Help can be found for each individual tool server/software.
+
+## Ease of Use
+
+- The Servers and Software page is organized and easy to use. 
+
+## User Notes
+
+- The database is essentially a repository for protein analysis tools.  
+- protein-protein and protein-RNA interaction datasets can be accessed from the "Datasets" page. 
 
 ## Citation
 
