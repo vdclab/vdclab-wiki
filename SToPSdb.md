@@ -2,8 +2,9 @@
 title: SToPSdb
 description: Sub-cellular Topology of Polypeptides in Streptomyces
 published: true
-date: 2020-05-20T19:08:45.258Z
-tags: proteins, organism-specific
+date: 2020-07-29T18:19:41.526Z
+tags: proteins, proteomes, prediction, hmm, organism-specific, residue, localization
+editor: markdown
 ---
 
 # SToPSdb
@@ -17,6 +18,19 @@ tags: proteins, organism-specific
 
 - [SToPSdb *Main Page*](http://www.stopsdb.eu/step2golist.php)
  {.links-list}
+
+## Ease of Use
+
+- Website is easy to navigate.
+
+## User Notes
+
+- There is no formal help page, but there is an "about" page that explains the information on the server. 
+
+## Help
+
+- [SToPSdb Help *About Page*](http://www.stopsdb.eu/info.php)
+{.links-list}
 
 ## Citation 
 
