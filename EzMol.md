@@ -2,8 +2,9 @@
 title: EzMol
 description: A web server wizard for the rapid visualisation and image production of protein and nucleic acid structures.
 published: true
-date: 2020-06-04T16:03:17.020Z
+date: 2020-07-29T21:07:43.535Z
 tags: genomics, proteins, data visualization, structural analysis
+editor: markdown
 ---
 
 # EzMol
@@ -19,6 +20,19 @@ tags: genomics, proteins, data visualization, structural analysis
 
 - [EzMol *Main Page*](http://www.sbg.bio.ic.ac.uk/~ezmol/)
  {.links-list}
+
+## Ease of Use
+
+
+## User Notes
+
+
+## Help
+
+- [EzMol Help *Tutorials*](http://www.sbg.bio.ic.ac.uk/~ezmol/tutorial4.0.html)
+- [EzMol Teaching Portal *Protein Display and Image Production Wizard*](http://www.sbg.bio.ic.ac.uk/~ezmol/student8.4.html)
+{.links-list}
+
 
 ## Citation 
 
