@@ -2,7 +2,7 @@
 title: HUGO Gene Nomenclature Committee 
 description: The resource for approved human gene nomenclature.
 published: true
-date: 2020-07-27T19:51:34.432Z
+date: 2020-07-29T20:31:41.846Z
 tags: genes, resource
 editor: markdown
 ---
@@ -21,16 +21,9 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
