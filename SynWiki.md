@@ -2,7 +2,7 @@
 title: SynWiki
 description: SynWiki is a database dedicated to the current generated functional annotation of the synthetic organism JCVI-syn3.0/syn3A.
 published: true
-date: 2020-07-28T13:06:15.875Z
+date: 2020-07-29T21:46:08.886Z
 tags: annotation, database, organism-specific
 editor: markdown
 ---
@@ -20,16 +20,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
-
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
