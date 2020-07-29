@@ -2,7 +2,7 @@
 title: UNIPred Web
 description: UNIPred Web is a web application that helps you discover and explore gene interactions and protein interactions.
 published: true
-date: 2020-07-29T18:52:51.297Z
+date: 2020-07-29T18:53:15.034Z
 tags: genes, co-expression, network, interaction, protein-protein, webserver
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
 
 - [UNIPred *Main Page*](https://unipred.di.unimi.it/)
  {.links-list}
+ 
  ## Notes from the user
  - Lots of data is available to create networks for related genes
  - Integrates Genetic interactions, STRING database interactions, Shared protein domains, and co-expression data to form its networks
@@ -28,10 +29,7 @@ editor: markdown
  ## Ease of use
  > Making networks is easy, just select the types of data desired for the analysis and your email and the completed job ID is sent to you when the job is done. Navigation is simple and the resulting nodes are easy to move and explore. To see your data, you need to specify a "node" or gene that the network will be built around.
 
- 
-
-
-## Citations
+ ## Citations
 
 - Frasca, M., Bertoni, A., & Valentini, G. (2015). [UNIPred: Unbalance-aware Network Integration and Prediction of protein functions.](https://www.liebertpub.com/doi/full/10.1089/cmb.2014.0110) Journal of Computational Biology, 22(12), 1057-1074.
 - Perlasca, P., Frasca, M., Ba, C. T., Notaro, M., Petrini, A., Casiraghi, E., ... & Mesiti, M. (2019). [Unipred-web: a web tool for the integration and visualization of biomolecular networks for protein function prediction.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2959-2) BMC bioinformatics, 20(1), 1-19.
