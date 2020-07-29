@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-24T18:47:50.771Z
+date: 2020-07-29T22:12:33.167Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -313,6 +313,12 @@ editor: markdown
 
 - [SIAS *Calculates pairwise sequence identity and similarity from multiple sequence alignments*](https://vdclab-wiki.herokuapp.com/en/tools/alignment/SIAS)
 {.links-list}
+
+## Cloning Tools Platforms
+
+- [Benchling *Electronic notebook and a suite of sequence design tools for free to academics*](https://vdclab-wiki.herokuapp.com/en/tools/cloning-platforms/Benchling)
+{.links-list}
+
 
 ## Creating Or Finding Sequence Logos
 
