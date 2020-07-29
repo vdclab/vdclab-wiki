@@ -2,7 +2,7 @@
 title: EmExplorer
 description: EmExplorer: A database for exploring time activation of gene expression in mammalian embryos
 published: true
-date: 2020-07-28T13:38:38.056Z
+date: 2020-07-29T21:47:31.581Z
 tags: database, gene expression
 editor: markdown
 ---
@@ -24,16 +24,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
