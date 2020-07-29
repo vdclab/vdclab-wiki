@@ -2,7 +2,7 @@
 title: Human Proteome Map (HPM)
 description: 	The human proteome map portal is the web-based resource that reorganizes mass spectrometry-based proteomics data to explore expressed proteins in fetal tissues/adult tissues/hematopoietic cells obtained from human.
 published: true
-date: 2020-07-27T19:55:43.192Z
+date: 2020-07-29T20:31:57.418Z
 tags: proteins, resource, gene expression, proteomics
 editor: markdown
 ---
@@ -24,16 +24,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
