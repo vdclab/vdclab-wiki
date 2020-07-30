@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-30T19:02:27.833Z
+date: 2020-07-30T19:04:28.196Z
 tags: category
 editor: markdown
 ---
@@ -93,6 +93,7 @@ editor: markdown
 
 #### Bacterial databases
 
+- [ASAP *Relational database distributes genome sequence data and gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/ASAP)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PRODORIC *Integrated approach to provide information about molecular networks in prokaryotes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 - [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
