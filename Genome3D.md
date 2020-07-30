@@ -2,8 +2,9 @@
 title: Genome3D
 description: Genome3D provides consensus structural annotations and 3D models for sequences from model organisms, including human. 
 published: true
-date: 2020-05-08T17:43:10.423Z
+date: 2020-07-30T15:24:18.073Z
 tags: annotation, genomes, model organism
+editor: markdown
 ---
 
 # Genome3D
@@ -19,8 +20,17 @@ The Genome3D project brings together a number of leading UK structure-based pred
 
 - [Genome3D *Main Page*](https://www.genome3d.eu/)
  {.links-list}
+ 
+## Notes from User
+ 
+## Ease of use
 
+## Help
+- [Help *Documentation*](https://www.genome3d.eu/wiki/page/Public/Page/Index)
+- [Help *Tutorials*](https://www.genome3d.eu/tutorials/page/Public/Page/Tutorial/Index)
+ {.links-list}
+ 
 ## Citation
 
-- [Genome3D: exploiting structure to help users understand their sequences.](https://academic.oup.com/nar/article/43/D1/D382/2439552) Lewis TE and Sillitoe I, et al. Nucleic Acids Res. 2015 Jan; 43(Database issue):D382-D386. pmid:25348407 doi:10.1093/nar/gku973
+- Lewis TE and Sillitoe I, et al. [Genome3D: exploiting structure to help users understand their sequences.](https://academic.oup.com/nar/article/43/D1/D382/2439552)  Nucleic Acids Res. 2015 Jan; 43(Database issue):D382-D386. pmid:25348407 doi:10.1093/nar/gku973
 {.grid-list}
