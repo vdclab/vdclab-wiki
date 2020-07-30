@@ -2,7 +2,7 @@
 title: MacSyDB/TXSSdb
 description: 
 published: true
-date: 2020-07-30T15:40:58.149Z
+date: 2020-07-30T18:56:09.284Z
 tags: bacteria, proteins, evolution
 editor: markdown
 ---
@@ -20,23 +20,13 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
+## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+## Ease of use
 
 ## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
