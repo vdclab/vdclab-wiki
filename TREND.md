@@ -2,8 +2,8 @@
 title: TRee-based Exploration of Neighborhoods and Domains (TREND)
 description: TREND has the capability to automatically identify protein features, calculate gene neighborhoods of each gene corresponding to provided prokaryotic proteins, cluster neighboring genes, identify operons, and put all these data in a phylogenetic context. 
 published: true
-date: 2020-07-30T15:51:20.487Z
-tags: phylogeny, proteins, sequence identity, clustering, gene neighborhood
+date: 2020-07-30T15:52:27.936Z
+tags: phylogeny, proteins, sequence identity, clustering, gene neighborhood, 2020
 editor: markdown
 ---
 
