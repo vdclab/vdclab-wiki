@@ -2,7 +2,7 @@
 title: Tree of Life Web Project - Life on Earth
 description: The Tree of Life Web Project is a collection of information about biodiversity compiled collaboratively by hundreds of expert and amateur contributors.
 published: true
-date: 2020-07-23T23:10:17.374Z
+date: 2020-07-30T14:05:39.561Z
 tags: reference, resource reference, project library, phylogeny, evolution, data capture, resource center, resource, literature, browser, curated
 editor: markdown
 ---
@@ -21,15 +21,6 @@ editor: markdown
 - [ToLWeb Life on Earth *Main Page*](http://tolweb.org/Life_on_Earth/1)
  {.links-list}
 
-## Help
-
-- [ToLWeb Help *Tree of Life Help*](http://tolweb.org/tree/home.pages/treehelp.html)
-- [ToLWeb Help *Navigating the Tree of Life*](http://tolweb.org/tree/home.pages/navigating.html#overview)
-{.links-list}
-
-## Ease of Use
-
-- The website is well designed and easy to use, but is missing branches/information for a large portion of the tree of life. This site is useful for learning about the tree of life or if the Users organism of interest is present in the current tree. 
 
 ## User Notes
 
@@ -38,6 +29,16 @@ editor: markdown
 - Most of the available branches are for Eukaryotes.  Escherichia coli (or any gamma Proteobacteria) is not yet available and the page was last updated in 2006.
 - Some pages have a lot of information provided, while others have none. 
 - Many pages have images and videos for members of the branch being explored. 
+
+## Ease of Use
+
+The website is well designed and easy to use, but is missing branches/information for a large portion of the tree of life. This site is useful for learning about the tree of life or if the Users organism of interest is present in the current tree. 
+
+## Help
+
+- [ToLWeb Help *Tree of Life Help*](http://tolweb.org/tree/home.pages/treehelp.html)
+- [ToLWeb Help *Navigating the Tree of Life*](http://tolweb.org/tree/home.pages/navigating.html#overview)
+{.links-list}
 
 ## Citation 
 
