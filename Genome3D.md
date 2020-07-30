@@ -2,8 +2,8 @@
 title: Genome3D
 description: Genome3D provides consensus structural annotations and 3D models for sequences from model organisms, including human. 
 published: true
-date: 2020-07-30T15:24:18.073Z
-tags: annotation, genomes, model organism
+date: 2020-07-30T15:30:59.640Z
+tags: annotation, genomes, proteins, prediction, protein family, 2015, model organism
 editor: markdown
 ---
 
@@ -22,8 +22,13 @@ The Genome3D project brings together a number of leading UK structure-based pred
  {.links-list}
  
 ## Notes from User
+ - You can vizualize the 3D structure on the page from the different ressources.
+ - You can superpose the predicted structures.
+ - Link to the page of the other ressources.
  
 ## Ease of use
+- Search ypur protein by sequence or name.
+- Get link to different ressources that predicts function/structures.
 
 ## Help
 - [Help *Documentation*](https://www.genome3d.eu/wiki/page/Public/Page/Index)
