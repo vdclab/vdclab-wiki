@@ -2,7 +2,7 @@
 title: BacMap
 description: An Interactive Atlas for Exploring Bacterial Genomes
 published: true
-date: 2020-07-30T14:32:34.921Z
+date: 2020-07-30T18:55:35.298Z
 tags: genomes, bacteria, interaction
 editor: markdown
 ---
@@ -24,16 +24,10 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
