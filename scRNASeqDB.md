@@ -2,7 +2,7 @@
 title: Single-cell RNA-Seq (scRNA-seq) Database
 description: scRNASeqDB database: contains 36 human single cell gene expression data sets collected from Gene Expression Omnibus (GEO), involving 8910 cells from 174 cell groups
 published: true
-date: 2020-07-30T14:08:52.397Z
+date: 2020-07-30T14:10:10.883Z
 tags: sequencing projects, project library, data capture, rna, database, transcriptomics, resource, co-expression, browser, data visualization, eukaryota, enrichment
 editor: markdown
 ---
@@ -28,7 +28,7 @@ editor: markdown
 
 ## Ease of Use
 
-- This site is easy to use. 
+This site is easy to use. 
 
 ## Help
 
