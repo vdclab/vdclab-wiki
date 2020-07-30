@@ -2,7 +2,7 @@
 title: The ABCD (AntiBodies Chemically Defined) Database
 description: The ABCD database is a manually curated depository of sequenced antibodies.
 published: true
-date: 2020-07-30T15:28:19.660Z
+date: 2020-07-30T18:54:48.858Z
 tags: sequencing projects, curated, repository
 editor: markdown
 ---
@@ -21,23 +21,16 @@ editor: markdown
  {.links-list}
 
 
- ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+## Notes from the user
 
  
- ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+## Ease of use
 
 
 ## Help
 
 - [ABCD Help *Help Page*](https://web.expasy.org/abcd/faq.html)
  {.links-list}
-
 
 ## Citation 
 
