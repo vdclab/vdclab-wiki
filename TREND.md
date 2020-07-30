@@ -2,7 +2,7 @@
 title: TRee-based Exploration of Neighborhoods and Domains (TREND)
 description: TREND has the capability to automatically identify protein features, calculate gene neighborhoods of each gene corresponding to provided prokaryotic proteins, cluster neighboring genes, identify operons, and put all these data in a phylogenetic context. 
 published: true
-date: 2020-07-30T15:34:00.641Z
+date: 2020-07-30T15:37:03.332Z
 tags: phylogeny, proteins, sequence identity, clustering, gene neighborhood
 editor: markdown
 ---
@@ -19,12 +19,16 @@ editor: markdown
 ## Website 
 
 - [TREND *Main Page*](http://trend.zhulinlab.org/)
+- [TREND *Domain Analysis Tool*](http://trend.zhulinlab.org/domains)
+- [TREND *Neighborhood Analysis Tool*](http://trend.zhulinlab.org/gene-neighborhoods)
  {.links-list}
 
 ## Notes from User
- -  
+-  
+ 
 ## Ease of use
 - 
+
 ## Help
 - [Help *Help Page*](http://trend.zhulinlab.org/help)
 - [Help *Pro Tips*](http://trend.zhulinlab.org/protips)
