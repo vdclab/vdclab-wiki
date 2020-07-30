@@ -2,8 +2,8 @@
 title: Harmonizome
 description: Search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources.
 published: true
-date: 2020-07-30T19:24:57.006Z
-tags: genes, proteins, functional association, resource center
+date: 2020-07-30T19:25:26.270Z
+tags: genes, proteins, functional association, resource center, database, data visualization, gene annotation
 editor: markdown
 ---
 
