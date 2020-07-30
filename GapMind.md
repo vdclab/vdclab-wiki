@@ -2,7 +2,7 @@
 title: GapMind
 description: Automated annotation of Amino acid biosynthesis
 published: true
-date: 2020-06-30T14:39:23.698Z
+date: 2020-07-30T18:09:50.453Z
 tags: annotation, proteins
 editor: markdown
 ---
@@ -20,6 +20,13 @@ editor: markdown
 {.links-list}
 
 
+ ## Ease of Use
+ 
+ 
+ ## User Notes
+ 
+ 
+ ## Help
  
 
 ## Citation 
