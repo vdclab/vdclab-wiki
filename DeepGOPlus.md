@@ -2,8 +2,8 @@
 title: DeepGOPlus
 description: DeepGOPlus is a novel method for predicting protein functions based on protein sequence. It uses deep convolutional neural networks to learn sequence features and combines predictions with sequence similarity based predictions.
 published: true
-date: 2020-07-30T15:01:53.270Z
-tags: proteins, sequence similarity, functional association, prediction
+date: 2020-07-30T15:03:54.716Z
+tags: proteins, functional association, prediction, 2020
 editor: markdown
 ---
 
