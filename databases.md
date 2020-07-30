@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-07-30T19:01:14.898Z
+date: 2020-07-30T19:02:27.833Z
 tags: category
 editor: markdown
 ---
@@ -11,6 +11,7 @@ editor: markdown
 
 ## Databases Related To Enzymes And Pathways
 
+- [cpnDB *Manually curated, taxonomically broad collection of chaperonin sequences*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/cpnDB)
 - [FuzDB *Fuzzy protein complexes based on experimental evidence*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/FuzDB)
 - [InnateDB *Genes, proteins, interactions and signaling pathways involved in the innate immune response*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/InnateDB)
 - [KEGG PATHWAY *Manually drawn pathway maps representing our knowledge on molecular interaction*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/KEGG-PATHWAY)
