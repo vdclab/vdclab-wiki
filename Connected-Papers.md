@@ -2,8 +2,9 @@
 title: Connected Papers
 description: Explore connected papers in a visual graph.
 published: true
-date: 2020-06-05T17:53:34.863Z
+date: 2020-07-31T19:03:11.573Z
 tags: tool, resource center, literature, data visualization
+editor: markdown
 ---
 
 # Connected Papers
@@ -31,4 +32,14 @@ tags: tool, resource center, literature, data visualization
 - [Connected Papers *Main Page*](https://www.connectedpapers.com/)
  {.links-list}
 
+## User Notes
+A simple tool allowing for analyzing the web of connections between publications hosted by different catelogging resources (e.g., PubMed, arXiv); unique method of exploring scientific publications and publishing at large
+
+## Ease of Use
+Easy to start exploration of data (input of text identifiably linked to a publication) and to use, in general
+
+ ## Citation
+Waleed Ammar et al. 2018. Construction of the Literature Graph in Semantic Scholar. NAACL https://www.semanticscholar.org/paper/09e3cf5704bcb16e6657f6ceed70e93373a54618
+ 
+ 
  
