@@ -2,8 +2,8 @@
 title: Connected Papers
 description: Explore connected papers in a visual graph.
 published: true
-date: 2020-07-31T19:03:11.573Z
-tags: tool, resource center, literature, data visualization
+date: 2020-07-31T19:04:00.287Z
+tags: tool, literature, data visualization, analysis tool
 editor: markdown
 ---
 
