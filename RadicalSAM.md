@@ -2,8 +2,8 @@
 title: RadicalSAM
 description: Exploring the Radical SAM Enzyme Superfamily
 published: true
-date: 2020-06-10T19:45:43.229Z
-tags: tool, protein family
+date: 2020-07-31T18:29:32.966Z
+tags: community, tool, sequence analysis, proteins, sequence similarity, resource, analysis tool
 editor: markdown
 ---
 
@@ -23,10 +23,18 @@ editor: markdown
 
  
 
-## Websites 
+## Website
 
 - [RadicalSAM *Main Page*](https://radicalsam.org/)
 {.links-list}
+
+## User Notes
+A stride in making biological big data analysis more transparent, accessible and 'democratic'. This particular dataset, the radical SAM protein superfamily, is massive and requires a notable amount of computational power to analyze in a network format; resources like this make these datasets more available and tangible to researchers of a wide range of computational capabilities.
+
+## Ease of Use
+User interface is appealing and easy to use; manipulation of the dataset takes a little practice and knowing what you want to examine prior to navigating the site and its features.
+
+
 
 ## Citation
 - [About RadicalSAM *About/Citation Page*](https://radicalsam.org/about.html)
