@@ -2,8 +2,9 @@
 title: MyHits
 description: Hits is a free database devoted to protein domains.
 published: true
-date: 2020-06-05T18:00:49.607Z
+date: 2020-07-31T19:14:50.571Z
 tags: database, protein domain
+editor: markdown
 ---
 
 # MyHits
@@ -17,6 +18,13 @@ tags: database, protein domain
 
 - [MyHits *Main Page*](https://myhits.sib.swiss/)
  {.links-list}
+
+## User Notes
+
+
+## Ease of Use
+Requires some knowledge of the programs used for sequence analysis, alignment, matching, etc.
+
 
 ## Citations
 
