@@ -2,8 +2,8 @@
 title: CellPhoneDB
 description: CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
 published: true
-date: 2020-07-29T15:18:24.693Z
-tags: curated, repository
+date: 2020-08-03T20:07:51.982Z
+tags: data capture, rna, database, curated, repository, interaction, protein-protein
 editor: markdown
 ---
 
@@ -25,10 +25,10 @@ editor: markdown
 
 
 ## Notes from the user
-
- 
-## Ease of use
-
+- Easy to search 
+- Clearly lists annotation source, easy to follow interactions
+- 
+- Contains a python package, scRNAseq pipeline
 
 ## Help
 
