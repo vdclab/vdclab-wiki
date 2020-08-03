@@ -2,8 +2,9 @@
 title: xBASE
 description: xBASE is a genome database aimed at helping laboratory-based bacteriologists make best use of bacterial genome sequence data, with a particular emphasis on comparative genomics.
 published: true
-date: 2020-05-19T17:13:17.023Z
-tags: genomes, comparative genomics, database
+date: 2020-08-03T16:09:22.632Z
+tags: genomes, bacteria, genome browser, comparative genomics, data capture, database
+editor: markdown
 ---
 
 # xBASE
@@ -18,6 +19,12 @@ tags: genomes, comparative genomics, database
 
 - [xBASE *Main Page*](http://xbase.warwick.ac.uk/)
  {.links-list}
+ 
+ ## Notes from User
+ - Easy to use
+ - Good for finding original sequence publications
+ - Not actively updated, but has good information
+ - Has genome tools to view alignment, design primers of selected genome
 
 ## Citation 
 
