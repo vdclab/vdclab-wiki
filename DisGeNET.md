@@ -2,8 +2,8 @@
 title: DisGeNET
 description: DisGeNET is a discovery platform containing one of the largest publicly available collections of genes and variants associated to human diseases.
 published: true
-date: 2020-07-29T15:17:24.694Z
-tags: genes, homolog discovery, eukaryotes
+date: 2020-08-03T19:06:18.191Z
+tags: tool, genes, resource center, database, eukaryotes, bioinformatics, model organism, organism-specific, webserver, broswer
 editor: markdown
 ---
 
@@ -25,9 +25,9 @@ editor: markdown
 
 
 ## Notes from the user
-
- 
-## Ease of use
+- Webserver is easy to browse
+- Between diseases, gene and variants, there is a lot of information to browse, can spend a long time going through information
+- Offers cytoscape plug-in for visualization and programs for available data to mine by R
 
 
 
