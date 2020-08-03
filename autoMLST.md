@@ -2,7 +2,7 @@
 title: autoMLST: Automated Multi-Locus Species Tree
 description: Upload sequence(s) for automatic generation of species phylogeny with reference organisms.
 published: true
-date: 2020-07-27T15:32:17.691Z
+date: 2020-08-03T16:10:51.285Z
 tags: bacteria, tool, phylogeny, evolution
 editor: markdown
 ---
@@ -23,9 +23,10 @@ editor: markdown
 ## Notes from User
 - Can provide genome or NCBI Accession number
 	- Can provide email to receive results
+  - Unsure if working, submitted job never received completed email and job ID was invalid on site 
 - Easy to toggle tree results
 	- Can download Newick file and further manipulate in iTOL 
-- 
+
 
 ## Help
 
