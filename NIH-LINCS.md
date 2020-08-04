@@ -2,7 +2,7 @@
 title: The Library of Integrated Network-Based Cellular Signatures (LINCS)
 description: LINCS aims to create a network-based understanding of biology by cataloging changes in gene expression and other cellular processes that occur when cells are exposed to a variety of perturbing agents.
 published: true
-date: 2020-07-29T11:40:40.350Z
+date: 2020-08-04T15:38:16.010Z
 tags: resource center, database, metabolism, gene, gene expression, eukaryota, curated, network, toolbox
 editor: markdown
 ---
@@ -19,20 +19,21 @@ editor: markdown
 - [LINCS Tools Marketplace *Tools and Resources Page*](http://www.lincsproject.org/LINCS/tools)
 {.links-list}
 
-## Help
-
-- [LINCS Help *About Page*](http://www.lincsproject.org/LINCS/about)
-- [LINCS Tools Help *Video Tutorials*](http://www.lincsproject.org/LINCS/tools)
-{.links-list}
-
-## Ease of Use
-
-- The website is easy to navigate and the tutorials for tools are very informative. 
 
 ## User Notes
 
 - Data is derived from a wide variety of experiments performed on Eukaryotic (human) cell lines. 
 - The gene search function gives you all experiments where the gene shows significant results, and provides a lot of extra information pertaining to each experiment (i.e. enrichments).
+
+## Ease of Use
+
+The website is easy to navigate and the tutorials for tools are very informative. 
+
+## Help
+
+- [LINCS Help *About Page*](http://www.lincsproject.org/LINCS/about)
+- [LINCS Tools Help *Video Tutorials*](http://www.lincsproject.org/LINCS/tools)
+{.links-list}
 
 ## Citation 
 
