@@ -2,7 +2,7 @@
 title: OperonDB
 description: Predicting operons in microbial genomes.
 published: true
-date: 2020-07-27T19:39:24.927Z
+date: 2020-08-04T15:51:51.254Z
 tags: bacteria, functional association, database, gene, prediction, gene neighborhood, conservation
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
  {.links-list}
 
 ## Notes from User
+
 - Easy to use
 - Good help page for understanding and confidence
 - Gene annotations of some genomes are not up to date with NCBI Prokaryotic RefSeq re-annotations
