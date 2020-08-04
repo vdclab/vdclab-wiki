@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-04T15:41:22.114Z
+date: 2020-08-04T15:48:29.908Z
 tags: category
 editor: markdown
 ---
@@ -26,6 +26,7 @@ editor: markdown
 - [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
 - [NIH LINCS *Network-based catalog of gene expression and other cellular processes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/NIH-LINCS)
 - [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
+- [X2K *Infers upstream regulatory networks from signatures of differentially expressed genes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/X2K)
 {.links-list}
 
 ### Fungi Resources
