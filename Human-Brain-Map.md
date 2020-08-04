@@ -2,7 +2,7 @@
 title: Allen Human Brain Atlas
 description: A unique multimodal atlas of the human brain, integrating anatomic and genomic information.
 published: true
-date: 2020-08-04T15:35:17.736Z
+date: 2020-08-04T15:35:28.493Z
 tags: data capture, database, gene, browser, data visualization, gene expression, data export, eukaryota, microarray, phenotype, profiling
 editor: markdown
 ---
@@ -12,7 +12,6 @@ editor: markdown
 > The Allen Human Brain Atlas is a unique multi-modal atlas of the human brain, integrating anatomic and genomic information and coupled with a suite of visualization and data mining tools.
 {.is-info}
 
- 
 
 ## Website 
 
