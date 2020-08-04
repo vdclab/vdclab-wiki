@@ -2,7 +2,7 @@
 title: miRPD
 description: miRPD: explicitly inferring miRNA-protein-disease associations 
 published: true
-date: 2020-08-04T15:45:33.260Z
+date: 2020-08-04T15:45:38.252Z
 tags: proteins, database, prediction, data export, curated, epigenetic
 editor: markdown
 ---
@@ -35,4 +35,5 @@ There is no formal help page or tutorial for use and many searches return blank 
 {.links-list}
 
 ## Citation
-- No citation. 
+
+No citation. 
