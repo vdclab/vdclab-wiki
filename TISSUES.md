@@ -2,7 +2,7 @@
 title: TISSUES
 description: Tissue expression database.
 published: true
-date: 2020-07-29T12:30:40.603Z
+date: 2020-08-04T15:43:17.870Z
 tags: data capture, database, resource, gene, data visualization, gene expression, mapping, data export, eukaryota, localization
 editor: markdown
 ---
@@ -19,18 +19,19 @@ editor: markdown
 - [TISSUES *Main Page*](https://tissues.jensenlab.org/Search)
  {.links-list}
 
-## Help
-
-- There is no formal help page. 
-
-## Ease of Use
-
-- The site is very straight forward and easy to use. 
 
 ## User Notes
 
 - Data is available from experiments on human, mouse, rat and pig tissues. 
 - Data can be downloaded for each of these species based on all or one-of-three "channels": Knowledge, Experiments, and Text mining.
+
+## Ease of Use
+
+The site is very straight forward and easy to use. 
+
+## Help
+
+There is no formal help page. 
 
 ## Citation
 
