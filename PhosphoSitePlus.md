@@ -2,14 +2,14 @@
 title: PhosphoSitePlus
 description: PhosphoSitePlus® provides comprehensive information and tools for the study of protein post-translational modifications (PTMs) including phosphorylation, acetylation, and more.
 published: true
-date: 2020-07-29T15:24:40.113Z
-tags: proteins, toolbox
+date: 2020-08-04T14:37:43.090Z
+tags: proteomes, browser, protein, eukaryota, curated, protein domain
 editor: markdown
 ---
 
 # PhosphoSitePlus
 
-> Short description oPhosphoSitePlus is an open, comprehensive, manually curated and interactive resource for studying experimentally observed post-translational modifications, primarily of human and mouse proteins. It encompasses 1 30 000 non-redundant modification sites, primarily phosphorylation, ubiquitinylation and acetylation. The interface is designed for clarity and ease of navigation. 
+> PhosphoSitePlus is an open, comprehensive, manually curated and interactive resource for studying experimentally observed post-translational modifications, primarily of human and mouse proteins. It encompasses 130,000 non-redundant modification sites, primarily phosphorylation, ubiquitinylation and acetylation. The interface is designed for clarity and ease of navigation. 
 >
 > From the home page, users can launch simple or complex searches and browse high-throughput data sets by disease, tissue or cell line. Searches can be restricted by specific treatments, protein types, domains, cellular components, disease, cell types, cell lines, tissue and sequences or motifs. 
 {.is-info}
@@ -23,15 +23,9 @@ editor: markdown
 
 
 ## Notes from the user
- 
-
-## Ease of use
-
-## Help
-
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
+- Easy to use
+- Gives many ways to search/browse including a comparative tool for including/excluding characteristics
+- Can easily download graphs with modification information (as PNG)
 
 
 ## Citations
