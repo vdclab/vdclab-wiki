@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-04T15:37:51.048Z
+date: 2020-08-04T15:41:22.114Z
 tags: category
 editor: markdown
 ---
@@ -24,6 +24,7 @@ editor: markdown
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
 - [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
+- [NIH LINCS *Network-based catalog of gene expression and other cellular processes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/NIH-LINCS)
 - [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
 {.links-list}
 
