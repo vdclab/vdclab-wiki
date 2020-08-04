@@ -2,7 +2,7 @@
 title: Allen Human Brain Atlas
 description: A unique multimodal atlas of the human brain, integrating anatomic and genomic information.
 published: true
-date: 2020-07-24T15:41:45.074Z
+date: 2020-08-04T15:35:17.736Z
 tags: data capture, database, gene, browser, data visualization, gene expression, data export, eukaryota, microarray, phenotype, profiling
 editor: markdown
 ---
@@ -19,21 +19,21 @@ editor: markdown
 - [Allen Human Brain Atlas *Data Portal*](http://human.brain-map.org/)
 {.links-list}
 
-## Help
-
-- [Allen Human Brain Atlas *Help Page*](http://help.brain-map.org/display/humanbrain/Microarray+Data)
-{.links-list}
-
-## Ease of Use
-
-- The site is intuitive and easy to use. 
-
 ## User Notes
 
 - "Brain Explorer" is a feature of the site that must be downloaded and installed as a destop application. 
 - The "Planar View" application is web-based and allows users to visualize expression of a specified gene painted onto an MRI map. 
 - Users have access to experimental microarray, high resolution *in situ* hybridization, and MRI data, which has been integrated into the portals brain atlases.
 - Specific genes and brain sections are targeted in *in situ* hybridization studies focusing on neurotransmitters, cortex, subcortex, schizophrenia and autism.
+
+## Ease of Use
+
+- The site is intuitive and easy to use. 
+
+## Help
+
+- [Allen Human Brain Atlas *Help Page*](http://help.brain-map.org/display/humanbrain/Microarray+Data)
+{.links-list}
 
 ## Citations
 - Hawrylycz, M.J. et al. (2012) [Allen Human Brain Atlas: An anatomically comprehensive atlas of the adult human transcriptome](https://www.nature.com/articles/nature11405.pdf) Nature 489: 391-399. doi:10.1038/nature11405
