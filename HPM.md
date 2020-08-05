@@ -2,8 +2,8 @@
 title: Human Proteome Map (HPM)
 description: 	The human proteome map portal is the web-based resource that reorganizes mass spectrometry-based proteomics data to explore expressed proteins in fetal tissues/adult tissues/hematopoietic cells obtained from human.
 published: true
-date: 2020-07-29T20:31:57.418Z
-tags: proteins, resource, gene expression, proteomics
+date: 2020-08-05T15:11:57.055Z
+tags: projects, proteins, resource, mapping, proteomics, organism-specific
 editor: markdown
 ---
 
@@ -25,9 +25,9 @@ editor: markdown
 
 
 ## Notes from the user
- 
-
-## Ease of use
+- Easy to use
+- To query use [HGNC](https://www.genenames.org) gene symbols
+- Expression map is good visual (and downloadable), but can't change anything other than cell/tissue types being shown
 
 
 ## Help
