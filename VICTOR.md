@@ -2,7 +2,7 @@
 title: Virus Classification and Tree Building Online Resource (VICTOR)
 description: VICTOR: genome-based phylogeny and classification of prokaryotic viruses
 published: true
-date: 2020-08-05T14:28:21.229Z
+date: 2020-08-05T16:11:50.201Z
 tags: taxonomy, phylogeny, genome, virus
 editor: markdown
 ---
@@ -21,15 +21,8 @@ editor: markdown
 
 
 ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
 
- 
 ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
