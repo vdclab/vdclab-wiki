@@ -2,7 +2,7 @@
 title: Virus-Host Database 
 description: Virus-Host Database: Linking virus genomes with host taxonomy.
 published: true
-date: 2020-08-05T14:43:22.359Z
+date: 2020-08-05T16:12:11.515Z
 tags: genomes, taxonomy, virus
 editor: markdown
 ---
@@ -21,21 +21,13 @@ editor: markdown
 
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
