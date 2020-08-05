@@ -2,8 +2,8 @@
 title: Domain Mapping of Disease Mutations (DMDM)
 description: Domain mapping of disease mutations (DMDM) is a database in which each disease mutation can be displayed by its gene, protein or domain location.
 published: true
-date: 2020-07-29T20:28:44.045Z
-tags: genes, proteins, database, mutant
+date: 2020-08-05T14:55:08.144Z
+tags: genes, proteins, specialized search, database, protein domain, logo, mutant
 editor: markdown
 ---
 
@@ -21,16 +21,18 @@ editor: markdown
 - [DMDM *Main Page*](http://bioinf.umbc.edu/dmdm/)
  {.links-list}
 
-
 ## Notes from the user
- 
+ - Users are searching for domains rather than specific proteins
+ - Logos of the most frequently occurring amino acids are laid on top of histograms for mutation rates at each position
+ - List of diseases and mutation are available for each entry
 
  
 ## Ease of use
+> Despite the dated appearance of the tool, the information and data integration are rather unique and informative. Users can quickly assess how important certain domains are in diseases or how prone to mutation the domains are.
 
 
 ## Help
-
+> No tutorial or guided practice but example queries are availabe.
 
 
 ## Citation 
