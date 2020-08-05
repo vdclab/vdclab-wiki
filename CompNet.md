@@ -2,7 +2,7 @@
 title: CompNet
 description: A GUI based tool for comparison of multiple biological interaction networks
 published: true
-date: 2020-08-05T15:18:35.776Z
+date: 2020-08-05T16:10:39.885Z
 tags: tool, interaction, networks, gui
 editor: markdown
 ---
@@ -23,22 +23,13 @@ editor: markdown
 
 
 ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-{.links-list}
 
 
 ## Citation 
