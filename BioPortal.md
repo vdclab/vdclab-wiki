@@ -2,7 +2,7 @@
 title: BioPortal
 description: BioPortal: the world's most comprehensive repository of biomedical ontologies
 published: true
-date: 2020-08-05T15:25:27.108Z
+date: 2020-08-05T16:10:51.369Z
 tags: repository, ontology
 editor: markdown
 ---
@@ -21,15 +21,9 @@ editor: markdown
 
 
 ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
 
  
 ## Ease of use
-
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
