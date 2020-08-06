@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-06T14:36:08.497Z
+date: 2020-08-06T14:41:02.210Z
 tags: category
 editor: markdown
 ---
@@ -11,13 +11,14 @@ editor: markdown
 
 ## Eukaryote Resources
 
-- [Human Brain Map *Multimodal atlas of the human brain, integrating anatomic and genomic information*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/Human-Brain-Map)
+- [:star: BahlerLab *Tools for analyzing S. pombe genetics and genetic regulation*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BahlerLab)
 - [:star: BLAT Search Genome *Quickly find sequences of 95% and greater similarity of length 25 bases or more*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BLAT-Search-Genome)
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 - [EpiGenie *Search out and compile a list of the best free tools and databases that epigenetics researchers*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/EpiGenie)
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB)
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
 - [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
+- [Human Brain Map *Multimodal atlas of the human brain, integrating anatomic and genomic information*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/Human-Brain-Map)
 - [NIH LINCS *Network-based catalog of gene expression and other cellular processes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/NIH-LINCS)
 - [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
 - [X2K *Infers upstream regulatory networks from signatures of differentially expressed genes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/X2K)
