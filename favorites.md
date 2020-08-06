@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-06T14:40:41.867Z
+date: 2020-08-06T14:46:38.628Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -366,6 +366,7 @@ editor: markdown
 ## Prediction
 
 - [AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
+- [COGcollator *Web server for analysis of distant relationships between homologous protein families*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/COGcollator)
 - [RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
 - [tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 {.links-list}
