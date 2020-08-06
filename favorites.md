@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-07-29T22:22:21.865Z
+date: 2020-08-06T14:28:59.358Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -206,11 +206,6 @@ editor: markdown
 
 # Ressources
 
-## Analysis Resources
-
-- [ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/analysis/ExPASy-Proteomics)
-{.links-list}
-
 ## General Resources
 
 - [BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
@@ -244,6 +239,11 @@ editor: markdown
 
 - [Genoscope Microscope Phyloprofile *Allows to search for common OR specific genes between genomes*](https://vdclab-wiki.herokuapp.com/en/resources/homology/Genoscope-Microscope-Phyloprofile)
 - [JGI-IMG-Phylogeny *Assess phylogenetic composition of a metagenome sample based*](https://vdclab-wiki.herokuapp.com/en/resources/homology/JGI-IMG-Phylogeny)
+{.links-list}
+
+## Protein Analysis Resources
+
+- [ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/analysis/ExPASy-Proteomics)
 {.links-list}
 
 # Sequence Manipulation
