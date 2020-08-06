@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-07-24T16:45:51.406Z
+date: 2020-08-06T15:10:29.863Z
 tags: category
 editor: markdown
 ---
@@ -43,6 +43,12 @@ editor: markdown
 
 - [GeneBee Motifs *Web tool that allows the construction of pairwise motifs*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/GeneBee-Motifs)
 - [:star: Seq2Logo *Sequence logo generator*](https://vdclab-wiki.herokuapp.com/en/visualization/motifs/Seq2Logo)
+{.links-list}
+
+## Pathways, Mapping Data To Pathways, Metabolic Reconstruction
+
+- [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
+- [MetaNetX *Automated Model Construction and Genome Annotation for Large-Scale Metabolic Networks*](https://vdclab-wiki.herokuapp.com/en/visualization/mapping_pathways/MetaNetX)
 {.links-list}
 
 ## Sequence Data Visualization
