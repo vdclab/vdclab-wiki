@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-08-04T15:47:54.445Z
+date: 2020-08-06T14:47:18.779Z
 tags: category
 editor: markdown
 ---
@@ -144,6 +144,7 @@ editor: markdown
 ## Prediction
 
 - [:star: AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
+- [:star: COGcollator *Web server for analysis of distant relationships between homologous protein families*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/COGcollator)
 - [EffectiveDB *Prediction of bacterial protein secretion*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/EffectiveDB)
 - [miRPD *Explicitly inferring miRNA-protein-disease associations*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/miRPD)
 - [ProtParam *Allows the computation of various physical and chemical parameters for a given protein*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/ProtParam)
