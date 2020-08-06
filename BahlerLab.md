@@ -2,7 +2,7 @@
 title: The Bahler Lab
 description: The Bähler laboratory studies cellular quiescence, ageing and long non-coding RNA function using fission yeast and Turquoise Killifish as model systems.
 published: true
-date: 2020-07-29T15:26:15.916Z
+date: 2020-08-06T14:37:41.731Z
 tags: publisher affiliated, genomics, analysis tools, resource center, transcriptomics, eukaryota, yeast
 editor: markdown
 ---
@@ -21,15 +21,16 @@ editor: markdown
 
  {.links-list}
 
- ## Ease of Use
- 
- - The database provides a list of tools and resources. 
- 
- ## User Notes
+
+## User Notes
  
  - This site provides a list of tools and resources.
  - There are useful tools for analyzing *S. pombe* genetics and genetic regulation, including primer design tips and *S. pombe* specific CRISPR techniques. 
  - The site includes scripts for data processing and microarray experiment protocols. 
+
+## Ease of Use
+ 
+ - The database provides a list of tools and resources. 
  
  ## Help
  
