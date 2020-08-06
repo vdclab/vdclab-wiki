@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-06T14:28:59.358Z
+date: 2020-08-06T14:40:41.867Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -219,6 +219,7 @@ editor: markdown
 
 ## Eukaryotes Resources
 
+- [BahlerLab *Tools for analyzing S. pombe genetics and genetic regulation*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BahlerLab)
 - [BLAT Search Genome *Quickly find sequences of 95% and greater similarity of length 25 bases or more*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/BLAT-Search-Genome)
 {.links-list}
 
