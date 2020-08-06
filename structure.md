@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-07-24T19:37:01.955Z
+date: 2020-08-06T14:49:11.725Z
 tags: category
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 - [I-TASSER *Hierarchical approach to protein structure and function prediction*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/I-TASSER)
 - [Molmil *Browser-based protein structure viewer*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Molmil)
 - [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
+- [PROTEUS2 *Comprehensive protein structure prediction and structure-based annotation*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/PROTEUS2)
 - [PSIPRED *Simple and accurate secondary structure prediction method*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/PSIPRED)
 - [:star: RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
 {.links-list}
