@@ -2,7 +2,7 @@
 title: CyBase
 description: The database of cyclic proteins.
 published: true
-date: 2020-07-29T14:52:12.189Z
+date: 2020-08-06T14:34:56.990Z
 tags: proteins, database, prediction, motif, toolbox
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 # CyBase
 
 > This site is dedicated to the study of a fascinating new class of proteins that possess a cyclic backbone in which the N and C termini have been joined with a conventional amide bond. These recently characterised molecules have now been found in organisms from all kingdoms of life and given the current rate of discovery the number of sequences could soon number in the hundreds.
-&NewLine;
-Research in our lab is aimed at further characterising cyclic proteins and adapting them for commercial and medicinal use. In particular we work on a class of cyclic protein named the cyclotides. These proteins are found in the plants of the Rubiaceae and Violaceae and our specific goals include: determining the role that cyclotides play in plants, discovering the mechanism of action of the wide range of biological activities displayed by the cyclotides (including anti-HIV, anti-bacterial and insecticidal activity), characterising the genetics of the cyclotides and further discovery of novel cyclotides.
+> 
+> Research in our lab is aimed at further characterising cyclic proteins and adapting them for commercial and medicinal use. In particular we work on a class of cyclic protein named the cyclotides. These proteins are found in the plants of the Rubiaceae and Violaceae and our specific goals include: determining the role that cyclotides play in plants, discovering the mechanism of action of the wide range of biological activities displayed by the cyclotides (including anti-HIV, anti-bacterial and insecticidal activity), characterising the genetics of the cyclotides and further discovery of novel cyclotides.
 {.is-info}
 
  
@@ -21,14 +21,13 @@ Research in our lab is aimed at further characterising cyclic proteins and adapt
 - [CyBase *Main Page*](http://www.cybase.org.au/)
  {.links-list}
 
+## User Notes
+
+- Database contains information as well as several tools to analyze cyclotides. 
 
 ## Ease of Use
 
 - The database is very specific for structural characterisation of cyclotides (or circular proteins). If users have a specific cyclotide of interest the site should be fairly intuitive. 
-
-## User Notes
-
-- Database contains information as well as several tools to analyze cyclotides. 
 
 ## Help
 
