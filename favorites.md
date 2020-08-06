@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-06T15:10:20.497Z
+date: 2020-08-06T15:24:49.132Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -100,6 +100,7 @@ editor: markdown
 - [EcoCyc *Scientific database for the bacterium Escherichia coli K-12 MG1655*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
 - [Pseudomonas Genome DB *Genome annotation and genome analysis data of Pseudomonas*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/Pseudomonas-Genome-DB)
 - [SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
+- [:star: TB Genomes Database *An integrated platform for Tuberculosis research*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TBDB)
 {.links-list}
 
 #### Archaeal databases
