@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-06T14:30:39.891Z
+date: 2020-08-06T14:34:21.344Z
 tags: category
 editor: markdown
 ---
@@ -83,6 +83,7 @@ editor: markdown
 
 ## Protein Analysis Resources
 
+- [Binding MOAD *Subset of the Protein Data Bank (PDB), containing every high-quality example of ligand-protein binding*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/Binding-MOAD)
 - [BioInfo3D *A suite of freely available web services for protein structural analysis*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/BioInfo3D)
 - [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/ExPASy-Proteomics)
 - [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
