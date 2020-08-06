@@ -2,18 +2,12 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-06T14:26:35.068Z
+date: 2020-08-06T14:29:03.022Z
 tags: category
 editor: markdown
 ---
 
 # Resources
-
-## Analysis Resources
-
-- [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/ExPASy-Proteomics)
-- [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
-{.links-list}
 
 ## Eukaryote Resources
 
@@ -85,6 +79,12 @@ editor: markdown
 
 - [:star: JGI-IMG-Phylogeny *Assess phylogenetic composition of a metagenome sample based*](https://vdclab-wiki.herokuapp.com/en/resources/homology/JGI-IMG-Phylogeny)
 - [:star: Genoscope Microscope Phyloprofile *Allows to search for common OR specific genes between genomes*](https://vdclab-wiki.herokuapp.com/en/resources/homology/Genoscope-Microscope-Phyloprofile)
+{.links-list}
+
+## Protein Analysis Resources
+
+- [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/ExPASy-Proteomics)
+- [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
 {.links-list}
 
 ## Specialized search
