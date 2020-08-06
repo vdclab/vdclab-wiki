@@ -2,7 +2,7 @@
 title: Binding-MOAD
 description: We have created a subset of the Protein Data Bank (PDB), containing every high-quality example of ligand-protein binding. Hence, we call it the Mother of All Databases (MOAD). 
 published: true
-date: 2020-08-06T14:32:33.416Z
+date: 2020-08-06T14:32:53.025Z
 tags: proteins, database, clustering, curated, binding
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 # Binding-MOAD
 
 > We have created a subset of the Protein Data Bank (PDB), containing every high-quality example of ligand-protein binding. Hence, we call it the Mother of All Databases (MOAD). 
-&NewLine;
-Binding MOAD's goal is to be the largest collection of well resolved protein crystal structures with clearly identified biologically relevant ligands annotated with experimentally determined binding data extracted from literature.
+> 
+> Binding MOAD's goal is to be the largest collection of well resolved protein crystal structures with clearly identified biologically relevant ligands annotated with experimentally determined binding data extracted from literature.
 {.is-info}
 
  
