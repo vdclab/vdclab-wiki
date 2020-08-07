@@ -1,18 +1,17 @@
 ---
 title: MorphoBank
-description: MorphoBank provides a digital archive of those data so that the observations can be shared in both words and pictures with future scientists and the public.
+description: Database of peer-reviewed morphological matrices
 published: true
-date: 2020-07-22T21:06:22.813Z
+date: 2020-08-07T00:39:24.577Z
 tags: project library, database, phenotype, morphology
 editor: markdown
 ---
 
 # MorphoBank
-> MorphoBank provides a digital archive of those data so that the observations can be shared in both words and pictures with future scientists and the public.
-&NewLine;
-In particular, MorphoBank assists scientists building the Tree of Life - the genealogy of all living and extinct species. In this endeavor scientists must collect data on all heritable features - both genotypes (e.g., DNA sequences) and phenotypes (e.g., anatomy, behavior, physiology). 
-&NewLine;
-MorphoBank is part of the new and growing cyberinfrastructure for phenotypes to house, save and share information on anatomy, physiology, behavior and other features of species.
+
+> MorphoBank assists scientists building the Tree of Life - the genealogy of all living and extinct species. In this endeavor scientists must collect data on all heritable features - both genotypes (e.g., DNA sequences) and phenotypes (e.g., anatomy, behavior, physiology). The genomic part of this work is archived at the National Center for Biotechnology Information. MorphoBank is part of the new and growing cyberinfrastructure for phenotypes to house, save and share information on anatomy, physiology, behavior and other features of species. 
+> 
+> MorphoBank is part of the new and growing cyberinfrastructure for phenotypes to house, save and share information on anatomy, physiology, behavior and other features of species.
 {.is-info}
 
  
