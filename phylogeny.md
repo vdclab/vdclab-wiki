@@ -2,7 +2,7 @@
 title: Phylogeny
 description: List of the websites to do phylogeny
 published: true
-date: 2020-08-07T19:43:18.244Z
+date: 2020-08-07T20:21:23.773Z
 tags: 
 editor: markdown
 ---
@@ -43,5 +43,7 @@ editor: markdown
 - [ETE-Toolkit *A Python framework for the analysis and visualization of trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/ETE-Toolkit)
 - [:star: EvolView *Easy-to-use online tool for displaying, managing and customizing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/EvolView)
 - [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
+- [:star: Lifemap *Tool allowing the exploration of a complete representation of the Tree of Life*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Lifemap)
+- [Phandango *Interactive viewer for bacterial population genomics*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Phandango)
 - [Phylodendron *Tool for printing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Phylodendron)
 {.links-list}
