@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-08-07T17:30:13.637Z
+date: 2020-08-07T19:31:35.897Z
 tags: category
 editor: markdown
 ---
@@ -119,6 +119,7 @@ editor: markdown
 
 - [AgriGO *Web-based tool and database for gene ontology analyses*](https://vdclab-wiki.herokuapp.com/en/ontology/AgriGO)
 - [DAVID *Database for Annotation, Visualization and Integrated Discovery*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DAVID)
+- [DeepGOPlus *Predicting protein functions based on protein sequence*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DeepGOPlus)
 - [DiVenn *Venn diagram is widely used to compare gene lists between multiple experiments*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/DiVenn)
 - [:star: GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
 - [GOrilla *Identifying and visualizing enriched GO terms in ranked lists of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GOrilla)
