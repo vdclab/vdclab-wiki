@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-08-07T17:38:22.148Z
+date: 2020-08-07T19:26:36.075Z
 tags: category
 editor: markdown
 ---
@@ -171,6 +171,7 @@ editor: markdown
 - [MorphoBank *Database of peer-reviewed morphological matrices*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/MorphoBank)
 - [:star: OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
 - [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
+- [:star: VarSite *Aims to annotate known disease-associated variants in human genes with structural information*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/VarSite)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
