@@ -2,12 +2,17 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-06-25T14:30:11.829Z
+date: 2020-08-07T00:55:40.067Z
 tags: category
 editor: markdown
 ---
 
 # Aligment
+
+## Editing Alignments 
+
+- [:star: GUIDANCE2 *Weighting, filtering or masking unreliably aligned positions in sequence alignments before subsequent analysis*](https://vdclab-wiki.herokuapp.com/en/alignment/editing/GUIDANCE2)
+{.links-list}
 
 ## Multiple Sequence Alignment
 
@@ -21,6 +26,10 @@ editor: markdown
 
 - [ESPRESSO *T-COFFEE is also able to combine sequence information with protein structural information*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
+
+## Alignment tools
+
+
 
 ## Two Sequences Alignment
 
