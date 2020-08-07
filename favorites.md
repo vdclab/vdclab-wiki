@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T17:06:36.016Z
+date: 2020-08-07T17:19:02.652Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -409,6 +409,11 @@ editor: markdown
 {.links-list}
 
 # Visualization
+
+## Chemical Structure Visualization
+
+- [:star: MolView *Intended as web-based data visualization platform*](https://vdclab-wiki.herokuapp.com/en/visualization/chemical-structure/MolView)
+{.links-list}
 
 ## Data Visualization
 
