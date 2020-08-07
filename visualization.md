@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-08-06T15:10:29.863Z
+date: 2020-08-07T17:14:30.225Z
 tags: category
 editor: markdown
 ---
@@ -63,6 +63,7 @@ editor: markdown
 - [:star: Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
 - [Chimera *Interactive visualization and analysis of molecular structures and related data*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Chimera)
 - [:star: Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
+- [EzMol *Web server wizard for the rapid visualisation and image production of protein and nucleic acid structures*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/EzMol)
 - [:star: iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 - [Jmol *Viewer for chemical structures in 3D with features for chemicals, crystals, materials and biomolecules*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/Jmol)
 - [:star: JPred *A Protein Secondary Structure Prediction Server*](https://vdclab-wiki.herokuapp.com/en/visualization/visualization-platforms/JPred)
