@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T19:34:41.778Z
+date: 2020-08-07T19:43:40.327Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -188,6 +188,7 @@ editor: markdown
 - [IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 - [Simple Phylogeny *Provides access to phylogenetic tree generation methods from the ClustalW2*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Simple-Phylogeny)
+- [TREND *Resource that can calculate gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/TREND)
 {.links-list}
 
 ## Phylogenetic Distribution Tools
