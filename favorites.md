@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T00:28:48.880Z
+date: 2020-08-07T00:34:12.297Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -213,6 +213,7 @@ editor: markdown
 - [BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
 - [EMBL-EBI *Services and tools, perform basic research and provide professional training in bioinformatics*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/EMBL-EBI)
 - [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
+- [FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
 - [NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
