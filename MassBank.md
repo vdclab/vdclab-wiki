@@ -2,7 +2,7 @@
 title: MassBank
 description: MassBank is the official database of the Mass Spectrometry Society of Japan.
 published: true
-date: 2020-07-29T15:50:48.199Z
+date: 2020-08-07T00:00:17.126Z
 tags: reference, database, curated
 editor: markdown
 ---
@@ -19,13 +19,13 @@ editor: markdown
 - [MassBank *MassBank*](http://www.massbank.jp/Index)
  {.links-list}
 
-## Ease of Use
-
-- If users have a chemical compound of interest the site is easy to use. 
-
 ## User Notes
 
 - Users can perform spectral searches using a variety of input types, but using the InChIKey of a chemical substance gives the most comprehesive results. 
+
+## Ease of Use
+
+- If users have a chemical compound of interest the site is easy to use. 
 
 ## Help
 
