@@ -2,7 +2,7 @@
 title: MolView
 description: MolView is mainly intended as web-based data visualization platform. 
 published: true
-date: 2020-07-24T17:58:29.181Z
+date: 2020-08-07T17:14:46.531Z
 tags: tool, data visualization, model, modeling
 editor: markdown
 ---
@@ -23,7 +23,8 @@ editor: markdown
 - Has compatibility with touch devices
 
 ## Ease of use
-> This is a great interactive tool for drawing and visualizing molecular structures. The intuitive interface and touch device compatibility make it easy to approach and fun to use. 
+
+This is a great interactive tool for drawing and visualizing molecular structures. The intuitive interface and touch device compatibility make it easy to approach and fun to use. 
 
 
 ## Citation
