@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-08-07T19:46:41.611Z
+date: 2020-08-07T20:22:20.856Z
 tags: category
 editor: markdown
 ---
@@ -90,6 +90,7 @@ editor: markdown
 - [GraPhlAn *Tool that produces high-quality, compact visualizations of microbial genomes*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/GraPhlAn)
 - [:star: iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 - [:star: Phylo.io *Visualising and comparing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/Phylo-io)
+- [Phandango *Interactive viewer for bacterial population genomics*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Phandango)
 {.links-list}
 
 ## Venn Diagram Tools
