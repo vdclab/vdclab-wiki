@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T19:43:40.327Z
+date: 2020-08-07T19:52:32.793Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -195,6 +195,11 @@ editor: markdown
 
 - [AnnoTree *Visualization of genome annotations across large phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/phylogenetic-distribution/AnnoTree)
 - [OrthoInspector *Inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/phylogenetic-distribution/OrthoInspector/)
+{.links-list}
+
+## Visualizing Tree
+
+- [Lifemap *Tool allowing the exploration of a complete representation of the Tree of Life*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Lifemap)
 {.links-list}
 
 # Platform
