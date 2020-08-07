@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-08-07T01:10:19.066Z
+date: 2020-08-07T01:11:36.805Z
 tags: category
 editor: markdown
 ---
@@ -193,6 +193,7 @@ editor: markdown
 - [NONCODE *Integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs)*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/NONCODE)
 - [scRNASeqDB *Curated public single-cell gene expressing profiles for the wider research community*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/scRNASeqDB)
 - [:star: T-Psi-C *Allows you to search across all available tRNA sequences*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/T-Psi-C)
+- [:star: UCSC GtRNAdb *tRNAscan-SE analysis of complete genomes*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/UCSC-GtRNAdb)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
