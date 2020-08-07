@@ -2,7 +2,7 @@
 title: Scinapse
 description: Free academic search engine
 published: true
-date: 2020-07-29T19:46:26.990Z
+date: 2020-08-07T01:16:38.648Z
 tags: publisher affiliated, reference, tool, specialized search, data capture, text search, text-mining, database, resource, literature, curated, library
 editor: markdown
 ---
@@ -19,21 +19,22 @@ editor: markdown
 - [Scinapse *Main Page*](https://scinapse.io/)
  {.links-list}
 
- ## Ease of Use
- 
- - The search engine is very straight forward and produces impressive results for the most part. 
- ## User Notes
+## User Notes
  
 - Using this search engine provided access to full, publish-format transcripts dated for release up to 5 months in the future. (i.e. a July 2020 search found papers to be published in October 2020)
 - Users can generate citations from papers in their desired format.
 - Keyword searches result in more inclusive results than author searches.  Some authors have several profiles (under the exact same name) with different H-indexes, publications and affiliated universities. 
 
+## Ease of Use
  
- ## Help
+- The search engine is very straight forward and produces impressive results for the most part. 
  
- - [Scinapse Help *FACs*](https://www.notion.so/Frequently-Asked-Questions-4b4af58220aa4e00a4dabd998206325c)
- - [Scinapse Help *About/"White Paper" Documentation*](https://assets.pluto.network/Pluto_white_paper_v04_180719_1355_BSH.pdf)
- {.links-list}
- 
- ## Citation
- - No formal citation; © 2020 Pluto Inc. All rights reserved
+## Help
+
+- [Scinapse Help *FACs*](https://www.notion.so/Frequently-Asked-Questions-4b4af58220aa4e00a4dabd998206325c)
+- [Scinapse Help *About/"White Paper" Documentation*](https://assets.pluto.network/Pluto_white_paper_v04_180719_1355_BSH.pdf)
+{.links-list}
+
+## Citation
+
+No formal citation; © 2020 Pluto Inc. All rights reserved
