@@ -2,7 +2,7 @@
 title: SymbolHound
 description: SymbolHound is a search engine that doesn't ignore special characters. This means you can easily search for symbols like &, %, and π.
 published: true
-date: 2020-07-29T16:08:33.165Z
+date: 2020-08-07T00:02:19.044Z
 tags: tool, specialized search
 editor: markdown
 ---
@@ -19,14 +19,14 @@ editor: markdown
 - [SymbolHound *Main Page*](http://symbolhound.com/)
  {.links-list}
 
-## Ease of Use
-
-- This is a simple search engine and easy to use. 
-
 ## User Notes
 
 - This search engine is most useful for programmers or web designers. 
 - Advanced search options allow you to search within specific sites, for example, stackoverflow.
+
+## Ease of Use
+
+- This is a simple search engine and easy to use. 
 
 ## Help
 - [Frequently Asked Questions *FAQ Page*](http://symbolhound.com/faq.php)
