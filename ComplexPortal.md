@@ -2,7 +2,7 @@
 title: The Complex Portal
 description: The Complex Portal is a manually curated, encyclopaedic resource of macromolecular complexes from a number of key model organisms.
 published: true
-date: 2020-07-29T21:50:36.286Z
+date: 2020-08-07T15:16:39.615Z
 tags: resource, model organism, curated
 editor: markdown
 ---
@@ -23,12 +23,14 @@ editor: markdown
 
 
 ## Notes from the user
- 
+ - Unique protein interaction viewer that visualizes which portion of protein sequences interact with other proteins
+ - Uses several other databases to link pertinent data together in one place
 
 ## Ease of use
+> A very serviceable database for gene annotation with a unique interaction viewer for protein complexes. Users may have trouble finding their protein, the database is limited to model organisms.
 
 ## Help
-
+> There is no specific help section but there are example queries to help familiarize users with the database.
 
 ## Citation
 
