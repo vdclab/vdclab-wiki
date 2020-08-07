@@ -2,7 +2,7 @@
 title: PLAZA
 description: PLAZA is an access point for plant comparative genomics, centralizing genomic data produced by different genome sequencing initiatives.
 published: true
-date: 2020-07-30T16:32:27.725Z
+date: 2020-08-07T17:07:06.975Z
 tags: reference, resource reference, sequence analysis, comparative genomics, resource center, database, eukaryota, curated, toolbox, organism-specific, plant
 editor: markdown
 ---
@@ -21,19 +21,19 @@ editor: markdown
 - [PLAZA *Main Page*](https://bioinformatics.psb.ugent.be/plaza/)
  {.links-list}
 
-## Ease of Use
-
-- The site is well designed and easy to navigate. 
-
 ## User Notes
 
 - The site has a large number of comparative genomics tools that can be used to analyze plant genomes.  Many of the tools can also be used with prokaryotic and other eukaryotic genomes. 
+
+## Ease of Use
+
+The site is well designed and easy to navigate. 
 
 ## Help
 
 - [PLAZA Help *Navigation Table Tools*](https://bioinformatics.psb.ugent.be/plaza/documentation/intro_tutorial#navigation_table_tools)
 - [PLAZA Help *Tutorial*](https://bioinformatics.psb.ugent.be/plaza/documentation/tutorial)
-- [PLAZA Help *FACs*](https://bioinformatics.psb.ugent.be/plaza/documentation/faq)
+- [PLAZA Help *FAQs*](https://bioinformatics.psb.ugent.be/plaza/documentation/faq)
 - [PLAZA Help *Documentation*](https://bioinformatics.psb.ugent.be/plaza/documentation)
 {.links-list}
 
