@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T17:38:55.243Z
+date: 2020-08-07T19:26:31.476Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -141,6 +141,7 @@ editor: markdown
 - [FitnessBrowser *Browse thousands of genome-wide fitness experiments from diverse bacteria*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/FitnessBrowser)
 - [GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
 - [OGEE *Aims to enhance our understanding of the essentiality of genes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OGEE)
+- [VarSite *Aims to annotate known disease-associated variants in human genes with structural information*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/VarSite)
 {.links-list}
 
 ## Protein-Protein Interaction Databases
