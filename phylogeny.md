@@ -2,7 +2,7 @@
 title: Phylogeny
 description: List of the websites to do phylogeny
 published: true
-date: 2020-07-30T14:08:11.648Z
+date: 2020-08-07T19:43:18.244Z
 tags: 
 editor: markdown
 ---
@@ -23,6 +23,7 @@ editor: markdown
 - [MEGASoftware *Software for conducting statistical analysis of molecular evolution and for constructing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/MEGASoftware)
 - [:star: NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 - [:star: Simple Phylogeny *Provides access to phylogenetic tree generation methods from the ClustalW2*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Simple-Phylogeny)
+- [:star: TREND *Resource that can calculate gene neighborhoods*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/TREND)
 {.links-list}
 
 ## Phylogenetic Distribution Tools
