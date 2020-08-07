@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-08-06T15:24:58.537Z
+date: 2020-08-07T00:22:35.165Z
 tags: category
 editor: markdown
 ---
@@ -111,6 +111,7 @@ editor: markdown
 - [PHIDIAS *Data related to pathogen-host interactions for pathogens*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/PHIDIAS)
 - [:star: Pseudomonas Genome DB *Genome annotation and genome analysis data of Pseudomonas*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/Pseudomonas-Genome-DB)
 - [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
+- [SToPSdb *Sub-cellular Topology of Polypeptides in Streptomyces*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SToPSdb)
 - [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
 - [:star: TB Genomes Database *An integrated platform for Tuberculosis research*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TBDB)
 {.links-list}
