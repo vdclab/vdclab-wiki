@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T01:10:16.972Z
+date: 2020-08-07T01:11:32.853Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -157,6 +157,7 @@ editor: markdown
 
 - [GtRNAdb *tRNA database contains tRNA gene predictions made by the program tRNAscan-SE*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/GtRNAdb)
 - [T-Psi-C *Allows you to search across all available tRNA sequences*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/T-Psi-C)
+- [UCSC GtRNAdb *tRNAscan-SE analysis of complete genomes*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/UCSC-GtRNAdb)
 {.links-list}
 
 ## Unknown Gene/Enzyme Databases
