@@ -2,7 +2,7 @@
 title: ViennaRNA
 description: The ViennaRNA Package consists of a C code library and several stand-alone programs for the prediction and comparison of RNA secondary structures.
 published: true
-date: 2020-07-29T19:13:28.851Z
+date: 2020-08-07T01:14:05.510Z
 tags: tool, comparative genomics, data capture, rna, database, data visualization, prediction, model, computing, programming, binding, trna
 editor: markdown
 ---
@@ -21,14 +21,14 @@ editor: markdown
 - [ViennaRNA *Main Page*](https://www.tbi.univie.ac.at/RNA/)
 {.links-list}
 
-## Ease of Use
-
-- As the package must be downloaded and installed for use, ViennaRNA is easier to use with prior programming experience. The help tutorial provides very well written, detailed instructions simplifying use for those without prior experience.  
-
 ## User Notes
 
 - Users need to download and install the software for use. 
 - The package offers the ability to perform very thorough analyses of RNA molecules of interest. 
+
+## Ease of Use
+
+- As the package must be downloaded and installed for use, ViennaRNA is easier to use with prior programming experience. The help tutorial provides very well written, detailed instructions simplifying use for those without prior experience.  
 
 ## Help
 - [ViennaRNA Help *Tutorials*](https://www.tbi.univie.ac.at/RNA/tutorial/)
