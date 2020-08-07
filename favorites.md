@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-06T15:24:55.803Z
+date: 2020-08-07T00:28:48.880Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -78,6 +78,7 @@ editor: markdown
 - [Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
 - [neXtProt *Exploring the universe of human proteins*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/neXtProt)
+- [PomBase *Scientific resource for fission yeast*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/PomBase)
 - [Saccharomyces Genome Database *Comprehensive integrated biological information for the budding yeast S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SGD)
 - [SEEK *Computational gene co-expression search engine*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SEEK)
 - [SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
