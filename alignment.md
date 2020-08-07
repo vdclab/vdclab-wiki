@@ -2,7 +2,7 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-08-07T00:55:40.067Z
+date: 2020-08-07T00:55:51.415Z
 tags: category
 editor: markdown
 ---
@@ -26,10 +26,6 @@ editor: markdown
 
 - [ESPRESSO *T-COFFEE is also able to combine sequence information with protein structural information*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
-
-## Alignment tools
-
-
 
 ## Two Sequences Alignment
 
