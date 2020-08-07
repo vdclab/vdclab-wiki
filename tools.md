@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-08-07T01:15:57.117Z
+date: 2020-08-07T17:30:13.637Z
 tags: category
 editor: markdown
 ---
@@ -41,6 +41,7 @@ editor: markdown
 - [:star: ETviewer *Relative rank of functional and structural importance among protein homologs sequence positions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ETviewer)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [:star: Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
+- [IDDomainSpotter *Sequence-based approach to assess and visualize domain organisation*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/IDDomainSpotter)
 - [:star: MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
 - [:star: MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
