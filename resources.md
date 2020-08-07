@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-07T00:23:08.568Z
+date: 2020-08-07T00:34:16.985Z
 tags: category
 editor: markdown
 ---
@@ -62,6 +62,7 @@ editor: markdown
 - [:star: BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
 - [:star: EMBL-EBI *Services and tools, perform basic research and provide professional training in bioinformatics*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/EMBL-EBI)
 - [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
+- [:star: FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [MassBank *Official database of the Mass Spectrometry Society of Japan*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/MassBank)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
