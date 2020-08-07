@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-07T00:34:16.985Z
+date: 2020-08-07T01:18:04.004Z
 tags: category
 editor: markdown
 ---
@@ -74,6 +74,7 @@ editor: markdown
 - [re3data *Global registry of research data repositories that covers research data repositories*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/re3data)
 - [:star: RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 - [SAT *Web page describing various structural alignment tools and resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/SAT)
+- [Scinapse *Free academic search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Scinapse)
 - [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
 {.links-list}
