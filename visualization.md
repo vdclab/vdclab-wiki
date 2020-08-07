@@ -2,12 +2,17 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-08-07T17:14:30.225Z
+date: 2020-08-07T17:19:13.153Z
 tags: category
 editor: markdown
 ---
 
 # Visualization
+
+## Chemical Structure Visualization
+
+- [:star: MolView *Intended as web-based data visualization platform*](https://vdclab-wiki.herokuapp.com/en/visualization/chemical-structure/MolView)
+{.links-list}
 
 ## Data Visualization
 
