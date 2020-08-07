@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-08-06T15:10:27.281Z
+date: 2020-08-07T00:56:06.877Z
 tags: category
 editor: markdown
 ---
@@ -14,6 +14,7 @@ editor: markdown
 - [:star: Dotlet JS *Comparing sequences by the diagonal plot method*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Dotlet)
 - [Clustal Omega *MSA program that uses seeded guide trees and HMM profile-profile techniques*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA-ClustalOmega)
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+- [:star: GUIDANCE2 *Weighting, filtering or masking unreliably aligned positions in sequence alignments before subsequent analysis*](https://vdclab-wiki.herokuapp.com/en/alignment/editing/GUIDANCE2)
 - [LALIGN *Find multiple matching subsegments in two sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LALIGN)
 - [LAST *LAST finds similar regions between sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/LAST)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
