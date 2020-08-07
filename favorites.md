@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T01:11:32.853Z
+date: 2020-08-07T01:22:55.672Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -395,6 +395,7 @@ editor: markdown
 ## Computing & Programming
 
 - [Bioinformatics Club Bioinformatics Course *Regular expression for Biology*](/trainings-tutorials/computing-programming/Bioinformatics-Club-Bioinformatics-Course/)
+- [Biostars *Forum based on the Stack Exchange on problems of bioinformatic*](https://vdclab-wiki.herokuapp.com/en/trainings-tutorials/computing-programming/Biostars)
 {.links-list}
 
 ## Tutorials
