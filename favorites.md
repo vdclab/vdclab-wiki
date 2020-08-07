@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T01:22:55.672Z
+date: 2020-08-07T17:06:36.016Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -204,6 +204,11 @@ editor: markdown
 ## Integrated Prokaryotic Genome Analysis Platforms
 
 - [MicrobesOnline *An integrated portal for comparative and functional genomics*](https://vdclab-wiki.herokuapp.com/en/platform/integrated-prokaryotic-genome-analysis/MicrobesOnline)
+{.links-list}
+
+## Plant Comparative Genomic Tools
+
+- [PLAZA *Online platform for plant comparative genomics*](https://vdclab-wiki.herokuapp.com/en/platform/plant-comparative-genomic-tools/PLAZA)
 {.links-list}
 
 # Prediction
