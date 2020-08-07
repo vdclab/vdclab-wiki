@@ -2,7 +2,7 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-08-07T19:45:42.269Z
+date: 2020-08-07T19:46:41.611Z
 tags: category
 editor: markdown
 ---
@@ -23,6 +23,7 @@ editor: markdown
 - [:star: Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
 - [PCAGO *Analyzing your RNA-Seq read counts with principal component analysis (PCA)*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PCAGO)
 - [SeaView *Software to visualize alignment, create alignment and infer phylogeny*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/PRABI-Doua-SeaView)
+- [UpSet *Visualization technique for the quantitative analysis of sets*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/UpSet)
 {.links-list}
 
 ## Gene Neighborhood Figures Tools
