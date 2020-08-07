@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-07-24T16:02:32.738Z
+date: 2020-08-07T17:07:38.858Z
 tags: category
 editor: markdown
 ---
@@ -31,3 +31,7 @@ editor: markdown
 - [:star: MicrobesOnline *An integrated portal for comparative and functional genomics*](https://vdclab-wiki.herokuapp.com/en/platform/integrated-prokaryotic-genome-analysis/MicrobesOnline)
 {.links-list}
 
+## Plant Comparative Genomic Tools
+
+- [:star: PLAZA *Online platform for plant comparative genomics*](https://vdclab-wiki.herokuapp.com/en/platform/plant-comparative-genomic-tools/PLAZA)
+{.links-list}
