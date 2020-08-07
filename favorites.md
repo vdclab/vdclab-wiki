@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T00:42:00.185Z
+date: 2020-08-07T00:56:20.284Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -13,6 +13,11 @@ editor: markdown
 {.is-info}
 
 # Alignment
+
+## Editing Alignments 
+
+- [:star: GUIDANCE2 *Weighting, filtering or masking unreliably aligned positions in sequence alignments before subsequent analysis*](https://vdclab-wiki.herokuapp.com/en/alignment/editing/GUIDANCE2)
+{.links-list}
 
 ## Multiple Sequence Alignment
 
