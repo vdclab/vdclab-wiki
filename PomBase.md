@@ -2,7 +2,7 @@
 title: PomBase
 description: The scientific resource for fission yeast.
 published: true
-date: 2020-08-07T00:23:41.655Z
+date: 2020-08-07T00:23:51.095Z
 tags: reference, annotation, genome sets, sequence analysis, sequence alignment, fungi, phylogeny, genome browser, comparative genomics, data capture, homolog discovery, analysis tools, resource center, database, metabolism, gene, browser, data visualization, protein, model organism, data export, conservation, eukaryota, curated, phenotype, protein domain, interaction, toolbox, organism-specific
 editor: markdown
 ---
@@ -32,7 +32,7 @@ editor: markdown
 ## Help
 
 - [PomBase Help *Documentation*](https://www.pombase.org/documentation)
-- [PomBase Help *FACs*](https://www.pombase.org/faq)
+- [PomBase Help *FAQs*](https://www.pombase.org/faq)
 {.links-list}
 
 ## Citation
