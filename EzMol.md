@@ -2,7 +2,7 @@
 title: EzMol
 description: A web server wizard for the rapid visualisation and image production of protein and nucleic acid structures.
 published: true
-date: 2020-07-30T17:02:52.128Z
+date: 2020-08-07T17:07:28.991Z
 tags: annotation tools, tool, proteins, resource, data visualization, protein, data mapping, data export, structural analysis, residue, webserver
 editor: markdown
 ---
@@ -21,10 +21,6 @@ editor: markdown
 - [EzMol *Main Page*](http://www.sbg.bio.ic.ac.uk/~ezmol/)
  {.links-list}
 
-## Ease of Use
-
-- The tool is very easy to use. 
-
 ## User Notes
 
 - Users can choose from a large range of colors for background and residues. 
@@ -32,6 +28,10 @@ editor: markdown
 - When viewing the protein chain, users can view the amino acids at each position as well as the secondary structure. 
 - Rendered images can be exported as an image file or as a Chimera experimental instruction set.
 - Note from developers: "When saving from the Safari browser, the image will be flipped vertically."
+
+## Ease of Use
+
+The tool is very easy to use. 
 
 ## Help
 
