@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-08-07T00:39:52.622Z
+date: 2020-08-07T00:41:25.355Z
 tags: category
 editor: markdown
 ---
@@ -77,6 +77,7 @@ editor: markdown
 - [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
 - [:star: CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
 - [ChlamyNet Clusters *Exploration of gene co-expression network of Chlamydomonas transcriptome*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ChlamyNet-Clusters)
+- [:star: HumanMine *An integrated database of Homo sapiens genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/HumanMine)
 - [MaizeGDB *Focused on the crop plant and model organism Zea mays*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/MaizeGDB)
 - [:star: neXtProt *Exploring the universe of human proteins*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/neXtProt)
 - [:star: PomBase *Scientific resource for fission yeast*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/PomBase)
