@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T00:56:31.927Z
+date: 2020-08-07T00:57:05.569Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -22,6 +22,7 @@ editor: markdown
 ## Multiple Sequence Alignment
 
 - [EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
+- [MAFFT *Multiple alignment program for amino acid or nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MAFFT)
 - [MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
 - [T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
