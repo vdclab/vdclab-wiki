@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T17:19:09.733Z
+date: 2020-08-07T17:38:55.243Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -129,6 +129,7 @@ editor: markdown
 
 ## Ortholog Databases
 
+- [KofamKOALA *Assigns K numbers to the user's sequence data by HMMER/HMMSEARCH against KOfam*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/KofamKOALA)
 - [OrthoMCL *OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences*](https://vdclab-wiki.herokuapp.com/en/databases/ortholog/OrthoMCL)
 {.links-list}
 
