@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T00:34:12.297Z
+date: 2020-08-07T00:42:00.185Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -77,6 +77,7 @@ editor: markdown
 
 - [Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
+- [HumanMine *An integrated database of Homo sapiens genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/HumanMine)
 - [neXtProt *Exploring the universe of human proteins*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/neXtProt)
 - [PomBase *Scientific resource for fission yeast*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/PomBase)
 - [Saccharomyces Genome Database *Comprehensive integrated biological information for the budding yeast S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SGD)
