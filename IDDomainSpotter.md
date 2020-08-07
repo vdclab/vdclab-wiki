@@ -2,7 +2,7 @@
 title: IDDomainSpotter
 description: DDomainSpotter is a sequence-based approach to assess and visualize domain organisation in long intrinsically disordered proteins based on compositional biases. 
 published: true
-date: 2020-07-24T18:52:37.717Z
+date: 2020-08-07T17:27:50.466Z
 tags: sequence analysis, proteins, feature identification, data visualization, sequence
 editor: markdown
 ---
@@ -14,19 +14,20 @@ editor: markdown
 > Each feature consists of a specific combination of amino acids yielding a positive contribution and a combination of amino acids yielding a negative contribution. For each feature any combination of proteinogenic amino acids (or X for unusual or unnatural amino acids) can be used, making the approach highly flexible and customizable depending on the protein examined and the properties of choice.
 {.is-info}
 
- 
 
 ## Website 
 
 - [IDDomainSpotter *Main Page*](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/iddomainspotter/)
  {.links-list}
  
- ## Notes from the user
- - Users can score protein sequences with amino acid features chosen by the user
- - Scored protein sequences are visualized by a graph only
- 
- ## Ease of use
- > This tool is meant for identifying user selected amino acid motifs. Inputting amino acids is easy to do and the graph of the scores along the protien sequence is easy to understand.
+## Notes from the user
+
+- Users can score protein sequences with amino acid features chosen by the user
+- Scored protein sequences are visualized by a graph only
+
+## Ease of use
+
+This tool is meant for identifying user selected amino acid motifs. Inputting amino acids is easy to do and the graph of the scores along the protien sequence is easy to understand.
 
 ## Citation
 
