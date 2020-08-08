@@ -2,7 +2,7 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-07-02T22:18:16.485Z
+date: 2020-08-08T20:22:32.045Z
 tags: category
 editor: markdown
 ---
@@ -19,14 +19,14 @@ editor: markdown
 - [:star: ORFfinder *Searches for open reading frames (ORFs) in the DNA sequence you enter*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 {.links-list}
 
-### Eukaryotic Genome Annotation Pipelines
+## Eukaryotic Genome Annotation Pipelines
 
 - [:star: FungiDB *Fungus database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FungiDB/)
 - [FungiPath *Orthologous proteins in fungal genomes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/FUNGIpath/)
 - [PLEXdb *Plant Expression Database, integrating new and rapidly expanding gene expression profile data sets*](https://vdclab-wiki.herokuapp.com/en/annotation/eukaryotic/PLEXdb)
 {.links-list}
 
-### Prokaryotic Genome Annotation Pipelines
+## Prokaryotic Genome Annotation Pipelines
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
 - [CuratedBLAST *Finds curated proteins whose descriptions match the query*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/CuratedBLAST/)
