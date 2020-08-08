@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-08-08T20:25:27.878Z
+date: 2020-08-08T20:25:32.423Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -36,7 +36,7 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 ## Annotation
 
-## Prokaryotic Genome Annotation Pipelines
+### Prokaryotic Genome Annotation Pipelines
 
 - [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 {.links-list}
