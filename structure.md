@@ -2,7 +2,7 @@
 title: Structure
 description: Website link to structure analysis
 published: true
-date: 2020-08-06T14:49:11.725Z
+date: 2020-08-08T20:13:59.684Z
 tags: category
 editor: markdown
 ---
@@ -47,6 +47,7 @@ editor: markdown
 ## Structure Visualization Platforms 
 
 - [:star: Aquaria *Allows for the visualization of protein structure of various proteins from numerous species*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Aquaria)
+- [:star: Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
 - [:star: iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 - [JET2 Viewer *Very large knowledge base containing JET2 predictions of protein binding sites*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/JET2-Viewer)
 - [:star: Phyre *Web-based services for protein structure prediction*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/Phyre)
