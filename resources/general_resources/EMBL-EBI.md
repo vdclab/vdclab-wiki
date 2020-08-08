@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-08-08T20:42:19.980Z
+date: 2020-08-08T20:42:53.581Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -58,7 +58,12 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 - [PDBe-KB *Community-driven resource managed by the PDBe team*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/PDBe-KB)
 {.links-list}
 
-## Microarray and RNAseq databases
+### General databases
+
+- [InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
+{.links-list}
+
+### Microarray and RNAseq databases
 
 - [ArrayExpress *Functional Genomics Data stores data from high-throughput functional genomics experiments*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ArrayExpress)
 {.links-list}
