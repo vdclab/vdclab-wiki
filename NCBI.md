@@ -2,7 +2,7 @@
 title: National Center for Biotechnology Information (NCBI)
 description: The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.
 published: true
-date: 2020-07-24T16:33:53.938Z
+date: 2020-08-08T20:20:28.150Z
 tags: resource center, database, publisher
 editor: markdown
 ---
@@ -28,19 +28,18 @@ editor: markdown
 
 Other name for this section could be used. Maybe `tools of the website` or `interesting features` or `Other NCBI wiki pages` or `Selected NCBI wiki pages` or `Useful NCBI sub pages`. Need some reflexion about it
 
-## Tools
+## Annotation
 
-### Analysis
-
-- [CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
-- [NCBI *Conserved Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
-{.links-list}
-
-### Annotation
+### General Annotation Pipeline
 
 - [ORFfinder *Searches for open reading frames (ORFs) in the DNA sequence you enter*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
+{.links-list}
+
+#### Prokaryotic Genome Annotation Pipelines
+
 - [NCBI *Prokaryotic Genome Annotation Pipeline*](https://vdclab-wiki.herokuapp.com/en/annotation/prokaryotic/NCBI-PGAP)
 {.links-list}
+
 
 ## Databases
 
@@ -50,6 +49,7 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 {.links-list}
 
 ### Prokaryotes
+
 - [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
@@ -75,14 +75,25 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 ## Structure
 
+## Structure Visualization Platforms
+
 - [Cn3D *Allows you to view 3-dimensional structures from NCBI's Entrez Structure database*](https://vdclab-wiki.herokuapp.com/en/visualization/structure_platform/Cn3D)
 - [iCn3D *Viewer for interactive viewing of three-dimensional macromolecular structures and chemicals*](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/iCn3D)
 {.links-list}
 
 ## Tools
 
+### Analysis
+
+- [CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
+- [NCBI *Conserved Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
+{.links-list}
+
+### Gene finders
+
 - [NCBI *BLAST on NCBI*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/BLAST)
 {.links-list}
+
 
 ## Tutorial
 
