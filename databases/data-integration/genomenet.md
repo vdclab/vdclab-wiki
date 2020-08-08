@@ -2,7 +2,7 @@
 title: GenomeNet
 description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-08-08T19:37:51.956Z
+date: 2020-08-08T19:38:36.366Z
 tags: genomics, genomes, genes, proteins
 editor: markdown
 ---
@@ -34,6 +34,13 @@ editor: markdown
 # GenomeNet pages related on the wiki
 
 Other name for this section could be used. Maybe `tools of the website` or `interesting features` or `Other GenomeNet wiki pages` or `Selected GenomeNet wiki pages` or `Useful GenomeNet sub pages`. Need some reflexion about it
+
+## Annotation
+
+### General Annotation Pipeline
+
+- [KEGG-Annotation *Database contains three main components for genome/metagenome annotation*](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/KEGG-Annotation)
+{.links-list}
 
 ## Databases
 
