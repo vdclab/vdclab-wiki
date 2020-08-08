@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-08-08T20:36:27.733Z
+date: 2020-08-08T20:37:36.308Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -52,7 +52,7 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 ## Databases
 
-## Protein-Protein Interaction Databases
+### Protein-Protein Interaction Databases
 
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
@@ -67,5 +67,12 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 ### Gene finders
 
-- [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+- [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+{.links-list}
+
+## Visualization
+
+### Tools to Make Figures
+
+- [iTOL *Online tool for the display, annotation and management of phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/iTOL)
 {.links-list}
