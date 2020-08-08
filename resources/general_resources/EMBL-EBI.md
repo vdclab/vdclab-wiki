@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-08-08T20:39:52.899Z
+date: 2020-08-08T20:40:25.528Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -61,6 +61,11 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
+{.links-list}
+
+## Omics Database
+
+- [EMBL-EBI MetaboLights *Database for submitting, browsing, and downloading metabolomics experiments*](https://vdclab-wiki.herokuapp.com/en/omics-data/omics-data/MetaboLights)
 {.links-list}
 
 ## Tools
