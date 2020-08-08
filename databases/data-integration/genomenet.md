@@ -2,7 +2,7 @@
 title: GenomeNet
 description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-08-08T19:42:20.428Z
+date: 2020-08-08T19:43:14.789Z
 tags: genomics, genomes, genes, proteins
 editor: markdown
 ---
@@ -43,6 +43,11 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 {.links-list}
 
 ## Databases
+
+### Databases Related To Enzymes And Pathways
+
+- [KEGG PATHWAY *Manually drawn pathway maps representing our knowledge on molecular interaction*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/KEGG-PATHWAY)
+{.links-list}
 
 ### Ortholog Databases
 
