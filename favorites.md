@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-08-07T19:52:32.793Z
+date: 2020-08-08T20:34:59.895Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -334,6 +334,7 @@ editor: markdown
 - [PSORTb *Precise bacterial localization prediction tool*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PSORTb)
 - [SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
+- [String *Protein-Protein Interaction Networks and Functional Enrichment Analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/String)
 - [SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
 - [TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
