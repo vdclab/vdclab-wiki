@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-08-08T20:37:36.308Z
+date: 2020-08-08T20:38:27.602Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -60,7 +60,7 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 
 ## Tools
 
-## Analysis Tools
+### Analysis Tools
 
 - [String *Protein-Protein Interaction Networks and Functional Enrichment Analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/String)
 {.links-list}
@@ -68,6 +68,11 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 ### Gene finders
 
 - [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
+{.links-list}
+
+### Visualizing Pathways - No Data Mapping
+
+- [iPath *Web-based tool for the visualization, analysis and customization of various pathway maps*](https://vdclab-wiki.herokuapp.com/en/tools/visualizing-pathways/iPath)
 {.links-list}
 
 ## Visualization
