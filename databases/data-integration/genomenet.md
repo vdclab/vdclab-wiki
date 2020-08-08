@@ -2,7 +2,7 @@
 title: GenomeNet
 description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-08-08T19:43:14.789Z
+date: 2020-08-08T20:25:00.265Z
 tags: genomics, genomes, genes, proteins
 editor: markdown
 ---
@@ -60,6 +60,11 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 ### Database Linker
 
 - [LinkDB *database of links*](https://vdclab-wiki.herokuapp.com/en/tools/database-linker/LinkDB)
+{.links-list}
+
+## Gene finders
+
+- [:star: BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
 {.links-list}
 
 ### Visualizing Pathways - Mapping Data To Pathways
