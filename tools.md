@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-08-07T19:34:13.986Z
+date: 2020-08-08T19:42:34.468Z
 tags: category
 editor: markdown
 ---
@@ -175,7 +175,7 @@ editor: markdown
 - [:star: Phylo.io *Visualising and comparing phylogenetic trees*](https://vdclab-wiki.herokuapp.com/en/visualization/tools-to-make-figures/Phylo-io)
 {.links-list}
 
-## Visualizing Pathways (No Data Mapping)
+## Visualizing Pathways - No Data Mapping
 
 - [iPath *Web-based tool for the visualization, analysis and customization of various pathway maps*](https://vdclab-wiki.herokuapp.com/en/tools/visualizing-pathways/iPath)
 {.links-list}
