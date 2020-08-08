@@ -2,8 +2,9 @@
 title: String
 description: Protein-Protein Interaction Networks and Functional Enrichment Analysis
 published: true
-date: 2020-05-14T11:11:14.230Z
+date: 2020-08-08T20:26:44.942Z
 tags: annotation, archaea, bacteria, tool, cog, functional association, data capture, homolog discovery, analysis tools, database, literature, homology, co-expression, data visualization, prediction, protein, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction, protein-protein
+editor: markdown
 ---
 
 # STRING
@@ -11,10 +12,11 @@ tags: annotation, archaea, bacteria, tool, cog, functional association, data cap
 > STRING is a database of known and predicted protein-protein interactions. The interactions include direct (physical) and indirect (functional) associations; they stem from computational prediction, from knowledge transfer between organisms, and from interactions aggregated from other (primary) databases. STRING data is derived from 5 main sources: Genomic context predictions, High-throughput lab experiments, Conserved co-expression, Automated textmining, previously published knowledge in databases.
 {.is-info}
 
-## Ease of Use
+## Website
 
-> This website can be used very quickly and easily to gather a wide range of information.
-{.is-info}
+- [STRING *Main Page*](http://string.embl.de/)
+- [STRING Help *Help Page*](https://string-db.org/cgi/help.pl?sessionId=UUAtCeLj4DQr)
+{.links-list}
 
 ## User Notes
 
@@ -24,11 +26,10 @@ tags: annotation, archaea, bacteria, tool, cog, functional association, data cap
 - The default view of your search is of the interaction network but much more information can be gathered by switching your viewer, clicking on nodes and edges, exploring the "Legend" and "Analysis" tabs, etc (see "STICH Help" page).
 - Beware of paralogs, all functional associations of a family are lumped together.
 
-## Website
+## Ease of Use
 
-- [STRING *Main Page*](http://string.embl.de/)
-- [STRING Help *Help Page*](https://string-db.org/cgi/help.pl?sessionId=UUAtCeLj4DQr)
-{.links-list}
+This website can be used very quickly and easily to gather a wide range of information.
+{.is-info}
 
 ## Citations
 
