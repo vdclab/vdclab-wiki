@@ -2,7 +2,7 @@
 title: String
 description: Protein-Protein Interaction Networks and Functional Enrichment Analysis
 published: true
-date: 2020-08-08T20:27:31.881Z
+date: 2020-08-08T20:27:45.406Z
 tags: annotation, archaea, bacteria, tool, cog, functional association, data capture, homolog discovery, analysis tools, database, literature, homology, co-expression, data visualization, prediction, protein, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction, protein-protein
 editor: markdown
 ---
@@ -15,7 +15,6 @@ editor: markdown
 ## Website
 
 - [STRING *Main Page*](http://string.embl.de/)
-- [STRING Help *Help Page*](https://string-db.org/cgi/help.pl?sessionId=UUAtCeLj4DQr)
 {.links-list}
 
 ## User Notes
@@ -29,6 +28,11 @@ editor: markdown
 ## Ease of Use
 
 This website can be used very quickly and easily to gather a wide range of information.
+
+## Help
+
+- [STRING Help *Help Page*](https://string-db.org/cgi/help.pl?sessionId=UUAtCeLj4DQr)
+{.links-list}
 
 ## Citations
 
