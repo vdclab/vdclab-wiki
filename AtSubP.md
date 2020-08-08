@@ -2,14 +2,14 @@
 title: AtSubP
 description: AtSubP: the Arabidopsis Subcellular Localization Prediction Server   
 published: true
-date: 2020-07-01T14:56:31.326Z
-tags: prediction, model organism
+date: 2020-08-08T20:51:28.851Z
+tags: tool, prediction, model organism, eukaryota, organism-specific, localization
 editor: markdown
 ---
 
 # AtSubP
 
-> AtSubP (for Arabidopsis subcellular localization predictor) is based on the combinatorial presence of diverse protein features, such as its amino acid composition, sequence-order effects, terminal information, Position-Specific Scoring Matrix, and similarity search-based Position-Specific Iterated-Basic Local Alignment Search Tool information.
+> AtSubP (for Arabidopsis subcellular localization predictor) is based on the combinatorial presence of diverse protein features, such as its amino acid composition, sequence-order effects, terminal information, Position-Specific Scoring Matrix, and similarity search-based Position-Specific Iterated-Basic Local Alignment Search Tool information (PSI-BLAST).
 {.is-info}
 
  
@@ -20,8 +20,13 @@ editor: markdown
  {.links-list}
 
 
+## Ease of Use
 
+- The website is straight forward and easy to use.
 
+## User Notes
+
+- When given a list of Arabidopsis protein sequences in fasta format, the tool predicts cellular location based on users chosen predtion module. 
 
 ## Help
 
