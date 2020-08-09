@@ -2,7 +2,7 @@
 title: STRING
 description: Protein-Protein Interaction Networks and Functional Enrichment Analysis
 published: true
-date: 2020-08-09T20:30:39.972Z
+date: 2020-08-09T20:31:31.639Z
 tags: annotation, archaea, bacteria, tool, cog, functional association, data capture, homolog discovery, analysis tools, database, literature, homology, co-expression, data visualization, prediction, protein, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction, protein-protein
 editor: markdown
 ---
