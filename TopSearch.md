@@ -2,8 +2,8 @@
 title: TopSearch
 description: TopSearch is a new powerful gateway to protein structures and their structural relationships.
 published: true
-date: 2020-07-29T15:11:13.924Z
-tags: tool, proteins, structural analysis
+date: 2020-08-09T19:41:45.984Z
+tags: tool, proteins, analysis tools, structural analysis
 editor: markdown
 ---
 
@@ -21,11 +21,12 @@ editor: markdown
 - [TopSearch *Main Page*](https://topsearch.services.came.sbg.ac.at/)
  {.links-list}
 
-## Notes from the user
-
+## User Notes
+- If page does not load properly, you may have to simply reload the page and re-enter your query, or try using a different browser
+- Great for quick visualization and comparison of protein crystal structures available in PDB (Protein Data Bank) (TopSearch -> select structures to show; TopMatch -> select structures to compare/align/superimpose)
  
-## Ease of use
-
+## Ease of Use
+The help page (below) is highly recommended for those new to the tool, as it provides a step-by-step guide on how to use its basic features; difficult to use for some browsers due to production limitations on part of the creative team.
 
 ## Help
 
