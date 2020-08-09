@@ -1,8 +1,8 @@
 ---
-title: Stitch
+title: STITCH
 description: Chemical-Protein Interaction Networks
 published: true
-date: 2020-08-08T20:35:36.369Z
+date: 2020-08-09T20:31:54.099Z
 tags: annotation, archaea, bacteria, proteins, cog, comparative genomics, data capture, homolog discovery, database, homology, co-expression, data visualization, prediction, clustering, protein family, co-occurrence, data export, eukaryota, curated, network, protein domain, binding, interaction
 editor: markdown
 ---
