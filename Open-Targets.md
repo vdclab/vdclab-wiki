@@ -2,8 +2,8 @@
 title: Open Targets Platform
 description:  Open Targets Platform is a comprehensive and robust data integration resource for access and visualization of drug targets associated with diseases. 
 published: true
-date: 2020-07-29T15:17:01.665Z
-tags: tool, functional association
+date: 2020-08-09T20:25:40.078Z
+tags: aggregator, tool, functional association, database, data visualization, model organism, organism-specific, functional annotation
 editor: markdown
 ---
 
@@ -20,9 +20,15 @@ editor: markdown
  {.links-list}
 
 
-## Notes from the user
+## User Notes
+- Most useful for genes/proteins with human homologs (of high disease relevance)
+- Allows for easy search, browse and even the visualization of target-disease relationships
+- It should be noted that figures/diagrams for entries are generated through queries of data maintained within the [Ensembl](https://useast.ensembl.org/index.html) and [Reactome](https://reactome.org) databases (relationships of these data are viewable through right click of a diagram as shown in your browser window and selection of "inspect" in the resultant dropdown menu; these objects are defined and links to data sources are listed within their respective containers)
  
-## Ease of use
+## Ease of Use
+- Very straight forward, easy-to-use/user-friendly
+- Short/swift load times, mininal lag between tabs of entries, even those featuring visualizations of data
+- Permits REST API access (data mining, computational, queries)
 
 ## Help
 
