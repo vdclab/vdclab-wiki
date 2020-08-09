@@ -2,7 +2,7 @@
 title: Protein Ontology
 description: PRO provides an ontological representation of protein-related entities by explicitly defining them and showing the relationships between them. 
 published: true
-date: 2020-08-09T20:10:09.735Z
+date: 2020-08-09T20:10:48.944Z
 tags: aggregator, annotation, proteins, data capture, database, data mapping, protein-protein, ontology
 editor: markdown
 ---
@@ -24,8 +24,8 @@ editor: markdown
 
 
 ## User Notes
-- This resource is particularly notable in that it utilizes and maintains entries of protein entities through permalinks (OBO Foundry Permanent URLs); see [the Open Biological and Biomedical Ontologies Foundry GitHub page](https://github.com/OBOFoundry) and the breakdown of this effort, [also on GitHub](https://github.com/OBOFoundry/purl.obolibrary.org/)
-- Browse and search features are useful for examining Gene Ontology as it is applied across databases/resources; caution is advised in that it should always be considered how applicable these characterizations are for a specific protein/gene, organism or study system.
+- This resource is particularly notable in that it utilizes and maintains entries of protein-related entities through dedicated permalinks (OBO Foundry Permanent URLs); see [the Open Biological and Biomedical Ontologies Foundry GitHub page](https://github.com/OBOFoundry) and the breakdown of this effort, [also on GitHub](https://github.com/OBOFoundry/purl.obolibrary.org/)
+- Browse and search features are useful for examining Gene Ontology as it is applied across databases/resources; caution is advised in that it should always be considered how applicable these characterizations are for a specific protein/gene, organism or study system
  
 ## Ease of Use
 - Updated regularly in a highly transparent fashion
