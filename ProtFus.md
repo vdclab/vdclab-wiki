@@ -2,7 +2,7 @@
 title: ProtFus
 description: ProtFus is a resource that has information about fusion proteins and their interactions, based on a text mining approach.
 published: true
-date: 2020-08-09T18:34:21.691Z
+date: 2020-08-09T19:31:08.973Z
 tags: proteins, text-mining, resource center, interaction, protein-protein
 editor: markdown
 ---
@@ -27,7 +27,7 @@ editor: markdown
 - most helpful for human-centered research
  
 ## Ease of Use
-A basic understanding of text-mining principles is helpful for use of their services and exportable datasets. The general format is relatively simple, but this and similar tools are seldom appropriate for novice users.
+A basic understanding of text-mining principles is helpful for use of their services and exportable datasets. The general format is relatively simple, but this and similar tools are seldom appropriate for novice users. The help page is recommended for those unfamiliar with the website or text-mining methods.
 
 ## Help
 
