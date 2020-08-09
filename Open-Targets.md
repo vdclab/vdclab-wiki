@@ -2,7 +2,7 @@
 title: Open Targets Platform
 description:  Open Targets Platform is a comprehensive and robust data integration resource for access and visualization of drug targets associated with diseases. 
 published: true
-date: 2020-08-09T20:25:40.078Z
+date: 2020-08-09T20:28:29.501Z
 tags: aggregator, tool, functional association, database, data visualization, model organism, organism-specific, functional annotation
 editor: markdown
 ---
