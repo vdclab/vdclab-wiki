@@ -2,8 +2,8 @@
 title: The Natural Products Atlas
 description: The Natural Products Atlas provides a unique tools for exploring natural products chemical space, offering perspective on the position that any molecule occupies.
 published: true
-date: 2020-07-29T15:11:50.726Z
-tags: aggregator, tool, resource center
+date: 2020-08-09T19:54:44.287Z
+tags: bacteria, tool, fungi, specialized search, resource center, database, metabolism
 editor: markdown
 ---
 
@@ -23,14 +23,17 @@ editor: markdown
 
 
 ## Notes from the user
-
+Excellent for finding information based upon a chemical structure or chemical names, alone, as it applies to bacterial or fungal biosynthesis of natural products, although familiarity with chemical and other nomenclatures may limit the accessibility or user-friendliness in some cases. 
  
 ## Ease of use
+- Relatively straight-forward, appealing user experience design
+- Data transparency is clearly a priority of this resource, as missing data is highlighted as a common question/problem/challenge and the site even makes it possible to select a particular database version for searching/browsing
+- May require some additional knowledge of chemical structures, producing organisms and/or their products to leverage the tools' optimum potential
 
-
-## Help
-
-
+## Tutorials
+- [Guided Tutorials of the Browser, Tools, and Overall Platform](https://www.npatlas.org/joomla/index.php/tutorials)
+ {.links-list}
+ 
 ## Citation 
 
 - Van Santen, J. A., Jacob, G., Singh, A. L., Aniebok, V., Balunas, M. J., Bunsko, D., ... & Cleary Little, J. L. (2019). [The natural products atlas: an open access knowledge base for microbial natural products discovery.](https://pubs.acs.org/doi/abs/10.1021/acscentsci.9b00806) ACS central science, 5(11), 1824-1833.
