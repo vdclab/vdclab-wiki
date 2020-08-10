@@ -2,7 +2,7 @@
 title: JGI (Joint Genome Institute)
 description: he mission of the U.S. Department of Energy (DOE) Joint Genome Institute (JGI) is to advance genomics in support of the DOE missions related to clean energy generation and environmental characterization and cleanup
 published: true
-date: 2020-08-10T17:50:40.084Z
+date: 2020-08-10T17:51:16.032Z
 tags: reference, genomics, genomes, database
 editor: markdown
 ---
@@ -32,6 +32,9 @@ Other name for this section could be used. Maybe `tools of the website` or `inte
 {.links-list}
 
 ### General databases 
+
+- [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal)
+{.links-list}
 
 #### Eukaryote databases
 
