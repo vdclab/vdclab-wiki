@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-07T01:18:04.004Z
+date: 2020-08-10T17:50:37.380Z
 tags: category
 editor: markdown
 ---
@@ -81,7 +81,7 @@ editor: markdown
 
 ## Homology
 
-- [:star: JGI-IMG-Phylogeny *Assess phylogenetic composition of a metagenome sample based*](https://vdclab-wiki.herokuapp.com/en/resources/homology/JGI-IMG-Phylogeny)
+- [:star: JGI-IMG - Phylogeny *Assess phylogenetic composition of a metagenome sample based*](https://vdclab-wiki.herokuapp.com/en/resources/homology/JGI-IMG-Phylogeny)
 - [:star: Genoscope Microscope Phyloprofile *Allows to search for common OR specific genes between genomes*](https://vdclab-wiki.herokuapp.com/en/resources/homology/Genoscope-Microscope-Phyloprofile)
 {.links-list}
 
