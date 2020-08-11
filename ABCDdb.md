@@ -2,7 +2,7 @@
 title: The ABCD (AntiBodies Chemically Defined) Database
 description: The ABCD database is a manually curated depository of sequenced antibodies.
 published: true
-date: 2020-08-11T14:55:39.455Z
+date: 2020-08-11T14:56:04.360Z
 tags: bacteria, data capture, resource center, eukaryota, localization
 editor: markdown
 ---
