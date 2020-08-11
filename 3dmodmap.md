@@ -2,8 +2,8 @@
 title: 3D Ribosomal Modification Maps Database
 description: A database of maps showing the sites of modified rRNA nucleotides in three-dimensional models.
 published: true
-date: 2020-08-11T18:27:09.436Z
-tags: rrna, database, modeling
+date: 2020-08-11T18:28:01.849Z
+tags: rrna, database, model organism, structural analysis, modeling
 editor: markdown
 ---
 
