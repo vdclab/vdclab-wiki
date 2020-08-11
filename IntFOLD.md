@@ -2,16 +2,14 @@
 title: IntFOLD
 description: IntFOLD is an integrated web resource for high performance protein structure and function prediction
 published: true
-date: 2020-07-30T18:55:03.217Z
-tags: resource, prediction, protein, function, structural analysis
+date: 2020-08-11T14:40:37.172Z
+tags: resource, prediction, protein, function, structural analysis, webserver
 editor: markdown
 ---
 
 # IntFOLD
 
-> Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
->
-> Plus if you need a blank line in the description you just put `>` and you have a blank line. 
+>The IntFOLD server provides a unified resource for the automated prediction of: protein tertiary structures with built-in estimates of model accuracy (EMA), protein structural domain boundaries, natively unstructured or disordered regions in proteins, and protein–ligand interactions. The component methods have been independently evaluated via the successive blind CASP experiments and the continual CAMEO benchmarking project. The IntFOLD server has established its ranking as one of the best performing publicly available servers, based on independent official evaluation metrics
 {.is-info}
 
  
@@ -23,9 +21,11 @@ editor: markdown
 
 
 ## Notes from the user
-
- 
-## Ease of use
+- Many prediction models provided on page
+	- short descriptions of each service and output are provided 
+- Updated news is kept on page, easy to see recent changes 
+- Requires only single letter sequence for input 
+	- Can provide email as jobs may take 24-72 hours 
 
 
 ## Help
