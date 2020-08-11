@@ -2,8 +2,9 @@
 title: 3D Ribosomal Modification Maps Database
 description: A database of maps showing the sites of modified rRNA nucleotides in three-dimensional models.
 published: true
-date: 2020-06-04T16:44:59.995Z
+date: 2020-08-11T18:27:09.436Z
 tags: rrna, database, modeling
+editor: markdown
 ---
 
 # 3D Ribosomal Modification Maps Database
@@ -19,6 +20,12 @@ tags: rrna, database, modeling
 
 - [3D Ribosomal Modification Maps Database *Main Page*](https://people.biochem.umass.edu/fournierlab/3dmodmap/main.php)
  {.links-list}
+
+## Notes from User
+- Easy to search 
+- Full 3D model takes a while to load 
+- Can view modifications at 2D/3D/sequence level
+- 6 model organisms included 
 
 ## Citation 
 
