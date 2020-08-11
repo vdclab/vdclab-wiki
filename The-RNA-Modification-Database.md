@@ -2,8 +2,9 @@
 title: The RNA Modification Database
 description: The RNA modification database provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained as an updated version of the initial printed report.
 published: true
-date: 2020-06-04T16:49:36.016Z
-tags: rna, database
+date: 2020-08-11T19:20:02.117Z
+tags: archaea, bacteria, rrna, rna, database, eukaryota, trna, mrna
+editor: markdown
 ---
 
 # The RNA Modification Database
@@ -17,6 +18,12 @@ tags: rna, database
 
 - [The RNA Modification Database *Main Page*](https://mods.rna.albany.edu/home)
  {.links-list}
+ 
+## Notes from User
+- Easy to search
+- Can quickly view modifications, phylogenetic presence and which RNAs they are present on
+- Good way to find links to structure, synthesis
+- Helpful comments on modifications, past nomenclature, presence
 
 ## Citations
 
