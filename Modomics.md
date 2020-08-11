@@ -2,8 +2,9 @@
 title: Modomics
 description: MODOMICS is a database of RNA modifications that provides comprehensive information concerning the chemical structures of modified ribonucleosides, their biosynthetic pathways, the location of modified residues in RNA sequences, and RNA modifying enzymes.
 published: true
-date: 2020-05-26T16:30:25.126Z
-tags: rna, database
+date: 2020-08-11T20:00:41.370Z
+tags: archaea, bacteria, rrna, rna, database, mrna, eukaryota, trna
+editor: markdown
 ---
 
 # Modomics
@@ -17,6 +18,12 @@ tags: rna, database
 
 - [Modomics *Main Page*](https://iimcb.genesilico.pl/modomics/)
  {.links-list}
+
+## Notes from User
+-  Easy to use
+- Provides comprehensive information on modifications
+- Good for modification pathways and reactions as well
+
 
 ## Citation 
 
