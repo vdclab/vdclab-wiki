@@ -2,8 +2,8 @@
 title: nf-core
 description: A community effort to collect a curated set of analysis pipelines built using Nextflow.
 published: true
-date: 2020-08-13T17:00:09.645Z
-tags: community, curated, analysis tool
+date: 2020-08-13T18:06:16.815Z
+tags: community, curated, computational biology, analysis tool
 editor: markdown
 ---
 
