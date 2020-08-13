@@ -2,7 +2,7 @@
 title: iPTMnet
 description: iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.
 published: true
-date: 2020-08-13T14:37:34.951Z
+date: 2020-08-13T14:38:40.480Z
 tags: sequence alignment, data capture, text-mining, database, resource, bioinformatics, fitness, browser, data visualization, protein, structural alignment, mapping, conservation, eukaryota, curated, phenotype, binding, interaction, protein-protein, networks, regulation, epigenetic, residue, mutant
 editor: markdown
 ---
@@ -28,6 +28,7 @@ editor: markdown
 - The website contains information on Eukaryotic proteins only. 
 - The website provides an interactive Cytoscape view for proteins and their modifications. 
 - Users can find information about disease and/or phenotypic evidence linked to mutations in post-translationally modified protein residues.
+- Users can model how proteins interact with and without their PTMs.
 
 ## Ease of use
 
