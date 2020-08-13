@@ -2,8 +2,8 @@
 title: TOPDB
 description: TOPDB: Topology Database of Transmembrane Proteins
 published: true
-date: 2020-08-13T18:24:27.726Z
-tags: proteins, database
+date: 2020-08-13T18:28:23.815Z
+tags: proteins, database, structural analysis
 editor: markdown
 ---
 
@@ -20,10 +20,10 @@ editor: markdown
 
 
 ## User Notes
- 
+Useful for localization analyses or similar plausibilities; limited only by the resources from which it curates.
 
 ## Ease of Use
-
+Relatively easy to use, but requires input of IDs relevant to their database as it is curated.
 
 ## Help
 - [Webserver Documents](http://topdb.enzim.hu/?m=docs&&mid=1)
