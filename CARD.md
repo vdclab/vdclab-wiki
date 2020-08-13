@@ -2,8 +2,8 @@
 title: The Comprehensive Antibiotic Resistance Database (CARD)
 description: A bioinformatic database of resistance genes, their products and associated phenotypes.
 published: true
-date: 2020-07-29T21:47:49.107Z
-tags: genes, database, bioinformatics, phenotype
+date: 2020-08-13T16:48:04.169Z
+tags: tool, genes, comparative genomics, functional association, data capture, database, gene, browser, protein, data export, phenotype, correlation, analysis tool
 editor: markdown
 ---
 
@@ -14,6 +14,8 @@ editor: markdown
 > These data can be browsed on the website or downloaded in a number of formats. These data are additionally associated with detection models, in the form of curated homology cut-offs and SNP maps, for prediction of resistome from molecular sequences. These models can be downloaded or can be used for analysis of genome sequences using the Resistance Gene Identifier ("RGI"), either online or as a stand-alone tool. 
 {.is-info}
  
+> The developers ask that materials obtained via the site and software are not modified and their source be identified as McMaster University.
+{.is-warning}
 
 ## Website 
 
@@ -23,12 +25,20 @@ editor: markdown
 
 ## Notes from the user
  
+- Users can analyze a gene or protein of interest to determine whether it would be predicted to play a role in antimicrobial resistance.
+- Browsing data takes users through various ontology classes and offers additional information. 
+- The Resistance Gene Identifier software is available for download  via Conda.
+- The developers ask that materials obtained via the site and software are not modified and their source be identified as McMaster University.
 
 ## Ease of use
 
+- The database is easy to use. 
 
 ## Help
 
+- [CARD Help *About Page*](https://card.mcmaster.ca/about)
+- [CARD Help *GitHub FACs*](https://github.com/arpcard/FAQ)
+{.links-list}
 
 ## Citation 
 
