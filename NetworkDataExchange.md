@@ -2,8 +2,8 @@
 title: Network Data Exchange
 description: The NDEx Project provides an open-source framework where scientists and organizations can share, store, manipulate, and publish biological network knowledge.
 published: true
-date: 2020-08-13T19:43:47.328Z
-tags: community, genes, proteins, database, data visualization, networks
+date: 2020-08-13T19:46:34.120Z
+tags: community, genes, proteins, database, data visualization, interaction, networks
 editor: markdown
 ---
 
