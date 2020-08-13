@@ -2,8 +2,8 @@
 title: OncoMX
 description: OncoMX: A Knowledgebase for Exploring Cancer Biomarkers in the Context of Related Cancer and Healthy Data
 published: true
-date: 2020-07-29T20:28:02.157Z
-tags: resource, mutant
+date: 2020-08-13T15:18:33.602Z
+tags: comparative genomics, data capture, dna, database, resource, bioinformatics, gene, browser, data visualization, protein, data export, eukaryota, curated, phenotype, organism-specific, mutant
 editor: markdown
 ---
 
@@ -11,7 +11,7 @@ editor: markdown
 
 > OncoMX is an integrated cancer mutation and expression resource for exploring cancer biomarkers alongside related experimental data and functional information.
 >
-> Here, a user can explore cancer data from various perspectives: for example, the biomarker vizualization enables a a user to see all attributes related to any biomarker annotations for a gene of interest.
+> Here, a user can explore cancer data from various perspectives: for example, the biomarker vizualization enables a user to see all attributes related to any biomarker annotations for a gene of interest.
 {.is-info}
 
  
@@ -23,9 +23,13 @@ editor: markdown
 
 
 ## Notes from the user
- 
+
+- This database has the more equally distributed data between both normal and tumor tissue samples compared to most cancer-specific databases.  This could be helpful for producing meaningful preditions about cause-effect. 
+
  
 ## Ease of use
+
+- The website is well-designed and easy to use. 
 
 ## Help
 
