@@ -2,7 +2,7 @@
 title: 3DComplex
 description: A webserver to browse protein complexes of known 3D Structure.
 published: true
-date: 2020-08-13T19:00:05.792Z
+date: 2020-08-13T19:02:00.455Z
 tags: proteins, browser, webserver
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 
 
 ## User Notes
- Very useful tool for examining configurations of protein complexes that are well-published. Similarly to most tools of this kind, the usefulness and accuracy of this site is largely dependent upon the resources from which it curates and synthesizes information; that is, this resource is limited by what can be sourced and examined from PDB, it's primary data source.
+Useful tool for examining configurations of protein complexes for which contributing protein structures are published and readily available. Similarly to most tools of this kind, the usefulness and accuracy of this site is largely dependent upon the resources from which it curates and synthesizes information; that is, this resource is limited by what can be sourced and examined from data available through PDB, it's primary data source.
  
 ## Ease of Use
 Difficult to use for those with novice familiarity with quaternary protein structures and macromolecular complex configurations, largely due to the options/drop-downs necessary to perform queries. For less-experienced users, it is recommended that the Browser be used instead of the Search tool for best results. Note that "QS" is an acronym used to stand for "quaternary structure" (this term and acronym are only connected upon indirect reference through definition of a related term in a subsection of the "About" page called "The PDB Biological Subunit").
