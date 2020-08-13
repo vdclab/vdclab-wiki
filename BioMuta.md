@@ -2,8 +2,8 @@
 title: BioMuta
 description: BioMuta is a single-nucleotide variation (SNV) and disease association database where variations are mapped to genomes and RefSeq nucleotide entries, and unified through UniProtKB/Swiss-Prot positional coordinates.
 published: true
-date: 2020-07-29T20:26:50.113Z
-tags: genomes, database
+date: 2020-08-13T15:01:14.990Z
+tags: genomes, proteins, data capture, database, resource, browser, data visualization, data export, eukaryota, curated, phenotype, mutant
 editor: markdown
 ---
 
@@ -11,7 +11,7 @@ editor: markdown
 
 >  BioMuta is an integrated sequence feature database, provides a framework for automated and manual curation and integration of cancer-related sequence features so that they can be used in NGS analysis pipelines. Sequence feature information in BioMuta is collected from the Catalogue of Somatic Mutations in Cancer (COSMIC), ClinVar, UniProtKB and through biocuration of information available from publications.
 >
-> Currently, BioMuta has 26 cancer types with 13 896 small-scale and 308 986 large-scale study-derived variations. Integration of variation data allows identifications of novel or common nsSNVs that can be prioritized in validation studies.
+> Currently, BioMuta has 26 cancer types with 13,896 small-scale and 308,986 large-scale study-derived variations. Integration of variation data allows identifications of novel or common nsSNVs that can be prioritized in validation studies.
 {.is-info}
 
  
@@ -24,12 +24,19 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- There is no formal help page for using this database, but the site itself is easy to navigate. 
+- Creating a HIVE Lab (High-performance Integrated Virtual Environment) account gives access to more tools and features. 
+- Users can search for specific human genes to explore SNPs associated with different types of cancer. 
+- Users can also explore a specific type of cancer cell to search for common snSNVs.
+
 ## Ease of use
 
+- The website is straight forward and easy to navigate, but provides no formal help page or tutorials. Users may need to explore the site to uncover additional capabilities. 
 
 ## Help
 
+- [BioButa Help *High-performace Integrated Virtual Environment (HIVE Lab) Registration Help*](https://hive.biochemistry.gwu.edu/sitehelp)
+{.links-list}
 
 ## Citations
 
