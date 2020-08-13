@@ -2,7 +2,7 @@
 title: Phylemon 2
 description: Phylemon 2: molecular evolution, phylogenetics, phylogenomics, and hypothesis testing.
 published: true
-date: 2020-08-11T15:53:15.623Z
+date: 2020-08-13T18:28:51.996Z
 tags: phylogeny, evolution
 editor: markdown
 ---
@@ -25,15 +25,11 @@ editor: markdown
 
 
 ## Notes from the user
- 
- - All in bullet points
- - What are the main features of the website.
+
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
