@@ -2,7 +2,7 @@
 title: nf-core
 description: A community effort to collect a curated set of analysis pipelines built using Nextflow.
 published: true
-date: 2020-07-29T21:48:53.380Z
+date: 2020-08-13T17:00:09.645Z
 tags: community, curated, analysis tool
 editor: markdown
 ---
@@ -21,13 +21,16 @@ editor: markdown
 
 
 ## Notes from the user
+ - A collection of tools that users can help to build and develop
+ - Workflows are available for wide varieties of data
+ - Lots of downloadable content for power users
  
 
 ## Ease of use
-
+> The tools available on this platform will be a challenge for users who are not familiar with coding. The workflows are meant to be used with advanced computational tools and large datasets. 
 
 ## Help
-
+> There is a comprehensive help page available for users to familiarize them with Next Flow and NF-core.
 
 
 ## Citations 
