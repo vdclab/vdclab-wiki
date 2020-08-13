@@ -2,8 +2,8 @@
 title: iPTMnet
 description: iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.
 published: true
-date: 2020-07-29T15:25:34.434Z
-tags: resource, bioinformatics, protein
+date: 2020-08-13T14:37:34.951Z
+tags: sequence alignment, data capture, text-mining, database, resource, bioinformatics, fitness, browser, data visualization, protein, structural alignment, mapping, conservation, eukaryota, curated, phenotype, binding, interaction, protein-protein, networks, regulation, epigenetic, residue, mutant
 editor: markdown
 ---
 
@@ -11,7 +11,7 @@ editor: markdown
 
 > iPTMnet is a bioinformatics resource for integrated understanding of protein post-translational modifications (PTMs) in systems biology context.
 >
-> iPTMnet connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated cross-cutting research resource to address the knowledge gaps in exploring and discovering PTM networks.
+> iPTMnet connects multiple disparate bioinformatics tools and systems text mining, data mining, analysis and visualization tools, and databases and ontologies into an integrated research resource to address the knowledge gaps in exploring and discovering PTM networks.
 {.is-info}
 
  
@@ -24,9 +24,14 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- iPTMnet currently covers eight major PTM types of PTMs: phosphorylation, ubiquitination, acetylation, methylation, glycosylation, S-nitrosylation, sumoylation and myristoylation.
+- The website contains information on Eukaryotic proteins only. 
+- The website provides an interactive Cytoscape view for proteins and their modifications. 
+- Users can find information about disease and/or phenotypic evidence linked to mutations in post-translationally modified protein residues.
+
 ## Ease of use
 
+- The website is easy to use and the help guide is well-written and helpful.
 
 ## Help
 
