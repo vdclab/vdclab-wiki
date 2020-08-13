@@ -2,8 +2,8 @@
 title: BioXpress
 description: BioXpress is a gene/miRNA expression and disease association database with expression levels mapped to genes or miRNAs.
 published: true
-date: 2020-07-29T20:28:20.733Z
-tags: rna, database, gene expression
+date: 2020-08-13T15:31:12.505Z
+tags: comparative genomics, data capture, dna, rna, database, transcriptomics, resource, bioinformatics, gene, browser, data visualization, gene expression, data export, omics, eukaryota, organism-specific
 editor: markdown
 ---
 
@@ -21,15 +21,19 @@ editor: markdown
 
 
 ## Notes from the user
- 
+
+- There is no formal help page for this site, but it works through the High-performace Integrated Virtual Environment (HIVE) Lab repository.
+- Creating a HIVE Lab account gives user access to additional tools and resources. 
+- BioXpress searches are similar to those of OncoMX (also a HIVE Lab resource), but gives additional information and transcriptomic data. 
+- The HIVE Lab resources are complementary to one another. 
 
 ## Ease of use
 
+- The website is straight forward and easy to use, but has no formal help page.  Creating a HIVE Lab account would be useful for those focusing on cancer research. 
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+- [BioXpress Help *High-performance Integrated Virtual Environment (HIVE) Registration/Help*](https://hive.biochemistry.gwu.edu/sitehelp)
 {.links-list}
 
 
