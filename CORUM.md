@@ -2,8 +2,8 @@
 title: CORUM
 description: The comprehensive resource of mammalian protein complexes.
 published: true
-date: 2020-07-29T20:30:19.967Z
-tags: annotation, database, resource, protein
+date: 2020-08-13T17:59:38.759Z
+tags: annotation, database, resource, protein, model organism, organism-specific
 editor: markdown
 ---
 
@@ -20,11 +20,12 @@ editor: markdown
 {.links-list}
 
 
-## Notes from the user
+## User Notes
+- Less useful for microbial research unless strictly for comparative purposes when discusses conserved proteins
+- Visual appearance of the site may glitch (e.g., the header) for some browsers
 
-## Ease of use
-
-## Help
+## Ease of Use
+Relatively straightforward, but may require some knowledge of protein complexes prior to using the search tool or browser.
 
 ## Citation
 
