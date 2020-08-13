@@ -2,17 +2,16 @@
 title: Variability of Drug Transporter Database (VARIDT)
 description: VARIDT is a variability of drug transporter database.
 published: true
-date: 2020-07-29T21:47:11.651Z
-tags: database, protein
+date: 2020-08-13T16:21:14.357Z
+tags: functional association, data capture, database, resource, browser, protein, eukaryota
 editor: markdown
 ---
 
 # Variability of Drug Transporter Database (VARIDT)
 
-> VARIDT is UNIQUE in:
-(1) covering the largest number of DTs confirmed by their corresponding drugs among available knowledge bases
-(2) providing for the first time the comprehensive sets of DT variability data
-(3) allowing the interplay analysis among different aspects of DT variability. 
+> VARIDT is a database providing the drug transporters (DTs) confirmed by their corresponding drugs, covering the comprehensive sets of DT variability data, and allowing the interplay analysis among different aspects of DT variability. 
+&NewLine;
+VARIDT covers the largest number of confirmed DTs among available knowledge bases.
 {.is-info}
 
  
@@ -25,9 +24,11 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- The database allows users to search for known physiological transporters that have additional function pertaining to import or export of therapeutic drugs.
+
 ## Ease of use
 
+- The database is fairly intuitive. 
 
 ## Help
 
