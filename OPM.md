@@ -2,7 +2,7 @@
 title: Orientations of Proteins in Membranes (OPM)
 description: OPM: Orientations of Proteins in Membranes database 
 published: true
-date: 2020-07-29T20:30:59.866Z
+date: 2020-08-13T18:38:16.964Z
 tags: proteins, database
 editor: markdown
 ---
@@ -29,8 +29,8 @@ editor: markdown
 ## Ease of use
 
 ## Help
-
-
+- [About *includes walkthroughs, instructions & details of features*](https://opm.phar.umich.edu/about#)
+{.links-list}
 
 ## Citations
 
