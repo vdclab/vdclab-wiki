@@ -2,7 +2,7 @@
 title: The SIGnaling Network Open Resource (SIGNOR)
 description: SIGNOR organizes and stores in a structured format signaling information published in the scientific literature.
 published: true
-date: 2020-08-13T19:16:05.371Z
+date: 2020-08-13T19:20:57.585Z
 tags: resource center
 editor: markdown
 ---
@@ -24,7 +24,8 @@ editor: markdown
 
 ## User Notes
 - Search and pathway browser is limited to three model organisms (i.e., Homo sapiens, Mus musculus and Rattus norvegicus)
-- Database is not comprehensive the few organisms to which it is dedicated (e.g., search of select proteins, even using the UniProt accession as the search term, returns no results); this is likely the result of the level of curation, which is prioritizes by the creators of this resource
+- Database is not comprehensive (is not complete) for the few organisms to which it is dedicated (e.g., search of select proteins, even using the UniProt accession as the search term, returns no results); this is likely the result of the level of curation, which is prioritizes by the creators of this resource (expert community-driven curation)
+- Useful for examing curated pathways (relevant to model organism signaling physiology); also includes visualizations of well-characterized pathways
  
 ## Ease of Use
 Very straightforward, easy-to-use, but limited in its use due to small organismal scope and deficits in completeness of the database
