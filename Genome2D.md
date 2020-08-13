@@ -2,8 +2,8 @@
 title: Genome2D
 description: Genome2D webserver for Analysis and Visualization of Bacterial Genomes and Transcriptomes
 published: true
-date: 2020-07-29T21:46:51.007Z
-tags: genomes, bacteria, sequence analysis, transcriptomes, data visualization, webserver
+date: 2020-08-13T16:08:01.596Z
+tags: genomes, bacteria, genome sets, sequence analysis, comparative genomics, resource center, transcriptomics, transcriptomes, data visualization, toolbox, webserver
 editor: markdown
 ---
 
@@ -14,6 +14,8 @@ editor: markdown
 > Some data set transformations, such as reformatting DNA and Protein files, aligning tables, getting multiple DNA fragments, retrieving annotations of gene lists etc. are supported
 {.is-info}
 
+> Genome2D is a collection of resources and tools for genomics and transcriptomics analysis of prokaryotes. Users should take care to cite specific tools within Genome2D when appropriate.
+{.is-warning}
  
 
 ## Website 
@@ -24,10 +26,19 @@ editor: markdown
 
 ## Notes from the user
 
+- This webserver provides a collection of genome resources and genomics analysis tools. Users should take care to cite tools as appropriate.
+- The server provides access to tools for RNA-Seq analysis as well as genomic regulatory analysis (predicting promoter, terminator, etc sequences).
  
 ## Ease of use
 
+- The webserver is easy to use, providing access to analysis tools and resources. Tools without formal help pages have simple, detailed instructions. 
+
 ## Help
+
+- [GSEA-Pro v3 Help *Powerpoint Tutorial*](http://gseapro.molgenrug.nl/examples/GSEA-Pro_Tutorial.pptx)
+- [BAGEL4 Help *Help Page*](http://bagel4.molgenrug.nl/help.php)
+
+{.links-list}
 
 ## Citation 
 
