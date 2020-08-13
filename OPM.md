@@ -2,8 +2,8 @@
 title: Orientations of Proteins in Membranes (OPM)
 description: OPM: Orientations of Proteins in Membranes database 
 published: true
-date: 2020-08-13T18:38:16.964Z
-tags: proteins, database
+date: 2020-08-13T18:42:23.282Z
+tags: proteins, functional association, database, structural analysis
 editor: markdown
 ---
 
@@ -23,10 +23,11 @@ editor: markdown
 
 
 ## Notes from the user
- 
+Useful for troubleshooting subcellular localization and functional associations of protein family members; similar to other resources of this type, the site's usefulness and accuracy are reflections of the databases from which it curates and synthesizes information.
 
  
 ## Ease of use
+Straightforward, easy to navigate website and resources; may require some knowledge of or familiarity with protein families.
 
 ## Help
 - [About *includes walkthroughs, instructions & details of features*](https://opm.phar.umich.edu/about#)
