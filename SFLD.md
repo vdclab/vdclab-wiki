@@ -2,17 +2,18 @@
 title: Structure-Function Linkage Database (SFLD)
 description: SFLD is a hierarchical classification of enzymes that relates specific sequence-structure features to specific chemical capabilities.
 published: true
-date: 2020-07-29T21:46:29.442Z
-tags: proteins, structural alignment
+date: 2020-08-13T15:49:33.403Z
+tags: registry, 2019, proteins, functional association, data capture, database, browser, data export, curated, interaction
 editor: markdown
 ---
 
 # Structure-Function Linkage Database (SFLD)
 
 > The Structure-Function Linkage Database (SFLD) is a hierarchical classification of enzymes that relates specific sequence-structure features to specific chemical capabilities.
->
-> As of April 2019, the database is in static format, and is not being updated. Regular SFLD users may notice significant changes to the database, as interactive features are no longer available. However, the superfamily hierarchy may be browsed, and archived alignments, sequence similarity networks, and reaction similarity networks are available for download. Though SFLD sequence sets, alignments, and networks are not being updated, they may still provide a useful starting point for exploration and hypothesis generation.
 {.is-info}
+
+> As of April 2019, the database is in static format, and is not being updated. Regular SFLD users may notice significant changes to the database, as interactive features are no longer available. However, the superfamily hierarchy may be browsed, and archived alignments, sequence similarity networks, and reaction similarity networks are available for download. Though SFLD sequence sets, alignments, and networks are not being updated, they may still provide a useful starting point for exploration and hypothesis generation.
+{.is-warning}
 
  
 ## Website 
@@ -23,9 +24,13 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- Although the database is no longer being updated/is obsolete, users can browse and download useful data derived from April 2019 and before.
+- The database contains a limited number of browsable superfamilies and reactions. 
+- Archived superfamily and reaction data is available for download, but must be accessed through resources (following links through the Glossary will help locate these resources).
+
 ## Ease of use
 
+- The database isn't immediately intuitive to navigate, but provides several tutorial videos as well as links to tutorials for using data with Cytoscape and Chimera.
 
 ## Help
 
