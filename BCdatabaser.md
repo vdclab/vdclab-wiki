@@ -2,7 +2,7 @@
 title:  BCdatabaser
 description:  BCdatabaser is a pipeline to create reference databases for arbitrary markers and taxonomic groups from NCBI data.
 published: true
-date: 2020-07-29T21:49:10.124Z
+date: 2020-08-13T17:35:40.928Z
 tags: reference, taxonomy, database
 editor: markdown
 ---
@@ -19,13 +19,15 @@ editor: markdown
 - [BCdatabaser *Main Page*](https://bcdatabaser.molecular.eco/)
  {.links-list}
 
-
 ## Notes from the user
+- Results are Zip files with lists of Fasta sequences of genome fragments that the user specified
+- Results are shared with all users and available for download by anyone
 
 ## Ease of use
-
+> This is not an easy tool to use, it took some time to even get the example sets to work. Users can download the tool for offline use and to modify.
 
 ## Help
+> There are some practice data sets that can help familiarize the user with the tool but it will require some effort to understand it.
 
 
 ## Citation 
