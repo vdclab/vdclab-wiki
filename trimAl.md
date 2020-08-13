@@ -2,7 +2,7 @@
 title: trimAl
 description: trimAl: a tool for automated alignment trimming
 published: true
-date: 2020-08-12T19:29:46.553Z
+date: 2020-08-13T18:29:09.562Z
 tags: tool, alignment
 editor: markdown
 ---
@@ -24,14 +24,9 @@ editor: markdown
 
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
 
- 
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
 
 
 ## Help
