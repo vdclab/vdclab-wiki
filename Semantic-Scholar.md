@@ -2,8 +2,8 @@
 title: Semantic Scholar
 description: A Free, AI-powered Tool for Navigating the Scientific Literature.
 published: true
-date: 2020-08-17T17:51:58.601Z
-tags: tool, literature
+date: 2020-08-17T17:52:30.356Z
+tags: tool, specialized search, text search, literature
 editor: markdown
 ---
 
