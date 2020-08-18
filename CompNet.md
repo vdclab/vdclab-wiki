@@ -2,8 +2,8 @@
 title: CompNet
 description: A GUI based tool for comparison of multiple biological interaction networks
 published: true
-date: 2020-08-05T16:10:39.885Z
-tags: tool, interaction, networks, gui
+date: 2020-08-18T22:01:09.032Z
+tags: tool, data visualization, interaction, networks, gui
 editor: markdown
 ---
 
@@ -24,12 +24,18 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- This program must be downloaded and installed on users computer. 
+- Users can view multiple interation networks simultaneously.
+- No designated help page, but the site gives installation instructions. 
 ## Ease of use
 
+- The developer has well written installation instructions, including links to the R-related packagest that must be installed prior to the software. 
+- Ease of use is variable depending on user experience.  Users can find downloadable video demos in the help section (49.7 MB). 
 
 ## Help
 
+- [CompNet Help *Video Demos Download*](https://web.rniapps.net/compnet/demo/compnet_video_demo.zip)
+{.links-list}
 
 
 ## Citation 
