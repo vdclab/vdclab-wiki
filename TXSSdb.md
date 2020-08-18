@@ -2,8 +2,8 @@
 title: MacSyDB/TXSSdb
 description: 
 published: true
-date: 2020-07-30T18:56:09.284Z
-tags: bacteria, proteins, evolution
+date: 2020-08-18T21:43:57.822Z
+tags: genomes, bacteria, proteins, evolution, homolog discovery, conservation
 editor: markdown
 ---
 
@@ -22,13 +22,19 @@ editor: markdown
 
 ## Notes from the user
  
-
+- This site scans a genome of interest to detect potential secretion systems.
+- Users can search by taxon id (taxid), replicon NCBI id (NCBI IC) or name, taxonomy or a specific strain. Users can also specify the type of system they are searching for. 
+- The website gives you instant search results (no submitting). Clicking on the desired result brings the users to it's specific information page. 
+- Users can use the webserver version of the tool or download and install the software on a personal computer. 
  
 ## Ease of use
 
+- This tool is easy to use. 
+
 ## Help
 
-
+- [MacSyDB Help *General MacSyFinder/DB Help*](https://macsyfinder.readthedocs.io/en/latest/)
+{.links-list}
 ## Citation 
 
 - Abby, S. S., Cury, J., Guglielmini, J., Néron, B., Touchon, M., & Rocha, E. P. (2016). [Identification of protein secretion systems in bacterial genomes.](https://www.nature.com/articles/srep23080) Scientific reports, 6(1), 1-14.
