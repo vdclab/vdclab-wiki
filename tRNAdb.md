@@ -2,8 +2,8 @@
 title: tRNAdb
 description: tRNAdb contains currently more than 12,000 tRNA genes from 577 species and 623 tRNA sequences from 104 species, classified into families according to amino acid specificity as defined by anticodon triplets.
 published: true
-date: 2020-08-18T19:59:18.796Z
-tags: proteins, rna, database, protein family
+date: 2020-08-18T20:00:47.185Z
+tags: reference, specialized search, rna, database
 editor: markdown
 ---
 
