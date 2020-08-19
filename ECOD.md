@@ -2,7 +2,7 @@
 title: Evolutionary Classification of Protein Domains (ECOD)
 description: ECOD is a hierarchical classification of protein domains according to their evolutionary relationships.
 published: true
-date: 2020-07-31T19:52:52.097Z
+date: 2020-08-19T20:10:27.140Z
 tags: sequence analysis, proteins, evolution, database, protein domain, structural analysis
 editor: markdown
 ---
@@ -20,7 +20,8 @@ editor: markdown
  {.links-list}
 
 ## User Notes
-Useful when examining protein families, superfamilies and their structures within an evolutionary context
+- Useful when examining protein families, superfamilies and their structures within an evolutionary context
+- Alternative to the SCOP database
 
 ## Ease of Use
 Straightforward search tool for querying their database
