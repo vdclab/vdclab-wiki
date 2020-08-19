@@ -2,14 +2,14 @@
 title: ChiPPI
 description: Chimeric Protein-protein Interaction Server
 published: true
-date: 2020-08-03T14:49:30.889Z
+date: 2020-08-19T21:35:10.782Z
 tags: functional association, specialized search, protein domain, protein-protein, networks
 editor: markdown
 ---
 
 # ChiPPI
 
-> ChiPPI is a chimeric protein-protein interactions novel method that uses the domain-domain co-occurrence scores in order to identify preserved interactors of chimeric proteins.
+> ChiPPI is a chimeric protein-protein interactions novel method that uses the domain-domain co-occurrence scores in order to identify preserved interactors of chimeric proteins in cancer.
 {.is-info}
 
  
