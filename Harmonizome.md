@@ -2,7 +2,7 @@
 title: Harmonizome
 description: Search for genes or proteins and their functional terms extracted and organized from over a hundred publicly available resources.
 published: true
-date: 2020-07-30T19:25:26.270Z
+date: 2020-08-19T21:11:03.451Z
 tags: genes, proteins, functional association, resource center, database, data visualization, gene annotation
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 
 
 ## Ease of use
-> The Harmonizome tool is a streamlined search tool which allows the user to quickly identify genes. Search for genes by name or by function/Gene ontology. Additional Pre-analyzed heatmaps are available for the user to look over for each dataset. 
+> The Harmonizome tool is a streamlined search tool which allows the user to quickly link gene and function Search for genes by name or by function/Gene ontology. Additional Pre-analyzed heatmaps are available for the user to look over for each dataset. 
 
 
 ## Citation 
