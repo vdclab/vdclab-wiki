@@ -2,8 +2,8 @@
 title: BioPortal
 description: BioPortal: the world's most comprehensive repository of biomedical ontologies
 published: true
-date: 2020-08-05T16:10:51.369Z
-tags: repository, ontology
+date: 2020-08-19T14:18:21.399Z
+tags: browser, repository, ontology, library
 editor: markdown
 ---
 
@@ -22,9 +22,11 @@ editor: markdown
 
 ## Notes from the user
 
- 
+- This site essentially allows users to search for lists of biomedical-related ontologies and terminologies. 
+
 ## Ease of use
 
+- The site is intuitive and easy to use. 
 
 ## Help
 
