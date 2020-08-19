@@ -2,8 +2,8 @@
 title: Phylemon 2
 description: Phylemon 2: molecular evolution, phylogenetics, phylogenomics, and hypothesis testing.
 published: true
-date: 2020-08-13T18:28:51.996Z
-tags: phylogeny, evolution
+date: 2020-08-19T15:44:29.608Z
+tags: tool, sequence alignment, phylogeny, evolution, comparative genomics, analysis tools, data visualization, conservation, toolbox, webserver
 editor: markdown
 ---
 
@@ -26,11 +26,12 @@ editor: markdown
 
 ## Notes from the user
 
-
+- Users can use the platform without an account or can create an account to store work for later use. 
+- Phylemon 2.0 integrates a suite of 30 tools covering sequence alignment, trimming, tree reconstruction, visualization, manipulation of trees, and evolutionary hypotheses testing.
  
 ## Ease of use
 
-
+- The site isn't immediately intuitive, but with some experience or instruction becomes easy to use. 
 
 ## Help
 
