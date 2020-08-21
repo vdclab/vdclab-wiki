@@ -2,7 +2,7 @@
 title: BacMap
 description: An Interactive Atlas for Exploring Bacterial Genomes
 published: true
-date: 2020-08-21T15:23:55.022Z
+date: 2020-08-21T15:24:20.693Z
 tags: annotation, genomes, project library, bacteria, genome browser, database, browser, data visualization, data export, organism-specific
 editor: markdown
 ---
@@ -22,6 +22,8 @@ editor: markdown
 
 - [BacMap *Main Page*](http://bacmap.wishartlab.com/)
  {.links-list}
+>As of 11:20 AM, 8/21/2020, the search function of the website was experiencing issues resulting in a lack of search function; site error page stated that the managing party of the website had been informed of the issue and would be remedying it as soon as possible.
+{.is-warning}
 
 
 ## User Notes
@@ -33,8 +35,6 @@ editor: markdown
 - Straight-forward, easy to use
 - Users may benefit from familiarity or prior experience with genome browsers, organisms, gene/protein names, and bacterial genome organization
 
->As of 11:20 AM, 8/21/2020, the search function of the website was experiencing issues resulting in a lack of search function; site error page stated that the managing party of the website had been informed of the issue and would be remedying it as soon as possible.
-{.is-warning}
 
 ## Help
 
