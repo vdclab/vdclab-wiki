@@ -2,8 +2,8 @@
 title: PathoPhenoDB
 description: A database of pathogens and their phenotypes for diagnostic support in infections.
 published: true
-date: 2020-08-21T14:41:53.736Z
-tags: database, phenotype
+date: 2020-08-21T14:44:50.279Z
+tags: bacteria, database, phenotype, ontology, organism-specific, virus
 editor: markdown
 ---
 
