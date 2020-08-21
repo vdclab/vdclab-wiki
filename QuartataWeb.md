@@ -2,8 +2,8 @@
 title: QuartataWeb
 description: QuartataWeb is a user-friendly server developed for polypharmacological and chemogenomics analyses.
 published: true
-date: 2020-07-29T21:50:19.752Z
-tags: analysis tools, webserver
+date: 2020-08-21T15:02:49.278Z
+tags: proteins, analysis tools, database, data visualization, interaction, webserver
 editor: markdown
 ---
 
@@ -22,12 +22,14 @@ editor: markdown
  {.links-list}
 
 
-## Notes from the user
- 
+## User Notes
+Information and, thereby, any query results are largely reliant upon published data being utilized by the resource, of which are primarily STITCH (another database-association network-building resource) or DrugBank, depending on the user's data source selection per query. Interpolation and generation of predicted interactions are determined with use of data from other resources, like PubChem, KEGG Pathways DB, and GO Annotations DB.
 
  
-## Ease of use
-
+## Ease of Use
+- Relatively straight-forward
+- Knowledge or familiarity with specific compounds/drugs and proteins/genes may be necessary for optimal queries
+- Search will still provide interaction results for a given drug, even if the queried protein/gene is not predicted to interact with said compound/agent; these kinds of results a preferred to a query simply resulted in an "error" page
 
 ## Help
 
