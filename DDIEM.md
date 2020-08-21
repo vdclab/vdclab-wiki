@@ -2,7 +2,7 @@
 title:  Drug Database for Inborn Errors of Metabolism (DDIEM)
 description: Drug database for inborn errors of metabolism.
 published: true
-date: 2020-08-21T14:15:09.652Z
+date: 2020-08-21T14:23:21.479Z
 tags: database, metabolism, metabolic pathways, model organism, eukaryota, phenotype, organism-specific, mutant
 editor: markdown
 ---
@@ -20,14 +20,16 @@ editor: markdown
  {.links-list}
 
 
-## Notes from the user
- 
+## User Notes
+More helpful for human- or human ortholog/homolog-focused research; less so for microbe-related work.
 
-## Ease of use
-
+## Ease of Use
+- No tutorials, guides, or in-depth tool descriptions available to users
+- Familiarity with AberOWL Repository and/or DDIEM ontology is useful for facilitating search utility
 
 ## Help
-
+- No tutorials/guides available within website.
+- Of potential interest: [AberOWL Repository | DDIEM](http://aber-owl.net/ontology/DDIEM/#/)
 
 ## Citation
 
