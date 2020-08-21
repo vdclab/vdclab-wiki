@@ -2,7 +2,7 @@
 title: NetGO
 description: NetGO improves large-scale AFP with massive network information.
 published: true
-date: 2020-08-21T15:49:02.323Z
+date: 2020-08-21T15:51:51.827Z
 tags: annotation, proteins, functional association, data visualization, network, interaction, ontology, analysis tool, functional annotation
 editor: markdown
 ---
