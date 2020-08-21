@@ -2,7 +2,7 @@
 title: PathoPhenoDB
 description: A database of pathogens and their phenotypes for diagnostic support in infections.
 published: true
-date: 2020-07-29T21:50:08.602Z
+date: 2020-08-21T14:41:53.736Z
 tags: database, phenotype
 editor: markdown
 ---
@@ -20,14 +20,14 @@ editor: markdown
  {.links-list}
 
 
-## Notes from the user
-
+## User Notes
+ - (8/21/2020; CJR) Emailed reference publication contact regarding improvements to the website (re. user-friendliness, not in response to technical issues; e.g., adding an interactive search sidebar to the data visualization on the *Explore* page)
+ - Simple tool for microbial pathogen phenotypes; more helpful for work focused on microbes associated with human pathogenesis/disease
  
-## Ease of use
-
+## Ease of Use
+Quick loading; intuitive search auto-complete drop-down, but best use results from slow* input of search term(s), as results are specific and limited to their curated database.
 
 ## Help
-
 - [PathoPhenoDB Help *Help Page*](http://patho.phenomebrowser.net/#/help)
 {.links-list}
 
