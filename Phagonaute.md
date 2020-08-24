@@ -2,7 +2,7 @@
 title: Phagonaute
 description: Phagonaute is a new phage genome browser.
 published: true
-date: 2020-08-05T16:11:29.421Z
+date: 2020-08-24T21:12:56.875Z
 tags: genome browser, phages
 editor: markdown
 ---
@@ -21,18 +21,24 @@ editor: markdown
 ## Website 
 
 - [Phagonaute *Main Page*](http://genome.jouy.inra.fr/phagonaute/index.html)
- {.links-list}
+{.links-list}
 
 
 ## Notes from the user
+- Only for phage homologs.
+- Make sure to know the gene name of your gene of interest, you can't search by homology.
 
  
 ## Ease of use
+- Precomputed homology makes the page faster.
+- Change parameters of number of genes and cutoff for homology.
+- Choose your phage and your gene name, get the genome view of the phage and closely related to your gene of interests.
 
 ## Help
-
+- [Help *About*](http://genome.jouy.inra.fr/phagonaute/page2.html)
+- [Help *Example*](http://genome.jouy.inra.fr/phagonaute/page3.html)
+{.links-list}
 
 ## Citation 
-
 - Delattre, H., Souiai, O., Fagoonee, K., Guerois, R., & Petit, M. A. (2016). [Phagonaute: a web-based interface for phage synteny browsing and protein function prediction.](https://www.sciencedirect.com/science/article/pii/S0042682216301076) Virology, 496, 42-50.
 {.grid-list}
