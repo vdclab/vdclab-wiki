@@ -2,8 +2,8 @@
 title: Phagonaute
 description: Phagonaute is a new phage genome browser.
 published: true
-date: 2020-08-24T21:12:56.875Z
-tags: genome browser, phages
+date: 2020-08-24T21:13:40.606Z
+tags: genome browser, homology, phages, 2016
 editor: markdown
 ---
 
