@@ -2,7 +2,7 @@
 title: PhagesDB
 description: PhagesDB.org is an interactive site that collects and shares information related to the discovery, characterization, and genomics of phages that infect bacterial hosts within the phylum Actinobacteria.
 published: true
-date: 2020-07-30T18:55:51.009Z
+date: 2020-08-24T18:36:02.311Z
 tags: genomics, phages, organism-specific
 editor: markdown
 ---
@@ -20,14 +20,14 @@ editor: markdown
  {.links-list}
 
 
-## Notes from the user
- 
+## Notes from Users
+ - Contains all phage isolated by Hatfulls group and the SEA PHAGE project.
+ - Detailed protocols for phage isolations and DNA extractions.
+ - Possibility to submit phages and annotation.
+ - BLAST available against the database.
 
 ## Ease of use
-
-
-
-## Help
+- Easy to navigate, very organized website.
 
 
 ## Citation 
