@@ -2,14 +2,14 @@
 title: DoriC Database
 description: A database of oriC regions in bacterial genomes.
 published: true
-date: 2020-08-24T15:26:25.833Z
-tags: genomes, database, homology
+date: 2020-08-24T15:28:15.929Z
+tags: genomes, archaea, bacteria, database, homology
 editor: markdown
 ---
 
 # DoriC Database
 
-> DoriC provides extensive information and graphical views of the oriC regions. In addition, users can Blast a query sequence or even a whole genome against DoriC to find a homologous one. 
+> DoriC provides extensive information and graphical views of the oriC regions. In addition, users can Blast a query sequence or even a whole genome against DoriC to find a homologous one. Contains all origins of replication from Bacteria, Archea and their plasmids.
 {.is-info}
 
  
@@ -21,7 +21,6 @@ editor: markdown
  
 ## Notes from the user
  
- - Contain all origin of replication from Bacteria, Archea and their plasmids.
  - Access to sequence et position. 
  - Browser in NCBI.
  - Z-curves available.
