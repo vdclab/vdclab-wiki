@@ -2,8 +2,8 @@
 title: PhagesDB
 description: PhagesDB.org is an interactive site that collects and shares information related to the discovery, characterization, and genomics of phages that infect bacterial hosts within the phylum Actinobacteria.
 published: true
-date: 2020-08-24T18:36:02.311Z
-tags: genomics, phages, organism-specific
+date: 2020-08-24T19:11:40.330Z
+tags: genomics, 2017, phages, organism-specific
 editor: markdown
 ---
 
