@@ -2,7 +2,7 @@
 title: Phage Directory - Phage Tools & Resources
 description: We are collecting a list of phage bioinformatics tools and resources.
 published: true
-date: 2020-08-05T16:12:23.775Z
+date: 2020-08-25T15:56:37.124Z
 tags: resource center, bioinformatics, phages, toolbox
 editor: markdown
 ---
@@ -22,15 +22,9 @@ editor: markdown
 
 
 ## Notes from the user
- 
+- This is a repository of where phage are.
+- List of event linked to the phage world.
+- Small weekly periodical journal on phages (Capsid and Tail).
+- Possibility to post messages youself to promote your event or look for phages.
 
-## Ease of use
 
-## Help
-
-
-## Citation(s) <- 's' if more than one
-
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
-{.grid-list}
