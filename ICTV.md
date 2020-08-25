@@ -2,7 +2,7 @@
 title: International Committee on Taxonomy of Viruses (ICTV)
 description: A database of virus taxonomies.
 published: true
-date: 2020-08-05T16:11:40.665Z
+date: 2020-08-25T15:23:56.106Z
 tags: taxonomy, database, virus
 editor: markdown
 ---
@@ -23,10 +23,11 @@ editor: markdown
 
 
 ## Notes from the user
-
+- Lots of informations on how the classification is done, and how it evolves.
+- Access to the full taxonomy of virus.
  
 ## Ease of use
-
+- May be hard to navigate in the website.
 
 ## Help
 
