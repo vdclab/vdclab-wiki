@@ -2,8 +2,8 @@
 title: Virus-Host Database 
 description: Virus-Host Database: Linking virus genomes with host taxonomy.
 published: true
-date: 2020-08-05T16:12:11.515Z
-tags: genomes, taxonomy, virus
+date: 2020-08-25T16:25:35.447Z
+tags: genomes, taxonomy, 2016, virus
 editor: markdown
 ---
 
@@ -20,15 +20,11 @@ editor: markdown
 
 
 ## Notes from the user
- 
+ - Possibility to download the database.
+ - Can filter the database per clade of your choice (host or virus).
 
 ## Ease of use
-
-
-
-## Help
-
-
+- A little bit confusing at first, but information is easy to extract.
 
 ## Citation 
 
