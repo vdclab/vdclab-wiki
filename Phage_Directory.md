@@ -2,8 +2,8 @@
 title: Phage Directory - Phage Tools & Resources
 description: We are collecting a list of phage bioinformatics tools and resources.
 published: true
-date: 2020-08-25T15:56:37.124Z
-tags: resource center, bioinformatics, phages, toolbox
+date: 2020-08-25T16:25:26.366Z
+tags: registry, resource center, bioinformatics, phages, toolbox
 editor: markdown
 ---
 
