@@ -2,7 +2,7 @@
 title: BioReader
 description: BioReader: a text mining tool for performing classification of biomedical literature.
 published: true
-date: 2020-08-26T14:21:28.061Z
+date: 2020-08-26T14:22:35.338Z
 tags: tool, text-mining
 editor: markdown
 ---
@@ -22,13 +22,13 @@ editor: markdown
  {.links-list}
  
  ## Notes from the user
- - Uses a computer alogrithim to identify articles containing common "relevent" words from a list of user specificed "relevent" articles 
- - User must supply lists of articles (20 minimum) to help the alorithim determine article relevence and discriminating terms
- - Results are given as lists of articles grouped in classes with performance metrics and PCoA plots to show how the algorithim scored the articles
+ - Uses a computer algorithm to identify articles containing common "relevant" words from a list of user specified "relevant" articles 
+ - User must supply lists of articles (20 minimum) to help the algorithm determine article relevance and discriminating terms
+ - Results are given as lists of articles grouped in classes with performance metrics and PCoA plots to show how the algorithm scored the articles
  
  ## Ease of use
- > This is a very niche tool that can help guide the user through reading large ammounts of articles. There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevent" and "not relevent" before they can use the tool.
- 
+ > This is a very niche tool that can help guide the user through reading large amounts of articles. There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevant" and "not relevant" before they can use the tool.
+
  ## Help
  - [BioReader *Instruction Page*](http://www.cbs.dtu.dk/services/BioReader/instructions.php)
  {.links-list}
