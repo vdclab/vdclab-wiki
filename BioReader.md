@@ -2,8 +2,8 @@
 title: BioReader
 description: BioReader: a text mining tool for performing classification of biomedical literature.
 published: true
-date: 2020-08-26T14:22:35.338Z
-tags: tool, text-mining
+date: 2020-08-26T14:58:20.910Z
+tags: tool, specialized search, text-mining, literature
 editor: markdown
 ---
 
