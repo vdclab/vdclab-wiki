@@ -2,8 +2,8 @@
 title: PHAge Search Tool Enhanced Release (PHASTER)
 description: PHASTER is a significant upgrade to the popular PHAST web server for the rapid identification and annotation of prophage sequences within bacterial genomes and plasmids.
 published: true
-date: 2020-08-26T14:48:23.781Z
-tags: genomes, sequence identity, sequence annnotation
+date: 2020-08-26T14:58:18.647Z
+tags: phage, genomes, sequence analysis, sequence identity, gene neighborhood, phages, virus, sequence annnotation
 editor: markdown
 ---
 
