@@ -2,8 +2,9 @@
 title: BioReader
 description: BioReader: a text mining tool for performing classification of biomedical literature.
 published: true
-date: 2020-05-27T19:12:52.681Z
+date: 2020-08-26T14:00:04.262Z
 tags: tool, text-mining
+editor: markdown
 ---
 
 # BioReader
@@ -19,6 +20,15 @@ tags: tool, text-mining
 
 - [BioReader *Main Page*](http://www.cbs.dtu.dk/services/BioReader/)
  {.links-list}
+ 
+ ## Notes from the user
+ - Uses a computer alogrithim to identify articles containing common "relevent" words from a list of user specificed "relevent" articles 
+ - User must supply lists of articles (20 minimum) to help the alorithim determine article relevence
+ - 
+ 
+ ## Ease of use
+ 
+ 
 
 ## Citation 
 
