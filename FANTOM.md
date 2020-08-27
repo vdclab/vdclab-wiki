@@ -2,8 +2,8 @@
 title: FANTOM
 description: 
 published: true
-date: 2020-08-27T17:03:51.324Z
-tags: 
+date: 2020-08-27T17:05:04.278Z
+tags: genes, proteins, database, gene expression, model organism, eukaryota, interaction, networks, organism-specific
 editor: markdown
 ---
 
