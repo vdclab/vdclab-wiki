@@ -2,8 +2,8 @@
 title: EDGAR
 description: A software platform for comparative genomics
 published: true
-date: 2020-08-27T17:48:15.339Z
-tags: database
+date: 2020-08-27T17:55:21.667Z
+tags: aggregator, annotation, genomics, genes, proteins, genome browser, comparative genomics, database, homology, browser, data visualization, orthology, data export
 editor: markdown
 ---
 
