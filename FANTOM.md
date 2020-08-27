@@ -1,9 +1,9 @@
 ---
 title: FANTOM
-description: 
+description: Designed with the idea that network predictions should be made available in an easily queriable format that will allow end user biologists to extract from the high level fuzzball of an entire network, intuitive views of the genes.
 published: true
-date: 2020-08-27T17:05:04.278Z
-tags: genes, proteins, database, gene expression, model organism, eukaryota, interaction, networks, organism-specific
+date: 2020-08-27T17:08:05.728Z
+tags: genes, proteins, database, data visualization, gene expression, model organism, eukaryota, interaction, networks, organism-specific
 editor: markdown
 ---
 
