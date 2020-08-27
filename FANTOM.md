@@ -2,7 +2,7 @@
 title: FANTOM
 description: 
 published: true
-date: 2020-08-27T17:00:32.096Z
+date: 2020-08-27T17:03:51.324Z
 tags: 
 editor: markdown
 ---
@@ -27,8 +27,12 @@ editor: markdown
 {.links-list}
 
 ## User Notes
+- Best for comparative work on proteins/genes conserved in bacteria and proteins (database is human/mouse specific)
+- Limited in scope, but useful for comparisons due to tools available; allows for gene-focused view of expression and visualization of interaction networks
 
 ## Ease of Use
+- Easy to use; easy to navigate
+- Users may benefit from prior knowledge of gene/protein names, etc.
 
 ## Help
 - [Edge Express DB *User Information*](https://fantom.gsc.riken.jp/4/edgeexpress/about/Supplementary_note_1.pdf)
