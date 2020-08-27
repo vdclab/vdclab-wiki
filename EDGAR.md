@@ -2,7 +2,7 @@
 title: EDGAR
 description: A software platform for comparative genomics
 published: true
-date: 2020-08-27T17:37:06.929Z
+date: 2020-08-27T17:38:37.966Z
 tags: database
 editor: markdown
 ---
