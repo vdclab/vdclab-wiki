@@ -2,7 +2,7 @@
 title: Genome2D
 description: Genome2D webserver for Analysis and Visualization of Bacterial Genomes and Transcriptomes
 published: true
-date: 2020-08-13T16:08:01.596Z
+date: 2020-08-28T17:34:06.475Z
 tags: genomes, bacteria, genome sets, sequence analysis, comparative genomics, resource center, transcriptomics, transcriptomes, data visualization, toolbox, webserver
 editor: markdown
 ---
@@ -28,6 +28,7 @@ editor: markdown
 
 - This webserver provides a collection of genome resources and genomics analysis tools. Users should take care to cite tools as appropriate.
 - The server provides access to tools for RNA-Seq analysis as well as genomic regulatory analysis (predicting promoter, terminator, etc sequences).
+- Data  extraction, manipulation  and reformat tools can become handy.
  
 ## Ease of use
 
