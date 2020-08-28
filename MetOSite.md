@@ -1,8 +1,8 @@
 ---
 title: MetOSite
-description: MetOSite is a collection of references to methionines that may be involved in regulatory processes.
+description: MetOSite is a compilation of oxidized methionine, post-translational modifications (PTM)  that may be involved in regulatory processes.
 published: true
-date: 2020-08-08T21:44:15.989Z
+date: 2020-08-28T16:09:48.991Z
 tags: resource reference, specialized search, data capture, database, browser, protein, data export, curated, regulation, epigenetic, residue
 editor: markdown
 ---
