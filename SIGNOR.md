@@ -1,8 +1,8 @@
 ---
 title: The SIGnaling Network Open Resource (SIGNOR)
-description: SIGNOR organizes and stores in a structured format signaling information published in the scientific literature.
+description: SIGNOR organizes and stores in a structured format signaling information in mammals published in the scientific literature.
 published: true
-date: 2020-08-13T19:24:46.799Z
+date: 2020-08-28T17:21:15.908Z
 tags: proteins, functional association, database, metabolic pathways, model organism, curated, organism-specific, functional annotation
 editor: markdown
 ---
