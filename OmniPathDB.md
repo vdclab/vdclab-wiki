@@ -2,7 +2,7 @@
 title: OmniPathDB
 description: OmniPath: literature curated mammalian signaling pathways.
 published: true
-date: 2020-07-29T20:29:27.902Z
+date: 2020-08-31T15:27:10.550Z
 tags: eukaryotes, metabolic pathways, curated
 editor: markdown
 ---
@@ -20,10 +20,10 @@ editor: markdown
 
 
 ## Notes from the user
-
+- Figuring out how to use the webserver is difficult.
  
 ## Ease of use
-
+> Not an easy tool to use, will require lots of work from the user to understand.
 
 ## Help
 
