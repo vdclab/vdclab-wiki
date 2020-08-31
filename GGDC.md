@@ -2,7 +2,7 @@
 title: Genome-to-Genome Distance Calculator (GGDC)
 description: A collection of tools involved in virus/prokaryotic taxonomy, phylogeny, and genome comparison
 published: true
-date: 2020-08-31T18:50:45.232Z
+date: 2020-08-31T19:15:22.838Z
 tags: genomes, taxonomy, phylogeny, virus
 editor: markdown
 ---
@@ -25,9 +25,9 @@ editor: markdown
 
 - [GGDC *Home Page*](https://ggdc.dsmz.de/home.php)
 - [GGDC *GGDC tool*](https://ggdc.dsmz.de/ggdc.php#)
-- [GGDC *TYGS tool*](https://tygs.dsmz.de/)
-- [GGDC *VICTOR tool*](https://ggdc.dsmz.de/victor.php#)
-- [GGDC *Single gene tree tool*](https://ggdc.dsmz.de/phylogeny-service.php#)
+- [TYGS *TYGS tool*](https://tygs.dsmz.de/)
+- [VICTOR *VICTOR tool*](https://ggdc.dsmz.de/victor.php#)
+- [Phylogeny Service *Single gene tree tool*](https://ggdc.dsmz.de/phylogeny-service.php#)
  {.links-list}
 
 
