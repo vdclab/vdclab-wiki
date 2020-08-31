@@ -2,7 +2,7 @@
 title: Genome-to-Genome Distance Calculator (GGDC)
 description: A collection of tools involved in virus/prokaryotic taxonomy, phylogeny, and genome comparison
 published: true
-date: 2020-08-31T18:43:21.365Z
+date: 2020-08-31T18:50:45.232Z
 tags: genomes, taxonomy, phylogeny, virus
 editor: markdown
 ---
@@ -34,12 +34,17 @@ editor: markdown
 ## Notes from the user
 #### GGDC tool, Genome-to-Genome Distance Calculator 2.1
 #### TYGS tool, Type (Strain) Genome Server
+- Gives a lot of results to analyse to decide the genealogy of your strains, including full genome alignments and a tree.
 #### VICTOR tool, Virus Classification and Tree Building Online Resource
+- Results are sent by e-mail.
 #### Single gene tree tool
  
 ## Ease of use
 #### GGDC tool
 #### TYGS tool
+- Add your genbank or fasta genomes, or add the accession number of your genomes.
+- Optionally provide close related species. This is done automaticly. 
+- Add our e-mail to be noified of the result.
 #### VICTOR tool
 - Need to select amino acid or nucleotide (No preselection).
 - Enter genebank accession number of your genomes of interest in list, one per line.
