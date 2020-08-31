@@ -2,7 +2,7 @@
 title: Genome-to-Genome Distance Calculator (GGDC)
 description: A collection of tools involved in virus/prokaryotic taxonomy, phylogeny, and genome comparison
 published: true
-date: 2020-08-25T18:31:37.481Z
+date: 2020-08-31T18:43:21.365Z
 tags: genomes, taxonomy, phylogeny, virus
 editor: markdown
 ---
@@ -32,15 +32,18 @@ editor: markdown
 
 
 ## Notes from the user
-#### GGDC tool
-#### TYGS tool
-#### VICTOR tool
+#### GGDC tool, Genome-to-Genome Distance Calculator 2.1
+#### TYGS tool, Type (Strain) Genome Server
+#### VICTOR tool, Virus Classification and Tree Building Online Resource
 #### Single gene tree tool
  
 ## Ease of use
 #### GGDC tool
 #### TYGS tool
 #### VICTOR tool
+- Need to select amino acid or nucleotide (No preselection).
+- Enter genebank accession number of your genomes of interest in list, one per line.
+- Enter your e-mail to get the result. Results sent in PDF.
 #### Single gene tree tool
 
 ## Help
@@ -63,6 +66,7 @@ editor: markdown
 #### GGDC tool
 - Meier-Kolthoff, J. P., Auch, A. F., Klenk, H. P., & Göker, M. (2013). [Genome sequence-based species delimitation with confidence intervals and improved distance functions.](https://link.springer.com/article/10.1186/1471-2105-14-60) BMC bioinformatics, 14(1), 60.
 #### TYGS tool
+- Meier-Kolthoff, J.P., Göker, M. [TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy.](https://www.nature.com/articles/s41467-019-10210-3) Nat Commun 10, 2182 (2019). https://doi.org/10.1038/s41467-019-10210-3 
 #### VICTOR tool
 - Meier-Kolthoff, J. P., & Göker, M. (2017). [VICTOR: genome-based phylogeny and classification of prokaryotic viruses.](https://academic.oup.com/bioinformatics/article/33/21/3396/3933260) Bioinformatics, 33(21), 3396-3404.
 {.grid-list}
