@@ -1,8 +1,8 @@
 ---
-title: MacSyDB/TXSSdb
+title: MacSyDB/TXSSdb secretion systems in Bacteria
 description: 
 published: true
-date: 2020-08-18T21:43:57.822Z
+date: 2020-08-31T17:36:26.322Z
 tags: genomes, bacteria, proteins, evolution, homolog discovery, conservation
 editor: markdown
 ---
