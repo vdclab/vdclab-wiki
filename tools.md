@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T21:55:16.107Z
+date: 2020-09-02T22:10:51.980Z
 tags: category
 editor: markdown
 ---
@@ -129,6 +129,7 @@ editor: markdown
 - [:star: GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
 - [GOrilla *Identifying and visualizing enriched GO terms in ranked lists of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GOrilla)
 - [Metascape *A Gene Annotation & Analysis Resource*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/Metascape)
+- [PRO *Ontological representation of protein-related entities by explicitly defining them and showing the relationships*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/PROConsortium)
 - [The BAR *Explore large-scale data sets from Arabidopsis and other species, and for hypothesis generation*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/The-BAR)
 - [YeastEnrichr *New gene list enrichment analysis tool for Saccharomyces cerevisiae*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/YeastEnrichr)
 {.links-list}
