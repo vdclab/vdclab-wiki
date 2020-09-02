@@ -2,7 +2,7 @@
 title: ChiPPI
 description: Chimeric Protein-protein Interaction Server
 published: true
-date: 2020-08-19T21:35:10.782Z
+date: 2020-09-02T21:38:53.243Z
 tags: functional association, specialized search, protein domain, protein-protein, networks
 editor: markdown
 ---
@@ -25,7 +25,8 @@ editor: markdown
 - Lots of links to external sites for annotations
 
 ## Ease of use
-> The website is easy to use and offers many example datasets to help familiarize the user with the tool. There are many keys available to help the user understand the network.
+
+The website is easy to use and offers many example datasets to help familiarize the user with the tool. There are many keys available to help the user understand the network.
 
 ## Citation 
 
