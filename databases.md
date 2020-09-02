@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-02T21:02:10.626Z
+date: 2020-09-02T21:08:49.245Z
 tags: category
 editor: markdown
 ---
