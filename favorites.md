@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T21:55:30.535Z
+date: 2020-09-02T21:58:13.116Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -75,6 +75,7 @@ editor: markdown
 - [ECOD *Hierarchical classification of protein domains according to their evolutionary relationships*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ECOD)
 - [InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
+- [NPAtlas *Designed to cover all microbially-derived natural products published*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/NPAtlas)
 - [RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 - [UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 {.links-list}
