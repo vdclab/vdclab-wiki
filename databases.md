@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-08-10T17:54:45.396Z
+date: 2020-09-02T20:47:48.260Z
 tags: category
 editor: markdown
 ---
@@ -50,6 +50,7 @@ editor: markdown
 
 ## General databases
 
+- [:star: DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
 - [cBiT *Repository that offers biomaterial-based transcriptomics data together with biomaterial metadata*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/cBiT)
 - [:star: InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [JGI *Joint Genome Institute - Main webiste*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/JGI)
