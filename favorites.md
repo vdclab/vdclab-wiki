@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T20:50:54.447Z
+date: 2020-09-02T21:08:34.353Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -231,6 +231,11 @@ editor: markdown
 {.links-list}
 
 # Ressources
+
+## Analysis Resources
+
+- [:star: RadicalSAM *Exploring the Radical SAM Enzyme Superfamily*](https://vdclab-wiki.herokuapp.com/en/resources/analysis_resources/RadicalSAM)
+{.links-list}
 
 ## General Resources
 
