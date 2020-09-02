@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T22:06:02.600Z
+date: 2020-09-02T22:12:47.657Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -208,6 +208,11 @@ editor: markdown
 {.links-list}
 
 # Platform
+
+## General Integration Platforms
+
+- [:star: Open Targets *Comprehensive and robust data integration resource for access and visualization of drug targets*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/Open-Targets)
+{.links-list}
 
 ## Genome Browsers Within Integrated Platforms
 
