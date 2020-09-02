@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T21:14:47.182Z
+date: 2020-09-02T21:19:59.919Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -396,6 +396,11 @@ editor: markdown
 ## Gene Ontology Enrichment Tools
 
 - [GO Enrichment Analysis *Representation of our current scientific knowledge about the functions of genes*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/GO-Enrichment-Analysis)
+{.links-list}
+
+## Motifs Analysis Tools
+
+- [MyHits *Hits is a free database devoted to protein domains*](https://vdclab-wiki.herokuapp.com/en/tools/motifs-analysis-tools/MyHits)
 {.links-list}
 
 ## Prediction
