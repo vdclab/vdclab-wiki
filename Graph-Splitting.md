@@ -2,7 +2,7 @@
 title: Graph Splitting
 description: Graph Splitting (GS) is a brand-new phylogenetic analysis method, which can effectively resolve early evolution of protein families.
 published: true
-date: 2020-08-24T18:28:06.610Z
+date: 2020-09-02T20:48:44.347Z
 tags: phylogeny, evolution, protein family
 editor: markdown
 ---
@@ -11,9 +11,6 @@ editor: markdown
 
 > Graph Splitting (GS) is a brand-new phylogenetic analysis method, which can effectively resolve early evolution of protein families. Its accuracy and speed was proved by extensive evolutionary simulation, and its application to TIM-barrel superfamily highlighted instant evolution of protein-mediated pyrimidine biosynthesis at a transitional phase between the RNA world and the modern DNA-RNA-protein world.
 {.is-info}
-
-> Was not working 8/24/2020 
-{.is-warning}
 
 
 ## Website 
