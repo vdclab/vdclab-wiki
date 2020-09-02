@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-08-10T17:50:37.380Z
+date: 2020-09-02T20:59:56.342Z
 tags: category
 editor: markdown
 ---
@@ -64,6 +64,7 @@ editor: markdown
 - [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [:star: FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
+- [ICTV *Charged with the task of developing, refining, and maintaining a universal virus taxonomy*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/ICTV)
 - [MassBank *Official database of the Mass Spectrometry Society of Japan*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/MassBank)
 - [:star: NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_resources/NAR-cat-list/)
 - [:star: NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
