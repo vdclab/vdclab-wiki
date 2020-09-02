@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T20:48:12.823Z
+date: 2020-09-02T20:50:54.447Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -186,6 +186,7 @@ editor: markdown
 
 ## Phylogeny Tools
 
+- [Graph Splitting *Phylogenetic analysis method, which can effectively resolve early evolution of protein families*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Graph-Splitting)
 - [IQ-TREE *Efficient software for phylogenomic inference*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/IQ-TREE)
 - [NGPhylogeny *Reconstructing and analysing phylogenetic relationships*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
 - [Simple Phylogeny *Provides access to phylogenetic tree generation methods from the ClustalW2*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Simple-Phylogeny)
