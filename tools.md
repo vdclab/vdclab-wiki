@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T21:31:23.870Z
+date: 2020-09-02T21:55:16.107Z
 tags: category
 editor: markdown
 ---
@@ -51,6 +51,8 @@ editor: markdown
 - [PDBeMotif *Fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PDBeMotif)
 - [:star: Phobius *Prediction of transmembrane topology and signal peptides*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
 - [:star: PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
+- [:star: ProteomeHD *Protein Co-regulation Analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ProteomeHD)
+- [ProtFus *Resource that has information about fusion proteins and their interactions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ProtFus)
 - [:star: PSORTb *Precise bacterial localization prediction tool*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PSORTb)
 - [RDP *Aligned and annotated Bacterial and Archaeal 16S rRNA sequences*](https://vdclab-wiki.herokuapp.com/tools/analysis/RDP/)
 - [:star: SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
@@ -60,6 +62,7 @@ editor: markdown
 - [:star: TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [TISSUES *Tissue expression database*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TISSUES)
 - [:star: TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
+- [:star: TopSearch *Gateway to protein structures and their structural relationships*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TopSearch)
 - [ViennaRNA *Several stand-alone programs for the prediction and comparison of RNA secondary structures*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ViennaRNA)
 - [:star: Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
