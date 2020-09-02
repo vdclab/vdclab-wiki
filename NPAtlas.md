@@ -2,7 +2,7 @@
 title: The Natural Products Atlas
 description: The Natural Products Atlas provides a unique tools for exploring natural products chemical space, offering perspective on the position that any molecule occupies.
 published: true
-date: 2020-08-09T19:54:44.287Z
+date: 2020-09-02T21:55:58.672Z
 tags: bacteria, tool, fungi, specialized search, resource center, database, metabolism
 editor: markdown
 ---
@@ -31,7 +31,7 @@ Excellent for finding information based upon a chemical structure or chemical na
 - May require some additional knowledge of chemical structures, producing organisms and/or their products to leverage the tools' optimum potential
 
 ## Tutorials
-- [Guided Tutorials of the Browser, Tools, and Overall Platform](https://www.npatlas.org/joomla/index.php/tutorials)
+- [The Natural Products Atlas *Guided Tutorials of the Browser, Tools, and Overall Platform*](https://www.npatlas.org/joomla/index.php/tutorials)
  {.links-list}
  
 ## Citation 
