@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T21:26:19.582Z
+date: 2020-09-02T21:31:23.870Z
 tags: category
 editor: markdown
 ---
@@ -158,6 +158,7 @@ editor: markdown
 ## Prediction
 
 - [:star: AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
+- [AtSubP *Arabidopsis Subcellular Localization Prediction Server*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AtSubP)
 - [:star: COGcollator *Web server for analysis of distant relationships between homologous protein families*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/COGcollator)
 - [EffectiveDB *Prediction of bacterial protein secretion*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/EffectiveDB)
 - [:star: GapMind *Automated annotation of Amino acid biosynthesis*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/GapMind)
