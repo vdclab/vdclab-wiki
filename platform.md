@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-08-07T17:07:38.858Z
+date: 2020-09-02T22:13:02.702Z
 tags: category
 editor: markdown
 ---
@@ -13,6 +13,7 @@ editor: markdown
 
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [OmicsDB *Accelerating in-silico gene discovery in plants, animals and microbes*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/OmicsDB)
+- [:star: Open Targets *Comprehensive and robust data integration resource for access and visualization of drug targets*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/Open-Targets)
 {.links-list}
 
 ## Genome Browsers Within Integrated Platforms
