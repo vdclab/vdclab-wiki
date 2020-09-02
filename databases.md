@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-02T21:38:25.083Z
+date: 2020-09-02T22:13:33.675Z
 tags: category
 editor: markdown
 ---
@@ -58,6 +58,7 @@ editor: markdown
 - [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal) 
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [:star: NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
+- [:star: NPAtlas *Designed to cover all microbially-derived natural products published*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/NPAtlas)
 - [:star: RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 - [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 {.links-list}
@@ -184,6 +185,7 @@ editor: markdown
 
 - [:star: APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
 - [DIP *Catalogs experimentally determined interactions between proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/DIP)
+- [ChiPPI *Chimeric Protein-protein Interaction Server*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/ChiPPI)
 - [Emili Lab Database *Emili Lab research findings accessed via public databases*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Emili-Lab-Database)
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
