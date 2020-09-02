@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-02T21:08:49.245Z
+date: 2020-09-02T21:38:25.083Z
 tags: category
 editor: markdown
 ---
@@ -50,8 +50,9 @@ editor: markdown
 
 ## General databases
 
-- [:star: DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
 - [cBiT *Repository that offers biomaterial-based transcriptomics data together with biomaterial metadata*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/cBiT)
+- [:star: DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
+- [:star: ECOD *Hierarchical classification of protein domains according to their evolutionary relationships*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ECOD)
 - [:star: InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
 - [JGI *Joint Genome Institute - Main webiste*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/JGI)
 - [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal) 
@@ -150,6 +151,7 @@ editor: markdown
 - [:star: COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
 - [eFP *Schematic representation of data for Arabidopsis seedlings*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/eFP)
 - [GenExpDB *Repository for E. coli gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/GenExpDB)
+- [Harmonizome *Comprehensive resource of knowledge about genes and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/Harmonizome)
 - [NCBI *Gene Expression Omnibus (GEO)*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/NCBI-GEO)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
 {.links-list}
