@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T21:30:11.737Z
+date: 2020-09-02T21:36:19.376Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -341,6 +341,7 @@ editor: markdown
 - [NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [Phobius *Prediction of transmembrane topology and signal peptides*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
+- [ProteomeHD *Protein Co-regulation Analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ProteomeHD)
 - [PSORTb *Precise bacterial localization prediction tool*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PSORTb)
 - [SignalP *Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SignalP)
 - [SoftBerry *Tools for genomic using computational methods of high throughput biomedical data analysis*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SoftBerry)
