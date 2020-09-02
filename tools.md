@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T20:57:39.933Z
+date: 2020-09-02T21:26:19.582Z
 tags: category
 editor: markdown
 ---
@@ -130,6 +130,11 @@ editor: markdown
 - [YeastEnrichr *New gene list enrichment analysis tool for Saccharomyces cerevisiae*](https://vdclab-wiki.herokuapp.com/en/tools/gene_ontology/YeastEnrichr)
 {.links-list}
 
+## Motifs Analysis Tools
+
+- [:star: MyHits *Hits is a free database devoted to protein domains*](https://vdclab-wiki.herokuapp.com/en/tools/motifs-analysis-tools/MyHits)
+{.links-list}
+
 ## Phylogeny Tools
 
 - [:star: Graph Splitting *Phylogenetic analysis method, which can effectively resolve early evolution of protein families*](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/Graph-Splitting)
@@ -155,6 +160,7 @@ editor: markdown
 - [:star: AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
 - [:star: COGcollator *Web server for analysis of distant relationships between homologous protein families*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/COGcollator)
 - [EffectiveDB *Prediction of bacterial protein secretion*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/EffectiveDB)
+- [:star: GapMind *Automated annotation of Amino acid biosynthesis*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/GapMind)
 - [:star: Genome3D *Provides consensus structural annotations and 3D models for sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/Genome3D)
 - [miRPD *Explicitly inferring miRNA-protein-disease associations*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/miRPD)
 - [MMTK *Open Source program library for molecular simulation applications*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/MMTK)
