@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T20:51:06.774Z
+date: 2020-09-02T20:57:39.933Z
 tags: category
 editor: markdown
 ---
@@ -105,6 +105,7 @@ editor: markdown
 ## Gene Neighborhoods
 
 - [FunGeco *Functional potential of bacterial genomes and microbiomes from gene context information*](https://vdclab-wiki.herokuapp.com/en/tools/gene-neighborhoods/FunGeco)
+- [Phagonaute *Phagonaute is a new phage genome browser*](https://vdclab-wiki.herokuapp.com/en/tools/gene-neighborhoods/Phagonaute)
 {.links-list}
 
 ## Gene Networks
