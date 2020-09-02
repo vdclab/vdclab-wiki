@@ -2,13 +2,14 @@
 title: Literature Search
 description: Tools use to find literature connected to biological sequences
 published: true
-date: 2020-07-02T22:18:28.794Z
+date: 2020-09-02T21:13:46.044Z
 tags: category
 editor: markdown
 ---
 
 # Literature Search
 
+- [:star: Connected Papers *Explore connected papers in a visual graph*](https://vdclab-wiki.herokuapp.com/en/literature-search/Connected-Papers)
 - [Europe-PMC *Open science platform that enables access to a worldwide collection of life science publications*](https://vdclab-wiki.herokuapp.com/en/literature-search/Europe-PMC)
 - [:star: PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
 - [:star: PubMed Advanced Search Builder *Builder to do advanced search on PubMed*](https://vdclab-wiki.herokuapp.com/en/literature-search/PubMed-Advanced-Search-Builder)
