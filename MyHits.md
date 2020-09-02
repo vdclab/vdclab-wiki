@@ -2,7 +2,7 @@
 title: MyHits
 description: Hits is a free database devoted to protein domains.
 published: true
-date: 2020-09-02T21:15:41.675Z
+date: 2020-09-02T21:15:55.013Z
 tags: sequence matching, sequence similarity, analysis tools, database, sequnce analysis, protein domain
 editor: markdown
 ---
@@ -11,8 +11,6 @@ editor: markdown
 
 > Hits is a free database devoted to protein domains. It is also a collection of tools for the investigation of the relationships between protein sequences and motifs described on them. These motifs are defined by an heterogeneous collection of predictors, which currently includes regular expressions, generalized profiles and hidden Markov models. 
 {.is-info}
-
- 
 
 ## Website 
 
@@ -23,9 +21,10 @@ editor: markdown
 - Includes a suite of tools used for querying sequences, search terms, accessions against their databases; useful for additional motif/domain identification analysis
 - HMMER3 tool to build HMM profiles from multiple alignments
 - Many pattern finding tools
-## Ease of Use
-Requires some knowledge of the programs used for sequence analysis, alignment, matching, etc.
 
+## Ease of Use
+
+Requires some knowledge of the programs used for sequence analysis, alignment, matching, etc.
 
 ## Citations
 
