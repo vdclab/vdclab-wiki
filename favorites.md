@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T21:36:19.376Z
+date: 2020-09-02T21:55:30.535Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -349,6 +349,7 @@ editor: markdown
 - [SynMap *Generates a syntenic dotplot between two organisms and identifies syntenic regions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/SynMap)
 - [TargetP *Subcellular location of proteins: mitochondrial, chloroplastic, secretory pathway*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TargetP)
 - [TMHMM *Prediction of transmembrane helices in proteins*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TMHMM)
+- [TopSearch *Gateway to protein structures and their structural relationships*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/TopSearch)
 - [Zhang Lab *Web page dedicated to the research, publications, information of the Zhang Lab*](https://vdclab-wiki.herokuapp.com/tools/analysis/Zhang-Lab)
 {.links-list}
 
