@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T21:27:06.458Z
+date: 2020-09-02T21:30:11.737Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -248,6 +248,7 @@ editor: markdown
 - [NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
 - [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
+- [Online Bioinformatics Resources Collection *Contains annotations and links for 2449 bioinformatics databases and software tools*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/OBRC)
 - [RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 {.links-list}
 
