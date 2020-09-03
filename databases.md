@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-02T22:13:33.675Z
+date: 2020-09-03T15:05:13.708Z
 tags: category
 editor: markdown
 ---
@@ -184,6 +184,7 @@ editor: markdown
 ## Protein-Protein Interaction Databases
 
 - [:star: APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
+- [CellPhoneDB *Repository of curated receptors, ligands and their interactions*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/CellPhoneDB)
 - [DIP *Catalogs experimentally determined interactions between proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/DIP)
 - [ChiPPI *Chimeric Protein-protein Interaction Server*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/ChiPPI)
 - [Emili Lab Database *Emili Lab research findings accessed via public databases*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Emili-Lab-Database)
