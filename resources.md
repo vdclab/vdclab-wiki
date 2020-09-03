@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-02T21:29:30.494Z
+date: 2020-09-03T15:27:39.819Z
 tags: category
 editor: markdown
 ---
@@ -99,6 +99,7 @@ editor: markdown
 - [BioInfo3D *A suite of freely available web services for protein structural analysis*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/BioInfo3D)
 - [CyBase *The database of cyclic proteins*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/CyBase)
 - [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/ExPASy-Proteomics)
+- [MetOSite *Compilation of oxidized methionine, post-translational modifications*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/MetOSite)
 - [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
 {.links-list}
 
