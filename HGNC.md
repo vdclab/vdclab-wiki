@@ -2,7 +2,7 @@
 title: HUGO Gene Nomenclature Committee 
 description: The resource for approved human gene nomenclature.
 published: true
-date: 2020-09-03T14:41:35.223Z
+date: 2020-09-03T14:42:00.718Z
 tags: registry, database, resource, gene, model organism, organism-specific
 editor: markdown
 ---
