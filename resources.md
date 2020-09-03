@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-03T15:27:39.819Z
+date: 2020-09-03T15:57:59.923Z
 tags: category
 editor: markdown
 ---
