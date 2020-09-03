@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-03T21:46:22.556Z
+date: 2020-09-03T21:47:13.729Z
 tags: category
 editor: markdown
 ---
@@ -199,6 +199,7 @@ editor: markdown
 - [IntAct *Open source database system and analysis tools for molecular interaction data*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/IntAct)
 - [PhosphoSitePlus *Comprehensive information and tools for the study of protein post-translational modifications*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/PhosphoSitePlus)
 - [Stitch *Database of known and predicted interactions between chemicals and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/Stitch)
+- [:star: ComplexPortal *Curated encyclopaedic resource of macromolecular complexes from a number of key model organisms*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/ComplexPortal)
 {.links-list}
 
 ## Transcription Factor Databases
