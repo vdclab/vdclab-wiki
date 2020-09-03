@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-03T15:58:01.172Z
+date: 2020-09-03T21:27:11.913Z
 tags: category
 editor: markdown
 ---
@@ -137,6 +137,7 @@ editor: markdown
 
 ## Motifs Analysis Tools
 
+- [Domain mapping of disease mutations *Database in which each disease mutation can be displayed by its gene*](https://vdclab-wiki.herokuapp.com/en/tools/motifs-analysis-tools/DMDM)
 - [:star: MyHits *Hits is a free database devoted to protein domains*](https://vdclab-wiki.herokuapp.com/en/tools/motifs-analysis-tools/MyHits)
 {.links-list}
 
