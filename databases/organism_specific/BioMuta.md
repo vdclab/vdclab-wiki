@@ -2,8 +2,8 @@
 title: BioMuta
 description: BioMuta is a single-nucleotide variation (SNV) in cancer and disease association database where variations are mapped to genomes and RefSeq nucleotide entries, and unified through UniProtKB/Swiss-Prot positional coordinates.
 published: true
-date: 2020-09-03T15:43:29.969Z
-tags: genomes, proteins, data capture, database, resource, browser, data visualization, data export, eukaryota, curated, phenotype, mutant, human
+date: 2020-09-03T15:55:00.716Z
+tags: human, genomes, proteins, data capture, database, resource, cancer, browser, data visualization, data export, eukaryota, curated, phenotype, mutant
 editor: markdown
 ---
 
