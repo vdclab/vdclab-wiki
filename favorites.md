@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-03T21:47:37.624Z
+date: 2020-09-03T22:08:16.394Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -71,6 +71,7 @@ editor: markdown
 
 ## General databases
 
+- [Database_Commons *Provides users with access to a collection of publicly available biological databases*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Database_Commons)
 - [DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
 - [ECOD *Hierarchical classification of protein domains according to their evolutionary relationships*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ECOD)
 - [InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
