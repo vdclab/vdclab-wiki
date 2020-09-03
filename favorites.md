@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-03T22:08:16.394Z
+date: 2020-09-03T22:09:47.663Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -102,6 +102,7 @@ editor: markdown
 
 #### Bacterial databases
 
+- [eLMSG *Intended to integrate microbial systematics, genomics and phenomics*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/eLMSG)
 - [PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
 {.links-list}
