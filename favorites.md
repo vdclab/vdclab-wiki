@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-03T22:11:45.857Z
+date: 2020-09-03T22:15:33.420Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -290,6 +290,7 @@ editor: markdown
 ## Protein Analysis Resources
 
 - [ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/analysis/ExPASy-Proteomics)
+- [SFLD *Hierarchical classification of enzymes that relates specific sequence-structure features*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/SFLD)
 {.links-list}
 
 # Sequence Manipulation
