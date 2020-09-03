@@ -2,8 +2,8 @@
 title: BioXpress
 description: BioXpress is a gene/miRNA expression in cancer  database with expression levels mapped to genes or miRNAs.
 published: true
-date: 2020-08-28T16:11:56.765Z
-tags: comparative genomics, data capture, dna, rna, database, transcriptomics, resource, bioinformatics, gene, browser, data visualization, gene expression, data export, omics, eukaryota, organism-specific
+date: 2020-09-03T15:54:22.823Z
+tags: human, comparative genomics, data capture, dna, rna, database, transcriptomics, resource, bioinformatics, gene, browser, data visualization, gene expression, data export, omics, eukaryota, organism-specific
 editor: markdown
 ---
 
