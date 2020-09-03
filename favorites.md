@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-03T15:57:57.544Z
+date: 2020-09-03T21:47:37.624Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -150,6 +150,7 @@ editor: markdown
 ## Protein-Protein Interaction Databases
 
 - [APID *Agile Protein Interactomes DataServer gives a thorough collection of protein interactomes*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/APID)
+- [ComplexPortal *Curated encyclopaedic resource of macromolecular complexes from a number of key model organisms*](https://vdclab-wiki.herokuapp.com/en/databases/protein-protein-interaction/ComplexPortal)
 {.links-list}
 
 ## Transcription Factor Databases
@@ -399,6 +400,7 @@ editor: markdown
 
 ## Gene Networks
 
+- [3did *3D interacting domains (3did) is a catalog of protein–protein interactions*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/3did)
 - [EcoliNet *Probabilistic functional gene network for Escherichia coli*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/EcoliNet)
 - [GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
 - [IMP *Analyze your experimental results in the functional context of gene-gene networks*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/IMP)
