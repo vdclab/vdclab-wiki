@@ -2,7 +2,7 @@
 title: COMPLEAT
 description: COMPLEAT is an online tool used to analyze high-throughput datasets (or small-scale datasets) using protein complex enrichment analysis.
 published: true
-date: 2020-08-07T15:12:18.686Z
+date: 2020-09-03T21:39:43.625Z
 tags: analysis tools, protein, protein-protein, networks, analysis tool
 editor: markdown
 ---
@@ -28,7 +28,8 @@ editor: markdown
 - P-values are used to group genes that can be further analysed by the user
 
 ## Ease of use
-> Using the tool is not difficult when using example data. Grouping genes is easy and exploring the resulting networks can be useful for finding interesting genes for certain biological processes. However, care should be taken when formatting data before uploading it to the tool.
+
+Using the tool is not difficult when using example data. Grouping genes is easy and exploring the resulting networks can be useful for finding interesting genes for certain biological processes. However, care should be taken when formatting data before uploading it to the tool.
 
 ## Help
 
