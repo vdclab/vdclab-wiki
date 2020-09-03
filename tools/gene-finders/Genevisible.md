@@ -2,7 +2,7 @@
 title: Genevisible
 description: Find the top tissues, cell lines, cancers or perturbations for your gene of interest.
 published: true
-date: 2020-08-03T20:35:04.218Z
+date: 2020-09-03T15:06:08.844Z
 tags: tool, genes, data capture, model organism, eukaryota, interaction, plant, visualization
 editor: markdown
 ---
@@ -30,4 +30,6 @@ Genevisible® brings fast and reliable gene expression profiles, while offering 
 Cite as web page
 
 Citation of [Genevestigator](https://genevestigator.com), an extension tool also provided by NEBION:
-	- Hruz T, Laule O, Szabo G, et al. Genevestigator v3: a reference expression database for the meta-analysis of transcriptomes. Adv Bioinformatics. 2008;2008:420747. doi:10.1155/2008/420747
+
+- Hruz T, Laule O, Szabo G, et al. Genevestigator v3: a reference expression database for the meta-analysis of transcriptomes. Adv Bioinformatics. 2008;2008:420747. doi:10.1155/2008/420747
+{.grid-list}
