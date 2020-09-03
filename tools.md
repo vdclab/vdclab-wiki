@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-03T22:22:22.977Z
+date: 2020-09-03T22:23:55.007Z
 tags: category
 editor: markdown
 ---
@@ -31,6 +31,7 @@ editor: markdown
 
 ## Analysis Tools
 
+- [:star: CARD *Database of antibiotic resistance genes, their products and associated phenotypes*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CARD)
 - [:star: CD-Search *Searching the Conserved Domain Database with protein or nucleotide query sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CD-Search)
 - [Center for the Study of Systems Biology *Dedicated to the research interests, publications around Jeffrey Skolnick*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Jeffrey-Skolnick)
 - [CMBL MotLoc *Uses aligned set of DNA sequence motifs  and finds similar motifs in the analyzed sequence*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/CMBL-MotLoc)
