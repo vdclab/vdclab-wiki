@@ -2,8 +2,8 @@
 title: OncoMX
 description: OncoMX: A Knowledgebase for Exploring Cancer Biomarkers in the Context of Related Cancer and Healthy Data
 published: true
-date: 2020-08-13T15:18:33.602Z
-tags: comparative genomics, data capture, dna, database, resource, bioinformatics, gene, browser, data visualization, protein, data export, eukaryota, curated, phenotype, organism-specific, mutant
+date: 2020-09-03T15:43:45.674Z
+tags: human, comparative genomics, data capture, dna, database, resource, bioinformatics, gene, browser, data visualization, protein, data export, eukaryota, curated, phenotype, organism-specific, mutant
 editor: markdown
 ---
 
