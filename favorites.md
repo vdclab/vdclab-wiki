@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-02T22:12:53.095Z
+date: 2020-09-03T15:08:58.658Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -392,6 +392,7 @@ editor: markdown
 ## Gene finders
 
 - [BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
+- [Genevisible *Find the top tissues, cell lines, cancers or perturbations for your gene of interest*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/Genevisible)
 - [HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
 - [InterMine *Integrates biological data sources, making it easy to query and analyse data*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/InterMine)
 {.links-list}
