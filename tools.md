@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-02T22:10:51.980Z
+date: 2020-09-03T15:58:01.172Z
 tags: category
 editor: markdown
 ---
@@ -100,6 +100,7 @@ editor: markdown
 ## Gene finders
 
 - [:star: BLAST *Finds regions of local similarity between sequences*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/BLAST)
+- [:star: Genevisible *Find the top tissues, cell lines, cancers or perturbations for your gene of interest*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/Genevisible)
 - [:star: HMMER *Fast and sensitive homology searches*](https://vdclab-wiki.herokuapp.com/tools/gene-finders/EMBL-EBI-HMMER/)
 - [:star: InterMine *Integrates biological data sources, making it easy to query and analyse data*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/InterMine)
 - [ProtPhylo *Web server to retrieve phenotype-to-protein and protein-to-protein functional associations*](https://vdclab-wiki.herokuapp.com/en/tools/gene-finders/ProtPhylo)
