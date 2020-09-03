@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-03T21:36:47.199Z
+date: 2020-09-03T21:41:19.125Z
 tags: category
 editor: markdown
 ---
@@ -116,6 +116,7 @@ editor: markdown
 
 - [:star: 3did *3D interacting domains (3did) is a catalog of protein–protein interactions*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/3did)
 - [AraNet *Functional gene network for Arabidopsis thaliana*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/AraNet)
+- [COMPLEAT *Online tool used to analyze high-throughput datasets using protein complex enrichment analysis*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/COMPLEAT)
 - [:star: EcoliNet *Probabilistic functional gene network for Escherichia coli*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/EcoliNet)
 - [:star: GeneMANIA *Predict the functions of your favorite genes and gene sets*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GeneMANIA)
 - [GPS-Prot *Data Visualization for Protein-Protein Interactions*](https://vdclab-wiki.herokuapp.com/en/tools/gene-networks/GPS-Prot)
