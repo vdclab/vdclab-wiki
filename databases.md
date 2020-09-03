@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-03T21:47:13.729Z
+date: 2020-09-03T21:51:59.361Z
 tags: category
 editor: markdown
 ---
@@ -64,6 +64,9 @@ editor: markdown
 {.links-list}
 
 ### Eukaryote Databases
+
+- [SIGNOR *Organizes and stores in a structured format signaling information in mammals*](https://vdclab-wiki.herokuapp.com/en/databases/eukaryote_databases/SIGNOR)
+{.links-list}
 
 #### Plant Databases
 
