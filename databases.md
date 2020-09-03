@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-03T15:58:03.263Z
+date: 2020-09-03T21:46:22.556Z
 tags: category
 editor: markdown
 ---
@@ -48,7 +48,7 @@ editor: markdown
 - [:star: SEED Viewer *Allows users to access the latest curated datasets for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SEED-Viewer)
 {.links-list}
 
-## General databases
+## General Databases
 
 - [cBiT *Repository that offers biomaterial-based transcriptomics data together with biomaterial metadata*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/cBiT)
 - [:star: DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
@@ -63,9 +63,9 @@ editor: markdown
 - [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 {.links-list}
 
-### Eukaryote databases
+### Eukaryote Databases
 
-#### Plant databases
+#### Plant Databases
 
 - [Gramene *Integrated data resource for comparative functional genomics in crops and model plant species*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/Gramene)
 - [JGI-Phytozome *Plant Comparative Genomics portal of the Department of Energy's Joint Genome Institute*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/JGI-Phytozome)
@@ -76,7 +76,7 @@ editor: markdown
 - [The Plant Proteome DataBase *Database for Arabidopsis thaliana and maize (Zea mays)*](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/PPDB)
 {.links-list}
 
-#### Organism specific databases 
+#### Organism Specific Databases 
 
 - [:star: Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [ALGAEpath *Coexpression Analysis on algae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ALGAEpath-Coexpression-Analysis)
@@ -94,14 +94,14 @@ editor: markdown
 - [:star: SPELL *Query-driven search engine for large gene expression microarray compendia on S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SPELL)
 {.links-list} 
 
-### Prokaryote databases
+### Prokaryote Databases
 
 - [ATGCs *Resource for micro- and macro-evolutionary studies of Bacteria and Archaea*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ATCGs)
 - [:star: JGI-IMG/Microbes *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/JGI-IMG)
 - [NCBI *Microbial Database*](https://vdclab-wiki.herokuapp.com/databases/general_databases/NCBI-genomes-microbes/)
 {.links-list}
 
-#### Bacterial databases
+#### Bacterial Databases
 
 - [ASAP *Relational database distributes genome sequence data and gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/ASAP)
 - [OperonDB *Predicting operons in microbial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/OperonDB)
@@ -111,7 +111,7 @@ editor: markdown
 - [xBASE *Genome database aimed at helping laboratory-based bacteriologists*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/xBASE)
 {.links-list}
 
-##### Organism specific databases
+##### Organism Specific Databases
 
 - [:star: AureoWiki *Repository of the Staphylococcus aureus research & annotation*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/AureoWiki)
 - [CyanoEXpress *Curated genome-wide expression data for the cyanobacterium Synechocystis sp. PCC 6803*](https://vdclab-wiki.herokuapp.com/databases/organism_specific/CyanoEXpress/)
@@ -126,12 +126,12 @@ editor: markdown
 - [:star: TB Genomes Database *An integrated platform for Tuberculosis research*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TBDB)
 {.links-list}
 
-#### Archaeal databases
+#### Archaeal Databases
 
 - [:star: UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
 {.links-list}
 
-### Virus databases
+### Virus Databases
 
 - [:star: JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 - [GiantVirus *Mimivirus and other large DNA viruses*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/GiantVirus)
@@ -142,12 +142,12 @@ editor: markdown
 - [VOGDB *Virus orthologous groups*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/VOGDB)
 {.links-list}
 
-## Metabolic pathways
+## Metabolic Pathways
 
 - [ModelSEED *Resource for the reconstruction, exploration, comparison, and analysis of metabolic models*](https://vdclab-wiki.herokuapp.com/en/databases/metabolic_pathways/ModelSEED)
 {.links-list}
 
-## Microarray and RNAseq databases
+## Microarray and RNAseq Databases
 
 - [:star: ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [ArrayExpress *Functional Genomics Data stores data from high-throughput functional genomics experiments*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ArrayExpress)
