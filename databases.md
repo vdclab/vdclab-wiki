@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-03T21:51:59.361Z
+date: 2020-09-03T22:10:04.792Z
 tags: category
 editor: markdown
 ---
@@ -51,6 +51,7 @@ editor: markdown
 ## General Databases
 
 - [cBiT *Repository that offers biomaterial-based transcriptomics data together with biomaterial metadata*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/cBiT)
+- [:star: Database_Commons *Provides users with access to a collection of publicly available biological databases*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Database_Commons)
 - [:star: DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
 - [:star: ECOD *Hierarchical classification of protein domains according to their evolutionary relationships*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ECOD)
 - [:star: InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
@@ -107,6 +108,7 @@ editor: markdown
 #### Bacterial Databases
 
 - [ASAP *Relational database distributes genome sequence data and gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/ASAP)
+- [:star: eLMSG *Intended to integrate microbial systematics, genomics and phenomics*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/eLMSG)
 - [OperonDB *Predicting operons in microbial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/OperonDB)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
 - [PRODORIC *Integrated approach to provide information about molecular networks in prokaryotes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
