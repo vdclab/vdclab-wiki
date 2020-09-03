@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-03T15:08:58.658Z
+date: 2020-09-03T15:57:57.544Z
 tags: reference, resource reference
 editor: markdown
 ---
