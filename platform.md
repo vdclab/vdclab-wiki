@@ -2,7 +2,7 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-09-03T15:03:31.232Z
+date: 2020-09-03T15:58:04.811Z
 tags: category
 editor: markdown
 ---
