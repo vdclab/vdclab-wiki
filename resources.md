@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-03T22:15:08.625Z
+date: 2020-09-03T22:20:42.742Z
 tags: category
 editor: markdown
 ---
@@ -85,6 +85,7 @@ editor: markdown
 - [SAT *Web page describing various structural alignment tools and resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/SAT)
 - [Scinapse *Free academic search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/Scinapse)
 - [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
+- [VARIDT *Variability of drug transporter database*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/VARIDT)
 - [Wiki bio databases *Wiki page that list biological databases*](https://vdclab-wiki.herokuapp.com/resources/general_resources/Wiki-bio-dbs/)
 {.links-list}
 
