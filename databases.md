@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-03T22:10:04.792Z
+date: 2020-09-03T22:24:43.758Z
 tags: category
 editor: markdown
 ---
@@ -128,6 +128,7 @@ editor: markdown
 - [SalCom *HintonLab's Salmonella enterica serovar Typhimurium Gene Expression Compendium*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SalCom)
 - [SToPSdb *Sub-cellular Topology of Polypeptides in Streptomyces*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SToPSdb)
 - [:star: SubtiWiki *Relational database of B. subtilis*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SubtiWiki)
+- [:star: SynWiki *Dedicated to the current generated functional annotation of the synthetic organism JCVI-syn3.0/syn3A*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/SynWiki)
 - [:star: TB Genomes Database *An integrated platform for Tuberculosis research*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TBDB)
 {.links-list}
 
