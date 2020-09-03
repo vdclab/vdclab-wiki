@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-03T22:10:01.663Z
+date: 2020-09-03T22:15:08.625Z
 tags: category
 editor: markdown
 ---
@@ -102,6 +102,7 @@ editor: markdown
 - [:star: ExPASy Proteomics *Bioinformatic resources for proteomics*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/ExPASy-Proteomics)
 - [MetOSite *Compilation of oxidized methionine, post-translational modifications*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/MetOSite)
 - [Protein Structure Prediction Center *Advance the methods of identifying protein structure from sequence*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/Prediction-Center)
+- [:star: SFLD *Hierarchical classification of enzymes that relates specific sequence-structure features*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/SFLD)
 {.links-list}
 
 ## Specialized search
