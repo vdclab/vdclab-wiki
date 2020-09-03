@@ -2,7 +2,7 @@
 title: GenomeRNAi
 description: GenomeRNAi is a database containing phenotypes from RNA interference (RNAi) screens in Drosophila and Homo sapiens.
 published: true
-date: 2020-08-03T19:56:31.007Z
+date: 2020-09-03T14:44:27.246Z
 tags: genomes, data capture, rna, database, gene, model organism, phenotype, organism-specific
 editor: markdown
 ---
