@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-03T15:57:59.923Z
+date: 2020-09-03T22:06:37.013Z
 tags: category
 editor: markdown
 ---
@@ -24,6 +24,7 @@ editor: markdown
 - [GenAtlas *Scientific and clinical digests on genes and diseases*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GenAtlas)
 - [:star: GeneCards *The Human Gene Database*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/GeneCards)
 - [Human Brain Map *Multimodal atlas of the human brain, integrating anatomic and genomic information*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/Human-Brain-Map)
+- [HPM *Resource that reorganizes mass spectrometry-based proteomics data*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/HPM)
 - [NIH LINCS *Network-based catalog of gene expression and other cellular processes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/NIH-LINCS)
 - [OMIM *Comprehensive, authoritative compendium of human genes and genetic phenotypes*](https://vdclab-wiki.herokuapp.com/en/databases/phenotypes-fitness/OMIM)
 - [X2K *Infers upstream regulatory networks from signatures of differentially expressed genes*](https://vdclab-wiki.herokuapp.com/en/resources/eukaryotes/X2K)
