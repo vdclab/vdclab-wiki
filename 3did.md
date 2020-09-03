@@ -2,7 +2,7 @@
 title: 3did
 description: The database of 3D interacting domains (3did) is a catalog of protein–protein interactions for which a high-resolution 3D structure is known.
 published: true
-date: 2020-08-05T17:36:17.777Z
+date: 2020-09-03T21:28:35.992Z
 tags: database, network, protein domain, interaction, protein-protein, motif, networks, modeling
 editor: markdown
 ---
@@ -28,7 +28,8 @@ editor: markdown
 
 
 ## Ease of use
-> This tool is very easy to use, Query domains are auto filled and can recognize alternative names for domains. The networks are clean and clicking on nodes builds networks for the selected nodes.
+
+This tool is very easy to use, Query domains are auto filled and can recognize alternative names for domains. The networks are clean and clicking on nodes builds networks for the selected nodes.
 
 ## Help
 
