@@ -2,7 +2,7 @@
 title: NASA GeneLab
 description: GeneLab - the first comprehensive space-related omics database
 published: true
-date: 2020-08-13T18:06:11.550Z
+date: 2020-09-04T15:50:18.727Z
 tags: genomics, specialized search, database, gene, protein, gene expression, proteomics, analysis tool, open source
 editor: markdown
 ---
@@ -28,7 +28,8 @@ editor: markdown
  - Users can upload their own data to be used in the analysis suite
  
 ## Ease of use
-> While the database portion of this website is simple enough to use, the analysis tool has a lot of depth and utility that users will need to get used to and learn how to use, but the potential for large data set analysis is worth the time.
+
+While the database portion of this website is simple enough to use, the analysis tool has a lot of depth and utility that users will need to get used to and learn how to use, but the potential for large data set analysis is worth the time.
 
 
 ## Help
