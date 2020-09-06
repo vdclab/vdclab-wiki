@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-06T16:18:01.083Z
+date: 2020-09-06T16:24:25.128Z
 tags: category
 editor: markdown
 ---
@@ -19,6 +19,7 @@ editor: markdown
 - [:star: Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
 - [PROSITE *Database of protein families and domains*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ExPASy-PROSITE)
 - [SABIO-RK *Curated database that contains information about biochemical reactions*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/SABIO-RK)
+- [:star: SimpleClinVar *Web server to explore and retrieve gene and disease variants aggregated in ClinVar database*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/SimpleClinVar)
 {.links-list}
 
 ## Database Searches
