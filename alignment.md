@@ -2,7 +2,7 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-08-07T01:02:55.020Z
+date: 2020-09-06T16:11:08.020Z
 tags: category
 editor: markdown
 ---
@@ -20,6 +20,7 @@ editor: markdown
 - [:star: EMBL-EBI *Multiple Sequence Alignment*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/EMBL-EBI-MSA)
 - [:star: MAFFT *Multiple alignment program for amino acid or nucleotide sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MAFFT)
 - [:star: MultAlin *MSA from a group of related sequences using progressive pairwise alignments*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MultAlin)
+- [:star: PSSMSearch *Web application to discover novel protein motifs (SLiMs, mORFs, miniMotifs) and PTM sites*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/PSSMSearch)
 - [:star: T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
