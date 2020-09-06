@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-06T16:24:25.128Z
+date: 2020-09-06T16:27:52.165Z
 tags: category
 editor: markdown
 ---
@@ -44,6 +44,7 @@ editor: markdown
 - [GenomeNet Database *Database of integrated genomes*](https://vdclab-wiki.herokuapp.com/databases/data-integration/genomenet/)
 - [:star: JGI GOLD *Genomes Online Database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/JGI-GOLD/)
 - [PDBe-KB *Community-driven resource managed by the PDBe team*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/PDBe-KB)
+- [:star: QuartataWeb *User-friendly server developed for polypharmacological and chemogenomics analyses*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/QuartataWeb)
 - [Reactome *Signaling and metabolic molecules and their relations organized into biological pathways*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/Reactome)
 - [SCOP2 *Description of the structural and evolutionary relationships between all proteins whose structure is known*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOP2)
 - [:star: SCOPe *Database developed at the Berkeley Lab and UC Berkeley*](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
