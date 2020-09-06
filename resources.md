@@ -2,7 +2,7 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-03T22:20:42.742Z
+date: 2020-09-06T16:35:52.742Z
 tags: category
 editor: markdown
 ---
@@ -50,6 +50,7 @@ editor: markdown
 
 ## Experimental Planning Resources
 
+- [:star: ABCDdb *ABCD database is a manually curated depository of sequenced antibodies*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/ABCDdb)
 - [:star: ApE *Tool that allows information and editing of plasmids, as well as tools for data visualization*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/ApE)
 - [Gene Infinity *Online place to find information and resources needed in molecular biology and biochemistry*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Gene-Infinity)
 - [:star: NEBcutter *Take DNA sequence and find the large, open reading frames using the E.coli genetic code*](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/NEBcutter)
