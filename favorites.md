@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-06T16:29:49.166Z
+date: 2020-09-06T16:33:58.614Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -320,6 +320,7 @@ editor: markdown
 ## Modeling Protein Structures
 
 - [GalaxyWEB *Web server for protein structure prediction, refinement, and related methods*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/GalaxyWEB)
+- [IntFOLD *Web resource for high performance protein structure and function prediction*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/IntFOLD)
 - [RaptorX *Protein structure prediction server*](https://vdclab-wiki.herokuapp.com/en/structure/modeling-protein-structures/RaptorX)
 {.links-list}
 
