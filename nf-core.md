@@ -2,14 +2,14 @@
 title: nf-core
 description: A community effort to collect a curated set of analysis pipelines built using Nextflow.
 published: true
-date: 2020-09-06T16:18:22.797Z
+date: 2020-09-06T16:18:28.993Z
 tags: community, curated, computational biology, analysis tool
 editor: markdown
 ---
 
 # nf-core
 
-> nf-core is a framework that provides a community-driven, peer-reviewed platform for the development of best practice analysis pipelines written in Nextflow.
+> Nf-core is a framework that provides a community-driven, peer-reviewed platform for the development of best practice analysis pipelines written in Nextflow.
 {.is-info}
 
  
