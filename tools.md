@@ -2,7 +2,7 @@
 title: Tools
 description: List of the tools' page that exist on this wiki
 published: true
-date: 2020-09-03T22:23:55.007Z
+date: 2020-09-06T16:19:54.842Z
 tags: category
 editor: markdown
 ---
@@ -49,6 +49,7 @@ editor: markdown
 - [MetNetDB *Information on networks of metabolic and regulatory and interactions in Arabidopsis*](https://vdclab-wiki.herokuapp.com/tools/analysis/MetNetDB)
 - [:star: MitoMiner *Database of mammalian mitochondrial localisation evidence, phenotypes, and diseases*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MitoMiner)
 - [:star: NCBI *Conserved Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
+- [nf-core *A community effort to collect a curated set of analysis pipelines built using Nextflow*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/nf-core)
 - [:star: NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
 - [PDBeMotif *Fast and powerful search tool that facilitates exploration of the Protein Data Bank (PDB)*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/PDBeMotif)
 - [:star: Phobius *Prediction of transmembrane topology and signal peptides*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
