@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-06T16:14:24.134Z
+date: 2020-09-06T16:24:48.995Z
 tags: reference, resource reference
 editor: markdown
 ---
@@ -56,6 +56,7 @@ editor: markdown
 
 - [MetaCyc *Curated database of experimentally elucidated metabolic pathways*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/MetaCyc)
 - [Pathguide *Provides an overview of more than 190 biological pathway and network databases*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/Pathguide)
+- [SimpleClinVar *Web server to explore and retrieve gene and disease variants aggregated in ClinVar database*](https://vdclab-wiki.herokuapp.com/en/databases/enzyme-pathway/SimpleClinVar)
 {.links-list}
 
 ## Data Integration Databases
