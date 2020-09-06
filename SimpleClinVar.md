@@ -2,7 +2,7 @@
 title: Simple ClinVar
 description: Simple ClinVar: an interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.
 published: true
-date: 2020-08-11T17:32:39.525Z
+date: 2020-09-06T16:22:28.669Z
 tags: genes, specialized search, database, protein, gene annotation, mutant
 editor: markdown
 ---
@@ -26,11 +26,13 @@ editor: markdown
 
  
 ## Ease of use
-> A standard database with an easy to use design and intuitive organization.
+
+A standard database with an easy to use design and intuitive organization.
 
 
 ## Help
-> There is no help section, but the tool is easy enough to use. Keep queries general and you may need to try alternative names for genes.
+
+There is no help section, but the tool is easy enough to use. Keep queries general and you may need to try alternative names for genes.
 
 
 ## Citations
