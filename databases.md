@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-06T16:27:52.165Z
+date: 2020-09-06T16:29:36.758Z
 tags: category
 editor: markdown
 ---
@@ -111,6 +111,7 @@ editor: markdown
 #### Bacterial Databases
 
 - [ASAP *Relational database distributes genome sequence data and gene expression data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/ASAP)
+- [:star: BacMap *An Interactive Atlas for Exploring Bacterial Genomes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/BacMap)
 - [:star: eLMSG *Intended to integrate microbial systematics, genomics and phenomics*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/eLMSG)
 - [OperonDB *Predicting operons in microbial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/OperonDB)
 - [:star: PATRIC *Data and analysis tools to support biomedical research on bacterial infectious diseases*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/patric/)
