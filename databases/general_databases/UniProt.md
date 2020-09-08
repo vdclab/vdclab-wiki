@@ -2,7 +2,7 @@
 title: UniProt
 description: The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.
 published: true
-date: 2020-09-08T15:59:44.844Z
+date: 2020-09-08T16:00:21.858Z
 tags: aggregator, archaea, bacteria, data capture, resource center, database, proteomes, sequence identity, eukaryota, id mapping, locus tag
 editor: markdown
 ---
@@ -33,7 +33,7 @@ editor: markdown
 - [The UniProt Consortium UniProt: a worldwide hub of protein knowledge.](https://academic.oup.com/nar/article/47/D1/D506/5160987) Nucleic Acids Res. 47: D506-515 (2019)
 {.grid-list}
 
-# Selected entry points to EMBL-EBI tools/data
+# Selected entry points to UniProt tools/data
 
 ## Database Linker
 
