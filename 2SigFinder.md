@@ -2,8 +2,9 @@
 title: 2SigFinder
 description: 2SigFinder: the first combined use of small-scale and large-scale statistical testing for genomic island detection.
 published: true
-date: 2020-05-27T18:46:54.056Z
+date: 2020-09-08T19:54:15.132Z
 tags: genomes, prediction, clustering
+editor: markdown
 ---
 
 # 2SigFinder
@@ -12,7 +13,7 @@ tags: genomes, prediction, clustering
 >
 > We also compared the proposed method with the comparative genomics and composition-based approaches. In simulations with alien frag-ments from real genomes, the CG-MJSD searches the maximum of the MJSD score in terms of the GC-content bias, making it much faster in the boundary detection of the genomic islands while main-taining a similar error rate.
 >
-> From real biological data, 2SigFinder identified genomic islands from a sin-gle genome and reported robust results across different experiments, without annotated information of genomes or prior knowledge from other datasets. 
+> From real biological data, 2SigFinder identified genomic islands from a single genome and reported robust results across different experiments, without annotated information of genomes or prior knowledge from other datasets. 
 {.is-info}
 
  
@@ -21,6 +22,10 @@ tags: genomes, prediction, clustering
 
 - [2SigFinder *Main Page*](http://bioinfo.zstu.edu.cn/2SigFinder/)
  {.links-list}
+ 
+>  9/8/2020 no acess to website
+{.is-danger}
+
 
 ## Citation 
 
