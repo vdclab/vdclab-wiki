@@ -2,8 +2,8 @@
 title: Metabolic network Analysis and Pathway Prediction Server (MAPPS)
 description: MAPPS: a web-based tool designed using Human-Computer Interaction principles for metabolic pathways prediction and network comparison. 
 published: true
-date: 2020-09-08T13:26:02.928Z
-tags: tool, prediction, metabolic pathways, networks
+date: 2020-09-08T13:32:33.387Z
+tags: tool, prediction, metabolic pathways, networks, 2020
 editor: markdown
 ---
 
