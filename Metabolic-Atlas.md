@@ -2,8 +2,9 @@
 title: Metabolic Atlas
 description: Metabolic Atlas: an online platform for exploring Human1.
 published: true
-date: 2020-05-27T18:52:51.668Z
+date: 2020-09-08T13:51:42.155Z
 tags: genomes, organism-specific
+editor: markdown
 ---
 
 # Metabolic Atlas
@@ -19,6 +20,23 @@ tags: genomes, organism-specific
 
 - [Metabolic Atlas *Main Page*](https://www.metabolicatlas.org/)
  {.links-list}
+ 
+## Notes from the user
+ 
+ - Simple metabolic map explorer, centered on human and yeast.
+ - Metabolic view or interaction view.
+
+ 
+## Ease of use
+
+- Easy to use when you know what you are looking for. Not for exploratory.
+
+
+## Help
+
+- [Help section *Documentation*](https://www.metabolicatlas.org/documentation)
+{.links-list}
+
 
 ## Citation
 
