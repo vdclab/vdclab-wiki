@@ -2,7 +2,7 @@
 title: GenomeNet
 description: Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center
 published: true
-date: 2020-09-02T21:03:06.202Z
+date: 2020-09-08T16:00:28.121Z
 tags: genomics, genomes, genes, proteins
 editor: markdown
 ---
@@ -31,9 +31,7 @@ editor: markdown
 - Kanehisa M. [Linking databases and organisms: GenomeNet resources in Japan.] (https://pubmed.ncbi.nlm.nih.gov/9397687/?from_term=genomenet&from_pos=1) Trends Biochem Sci. 1997;22(11):442–444. doi:10.1016/s0968-0004(97)01130-4
 {.grid-list}
 
-# GenomeNet pages related on the wiki
-
-Other name for this section could be used. Maybe `tools of the website` or `interesting features` or `Other GenomeNet wiki pages` or `Selected GenomeNet wiki pages` or `Useful GenomeNet sub pages`. Need some reflexion about it
+# Selected entry points to GenomeNet tools/data
 
 ## Annotation
 
