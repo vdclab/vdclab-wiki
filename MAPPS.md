@@ -2,8 +2,9 @@
 title: Metabolic network Analysis and Pathway Prediction Server (MAPPS)
 description: MAPPS: a web-based tool designed using Human-Computer Interaction principles for metabolic pathways prediction and network comparison. 
 published: true
-date: 2020-05-27T19:00:35.142Z
+date: 2020-09-08T13:26:02.928Z
 tags: tool, prediction, metabolic pathways, networks
+editor: markdown
 ---
 
 # Metabolic network Analysis and Pathway Prediction Server (MAPPS)
@@ -21,6 +22,23 @@ tags: tool, prediction, metabolic pathways, networks
 
 - [MAPPS *Main Page*](https://mapps.lums.edu.pk/tool/)
  {.links-list}
+
+## Notes from the user
+ 
+ - You can register to save your results  or use it as a guest user.
+ - Lots of tools to visualize metabolism in different ways for all organisms.
+
+ 
+## Ease of use
+
+- Easy concept to understand, but the tool requires to read the tutoriel and publication to fully understand how it works.
+- Multiple outputs to be chosen on the first page.
+
+## Help
+
+- [Help section *Tutoriel*](https://mapps.lums.edu.pk/tool/docs.aspx)
+{.links-list}
+
 
 ## Citation 
 
