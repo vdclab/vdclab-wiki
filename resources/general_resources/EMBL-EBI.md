@@ -2,7 +2,7 @@
 title: European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)
 description: At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. 
 published: true
-date: 2020-09-03T21:48:14.830Z
+date: 2020-09-08T15:59:15.999Z
 tags: community, resource reference, project library, resource center, bioinformatics, organization
 editor: markdown
 ---
@@ -30,9 +30,7 @@ editor: markdown
 - Goujon, M., McWilliam, H., Li, W., Valentin, F., Squizzato, S., Paern, J., & Lopez, R. (2010). [A new bioinformatics analysis tools framework at EMBL–EBI.](https://academic.oup.com/nar/article/38/suppl_2/W695/1097251) Nucleic acids research, 38(suppl_2), W695-W699.
 {.grid-list}
 
-# EMBL-EBI pages related on the wiki
-
-Other name for this section could be used. Maybe `tools of the website` or `interesting features` or `Other EMBL wiki pages` or `Selected EMBL wiki pages` or `Useful EMBL sub pages`. Need some reflexion about it
+# Selected entry points to EMBL-EBI tools/data
 
 ## Alignment
 
