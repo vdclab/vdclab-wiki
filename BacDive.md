@@ -2,7 +2,7 @@
 title: BacDive
 description: BacDive is the worldwide largest database for standardized bacterial information. Its mission is to mobilize and integrate research data on strain level from diverse sources and make it freely accessible.
 published: true
-date: 2020-09-09T14:06:17.975Z
+date: 2020-09-09T14:10:45.342Z
 tags: bacteria, database
 editor: markdown
 ---
@@ -23,14 +23,14 @@ editor: markdown
 
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
+ - Different way to sort or search the database, see tutorials.
+ - Some downloadable content.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Really easy to use after watching the video tutoriels.
+- Can be use for exploratory purposes.
 
 
 ## Help
