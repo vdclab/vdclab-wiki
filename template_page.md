@@ -1,10 +1,11 @@
 ---
 title: Template page
 description: Template for markdown for a page
-published: true
-date: 2020-07-29T21:49:54.066Z
+published: false
+date: 2020-09-09T15:43:24.967Z
 tags: template, help
 editor: markdown
+dateCreated: 2020-03-23T15:34:55.130Z
 ---
 
 # Name of the website
