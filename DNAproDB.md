@@ -2,9 +2,10 @@
 title: DNAproDB
 description: A database and web tool for structural analysis of DNA-Protein Complexes 
 published: true
-date: 2020-09-09T15:10:50.942Z
-tags: tool, proteins, dna, database
+date: 2020-09-09T19:08:50.225Z
+tags: tool, proteins, dna, 2017, data visualization
 editor: markdown
+dateCreated: 2020-05-26T16:56:32.542Z
 ---
 
 # DNAproDB
@@ -21,14 +22,14 @@ editor: markdown
 
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
+ - Must have a structure with DNA in it already.
+ - Good visualization of the positioning of the amino acids but not visualization of direct base-amino acid interaction.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Hard to search for interactions.
+- Quick search bar was not functionning. 
 
 
 ## Help
