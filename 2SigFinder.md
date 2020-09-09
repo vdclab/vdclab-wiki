@@ -2,7 +2,7 @@
 title: 2SigFinder
 description: 2SigFinder: the first combined use of small-scale and large-scale statistical testing for genomic island detection.
 published: true
-date: 2020-09-08T19:54:15.132Z
+date: 2020-09-09T13:37:27.025Z
 tags: genomes, prediction, clustering
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 - [2SigFinder *Main Page*](http://bioinfo.zstu.edu.cn/2SigFinder/)
  {.links-list}
  
->  9/8/2020 no acess to website
+>  9/8/2020-9/9/2020 no acess to website
 {.is-danger}
 
 
