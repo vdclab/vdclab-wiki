@@ -2,8 +2,9 @@
 title: Analyzing Yeasts by Reconstructing Ancestry of Homologs (AYbRAH)
 description: Analyzing Yeasts by Reconstructing Ancestry of Homologs
 published: true
-date: 2020-05-26T17:04:41.982Z
+date: 2020-09-09T14:55:08.284Z
 tags: homolog discovery, database, organism-specific
+editor: markdown
 ---
 
 # Analyzing Yeasts by Reconstructing Ancestry of Homologs (AYbRAH)
@@ -19,6 +20,18 @@ tags: homolog discovery, database, organism-specific
 
 - [AYbRAH *Main Page*](https://lmse.github.io/aybrah/)
  {.links-list}
+
+## Notes from the user
+ 
+ - All in bullet points
+ - What are the main features of the website.
+
+ 
+## Ease of use
+
+- What the users need to know about the website : problem you encounter, data format of the input...
+- Short Paragraph or bullet points
+
 
 ## Citation 
 
