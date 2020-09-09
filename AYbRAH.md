@@ -2,7 +2,7 @@
 title: Analyzing Yeasts by Reconstructing Ancestry of Homologs (AYbRAH)
 description: Analyzing Yeasts by Reconstructing Ancestry of Homologs
 published: true
-date: 2020-09-09T14:55:08.284Z
+date: 2020-09-09T15:05:58.659Z
 tags: homolog discovery, database, organism-specific
 editor: markdown
 ---
@@ -23,14 +23,14 @@ editor: markdown
 
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
+ - All fasta and alignments of the orthologous groups are available to download and analyse.
+ - Tree available to download, but not available to see online.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Can access the database by term search (gene name) or lookup in the list.
+- The ortholog group page contains all the information and literature of the gene.
 
 
 ## Citation 
