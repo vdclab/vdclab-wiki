@@ -2,7 +2,7 @@
 title: 2SigFinder
 description: 2SigFinder: the first combined use of small-scale and large-scale statistical testing for genomic island detection.
 published: true
-date: 2020-09-09T14:47:21.776Z
+date: 2020-09-09T14:47:50.650Z
 tags: genomes, prediction, clustering
 editor: markdown
 ---
@@ -16,7 +16,7 @@ editor: markdown
 > From real biological data, 2SigFinder identified genomic islands from a single genome and reported robust results across different experiments, without annotated information of genomes or prior knowledge from other datasets. 
 {.is-info}
 
->  9/8/2020-9/9/2020 no acess to website
+>  9/9/2020:: No acess to website
 {.is-warning}
 
 
