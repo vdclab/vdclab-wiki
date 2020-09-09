@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-09-09T16:09:02.153Z
+date: 2020-09-09T16:09:13.842Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -86,28 +86,4 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 # VDC Favorite
 
 - [:star: Favorite websites *A selection of the websites described here*](https://vdclab-wiki.herokuapp.com/en/favorites)
-{.links-list}
-
----
-
-# To be removed in the final version of the home page
-
-## Template page
-
-- [Template page *help page to create new page to fill quickly*](https://vdclab-wiki.herokuapp.com/en/template_page)
-{.links-list}
-
-## Editing help
-
-- [Editing help page *help page to edit a page step by step*](https://vdclab-wiki.herokuapp.com/en/edit_page)
-{.links-list}
-
-## Task guideline
-
-- [Guideline *Step by step what to do when a task is done*](https://vdclab-wiki.herokuapp.com/en/Task_guideline)
-{.links-list}
-
-## Markdown help
-
-- [Help *Help page from wiki.js, just google it if you don't find the answers there*](https://docs.requarks.io/en/editors/markdown)
 {.links-list}
