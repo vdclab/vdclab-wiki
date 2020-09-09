@@ -1,9 +1,11 @@
 ---
 title: Tasks guideline
 description: guideline for the task managment
-published: true
-date: 2020-05-21T17:04:52.990Z
+published: false
+date: 2020-09-09T15:46:07.726Z
 tags: tutorial
+editor: markdown
+dateCreated: 2020-04-24T20:51:41.018Z
 ---
 
 # Task guideline
