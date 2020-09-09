@@ -2,8 +2,9 @@
 title: DNAproDB
 description: A database and web tool for structural analysis of DNA-Protein Complexes 
 published: true
-date: 2020-05-26T16:56:32.542Z
+date: 2020-09-09T15:10:50.942Z
 tags: tool, proteins, dna, database
+editor: markdown
 ---
 
 # DNAproDB
@@ -17,6 +18,24 @@ tags: tool, proteins, dna, database
 
 - [DNAproDB *Main Page*](https://dnaprodb.usc.edu/)
  {.links-list}
+
+## Notes from the user
+ 
+ - All in bullet points
+ - What are the main features of the website.
+
+ 
+## Ease of use
+
+- What the users need to know about the website : problem you encounter, data format of the input...
+- Short Paragraph or bullet points
+
+
+## Help
+
+- [Help section *Documentation*](https://dnaprodb.usc.edu/documentation.html)
+{.links-list}
+
 
 ## Citation 
 
