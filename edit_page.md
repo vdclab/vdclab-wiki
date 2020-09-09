@@ -1,9 +1,11 @@
 ---
 title: Edit page tutorial
 description: Just a quick tutorial on how to edit a page
-published: true
-date: 2020-04-03T20:22:29.148Z
-tags: 
+published: false
+date: 2020-09-09T15:45:40.500Z
+tags: help
+editor: markdown
+dateCreated: 2020-04-03T20:06:58.992Z
 ---
 
 # How to edit a page
