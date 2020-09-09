@@ -2,8 +2,8 @@
 title: Analyzing Yeasts by Reconstructing Ancestry of Homologs (AYbRAH)
 description: Analyzing Yeasts by Reconstructing Ancestry of Homologs
 published: true
-date: 2020-09-09T15:05:58.659Z
-tags: homolog discovery, database, organism-specific
+date: 2020-09-09T15:07:47.083Z
+tags: 2019, sequence alignment, homolog discovery, database, organism-specific
 editor: markdown
 ---
 
