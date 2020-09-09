@@ -2,13 +2,16 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-09-09T16:09:13.842Z
+date: 2020-09-09T16:10:45.166Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
 ---
 
 # VDC Lab Wiki
+
+![hd_navyblue_white.png](/logo_vdc/hd_navyblue_white.png){.align-center}
+
 Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Valerie de Crecy.
 
 Below, you will find an interactive table illustrating the breadth, depth of content. (Really???)
