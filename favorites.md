@@ -2,14 +2,15 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-06T16:39:29.041Z
+date: 2020-09-10T16:48:34.061Z
 tags: reference, resource reference
 editor: markdown
+dateCreated: 2020-04-15T18:50:25.064Z
 ---
 
 # VDC Favorite
 
-> Here you can find a selection of the tools and website presented on this wiki. The selection is based on the favorite websites of Valérie de Crécy-Lagard.
+> Here you can find a selection of the tools and website presented on this wiki. The selection is based on the favorite websites of Dr Valérie de Crécy-Lagard.
 {.is-info}
 
 # Alignment
