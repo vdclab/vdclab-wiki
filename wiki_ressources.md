@@ -2,8 +2,8 @@
 title: Wiki and Online Resources
 description: Non exhautive list of useful wiki and resources
 published: true
-date: 2020-09-10T22:30:45.102Z
-tags: wiki, resource reference, resource center
+date: 2020-09-10T22:32:05.418Z
+tags: wiki, resource reference, resource center, literature
 editor: markdown
 dateCreated: 2020-09-10T22:18:55.482Z
 ---
