@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-10T18:13:12.638Z
+date: 2020-09-10T18:18:21.854Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -440,6 +440,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [Genome3D *Provides consensus structural annotations and 3D models for sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/Genome3D)
 - [RNAmmer *Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/RNAmmer)
 - [tRNAscan-SE *Searching for tRNA genes in genomic sequence*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
+- [TXSSdb *Database of detected potential secretion systems in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/TXSSdb)
 {.links-list}
 
 ## Visualizing Pathways - Mapping Data To Pathways
