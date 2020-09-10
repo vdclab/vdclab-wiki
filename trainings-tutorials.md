@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-10T21:52:33.752Z
+date: 2020-09-10T21:52:43.823Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -44,6 +44,7 @@ dateCreated: 2020-05-06T17:00:33.487Z
 ## Literature Search
 
 - [Maria Levchenko *Literature Search: Skills and tools*](https://figshare.com/articles/Literature_Searching_Skills_and_Tools/7228721)
+{.links-list}
 
 ## Max Planck Institute for Molecular Genetics
 
