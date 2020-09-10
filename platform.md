@@ -2,9 +2,10 @@
 title: Platform
 description: Lost of the website that are online platform
 published: true
-date: 2020-09-03T15:58:04.811Z
+date: 2020-09-10T18:37:44.784Z
 tags: category
 editor: markdown
+dateCreated: 2020-04-30T01:43:09.442Z
 ---
 
 # Platform
@@ -12,6 +13,7 @@ editor: markdown
 ## General Integration Platforms
 
 - [DisGeNET *Containing collections of genes and variants associated to human diseases*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/DisGeNET)
+- [EDGAR *A software platform for comparative genomics*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/EDGAR)
 - [EuPathDB *Eukaryotic pathogenes database*](https://vdclab-wiki.herokuapp.com/databases/data-integration/EuPathDB/)
 - [OmicsDB *Accelerating in-silico gene discovery in plants, animals and microbes*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/OmicsDB)
 - [:star: Open Targets *Comprehensive and robust data integration resource for access and visualization of drug targets*](https://vdclab-wiki.herokuapp.com/en/platform/general-integration/Open-Targets)
