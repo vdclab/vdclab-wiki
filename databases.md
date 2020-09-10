@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-10T18:04:53.083Z
+date: 2020-09-10T18:12:56.422Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-29T20:55:11.424Z
@@ -148,6 +148,7 @@ dateCreated: 2020-04-29T20:55:11.424Z
 - [GiantVirus *Mimivirus and other large DNA viruses*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/GiantVirus)
 - [RVDB *Enhancing virus detection using next-generation sequencing (NGS) technologies*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/RVDB)
 - [PhagesDB *Characterization, and genomics of phages that infect bacterial hosts within the phylum Actinobacteria*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/PhagesDB)
+- [:star: PHASTER *Rapid identification and annotation of prophage sequences within bacterial genomes and plasmids*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/PHASTER)
 - [pVOGs *Orthologous groups shared among complete genomes of viruses that infect bacteria and archaea*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/pVOGs)
 - [ViPR *Information for human pathogenic viruses*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/ViPR)
 - [VirusHostDB *Linking virus genomes with host taxonomy*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/VirusHostDB)
