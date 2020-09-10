@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-10T21:34:04.473Z
+date: 2020-09-10T21:52:33.752Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -40,6 +40,10 @@ dateCreated: 2020-05-06T17:00:33.487Z
 
 - [Wikipedia *Hidden Markov Model*](http://en.wikipedia.org/wiki/Hidden_Markov_model)
 {.links-list}
+
+## Literature Search
+
+- [Maria Levchenko *Literature Search: Skills and tools*](https://figshare.com/articles/Literature_Searching_Skills_and_Tools/7228721)
 
 ## Max Planck Institute for Molecular Genetics
 
