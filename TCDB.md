@@ -2,8 +2,10 @@
 title: Transporter Classification Database
 description: Functional and Phylogenetic Classification of Membrane Transport Proteins
 published: true
-date: 2020-05-26T16:49:26.571Z
+date: 2020-09-10T17:40:10.455Z
 tags: phylogeny, proteins, database
+editor: markdown
+dateCreated: 2020-05-26T16:49:26.571Z
 ---
 
 # Transporter Classification Database
@@ -16,6 +18,23 @@ tags: phylogeny, proteins, database
 
 - [TCDB *Main Page*](http://www.tcdb.org/)
  {.links-list}
+ 
+ 
+## Notes from the user
+ 
+ - You need to know what you are looking for.
+
+ 
+## Ease of use
+
+- What the users need to know about the website : problem you encounter, data format of the input...
+- Short Paragraph or bullet points
+
+
+## Help
+
+- [Help section *FAQ*](http://www.tcdb.org/faq.php)
+{.links-list}
 
 ## Citations
 
