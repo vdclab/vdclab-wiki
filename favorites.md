@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-10T18:18:21.854Z
+date: 2020-09-10T18:35:08.447Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -79,6 +79,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [DoriC *A database of oriC regions in bacterial genomes*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/DoriC)
 - [ECOD *Hierarchical classification of protein domains according to their evolutionary relationships*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/ECOD)
 - [InterPro *Functional analysis of proteins by classifying them into families and predicting domains*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/InterPro)
+- [JGI *Joint Genome Institute - Main webiste*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/JGI)
 - [KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
 - [NPAtlas *Designed to cover all microbially-derived natural products published*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/NPAtlas)
 - [RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
