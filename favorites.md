@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-10T17:57:11.571Z
+date: 2020-09-10T18:13:12.638Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -130,6 +130,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 ### Virus databases
 
 - [JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
+- [PHASTER *Rapid identification and annotation of prophage sequences within bacterial genomes and plasmids*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/PHASTER)
 {.links-list}
 
 ## Microarray and Rnaseq databases
