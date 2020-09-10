@@ -2,9 +2,10 @@
 title: Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-06T16:35:52.742Z
+date: 2020-09-10T18:21:39.763Z
 tags: category
 editor: markdown
+dateCreated: 2020-04-30T01:33:14.513Z
 ---
 
 # Resources
@@ -67,6 +68,7 @@ editor: markdown
 ## General Resources
 
 - [:star: BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
+- [BioPortal *Comprehensive repository of biomedical ontologies*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioPortal)
 - [:star: EMBL-EBI *Services and tools, perform basic research and provide professional training in bioinformatics*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/EMBL-EBI)
 - [:star: EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [:star: FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
