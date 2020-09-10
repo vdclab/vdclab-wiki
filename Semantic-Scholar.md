@@ -2,9 +2,10 @@
 title: Semantic Scholar
 description: A Free, AI-powered Tool for Navigating the Scientific Literature.
 published: true
-date: 2020-08-17T17:52:30.356Z
+date: 2020-09-10T17:57:33.561Z
 tags: tool, specialized search, text search, literature
 editor: markdown
+dateCreated: 2020-06-04T16:55:42.106Z
 ---
 
 # Semantic Scholar
@@ -29,7 +30,8 @@ editor: markdown
  - Can be used with and without an account (creating an account allows you to save articles)
  
  ## Ease of use
-> The search function is very simple to use and is pretty good at finding search terms in the title and in the body of text.
+
+The search function is very simple to use and is pretty good at finding search terms in the title and in the body of text.
   
 ## Help
 - [Frequently Asked Questions *FAQ Page*](https://www.semanticscholar.org/faq)
