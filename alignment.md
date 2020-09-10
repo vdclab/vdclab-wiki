@@ -2,9 +2,10 @@
 title: Aligment
 description: List of website used to align tzwo or more sequences
 published: true
-date: 2020-09-06T16:11:08.020Z
+date: 2020-09-10T18:31:35.151Z
 tags: category
 editor: markdown
+dateCreated: 2020-05-13T16:48:51.389Z
 ---
 
 # Aligment
@@ -12,6 +13,7 @@ editor: markdown
 ## Editing Alignments 
 
 - [:star: GUIDANCE2 *Weighting, filtering or masking unreliably aligned positions in sequence alignments before subsequent analysis*](https://vdclab-wiki.herokuapp.com/en/alignment/editing/GUIDANCE2)
+- [trimAl *Tool for automated alignment trimming*](https://vdclab-wiki.herokuapp.com/en/alignment/editing/trimAl)
 {.links-list}
 
 ## Multiple Sequence Alignment
