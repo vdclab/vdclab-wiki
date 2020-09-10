@@ -1,8 +1,8 @@
 ---
 title: MacSyDB/TXSSdb secretion systems in Bacteria
-description: Database of detected potential secretion systems in bacterial and archaeal genomes
+description: Database of detected potential secretion systems in bacterial genomes
 published: true
-date: 2020-09-10T18:16:52.195Z
+date: 2020-09-10T18:17:25.996Z
 tags: genomes, bacteria, proteins, evolution, homolog discovery, conservation
 editor: markdown
 dateCreated: 2020-07-30T15:40:58.149Z
