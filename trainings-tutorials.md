@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-10T21:19:18.082Z
+date: 2020-09-10T21:34:04.473Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -26,6 +26,21 @@ dateCreated: 2020-05-06T17:00:33.487Z
 
 # Online Trainings and Tutorials
 
+## Cloning
+
+- [Cloning strategies *Cohesive-end cloning*](http://www.idtdna.com/pages/decoded/decoded-articles/core-concepts/decoded/2012/04/11/cohesive-end-cloning)
+{.links-list}
+
+## Genetic code
+
+- [Universal Genetic Code](http://www.biologydirect.com/content/9/1/4)
+{.links-list}
+
+## Hidden Markov Model
+
+- [Wikipedia *Hidden Markov Model*](http://en.wikipedia.org/wiki/Hidden_Markov_model)
+{.links-list}
+
 ## Max Planck Institute for Molecular Genetics
 
 - [Training *Online Lectures on Bioinformatics*](http://lectures.molgen.mpg.de/online_lectures.html)
@@ -33,7 +48,8 @@ dateCreated: 2020-05-06T17:00:33.487Z
 
 ## NCBI - NIH
 
-- [Biological Sequence Analysis *Youtube video*](https://www.youtube.com/watch?v=Z72nvSUtEng&index=2&list=PL1ay9ko4A8skSH3BBXU5LarkOn3nJzjn6)
+- [Biological Sequence Analysis I *NIH - Youtube video*](https://www.youtube.com/watch?v=Z72nvSUtEng&index=2&list=PL1ay9ko4A8skSH3BBXU5LarkOn3nJzjn6)
+- [Biological Sequence Analysis II *NIH - Youtube video*](http://www.youtube.com/watch?v=aLT86v8mCc8)
 - [Current Topics in Genome Analysis *All lectures from the GenomeTV*](http://www.genome.gov/12514288)
 - [NCBI *Education*](http://www.ncbi.nlm.nih.gov/education/)
 - [NCBI *Help Manual*](http://www.ncbi.nlm.nih.gov/books/NBK3831/)
@@ -42,11 +58,9 @@ dateCreated: 2020-05-06T17:00:33.487Z
 - [Pubmed *Icahn School of Medicine at Mount Sinai's Tutorial and Training*](http://libguides.mssm.edu/pubmed_tutorial)
 {.links-list}
 
+## Phylogeny
 
-http://en.wikipedia.org/wiki/Hidden_Markov_model
-https://www.mun.ca/biology/scarr/iGen3_06-07.html
-http://www.biologydirect.com/content/9/1/4
-http://www.idtdna.com/pages/decoded/decoded-articles/core-concepts/decoded/2012/04/11/cohesive-end-cloning
-http://www.ucmp.berkeley.edu/clad/clad4.html
-http://www.youtube.com/watch?v=aLT86v8mCc8
+- [Journey Into Phylogenetics Systematics *Introduction to Cladistics*](http://www.ucmp.berkeley.edu/clad/clad4.html)
 {.links-list}
+
+
