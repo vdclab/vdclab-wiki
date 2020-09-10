@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-10T17:54:06.790Z
+date: 2020-09-10T17:56:55.692Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-29T20:55:11.424Z
@@ -226,6 +226,7 @@ dateCreated: 2020-04-29T20:55:11.424Z
 
 - [:star: 3dmodmap *Database of maps showing the sites of modified rRNA nucleotides in 3D models*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/3dmodmap)
 - [:star: GtRNAdb *tRNA database contains tRNA gene predictions made by the program tRNAscan-SE*](https://vdclab-wiki.herokuapp.com/en/databases/tRNA-database/GtRNAdb)
+- [:star: Modomics *Database of RNA modifications*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/Modomics)
 - [NONCODE *Integrated knowledge database dedicated to non-coding RNAs (excluding tRNAs and rRNAs)*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/NONCODE)
 - [scRNASeqDB *Curated public single-cell gene expressing profiles for the wider research community*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/scRNASeqDB)
 - [:star: The RNA Modification Database *Listing of posttranscriptionally modified nucleosides from RNA*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/The-RNA-Modification-Database)
