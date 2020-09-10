@@ -2,9 +2,10 @@
 title:  Visualization
 description: Website adapted for visualization purposes
 published: true
-date: 2020-09-06T16:13:39.311Z
+date: 2020-09-10T18:20:11.183Z
 tags: category
 editor: markdown
+dateCreated: 2020-04-30T01:59:18.353Z
 ---
 
 # Visualization
@@ -18,6 +19,7 @@ editor: markdown
 
 - [Caleydo *Tools that focuses on biological data visualization*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Caleydo)
 - [:star: Clustergrammar *Analyzing high-dimensional data as interactive hierarchically clustered heatmaps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Clustergrammar)
+- [CompNet *A GUI based tool for comparison of multiple biological interaction networks*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/CompNet)
 - [:star: Heatmapper *Online application for visualizing various types of data as heat maps*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Heatmapper)
 - [Intervene *Tool for intersection and visualization of multiple gene or genomic region sets*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Intervene)
 - [:star: Jalview *Program for multiple sequence alignment editing*](https://vdclab-wiki.herokuapp.com/en/visualization/data-visualization/Jalview)
