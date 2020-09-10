@@ -2,9 +2,10 @@
 title: BioReader
 description: BioReader: a text mining tool for performing classification of biomedical literature.
 published: true
-date: 2020-08-26T14:58:20.910Z
+date: 2020-09-10T18:06:10.477Z
 tags: tool, specialized search, text-mining, literature
 editor: markdown
+dateCreated: 2020-05-27T19:12:52.681Z
 ---
 
 # BioReader
@@ -21,17 +22,18 @@ editor: markdown
 - [BioReader *Main Page*](http://www.cbs.dtu.dk/services/BioReader/)
  {.links-list}
  
- ## Notes from the user
- - Uses a computer algorithm to identify articles containing common "relevant" words from a list of user specified "relevant" articles 
- - User must supply lists of articles (20 minimum) to help the algorithm determine article relevance and discriminating terms
- - Results are given as lists of articles grouped in classes with performance metrics and PCoA plots to show how the algorithm scored the articles
- 
- ## Ease of use
- > This is a very niche tool that can help guide the user through reading large amounts of articles. There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevant" and "not relevant" before they can use the tool.
+## Notes from the user
+- Uses a computer algorithm to identify articles containing common "relevant" words from a list of user specified "relevant" articles 
+- User must supply lists of articles (20 minimum) to help the algorithm determine article relevance and discriminating terms
+- Results are given as lists of articles grouped in classes with performance metrics and PCoA plots to show how the algorithm scored the articles
 
- ## Help
- - [BioReader *Instruction Page*](http://www.cbs.dtu.dk/services/BioReader/instructions.php)
- {.links-list}
+## Ease of use
+
+his is a very niche tool that can help guide the user through reading large amounts of articles. There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevant" and "not relevant" before they can use the tool.
+
+## Help
+- [BioReader *Instruction Page*](http://www.cbs.dtu.dk/services/BioReader/instructions.php)
+{.links-list}
  
 
 ## Citation 
