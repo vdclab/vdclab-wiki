@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-10T18:38:13.237Z
+date: 2020-09-10T18:38:48.408Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-29T20:55:11.424Z
@@ -62,7 +62,6 @@ dateCreated: 2020-04-29T20:55:11.424Z
 - [:star: JGI *Joint Genome Institute - Main webiste*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/JGI)
 - [JGI Genome Portal *JGI genomic databases and analytical tools*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/Genome-Portal) 
 - [:star: KBase *Large-scale bioinformatics system that enables users to upload their own data*](https://vdclab-wiki.herokuapp.com/databases/general_databases/KBase/)
-- [:star: NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [:star: NPAtlas *Designed to cover all microbially-derived natural products published*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/NPAtlas)
 - [:star: RPFdb *Public resource for hosting, analyzing and visualizing ribosome profiling (Ribo-seq) data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/RPFdb)
 - [:star: UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
