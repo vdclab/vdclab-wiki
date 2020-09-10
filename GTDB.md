@@ -2,8 +2,10 @@
 title: Genome Taxonomy Database
 description: The Genome Taxonomy Database (GTDB) is an initiative to establish a standardised microbial taxonomy based on genome phylogeny.
 published: true
-date: 2020-05-27T18:16:59.439Z
+date: 2020-09-10T18:28:42.475Z
 tags: taxonomy, phylogeny, database
+editor: markdown
+dateCreated: 2020-05-27T18:16:59.439Z
 ---
 
 # Genome Taxonomy Database
@@ -19,6 +21,23 @@ tags: taxonomy, phylogeny, database
 
 - [GTDB *Main Page*](https://gtdb.ecogenomic.org/)
  {.links-list}
+
+## Notes from the user
+ 
+ - All in bullet points
+ - What are the main features of the website.
+
+ 
+## Ease of use
+
+- What the users need to know about the website : problem you encounter, data format of the input...
+- Short Paragraph or bullet points
+
+
+## Help
+
+- [Help section *FAQ*](https://gtdb.ecogenomic.org/faq)
+{.links-list}
 
 ## Citations
 
