@@ -2,8 +2,8 @@
 title: Transporter Classification Database
 description: Functional and Phylogenetic Classification of Membrane Transport Proteins
 published: true
-date: 2020-09-10T17:47:06.276Z
-tags: phylogeny, proteins, database
+date: 2020-09-10T17:53:34.787Z
+tags: 2014, proteins, database, 2009, 2016, 2006
 editor: markdown
 dateCreated: 2020-05-26T16:49:26.571Z
 ---
