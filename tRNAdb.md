@@ -2,9 +2,10 @@
 title: tRNAdb
 description: tRNAdb contains currently more than 12,000 tRNA genes from 577 species and 623 tRNA sequences from 104 species, classified into families according to amino acid specificity as defined by anticodon triplets.
 published: true
-date: 2020-08-18T20:00:47.185Z
+date: 2020-09-10T18:03:34.507Z
 tags: reference, specialized search, rna, database
 editor: markdown
+dateCreated: 2020-06-05T17:39:05.066Z
 ---
 
 # tRNAdb
@@ -27,7 +28,8 @@ editor: markdown
 - References are provided for tRNA sequences
 
 ## Ease of use
-> The database is not hard to use but the design is dated and the navigation through the organism list is a little tedious. Otherwise, the database is very helpful.
+
+The database is not hard to use but the design is dated and the navigation through the organism list is a little tedious. Otherwise, the database is very helpful.
 
 ## Citation 
 
