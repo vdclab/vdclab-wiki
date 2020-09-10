@@ -2,7 +2,7 @@
 title: BioReader
 description: BioReader: a text mining tool for performing classification of biomedical literature.
 published: true
-date: 2020-09-10T18:06:24.942Z
+date: 2020-09-10T18:07:55.727Z
 tags: tool, specialized search, text-mining, literature
 editor: markdown
 dateCreated: 2020-05-27T19:12:52.681Z
@@ -29,7 +29,8 @@ dateCreated: 2020-05-27T19:12:52.681Z
 
 ## Ease of use
 
-This is a very niche tool that can help guide the user through reading large amounts of articles. There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevant" and "not relevant" before they can use the tool.
+- This is a very niche tool that can help guide the user through reading large amounts of articles. 
+- There is a lot of material to help the user understand how to use the tool and how to understand the results. However, the user needs to have lists of articles with discriminating terms that they have already read and determined to be "relevant" and "not relevant" before they can use the tool.
 
 ## Help
 - [BioReader *Instruction Page*](http://www.cbs.dtu.dk/services/BioReader/instructions.php)
