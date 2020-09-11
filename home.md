@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-09-11T14:47:29.159Z
+date: 2020-09-11T14:47:47.009Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -83,7 +83,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 ## Visualization
 
-- [Vizualization tools websites on the wiki *List of the websites for vizualization*](https://vdclab-wiki.herokuapp.com/en/visualization)
+- [Visualization tools websites on the wiki *List of the websites for visualization*](https://vdclab-wiki.herokuapp.com/en/visualization)
 {.links-list}
 
 ## Wiki and Online Resources
