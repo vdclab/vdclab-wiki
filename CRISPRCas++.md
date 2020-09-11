@@ -2,7 +2,7 @@
 title: CRISPRCas++
 description: A web tool to identify clustered regularly interspaced short palindromic repeats.
 published: true
-date: 2020-09-11T14:29:52.437Z
+date: 2020-09-11T14:39:56.837Z
 tags: tool, clustering
 editor: markdown
 dateCreated: 2020-05-26T17:24:18.380Z
@@ -11,6 +11,8 @@ dateCreated: 2020-05-26T17:24:18.380Z
 # CRISPR-Cas++
 
 > The CRISPRCasFinder program enables the easy detection of CRISPRs and cas genes in user-submitted sequence data. This is an update of the CRISPRFinder program with improved specificity and indication on the CRISPR orientation. MacSyFinder is used to identify cas genes, the CRISPR-Cas type and subtype.
+>
+>CRISPRCasMeta is a workflow dedicated to the research and annotation of CRISPR/Cas structures in metagenomic data. It uses CRT (MinCED) and MetaFinder (a metagenomic version of CRISPRCasFinder 4.2.17) to perform its analysis. 
 >
 > CRISPRCasdb is a database of strains precomputed with CRISPRCasFinder.
 {.is-info}
@@ -29,23 +31,30 @@ allows sequences up to 50 Mo otherwise download standalone program
 
 ## Notes from the user
 #### CRISPRCasFinder
+- Stand alone version available.
+- Tool to view previous results.
 #### CRISPRCasdb
-
- - All in bullet points
- - What are the main features of the website.
+- Downloadable database
 
  
 ## Ease of use
 #### CRISPRCasFinder
+- Possibility to search in CRISPRCasdb from the tool.
+- Input sequence in FASTA format.
+- Lots of setting to tune your search.
+- Enter your e-mail address to get notified of the result.
+- Results easy to read and interpret.
+- Same for metagenomes.
 #### CRISPRCasdb
 - What the users need to know about the website : problem you encounter, data format of the input...
 - Short Paragraph or bullet points
 
 ## Help
 #### CRISPRCasFinder
+> Help for CRISPRCasFinder on the tool page under "Page information".
+{.is-info}
 #### CRISPRCasdb
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+- [Help section *CRIPRCasdb Help*](https://crisprcas.i2bc.paris-saclay.fr/MainDb/Help)
 {.links-list}
 
 ## Citation 
