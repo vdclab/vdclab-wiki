@@ -2,8 +2,8 @@
 title: Microreact
 description: Open data visualization and sharing for genomic epidemiology
 published: true
-date: 2020-09-11T15:09:48.529Z
-tags: genomics, data visualization
+date: 2020-09-11T15:31:58.011Z
+tags: genomics, data visualization, 2016
 editor: markdown
 dateCreated: 2020-05-26T16:39:52.084Z
 ---
@@ -24,19 +24,21 @@ dateCreated: 2020-05-26T16:39:52.084Z
  
 ## Notes from the user
  
- - All in bullet points
- - What are the main features of the website.
+ - Can browse previous published data or input your own.
+ - Read instruction before use.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Must know how to make a tree before use.
+- Require a table file with ids, and other info you want to input (localization, etc) in csv or tsv format.
+- Optionally input a tree and/or a dot file.
+- Use of the result view is explained in detail in the Video Tutoriel.
 
 
 ## Help
 
-- [Help section *Instruction*](https://microreact.org/instructions)
+- [Help section *Instructions*](https://microreact.org/instructions)
 - [Help section *Video Tutoriel*](https://microreact.org/introduction)
 - [Help section *Tutoriel*](https://microreact.org/tutorials)
 {.links-list}
