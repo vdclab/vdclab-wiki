@@ -2,7 +2,7 @@
 title: CRISPRCas++
 description: A web tool to identify clustered regularly interspaced short palindromic repeats.
 published: true
-date: 2020-09-11T14:48:28.678Z
+date: 2020-09-11T14:50:06.354Z
 tags: tool, clustering
 editor: markdown
 dateCreated: 2020-05-26T17:24:18.380Z
@@ -35,10 +35,11 @@ dateCreated: 2020-05-26T17:24:18.380Z
 ## Notes from the user
 ### CRISPRCasFinder
 - Stand alone version available.
-- Tool to view previous results.
+- Tool to view previous results (Viewer).
 - Allows sequences up to 50 Mo otherwise download standalone program.
 ### CRISPRCasdb
-- Downloadable database
+- Downloadable database.
+- Three way to access database: list, taxonomy, BLAST.
 
  
 ## Ease of use
@@ -50,7 +51,7 @@ dateCreated: 2020-05-26T17:24:18.380Z
 - Results easy to read and interpret.
 - Same for metagenomes.
 ### CRISPRCasdb
-- 
+- The several way to access the database makes it easy to go through it.
 
 ## Help
 #### CRISPRCasFinder
