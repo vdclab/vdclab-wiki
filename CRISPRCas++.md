@@ -2,7 +2,7 @@
 title: CRISPRCas++
 description: A web tool to identify clustered regularly interspaced short palindromic repeats.
 published: true
-date: 2020-09-11T14:41:22.565Z
+date: 2020-09-11T14:48:28.678Z
 tags: tool, clustering
 editor: markdown
 dateCreated: 2020-05-26T17:24:18.380Z
@@ -17,37 +17,40 @@ dateCreated: 2020-05-26T17:24:18.380Z
 > CRISPRCasdb is a database of strains precomputed with CRISPRCasFinder.
 {.is-info}
 
-
-allows sequences up to 50 Mo otherwise download standalone program
 ## Website 
 
 - [CRISPR-Cas++ *Main Page*](https://crisprcas.i2bc.paris-saclay.fr/)
+{.links-list}
+### CRISPRCasFinder
 - [CRISPRCasFinder *Submit your own genome*](https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Index)
+- [CRISPRCasFinder *Viewer*](https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Viewer)
 - [CRISPRCasMeta *For metagenomes*](https://crisprcas.i2bc.paris-saclay.fr/CrisprCasMeta/Index)
+{.links-list}
+### CRISPRCasdb
 - [CRISPRCasdb *Database of strains*](https://crisprcas.i2bc.paris-saclay.fr/MainDb/StrainList)
 - [CRISPRCasdb - taxo *Database of strains sorted by taxonomy*](https://crisprcas.i2bc.paris-saclay.fr/MainDb/TaxoTree)
 - [CRISPRCasdb - BLAST *Database of strains access by BLAST*](https://crisprcas.i2bc.paris-saclay.fr/MainDbQry/Index)
 {.links-list}
 
 ## Notes from the user
-#### CRISPRCasFinder
+### CRISPRCasFinder
 - Stand alone version available.
 - Tool to view previous results.
-#### CRISPRCasdb
+- Allows sequences up to 50 Mo otherwise download standalone program.
+### CRISPRCasdb
 - Downloadable database
 
  
 ## Ease of use
-#### CRISPRCasFinder
+### CRISPRCasFinder
 - Possibility to search in CRISPRCasdb from the tool.
 - Input sequence in FASTA format.
 - Lots of setting to tune your search.
 - Enter your e-mail address to get notified of the result.
 - Results easy to read and interpret.
 - Same for metagenomes.
-#### CRISPRCasdb
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+### CRISPRCasdb
+- 
 
 ## Help
 #### CRISPRCasFinder
