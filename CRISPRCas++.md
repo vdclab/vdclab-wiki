@@ -2,8 +2,8 @@
 title: CRISPRCas++
 description: A web tool to identify clustered regularly interspaced short palindromic repeats.
 published: true
-date: 2020-09-11T14:50:06.354Z
-tags: tool, clustering
+date: 2020-09-11T14:55:50.333Z
+tags: metagenomes, annotation tools, archaea, bacteria, tool, sequence analysis, database, homology, 2017, 2007, localization
 editor: markdown
 dateCreated: 2020-05-26T17:24:18.380Z
 ---
