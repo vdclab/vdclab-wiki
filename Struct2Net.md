@@ -2,8 +2,10 @@
 title: Struct2Net
 description: The Struct2Net server makes structure-based computational predictions of protein-protein interactions (PPIs).
 published: true
-date: 2020-05-27T19:07:06.547Z
+date: 2020-09-11T18:05:45.836Z
 tags: prediction, protein-protein, structural analysis
+editor: markdown
+dateCreated: 2020-05-27T19:07:06.547Z
 ---
 
 # Struct2Net
@@ -21,6 +23,9 @@ tags: prediction, protein-protein, structural analysis
 
 - [Struct2Net *Main Page*](http://cb.csail.mit.edu/cb/struct2net/webserver/)
  {.links-list}
+ 
+ ## Notes from the user
+ - The servoer hosting this tool appears to be down.
 
 ## Citation 
 
