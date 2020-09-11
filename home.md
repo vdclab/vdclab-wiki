@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-09-10T22:34:47.987Z
+date: 2020-09-11T14:44:56.284Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -58,7 +58,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 ## Resources
 
-- [Ressources websites on the wiki *List of resources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/resources)
+- [Resources websites on the wiki *List of resources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/resources)
 {.links-list}
 
 ## Sequence Manipulation
