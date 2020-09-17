@@ -2,7 +2,7 @@
 title: MetaboAnalyst
 description: Statistical, functional and integrative analysis of metabolomics data. 
 published: true
-date: 2020-09-17T16:07:58.352Z
+date: 2020-09-17T16:12:42.043Z
 tags: annotation, annotation tools, tool, data capture, resource, bioinformatics, data visualization, metabolic pathways, data export, omics, interaction, correlation, enrichment, toolbox, id mapping, metabolomics, webserver
 editor: markdown
 dateCreated: 2020-09-17T16:07:58.352Z
@@ -46,5 +46,5 @@ MetaboAnalystR 4.0 is a significantly improved pipeline with three key new featu
 
 ## Citation
 
-- Pand, Z., Chong, J. Li, S., Xia J. [MetaboAnalystR 3.0: Toward an Optimized Workflow for Global Metabolomics.](https://www.mdpi.com/2218-1989/10/5/186/htm)  Metabolites 10(5) 186, 2020. doi.org/10.3390/metabo10050186, PMID: 32392884.
+- Pang, Z., Chong, J. Li, S. and Xia J. (2020) [MetaboAnalystR 3.0: Toward an Optimized Workflow for Global Metabolomics.](https://www.mdpi.com/2218-1989/10/5/186/htm)  Metabolites 10(5) 186; doi.org/10.3390/metabo10050186, PMID: 32392884.
 {.grid-list}
