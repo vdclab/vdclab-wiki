@@ -2,9 +2,10 @@
 title: The Archaeal Proteome Project (ArcPP)
 description: The Archaeal Proteome Project (ArcPP) is a community effort that works towards a comprehensive analysis of archaeal proteomes.
 published: true
-date: 2020-08-08T21:11:06.921Z
-tags: reference, community, archaea, data capture, database, resource, proteomes, browser, protein, proteomics, model organism, data export, analysis tool
+date: 2020-09-17T15:08:53.510Z
+tags: reference, community, archaea, data capture, database, resource, proteomes, browser, protein, proteomics, model organism, data export, analysis tool, haloferax volcanii
 editor: markdown
+dateCreated: 2020-07-01T18:12:33.422Z
 ---
 
 # The Archaeal Proteome Project (ArcPP)
