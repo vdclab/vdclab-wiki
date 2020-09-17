@@ -2,8 +2,10 @@
 title: Enzyme Function Initiative (EFI)
 description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach.
 published: true
-date: 2020-06-04T15:07:37.627Z
+date: 2020-09-17T19:41:17.852Z
 tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, genome browser, comparative genomics, sequence similarity, data capture, homolog discovery, bioinformatics, browser, data visualization, prediction, clustering, protein family, data export, conservation, orthologs, eukaryota, curated, network, protein domain
+editor: markdown
+dateCreated: 2020-04-06T17:55:14.385Z
 ---
 
 # Enzyme Function Initiative (EFI)
@@ -23,6 +25,8 @@ tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, ge
 - Prior to generating a GNN, it's beneficial to edit your input SSN by removing singlets and nodes in clusters of fewer than 6. 
 - If you want both a colored SSN and a GNN, running the GNT with an un-colored SSN will output both. 
 - Use the Tutorial tabs provided for each tool, they're very helpful.
+- Functionality to create HMM and motif per cluster created in your SSN.
+
 ## Website
 
 - [Enzyme Function Initiative *Main Page*](https://efi.igb.illinois.edu/)
