@@ -1,8 +1,8 @@
 ---
 title: Enzyme Function Initiative (EFI)
-description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach. 
+description: The Enzyme Function Initiative is a large-scale collaborative project aiming to develop and disseminate a robust strategy to determine enzyme function through an integrated sequence–structure-based approach. It contains tools for creating SSN and GNN.
 published: true
-date: 2020-09-19T16:08:39.941Z
+date: 2020-09-19T16:16:46.338Z
 tags: archaea, bacteria, species clusters, tool, sequence analysis, proteins, genome browser, comparative genomics, sequence similarity, data capture, homolog discovery, bioinformatics, browser, data visualization, prediction, clustering, protein family, data export, conservation, orthologs, eukaryota, curated, network, protein domain, gnn, snn, gnt, genome neighborhood
 editor: markdown
 dateCreated: 2020-04-06T17:55:14.385Z
