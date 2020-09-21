@@ -1,8 +1,8 @@
 ---
 title: NCBI Cluster of Orthologous groups (COGs)
 description: Original COG database created by BHH by Galperin and Koonin in 1997 and updated in 2014 and 2020
-published: false
-date: 2020-09-15T20:11:29.695Z
+published: true
+date: 2020-09-21T22:52:19.253Z
 tags: proteins, orthologs
 editor: markdown
 dateCreated: 2020-09-15T02:25:34.475Z
