@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-23T13:28:53.034Z
+date: 2020-09-23T13:29:01.121Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -33,7 +33,7 @@ dateCreated: 2020-05-06T17:00:33.487Z
 
 ## Evolution and Genomics
 
-- [Evomics *Workshop and tutorial for Phylogeny and Genomics*](http://evomics.org/learning/)
+- [Evomics *Workshops and tutorials for Phylogeny and Genomics*](http://evomics.org/learning/)
 {.links-list}
 
 ## Genetic code
