@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-10T21:52:43.823Z
+date: 2020-09-23T13:28:53.034Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -29,6 +29,11 @@ dateCreated: 2020-05-06T17:00:33.487Z
 ## Cloning
 
 - [Cloning strategies *Cohesive-end cloning*](http://www.idtdna.com/pages/decoded/decoded-articles/core-concepts/decoded/2012/04/11/cohesive-end-cloning)
+{.links-list}
+
+## Evolution and Genomics
+
+- [Evomics *Workshop and tutorial for Phylogeny and Genomics*](http://evomics.org/learning/)
 {.links-list}
 
 ## Genetic code
@@ -66,6 +71,7 @@ dateCreated: 2020-05-06T17:00:33.487Z
 ## Phylogeny
 
 - [Journey Into Phylogenetics Systematics *Introduction to Cladistics*](http://www.ucmp.berkeley.edu/clad/clad4.html)
+- [](http://evomics.org/learning/)
 {.links-list}
 
 
