@@ -2,7 +2,7 @@
 title: Trainings & Tutorials
 description: List of the tutorials, trainings, help and courses listed on this website
 published: true
-date: 2020-09-23T13:29:01.121Z
+date: 2020-09-23T13:29:10.142Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T17:00:33.487Z
@@ -71,7 +71,6 @@ dateCreated: 2020-05-06T17:00:33.487Z
 ## Phylogeny
 
 - [Journey Into Phylogenetics Systematics *Introduction to Cladistics*](http://www.ucmp.berkeley.edu/clad/clad4.html)
-- [](http://evomics.org/learning/)
 {.links-list}
 
 
