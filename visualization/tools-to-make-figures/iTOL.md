@@ -2,17 +2,27 @@
 title: iTOL: Interactive Tree of Life
 description: Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic trees.
 published: true
-date: 2020-06-11T10:52:28.665Z
+date: 2020-10-01T13:13:02.780Z
 tags: annotation tools, taxonomy, phylogeny, data visualization
 editor: markdown
+dateCreated: 2020-04-16T16:47:13.561Z
 ---
 
 # iTOL: Interactive Tree of Life
 
 > Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic trees. Explore your trees directly in the browser, and annotate them with various types of data. All datasets can be be displayed simultaneously, with fine-grained interactive control of their position, size and other parameters.
-&NewLine;
-iTOL provides WYSIWYG high quality export into vector and bitmap graphics formats. Interactively adjust the tree as you like, and the exported figure will mirror what is shown on your screen.
+>
+> iTOL provides WYSIWYG high quality export into vector and bitmap graphics formats. Interactively adjust the tree as you like, and the exported figure will mirror what is shown on your screen.
 {.is-info}
+
+> 1st of October 2020:: iTOL is not free anymore, even if there is still a free access mode with this restriction:
+— Trees uploaded anonymously (i.e. without an iTOL account) are removed after 48 hours.
+— Tree annotations can be added normally, but cannot be saved. After completing the annotation, users have to export their figures right away.
+— Batch upload mode is not available.
+— Existing trees in user's account can be viewed and exported without restrictions, but no new annotations, parameter changes or views can be saved.
+— User account can be used normally, with unlimited creation of workspaces and projects. New trees can be uploaded into user projects as usual, but any new tree annotations, views or parameters cannot be saved.
+{.is-warning}
+
 
 ## Website
 
