@@ -2,8 +2,8 @@
 title: PneumoExpress: Expression Browser
 description: High-resolution analysis of the pneumococcal transcriptome under a wide range of infection-relevant conditions.
 published: true
-date: 2020-10-19T19:09:49.266Z
-tags: 
+date: 2020-10-19T19:12:16.165Z
+tags: bacteria, database, transcriptomics, gene expression, organism-specific
 editor: markdown
 dateCreated: 2020-10-19T17:05:41.060Z
 ---
