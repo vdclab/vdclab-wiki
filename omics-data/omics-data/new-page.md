@@ -2,7 +2,7 @@
 title: PneumoExpress: Expression Browser
 description: High-resolution analysis of the pneumococcal transcriptome under a wide range of infection-relevant conditions.
 published: true
-date: 2020-10-19T19:12:16.165Z
+date: 2020-11-05T23:12:33.879Z
 tags: bacteria, database, transcriptomics, gene expression, organism-specific
 editor: markdown
 dateCreated: 2020-10-19T17:05:41.060Z
@@ -11,9 +11,9 @@ dateCreated: 2020-10-19T17:05:41.060Z
 # PneumoExpress: Expression Browser
 
 > High-resolution analysis of the pneumococcal transcriptome under a wide range of infection-relevant conditions. 
-	The expression and regulation of pneumococcal genes at different life-cycle stages, such as commensal or pathogenic, are not entirely understood. To chart the transcriptional responses of S. pneumoniae, we used RNA-seq to quantify the relative abundance of the transcriptome under 22 different infection-relevant conditions. The data demonstrated a high level of dynamic expression and, strikingly, all annotated pneumococcal genomic features were expressed in at least one of the studied conditions. By computing the correlation values of every pair of genes across all studied conditions, we created a co-expression matrix that provides valuable information on both operon structure and regulatory processes. 
+> 	The expression and regulation of pneumococcal genes at different life-cycle stages, such as commensal or pathogenic, are not entirely understood. To chart the transcriptional responses of S. pneumoniae, we used RNA-seq to quantify the relative abundance of the transcriptome under 22 different infection-relevant conditions. The data demonstrated a high level of dynamic expression and, strikingly, all annotated pneumococcal genomic features were expressed in at least one of the studied conditions. By computing the correlation values of every pair of genes across all studied conditions, we created a co-expression matrix that provides valuable information on both operon structure and regulatory processes. 
+{.is-info}
 
- 
 
 ## Website 
 
@@ -27,7 +27,8 @@ dateCreated: 2020-10-19T17:05:41.060Z
 
  
  ## Ease of use
-> This database is a great resource for researchers interested in studying gene expression in Streptococcus pneumoniae. The conditions offered by the database are focused on mimicking host conditions but there are some datasets from in vitro studies. The gene search bar is helpful for translating gene name with locus tag so that users can quickly find their genes of interest.
+
+This database is a great resource for researchers interested in studying gene expression in Streptococcus pneumoniae. The conditions offered by the database are focused on mimicking host conditions but there are some datasets from in vitro studies. The gene search bar is helpful for translating gene name with locus tag so that users can quickly find their genes of interest.
 
 
 ## Citation 
