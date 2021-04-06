@@ -2,7 +2,7 @@
 title: Gene Context Tool NG
 description: Gene Context Tool NG is a web tool that strives to give the scientific community a useful and accessible tool to visualize the genomic context of a gene or a group of genes and their orthologous relationships within fully sequenced bacterial genomes.
 published: true
-date: 2021-04-06T10:57:40.223Z
+date: 2021-04-06T10:57:51.131Z
 tags: genomes, tool, 2008, gene neighborhood
 editor: markdown
 dateCreated: 2020-04-17T18:29:10.255Z
@@ -18,7 +18,7 @@ dateCreated: 2020-04-17T18:29:10.255Z
 ## Website
 
 - [Gene Context Tool NG *Main Page*](http://operons.ibt.unam.mx/gctNG/)
-- [Gene Context Tool NG new link *Main Page*](http://biocomputo.ibt.unam.mx:8080/GeConT/)
+- [Gene Context Tool NG: new link *Main Page*](http://biocomputo.ibt.unam.mx:8080/GeConT/)
 {.links-list}
 
 ## Notes from Users
