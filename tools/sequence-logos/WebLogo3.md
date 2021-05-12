@@ -2,8 +2,10 @@
 title: WebLogo 3
 description: WebLogo is a web-based application designed to make the generation of sequence logos easy and painless.
 published: true
-date: 2020-05-07T12:00:55.290Z
+date: 2021-05-12T18:58:08.397Z
 tags: tool, sequence analysis, data visualization, conservation
+editor: markdown
+dateCreated: 2020-03-30T21:50:00.301Z
 ---
 
 # WebLogo 3
@@ -14,7 +16,7 @@ WebLogo is a web-based application designed to take multiple sequence alignments
 {.is-info}
 
 ## User Notes
-- WebLogo is a web-based applicatin, but users can also download the source code. 
+- WebLogo is a web-based application, but users can also download the source code. 
 -  If you need to create large numbers of logos, you are welcome to download the code and run WebLogo on your own machine. *If a request flood compromises the WebLogo server,  your IP address will be unceremoniously blocked.*
 {.is-info}
 ## Ease of Use
