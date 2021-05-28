@@ -2,7 +2,7 @@
 title: ETE Toolkit
 description: A Python framework for the analysis and visualization of trees.
 published: true
-date: 2021-05-28T11:39:19.640Z
+date: 2021-05-28T11:39:31.056Z
 tags: taxonomy, phylogeny, data visualization, data mapping, programming
 editor: markdown
 dateCreated: 2020-04-16T16:52:57.846Z
@@ -21,7 +21,7 @@ dateCreated: 2020-04-16T16:52:57.846Z
 
 ## Notes from the user
 
-- Have a webserver tool for those who don't want to use the command line version
+- Have an online webserver tool for those who don't want to use the command line version
 - Will require knowledge of python and how to install the environment
 - A programmable tree with complete control over how the tree is visualized
 - Nice  "Tree Viewer" tool that allows the user to view a tree next to a sequence alignment
