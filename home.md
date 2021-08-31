@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2020-10-04T18:04:28.362Z
+date: 2021-08-31T13:02:16.114Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -46,7 +46,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 - [Phylogeny websites on the wiki *List of websites to do phylogeny*](https://vdclab-wiki.herokuapp.com/en/phylogeny)
 {.links-list}
 
-## Platform
+## Analytic Platforms
 
 - [Platform websites on the wiki *List of websites hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/platform)
 {.links-list}
@@ -58,15 +58,15 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 
 ## Resources
 
-- [Resources websites on the wiki *List of resources list on this wiki*](https://vdclab-wiki.herokuapp.com/en/resources)
+- [Resources websites on the wiki *List of resources across the wiki*](https://vdclab-wiki.herokuapp.com/en/resources)
 {.links-list}
 
-## Sequence Manipulation
+## Sequence Manipulation/Clean-up
 
 - [Sequence Manipulation websites on the wiki *List of websites to manupilate sequences*](https://vdclab-wiki.herokuapp.com/en/sequence-manipulation)
 {.links-list}
 
-## Structure
+## Structure Databases, Analysis
 
 - [Structure websites on the wiki *List of websites linked to structure*](https://vdclab-wiki.herokuapp.com/en/structure)
 {.links-list}
@@ -92,7 +92,7 @@ Below, you will find an interactive table illustrating the breadth, depth of con
 {.links-list}
 
 
-# VDC Favorite
+# VDC Favorites
 
 - [:star: Favorite websites *A selection of the websites described here*](https://vdclab-wiki.herokuapp.com/en/favorites)
 {.links-list}
