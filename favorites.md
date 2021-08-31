@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: Selection of the favorite website of the vdc lab
 published: true
-date: 2020-09-10T18:40:19.426Z
+date: 2021-08-31T13:17:09.789Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -29,7 +29,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [T-COFFEE *Align Protein, DNA and RNA sequences*](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/T-COFFEE)
 {.links-list}
 
-## Two Sequences Alignment
+## Pairwise Alignment
 
 - [Dotlet JS *Comparing sequences by the diagonal plot method*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Dotlet)
 - [Pairwise Alignment *Basic protein pairwise alignment tool*](https://vdclab-wiki.herokuapp.com/en/alignment/two-sequences-alignment/Pairwise-Alignment)
@@ -87,9 +87,9 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [UniProt *Comprehensive resource for protein sequence and annotation data*](https://vdclab-wiki.herokuapp.com/en/databases/general_databases/UniProt)
 {.links-list}
 
-### Eukaryote databases
+### Eukaryote Databases
 
-#### Organism specific databases 
+#### Organism-specific Databases 
 
 - [Arabidopsis Information Resource (TAIR) *database of genetic and molecular biology data for A. thaliana*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
 - [CellMap *Storing and visualizing genetic interactions in S. cerevisiae*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/CellMap)
@@ -114,7 +114,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
 {.links-list}
 
-##### Organism specific databases
+##### Organism-specific Databases
 
 - [AureoWiki *Repository of the Staphylococcus aureus research & annotation*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/AureoWiki)
 - [EcoCyc *Scientific database for the bacterium Escherichia coli K-12 MG1655*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
@@ -124,18 +124,18 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [TB Genomes Database *An integrated platform for Tuberculosis research*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TBDB)
 {.links-list}
 
-#### Archaeal databases
+#### Archaeal Databases
 
 - [UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
 {.links-list}
 
-### Virus databases
+### Virus Databases
 
 - [JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
 - [PHASTER *Rapid identification and annotation of prophage sequences within bacterial genomes and plasmids*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/PHASTER)
 {.links-list}
 
-## Microarray and Rnaseq databases
+## Microarray and RNA-Seq Databases
 
 - [ATTED-II *Coexpression database for plants to discover relationships of unknown genes within a species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/ATTED-II)
 - [COXPRESdb *Database providing coexpression information for 11 animal species*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/COXPRESdb)
@@ -170,7 +170,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [RegulonDB *Database on transcriptional regulation in Escherichia coli K-12 containing knowledge*](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 {.links-list}
 
-## RNA Database
+## RNA Databases
 
 - [3dmodmap *Database of maps showing the sites of modified rRNA nucleotides in 3D models*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/3dmodmap)
 - [GtRNAdb *tRNA database contains tRNA gene predictions made by the program tRNAscan-SE*](https://vdclab-wiki.herokuapp.com/en/databases/RNA-database/GtRNAdb)
@@ -186,7 +186,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [Orphan Enzyme Project *Associate an amino-acid sequence with every known orphan enzyme*](https://vdclab-wiki.herokuapp.com/en/databases/unknown-enzyme/Orphan-Enzymes)
 {.links-list}
 
-# Literature Search
+# Specialized Literature Search
 
 - [Connected Papers *Explore connected papers in a visual graph*](https://vdclab-wiki.herokuapp.com/en/literature-search/Connected-Papers)
 - [PaperBLAST *database of protein sequences that are linked to scientific articles*](https://vdclab-wiki.herokuapp.com/en/literature-search/PaperBLAST)
@@ -217,12 +217,12 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [OrthoInspector *Inference of orthologous relationships between protein coding-genes*](https://vdclab-wiki.herokuapp.com/phylogeny/phylogenetic-distribution/OrthoInspector/)
 {.links-list}
 
-## Visualizing Tree
+## Visualizing the Tree of Life
 
 - [Lifemap *Tool allowing the exploration of a complete representation of the Tree of Life*](https://vdclab-wiki.herokuapp.com/en/phylogeny/visualization/Lifemap)
 {.links-list}
 
-# Platform
+# Platforms
 
 ## General Integration Platforms
 
@@ -246,24 +246,24 @@ dateCreated: 2020-04-15T18:50:25.064Z
 
 # Prediction
 
-## Predicting Protein/Protein Interaction
+## Predicting Protein-Protein Interactions
 
 - [ArDock *Detect interaction sites by docking arbitrary proteins*](https://vdclab-wiki.herokuapp.com/ArDock)
 - [Skolnick Tools Suite *Suite of tools designed, produced, and made available by the Skolnick Lab*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Skolnick-Lab-Tools)
 - [Zhou Group Tools *Suite of tools for prediction of protein-protein interactions*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Zhou-Group-Tools)
 {.links-list}
 
-# Ressources
+# Resources
 
-## Analysis Resources
+## Precomputed Big Data Resources
 
 - [RadicalSAM *Exploring the Radical SAM Enzyme Superfamily*](https://vdclab-wiki.herokuapp.com/en/resources/analysis_resources/RadicalSAM)
 {.links-list}
 
-## General Resources
+## Broad Bioinformatic Resources
 
-- [BioNumbers *Enable you to find in one minute any useful molecular biology number*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
-- [EMBL-EBI *Services and tools, perform basic research and provide professional training in bioinformatics*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/EMBL-EBI)
+- [BioNumbers *Quick-reference of common values and metrics frequently used in research via methods, study systems, and/or techniques*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/BioNumbers)
+- [EMBL-EBI *Services, databases, and tools; facilitates fundamental and translational research and provides professional training and learning materials for bioinformatics*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/EMBL-EBI)
 - [EZBioCloud *ChunLab's public data and analytics portal*](https://vdclab-wiki.herokuapp.com/resources/general_resources/EZBioCloud/)
 - [FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
 - [NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
@@ -305,7 +305,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [SFLD *Hierarchical classification of enzymes that relates specific sequence-structure features*](https://vdclab-wiki.herokuapp.com/en/resources/protein-analysis/SFLD)
 {.links-list}
 
-# Sequence Manipulation
+# Sequence Manipulation/Clean-up
 
 ## Changing format of sequences
 
@@ -390,7 +390,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 {.links-list}
 
 
-## Creating Or Finding Sequence Logos
+## Creating or Finding Sequence Logos
 
 - [Berkeley WebLogo *Designed to make the generation of sequence logos as easy and painless as possible*](https://vdclab-wiki.herokuapp.com/en/visualization/sequence-data-visualization/Berkeley-WebLogo)
 - [Skylign *Creating logos representing both sequence alignments and profile hidden Markov models*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/Skylign)
