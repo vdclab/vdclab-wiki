@@ -2,9 +2,10 @@
 title: Annotation
 description: List of the websites useful for annotation
 published: true
-date: 2020-08-08T20:22:32.045Z
+date: 2021-09-09T15:12:37.905Z
 tags: category
 editor: markdown
+dateCreated: 2020-04-30T01:41:02.526Z
 ---
 
 # Annotation
@@ -34,5 +35,5 @@ editor: markdown
 - [MG-RAST *Metagenomic Rapid Annotations using Subsystems Technology*](https://vdclab-wiki.herokuapp.com/en/annotation/prokaryotic/MG-RAST)
 - [NCBI *Prokaryotic Genome Annotation Pipeline*](https://vdclab-wiki.herokuapp.com/en/annotation/prokaryotic/NCBI-PGAP)
 - [:star: proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
-- [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial-databases/pubseed)
+- [:star: PubSEED *SEED is a constantly updated integration of genomic data*](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/pubseed)
 {.links-list}
