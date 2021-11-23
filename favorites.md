@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2021-08-31T15:04:53.896Z
+date: 2021-11-23T14:49:29.844Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -437,6 +437,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 ## Prediction
 
 - [AACompIdent *Allows the identification of a protein from its amino acid composition*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/AACompIdent)
+- [ArDock *etect interaction sites by docking arbitrary proteins*](https://vdclab-wiki.herokuapp.com/prediction/protein-protein-interaction/ArDock)
 - [COGcollator *Web server for analysis of distant relationships between homologous protein families*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/COGcollator)
 - [GapMind *Automated annotation of Amino acid biosynthesis*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/GapMind)
 - [Genome3D *Provides consensus structural annotations and 3D models for sequences*](https://vdclab-wiki.herokuapp.com/en/tools/prediction/Genome3D)
