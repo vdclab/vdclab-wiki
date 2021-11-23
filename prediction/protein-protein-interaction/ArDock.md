@@ -2,7 +2,7 @@
 title: ArDock
 description: ArDock: detect interaction sites by docking arbitrary proteins.
 published: true
-date: 2021-11-23T14:46:42.198Z
+date: 2021-11-23T14:47:13.281Z
 tags: tool, proteins, prediction, interaction, protein-protein
 editor: markdown
 dateCreated: 2020-04-14T20:21:22.692Z
