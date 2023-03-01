@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T19:15:53.428Z
+date: 2023-03-01T19:16:44.561Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -42,17 +42,17 @@ Lorem ipsem (put whatever you want here to introduce the course material, but I 
 > Type of genomes, genome quality will vary per source. Some sources are better for some taxa than others. These and other factors are important when selecting a resource or multiple resources from which to extract genomes. Additionally, the total number of genomes being used should also be considered.
 {.is-info}
 
-JGI-IMG
-NCBI Genome
-MicroScope (GenoScope)
+**JGI-IMG**
+**NCBI Genome**
+**MicroScope (GenoScope)**
 
 
 
 #### Extracting Sets of Protein/Gene Sequences for a Target Family
 
-UniProt
-NCBI Protein
-NCBI Gene
+**UniProt**
+**NCBI Protein**
+**NCBI Gene**
 
 #### Finding Literature Pertaining to a Target Protein Family
 (see broader [Literature Capture Workflow](link))
