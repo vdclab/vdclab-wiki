@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T19:14:27.284Z
+date: 2023-03-01T19:15:53.428Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -59,15 +59,15 @@ NCBI Gene
 
 #### Mapping Accessions/Identifiers Between Different Source Databases
 
-DAVID
-UniProt Mapper
-other mappers
+[**DAVID**](https://david.ncifcrf.gov/conversion.jsp)
+[**UniProt Mapper**](https://www.uniprot.org/id-mapping)
+(other mappers)
 
 #### Reformatting FASTA Files Using REGEX Tools
 > Registration of a RegExr user account is optimal, as this allows for saving and reuse of script templates to transform or convert different types of sequence headers. Resource also includes a reference and instructional materials for text expression rules, practices.
 {.is-info}
 
-[RegExr](https://regexr.com)
+[**RegExr**](https://regexr.com)
 
 
 
