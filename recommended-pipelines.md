@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T15:23:14.062Z
+date: 2023-03-01T15:25:12.326Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -18,9 +18,13 @@ Lorem ipsem
 # Bioinformatic Course Modules
 
 ## BSC6459 - Introduction to Bioinformatics
-### Module 1
+### Module 0 - Start Here
 Lorem ipsem
 
+
+
 ## MCB6318 - Comparative Microbial Genomics
-### Module 1 - Start Here
+### Module 0 - Start Here
 Lorem ipsem
+
+### Module 1 - Dealing with the Avalanche of Genomic Data
