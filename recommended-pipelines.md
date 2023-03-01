@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T18:45:28.453Z
+date: 2023-03-01T19:11:57.632Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -28,6 +28,7 @@ Lorem ipsem
 Lorem ipsem (put whatever you want here to introduce the course material, but I feel like a list of resources, etc., would be redundant)
 
 ### Module 1 - Dealing with the Avalanche of Genomic Data
+(insert diagram of workflow)
 **Objective Summary**
 - Extract and analyze bacterial genomes of interest 
 - Extract sets of proteins/genes sequences of a specific family
@@ -35,7 +36,6 @@ Lorem ipsem (put whatever you want here to introduce the course material, but I 
 - Map accession numbers from one database to another
 - Reformat Fasta files using REGEX  tools
 
-(insert diagram of workflow)
 
 #### Extracting and Analyzing Bacterial Genomes
 
@@ -43,13 +43,29 @@ Lorem ipsem (put whatever you want here to introduce the course material, but I 
 {.is-info}
 
 JGI-IMG
-NCBI
+NCBI Genome
 MicroScope (GenoScope)
 
 
 
 #### Extracting Sets of Protein/Gene Sequences for a Target Family
 
+UniProt
+NCBI Protein
+NCBI Gene
 
+#### Finding Literature Pertaining to a Target Protein Family
+(see broader [Literature Capture Workflow](link))
 
+#### Mapping Accessions/Identifiers Between Different Source Databases
+
+DAVID
+UniProt Mapper
+other mappers
+
+#### Reformatting FASTA Files Using REGEX Tools
+> Registration of a RegExr user account is optimal, as this allows for saving and reuse of script templates to transform or convert different types of sequence headers. Resource also includes a reference and instructional materials for text expression rules, practices.
+{.is-info}
+
+[RegExr](https://regexr.com)
 
