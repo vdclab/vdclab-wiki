@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T19:59:11.301Z
+date: 2023-03-01T20:01:07.322Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -143,4 +143,9 @@ Put whatever you want here to introduce the course material, but I feel like a l
 
 #### Network Visualization Tools
 
-####
+#### Gene Neighborhood Analysis
+
+#### Comparing Sequence Logos
+
+#### Mapping Data to Phylogenetic Trees (Phylogenomics)
+
