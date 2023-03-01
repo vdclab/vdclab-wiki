@@ -2,7 +2,7 @@
 title: Recommended Pipelines for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-01T19:53:57.846Z
+date: 2023-03-01T19:59:11.301Z
 tags: pipeline, pipelines, recommended, favorites
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -113,4 +113,34 @@ Put whatever you want here to introduce the course material, but I feel like a l
 
 #### Mapping Omics Data to Pathways
 
+---
+### Module 4 - Mining and Predicting 3D Protein Structures
 
+(insert diagram of workflow)
+**Objective Summanry**
+- Visualize 3D protein structures
+- Build models of protein structures
+- Identify ligand-binding pockets
+- Predict Protein-Protein or Protein-Nucleic acid binding interfaces
+
+#### Visualizing 3D Protein Structures
+
+#### Building Models of Protein Structures
+
+#### Identifying Ligand-binding Sites
+
+#### Predicting Protein-Protein, Protein-NA Binding Interfaces
+
+---
+### Module 5 - Data Visualization ***(more specific?)***
+
+(insert diagram of workflow)
+**Objective Summary**
+- Discuss different network visualization tools
+- Visualize gene neighborhoods
+- Compare sequence Logos
+- Add different types of data to phylogenetic trees
+
+#### Network Visualization Tools
+
+####
