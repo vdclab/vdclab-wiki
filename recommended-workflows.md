@@ -2,7 +2,7 @@
 title: Recommended Workflows for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-03-06T14:31:25.615Z
+date: 2023-03-06T14:32:57.135Z
 tags: recommended, favorites, workflows, workflow
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -21,5 +21,5 @@ Lorem ipsem
 ## [BSC6459 - Introduction to Bioinformatics]()
 
 
-## [MCB6318 - Comparative Microbial Genomics](/recommended-pipelines/MCB6318)
+## [MCB6318 - Comparative Microbial Genomics](/recommended-workflows/MCB6318)
 
