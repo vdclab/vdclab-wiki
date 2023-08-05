@@ -2,7 +2,7 @@
 title: Recommended Workflows for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-08-05T14:25:46.260Z
+date: 2023-08-05T14:26:05.114Z
 tags: recommended, favorites, workflows, workflow
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -35,18 +35,4 @@ The following modules of workflows have been organized by the structure employed
 [12. Sequence Similarity Networks]()
 [13. Biocuration, Bioinformatic Synthesis in Functional Annotation]()
 
-
-## Protein Family-level Analysis
-Lorem ipsem
-## Model Organisms, Orthology as a Limited Predictor of Function
-Lorem ipsem
-
----
-
-# Bioinformatic Course Modules
-
-## [BSC6459 - Introduction to Bioinformatics]()
-
-
-## [MCB6318 - Comparative Microbial Genomics](/recommended-workflows/MCB6318)
 
