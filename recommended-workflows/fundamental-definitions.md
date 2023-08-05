@@ -2,7 +2,7 @@
 title: Fundamental Definitions
 description: Key concepts and terms covered in the official bioinformatics introductory course
 published: true
-date: 2023-08-05T14:37:22.681Z
+date: 2023-08-05T14:39:35.704Z
 tags: recommended, favorites, workflows
 editor: markdown
 dateCreated: 2023-08-05T14:30:11.848Z
@@ -10,6 +10,7 @@ dateCreated: 2023-08-05T14:30:11.848Z
 
 # Fundamental Definitions
 ## Homology and Orthology
+Bioinformatics, as a field of methods, is often highly dependent upon similarity-based comparisons of biomolecular sequences. Before one can proceed to structure or function, characteristics of the sequence must first be considered.
 
 
 **Homology**
