@@ -2,7 +2,7 @@
 title: Fundamental Definitions
 description: Key concepts and terms covered in the official bioinformatics introductory course
 published: true
-date: 2023-08-05T15:40:25.861Z
+date: 2023-08-05T15:41:24.468Z
 tags: recommended, favorites, workflows
 editor: markdown
 dateCreated: 2023-08-05T14:30:11.848Z
@@ -22,7 +22,7 @@ High sequence similarity is used ***to infer homology*** (i.e., that the given s
 An inference of homology can then be used ***to infer orthology*** (i.e., in terms of their relation, sequences are inferred to be a result of a speciation event, and, therefore, likely share the same function).
 
 - ***insert diagram(s) illustrating homology, orthology as applied to comparative genomics***
-
+Figure legend [[ref]](link)
 
 
 > The ***true evolutionary history of sequences*** (and, therein, their relationship to one another) can sometimes be hidden depending on the scale and comprehensiveness of the analyses being performed.
