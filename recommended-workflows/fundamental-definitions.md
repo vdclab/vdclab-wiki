@@ -2,7 +2,7 @@
 title: Fundamental Definitions
 description: Key concepts and terms covered in the official bioinformatics introductory course
 published: true
-date: 2023-08-05T16:07:19.190Z
+date: 2023-08-05T16:08:35.390Z
 tags: recommended, favorites, workflows
 editor: markdown
 dateCreated: 2023-08-05T14:30:11.848Z
@@ -33,7 +33,7 @@ Paralogs are ***homologous sequences resulting from a gene duplication event***.
 
 
 
-### Databases, Online Resources: How to Approach & Why
+### Databases, Online Resources: How to Approach
 Increasingly, many bioinformatic tools and databases are accessible via internet browser through webservers or web portals. However, not all tools are created equal in their veracity and validity. In our lab, we emphasize that no tool should be used alone for finalizing conclusions about a protein's function; that is, ***it is essential that multiple tools and data sources be used and their results compared for more comprehensive, accurate bioinformatic investigations***. It should also be noted that, while some resources are more reliable and more up-to-date than others, ***it is always important that any bioinformatics user approach even their favorite resources with a critical eye***.
 
 ***Online Resources, Reliability and Longevity***
