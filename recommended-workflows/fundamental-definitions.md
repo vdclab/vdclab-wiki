@@ -2,7 +2,7 @@
 title: Fundamental Definitions
 description: Key concepts and terms covered in the official bioinformatics introductory course
 published: true
-date: 2023-08-05T15:41:24.468Z
+date: 2023-08-05T15:50:39.911Z
 tags: recommended, favorites, workflows
 editor: markdown
 dateCreated: 2023-08-05T14:30:11.848Z
@@ -37,6 +37,6 @@ Paralogs are ***homologous sequences resulting from a gene duplication event***.
 Increasingly, many bioinformatic tools and databases are accessible via internet browser through webservers or web portals. However, not all tools are created equal in their veracity and validity. In our lab, we emphasize that no tool should be used alone for finalizing conclusions about a protein's function; that is, ***it is essential that multiple tools and data sources be used and their results compared for more comprehensive, accurate bioinformatic investigations***. It should also be noted that, while some resources are more reliable and more up-to-date than others, ***it is always important that any bioinformatics user approach even their favorite resources with a critical eye***.
 
 ***Online Resources, Reliability and Longevity***
-The lifetime of online bioinformatic resources was recently reported to be less than a year on average [[2]](https://academic.oup.com/nar/article/48/22/12523/6018434). Only a select few have lasted more than a decade (e.g., UniProt, EMBL, PDB) following their successes in userbase capture, citation rates, and securing sustainable funding.
+The lifetime of online bioinformatic resources was recently reported to be surprisingly low and that the continued accessibility was found to be positively correlated with the number of user citations [[2]](https://academic.oup.com/nar/article/48/22/12523/6018434). 
 
 
