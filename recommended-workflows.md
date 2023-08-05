@@ -2,7 +2,7 @@
 title: Recommended Workflows for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-08-05T14:20:57.933Z
+date: 2023-08-05T14:23:11.377Z
 tags: recommended, favorites, workflows, workflow
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
@@ -19,19 +19,19 @@ It is important to note that, while it is the goal to capture all tools covered 
 [Influential/Important Texts]()
 
 ### Module Navigation
-1. Basics of Information Retrieval
-2. Pairwise Alignments
-3. Multiple Sequence Alignments
-4. DNA Analysis
-5. Practical DNA and Protein Analysis
-6. Phylogenetic Basics
-7. Visualizing and Comparing Structures
-8. Structural Modeling, Prediction
-9. Subcellular Localization
-10. Regulation, Expression
-11. Advanced Phylogenetics
-12. Sequence Similarity Networks
-13. Biocuration, Bioinformatic Synthesis in Functional Annotation
+[1. Basics of Information Retrieval]()
+[2. Pairwise Alignments]()
+[3. Multiple Sequence Alignments]()
+[4. DNA Analysis]()
+[5. Practical DNA and Protein Analysis]()
+[6. Phylogenetic Basics]()
+[7. Visualizing and Comparing Structures]()
+[8. Structural Modeling, Prediction]()
+[9. Subcellular Localization]()
+[10. Regulation, Expression]()
+[11. Advanced Phylogenetics]()
+[12. Sequence Similarity Networks]()
+[13. Biocuration, Bioinformatic Synthesis in Functional Annotation]()
 
 
 ## Protein Family-level Analysis
