@@ -2,7 +2,7 @@
 title: Fundamental Definitions
 description: Key concepts and terms covered in the official bioinformatics introductory course
 published: true
-date: 2023-08-05T16:12:52.663Z
+date: 2023-08-05T16:13:07.584Z
 tags: recommended, favorites, workflows
 editor: markdown
 dateCreated: 2023-08-05T14:30:11.848Z
@@ -39,6 +39,6 @@ Increasingly, many bioinformatic tools and databases are accessible via internet
 ***Online Resources, Reliability and Longevity***
 The lifetime of online bioinformatic resources was recently reported to be surprisingly low and that the continued accessibility was found to be positively correlated with the number of user citations [[2]](https://academic.oup.com/nar/article/48/22/12523/6018434). To date, the varied accessibility and sustained functionality of web resources continues to be a problem for biological data reuse and can be an important factor influencing in the successes of bioinformatic analyses.
 
-Although not structured by modularized workflows and lacking expert curation, the [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) maintained by the China National Center for Bioinformation and National Genomics Data Center is an impressive resource, actively updating and electronically monitoring an immense catalog of biological databases and tools based across the globe. There, citation histories and activity for nearly 6k databases can be browsed, filtered, and explored.
+Although not structured by modularized workflows and lacking expert curation, the [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) maintained by the China National Center for Bioinformation and National Genomics Data Center is an impressive resource, actively updating and electronically monitoring an immense catalog of biological databases and tools maintained around the globe. There, citation histories and activity for nearly 6k databases can be browsed, filtered, and explored.
 
 
