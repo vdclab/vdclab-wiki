@@ -2,7 +2,7 @@
 title: Recommended Workflows for Microbiologists
 description: Recommended webtools/webservers arranged as sets of pipelines designed to improve accessibility, reproducibility, and useability of bioinformatics approaches with the experimental microbiologist in mind.
 published: true
-date: 2023-08-05T14:32:40.432Z
+date: 2023-09-16T17:37:45.540Z
 tags: recommended, favorites, workflows, workflow
 editor: markdown
 dateCreated: 2022-12-19T15:49:13.184Z
