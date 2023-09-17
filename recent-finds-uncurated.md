@@ -2,17 +2,17 @@
 title: Recent Finds (uncurated)
 description: A feed of dated "finds": resources that we've stumbled upon and wanted to share but haven't had time to curate and review them
 published: true
-date: 2023-09-17T17:29:30.593Z
+date: 2023-09-17T17:31:13.303Z
 tags: recent, feed, updates, posts, uncurated
 editor: markdown
 dateCreated: 2023-09-17T15:46:22.154Z
 ---
 
-> organized by most recent to least
+> Organized by most recent to least.
+> New finds will appear at the top of the list.
 {.is-info}
 
 # 2023
-
 
 
 ### Sept. 12, 2023
