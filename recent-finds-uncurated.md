@@ -2,7 +2,7 @@
 title: Recent Finds (uncurated)
 description: A feed of dated "finds": resources that we've stumbled upon and wanted to share but haven't had time to curate and review them
 published: true
-date: 2023-09-17T17:19:14.889Z
+date: 2023-09-17T17:23:45.254Z
 tags: recent, feed, updates, posts
 editor: markdown
 dateCreated: 2023-09-17T15:46:22.154Z
@@ -44,4 +44,15 @@ Provides a way to balance NCBI Taxonomies (rank assignment, re-ranking, etc.)
 [http://bioinfo.icb.ufmg.br/taxallnomy/](http://bioinfo.icb.ufmg.br/taxallnomy/)
 
 
+## Jul. 18, 2023
+>Found by: VDC
+**dbCAN** (automated **C**arbohydrate-active enzyme **AN**notation)
+[https://bcb.unl.edu/dbCAN2/](https://bcb.unl.edu/dbCAN2/)
+
+
+## Jun. 20, 2023
+>Found by: VDC
+**Yeast Phenome**
+A library of yeast phenotype screening data
+[https://www.yeastphenome.org](https://www.yeastphenome.org)
 
