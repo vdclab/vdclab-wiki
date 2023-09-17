@@ -2,7 +2,7 @@
 title: Recent Finds (uncurated)
 description: A feed of dated "finds": resources that we've stumbled upon and wanted to share but haven't had time to curate and review them
 published: true
-date: 2023-09-17T17:33:49.135Z
+date: 2023-09-17T17:40:58.600Z
 tags: recent, feed, updates, posts, uncurated
 editor: markdown
 dateCreated: 2023-09-17T15:46:22.154Z
@@ -65,6 +65,18 @@ Provides a way to balance NCBI Taxonomies (rank assignment, re-ranking, etc.)
 A library of yeast phenotype screening data
 [https://www.yeastphenome.org](https://www.yeastphenome.org)
 
+
+### Jun. 10, 2023
+>Found by: C.J. Reed
+**Pathway Tools**
+Suite of tools designed for pathway bioinformatics, etc., with a systems biology lens
+[https://pathwaytools.com](https://pathwaytools.com)
+
+
+### May 22, 2023
+>Found by: VDC
+**MBGD** (Microbial Genome Database for Comparative Analysis)
+[https://mbgd.nibb.ac.jp](https://mbgd.nibb.ac.jp)
 
 
 # 2022
