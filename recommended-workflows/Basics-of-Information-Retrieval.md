@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T13:27:57.016Z
+date: 2023-09-18T13:32:29.669Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -48,6 +48,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 ## Protein DBs
 
 - [CaZY](http://www.cazy.org/) (**Ca**rbohydrate-active En**zy**mes Database)
+- [DescribePROT](http://biomine.cs.vcu.edu/servers/DESCRIBEPROT/main.php) (**D**atabas**e** of **S**tru**c**tu**r**e and Funct**i**on Residue-**b**ased Pr**e**dictions of **Prot**eins)
 - 
 
 ## Expression DBs 
