@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T16:28:03.784Z
+date: 2023-09-18T16:29:38.262Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -73,9 +73,10 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [iProClass](https://proteininformationresource.org/pirwww/dbinfo/iproclass.shtml)
 - [LenVarDB](http://caps.ncbs.res.in/lenvardb/) (Database of Length Variant Protein Domains)
 - [OMA](https://omabrowser.org/oma/home/)
-- [OrthoDB]()
+- [OrthoDB](https://www.orthodb.org/)
 - [OrthoInspector]()
 - [OrthoMCL]()
+- []()
 
 **Analog Detection**
 - [MALISAM](http://prodata.swmed.edu/malisam/) (**M**anual **Ali**gnments of **S**tructurally **A**nalogous **M**otifs)
