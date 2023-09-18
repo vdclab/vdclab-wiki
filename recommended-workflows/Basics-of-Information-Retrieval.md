@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T13:17:45.388Z
+date: 2023-09-18T13:27:05.369Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -29,8 +29,18 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [**The International Nucleotide Sequence Database Collaboration**](https://www.insdc.org/)
 -- [NCBI](https://www.ncbi.nlm.nih.gov/) (National Center for Biotechnology Information)
 ---- [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene)
+---- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+---- [BioSample/BioProject](https://www.ncbi.nlm.nih.gov/biosample)
+---- [SRA](http://www.ncbi.nlm.nih.gov/sra) (Sequence Read Archive)
 -- [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) (DNA Databank of Japan)
--- [ENA](https://www.ebi.ac.uk/ena/browser/home) (European Nucleotide Archive, EMBL-EBI)
+---- [SRA](http://trace.ddbj.nig.ac.jp) (Sequence Read Archive)
+-- [EMBL-EBI](https://www.ncbi.nlm.nih.gov/biosample)
+---- [ENA](https://www.ebi.ac.uk/ena/browser/home) (European Nucleotide Archive, EMBL-EBI)
+---- [BioSamples](https://www.ebi.ac.uk/biosamples/)
+---- [EBI Patent Sequences](https://www.ebi.ac.uk/patentdata/nucleotides)
+---- [SRA](http://www.ebi.ac.uk/ena) (Sequence Read Archive)
+-- [EGA](https://ega-archive.org/datasets/) (European Genome-phenome Archive)
+
 - [PLSDB](https://ccb-microbe.cs.uni-saarland.de/plsdb) (Plasmid Database)
 - [ENSEMBL Database](https://useast.ensembl.org/index.html)
 
