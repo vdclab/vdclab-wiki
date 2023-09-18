@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T17:20:29.183Z
+date: 2023-09-18T17:21:49.155Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -76,6 +76,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [MemMoRF](https://memmorf.hegelab.org/) (Database of Membrane Associated Disordered Protein Regions)
 - [MobiDB](https://mobidb.bio.unipd.it/) (Database of Protein Disorder and Mobility Annotations)
 - [CATH/Gene3D](https://www.cathdb.info/)
+- [The Human Protein Atlas](https://www.proteinatlas.org/)
 
 **Orthology Systems**
 - [SMART](http://smart.embl.de/)
