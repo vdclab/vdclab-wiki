@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T15:54:23.588Z
+date: 2023-09-18T15:57:00.641Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -67,6 +67,9 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 **Structures**
 - [RCSB-PDB](https://www.rcsb.org/)
 - [PDBe (EMBL-EBI)](https://www.ebi.ac.uk/pdbe/)
+- [PDBj](https://pdbj.org/)
+- [BMRB](https://bmrb.io/) (Biological Magnetic Resonance Data Bank)
+- [EMDB (EMBL-EBI)](https://www.ebi.ac.uk/emdb/) (Electron Microscopy Data Bank)
 
 ## Expression DBs 
 
