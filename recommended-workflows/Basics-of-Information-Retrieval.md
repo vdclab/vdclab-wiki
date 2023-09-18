@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T16:12:46.178Z
+date: 2023-09-18T16:14:35.811Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -84,9 +84,6 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 **Interactions**
 - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)
 - [PPT-DB](http://www.pptdb.ca/) (The Protein Property Prediction & Testing Database)
-
-**Prediction**
-- 
 
 **Literature Search**
 - [iProClass](https://research.bioinformatics.udel.edu/iprolink/)
