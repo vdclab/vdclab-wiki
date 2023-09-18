@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T17:29:56.657Z
+date: 2023-09-18T17:30:27.315Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -90,7 +90,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [OrthoDB](https://www.orthodb.org/)
 - [OrthoInspector]()
 - [OrthoMCL]()
-- []()
+- [PANTHER](https://www.pantherdb.org/)
 
 **Analog Detection**
 - [MALISAM](http://prodata.swmed.edu/malisam/) (**M**anual **Ali**gnments of **S**tructurally **A**nalogous **M**otifs)
