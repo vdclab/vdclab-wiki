@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T16:29:38.262Z
+date: 2023-09-18T16:35:55.912Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -17,9 +17,14 @@ Because this field is so diverse and is built on the motivation of finding pract
 
 # Sequence Databases
 Regardless of the bioinformatic subfield or practical definition, biomolecular sequence data has always been at the core of, both, the field's origins and its current state of practice. By far, biomolecular sequences make up the greatest share of available biodata available today. Today, approximately 1.5 million nucleotide sequences are submitted to the DDBJ every day (data: [DDBJ website](https://www.ddbj.nig.ac.jp/statistics/index-e.html); calculation, diff. between releases, r131 and r130).
-## Genome/Assembly DBs
+## Genome/Assembly DBs 
+**neglecting organism-specific Dbs*
 
-- JGI GOLD
+- [JGI GOLD](https://gold.jgi.doe.gov/)
+- [NCBI Genome](https://www.ncbi.nlm.nih.gov/genome/)
+- [gnomAD](https://gnomad.broadinstitute.org/)
+- [GenomeNet Database](https://www.genome.jp/)
+- []()
 
 
 
