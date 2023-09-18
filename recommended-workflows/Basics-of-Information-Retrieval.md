@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T13:13:20.162Z
+date: 2023-09-18T13:17:45.388Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -26,17 +26,19 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 
 ## Nucleotide/Gene DBs
 
-[**The International Nucleotide Sequence Database Collaboration**](https://www.insdc.org/)
-- [NCBI](https://www.ncbi.nlm.nih.gov/) (National Center for Biotechnology Information)
--- NCBI Gene
-- [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) (DNA Databank of Japan)
-- [ENA](https://www.ebi.ac.uk/ena/browser/home) (European Nucleotide Archive, EMBL-EBI)
+- [**The International Nucleotide Sequence Database Collaboration**](https://www.insdc.org/)
+-- [NCBI](https://www.ncbi.nlm.nih.gov/) (National Center for Biotechnology Information)
+---- [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene)
+-- [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html) (DNA Databank of Japan)
+-- [ENA](https://www.ebi.ac.uk/ena/browser/home) (European Nucleotide Archive, EMBL-EBI)
 - [PLSDB](https://ccb-microbe.cs.uni-saarland.de/plsdb) (Plasmid Database)
-- 
+- [ENSEMBL Database](https://useast.ensembl.org/index.html)
 
 
 ## Protein DBs
 
+- [CaZY](http://www.cazy.org/) (**Ca**rbohydrate-active En**zy**mes Database)
+- 
 
 ## Expression DBs 
 
