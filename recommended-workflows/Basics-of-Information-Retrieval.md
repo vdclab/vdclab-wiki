@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T16:14:35.811Z
+date: 2023-09-18T16:23:36.877Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -66,6 +66,12 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 
 **Orthology Systems**
 - [SMART](http://smart.embl.de/)
+- [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml) (Conserved Domain Database)
+- [EggNOG](http://eggnog6.embl.de/)
+- [MyHits](https://myhits.sib.swiss/)
+- [InParanoidDB](https://inparanoidb.sbc.su.se/)
+- [iProClass](https://proteininformationresource.org/pirwww/dbinfo/iproclass.shtml)
+- [LenVarDB](http://caps.ncbs.res.in/lenvardb/) (Database of Length Variant Protein Domains)
 
 **Analog Detection**
 - [MALISAM](http://prodata.swmed.edu/malisam/) (**M**anual **Ali**gnments of **S**tructurally **A**nalogous **M**otifs)
