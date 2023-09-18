@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T15:44:56.531Z
+date: 2023-09-18T15:49:17.748Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -53,10 +53,15 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [NrichD Database](http://proline.biochem.iisc.ernet.in/NRICHD/)
 - [PIR](https://proteininformationresource.org/) (Protein Information Resource)
 - [TCDB](https://tcdb.org/) (Transporter Classification Database)
-
+- [Uniclust](https://uniclust.mmseqs.com/)
+- [UniProtKB](https://www.uniprot.org/)
+--- [UniParc](https://www.uniprot.org/uniparc/?query=*)
+--- [UniRef](https://www.uniprot.org/uniref/?query=*)
+--- [UniSave](http://www.ebi.ac.uk/uniprot/unisave/app/#/)
 
 **Proteomes**
 - [Proteome Analyst](http://pa.wishartlab.com/pa/)
+- [UniProt Proteomes](https://www.uniprot.org/proteomes?query=*)
 
 ## Expression DBs 
 
