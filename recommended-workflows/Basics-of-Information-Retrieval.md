@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T15:57:00.641Z
+date: 2023-09-18T16:05:53.470Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -59,6 +59,14 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 --- [UniParc](https://www.uniprot.org/uniparc/?query=*)
 --- [UniRef](https://www.uniprot.org/uniref/?query=*)
 --- [UniSave](http://www.ebi.ac.uk/uniprot/unisave/app/#/)
+- [CyBase](http://www.cybase.org.au/) (Database of Cyclic Proteins)
+- []()
+
+**Orthology Systems**
+- [SMART](http://smart.embl.de/)
+
+**Analog Detection**
+- [MALISAM](http://prodata.swmed.edu/malisam/) (**M**anual **Ali**gnments of **S**tructurally **A**nalogous **M**otifs)
 
 **Proteomes**
 - [Proteome Analyst](http://pa.wishartlab.com/pa/)
@@ -70,6 +78,14 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [PDBj](https://pdbj.org/)
 - [BMRB](https://bmrb.io/) (Biological Magnetic Resonance Data Bank)
 - [EMDB (EMBL-EBI)](https://www.ebi.ac.uk/emdb/) (Electron Microscopy Data Bank)
+
+**Interactions**
+- [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)
+
+**Literature Search**
+- [iProClass](https://research.bioinformatics.udel.edu/iprolink/)
+- [PaperBLAST](https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi)
+- [Seq2Ref](http://prodata.swmed.edu/seq2ref/)
 
 ## Expression DBs 
 
