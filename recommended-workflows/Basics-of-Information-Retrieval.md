@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T17:19:11.095Z
+date: 2023-09-18T17:20:29.183Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -31,6 +31,8 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [BIGSdb](https://pubmlst.org/software/bigsdb) (Bacterial Isolate Genome Sequence Database)
 - [Gramene](https://www.gramene.org/)
 - [PGDBj](http://pgdbj.jp/?ln=en) (Plant Genome Database Japan)
+- [BV-BRC (formerly PATRIC)](https://www.bv-brc.org/)
+- [ENCODE Project](https://www.encodeproject.org/)
 
 
 
