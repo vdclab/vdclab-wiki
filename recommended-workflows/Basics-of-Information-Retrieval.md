@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T16:40:27.678Z
+date: 2023-09-18T17:14:34.667Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -28,6 +28,8 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [IGSR](https://www.internationalgenome.org/data/) (International Genome Sample Resource)
 - [MBGD](https://mbgd.nibb.ac.jp/) (Microbial Genome Database)
 - [Aliiance of Genome Resources](https://www.alliancegenome.org/)
+- [BIGSdb](https://pubmlst.org/software/bigsdb) (Bacterial Isolate Genome Sequence Database)
+- []()
 
 
 
