@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T15:35:11.016Z
+date: 2023-09-19T15:59:38.063Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -154,7 +154,9 @@ There are a great number of different biological data types across the many onli
 ## Step-wise Data Retrieval, Re-use Decision Trees
 
 1. Determine level of analysis (encoding, product, or system level?)
+2. 
 
+<center><img src="/original-figures-and-diagrams/from-data-level-to-data-viz_cjr.png" alt="from-data-levels-to-data-viz" width="500"></center>
 
 
 &nbsp;
