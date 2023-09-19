@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T14:56:21.774Z
+date: 2023-09-19T14:57:06.992Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -134,7 +134,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 # Data Extraction (for Beginners)
 ### Levels of Biological Data
 &nbsp;
-<img src="/original-figures-and-diagrams/levels-of-biological-data_cjr2023_v2.png" alt="levels-of-biological-data" width="700">
+<center><img src="/original-figures-and-diagrams/levels-of-biological-data_cjr2023_v2.png" alt="levels-of-biological-data" width="700"></center>
 
 ### Step-wise Decision Trees
 
