@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T16:25:11.268Z
+date: 2023-09-19T16:25:19.853Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -162,7 +162,7 @@ There are a great number of different biological data types across the many onli
 &nbsp;&nbsp;&nbsp;&nbsp; - Identify optimal or possible data formats for objective outputs, visualizations
 
 
-<b>B. Determine appropriate level(s) of data for analysis <font color="#90A4AE">(encoding, product, or system level?)</font></b>
+<b>B. Determine appropriate level(s) of data for analyses <font color="#90A4AE">(encoding, product, or system level?)</font></b>
 &nbsp;&nbsp;&nbsp;&nbsp; *This can be defined & informed by:*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- study system being used
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - research questions/hypotheses being considered
