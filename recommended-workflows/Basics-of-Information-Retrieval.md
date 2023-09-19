@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T16:07:20.272Z
+date: 2023-09-19T16:15:35.923Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -153,17 +153,20 @@ There are a great number of different biological data types across the many onli
 
 ## Step-wise Data Retrieval, Re-use (how-to/general approach)
 &nbsp;
-<center><img src="/original-figures-and-diagrams/from-data-level-to-data-viz_cjr.png" alt="from-data-levels-to-data-viz" width="500"></center>
+<center><img src="/original-figures-and-diagrams/from-data-level-to-data-viz_cjr_v2.png" alt="from-data-levels-to-data-viz" width="500"></center>
 &nbsp;
 
-<b>1. Determine level of analysis <font color="#90A4AE">(encoding, product, or system level?)</font></b>
+<b>A. Define objective</b>
+&nbsp;&nbsp;&nbsp;&nbsp; - Define objective data visualization, inference/answer/interpretation
+&nbsp;&nbsp;&nbsp;&nbsp; - Identify optimal data format for objective
+
+
+<b>B. Determine level of analysis <font color="#90A4AE">(encoding, product, or system level?)</font></b>
 &nbsp;&nbsp; *This can be defined & informed by:*
 &nbsp;&nbsp;&nbsp;&nbsp; *- study system being used
 &nbsp;&nbsp;&nbsp;&nbsp; - research questions/hypotheses being considered
 &nbsp;&nbsp;&nbsp;&nbsp; - overall objectives of the study* *<font color="#90A4AE">(i.e., intention to perform quantitation, qualitation, or exploration?)</font>*
-<b>2. Define objective/target data output</b>
 
-<b>3. Determine intended data visualization, objective inference or interpretation</b>
 
 &nbsp;
 &nbsp;
