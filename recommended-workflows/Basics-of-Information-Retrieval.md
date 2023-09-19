@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T14:40:26.455Z
+date: 2023-09-19T14:40:39.431Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -137,6 +137,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 
 &nbsp;
 ---
+
 [<img style="float: right;" src="/original-figures-and-diagrams/skip_forward_icon_5.png" alt="drawing" width="220">](/recommended-workflows/pairwise-alignments)
 &nbsp;
 
