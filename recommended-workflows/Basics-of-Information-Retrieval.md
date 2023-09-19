@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-18T17:39:13.960Z
+date: 2023-09-19T13:39:41.341Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -121,7 +121,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [PRODORIC](https://www.prodoric.de/)
 - [CoXPresDb](https://coxpresdb.jp/)
 - [ArrayExpress (BioStudies.)](https://www.ebi.ac.uk/biostudies/arrayexpress)
-- RegulonDB
+- [RegulonDB](http://regulondb.ccg.unam.mx/index.jsp)
 - [GTEx Portal](https://gtexportal.org/home/)
 - [COLOMBOS](http://www.colombos.net/) (**Col**lection **O**f **M**icroarrays for **B**acterial **O**rganism**s**)
 
