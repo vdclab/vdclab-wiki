@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T15:23:02.380Z
+date: 2023-09-19T15:24:05.149Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -132,7 +132,7 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 
 
 # Data Extraction (for Beginners)
-### Levels of Biological Data
+## Levels of Biological Data
 There are a great number of different biological data types across the many online resources currently available. However, when thinking about the different types of biomolecular data, it may make it easier to imagine biomolecular data at three distinct levels that represent of their respective scales of observation. That is, at the:
 - <u>encoding level</u> 
 &nbsp; - e.g., the *"where"* of biomolecular sequence sources/storage
@@ -148,7 +148,7 @@ There are a great number of different biological data types across the many onli
 &nbsp;
 <center><img src="/original-figures-and-diagrams/levels-of-biological-data_cjr2023_v2.png" alt="levels-of-biological-data" width="700"></center>
 
-### Step-wise Data Retrieval, Re-use Decision Trees
+## Step-wise Data Retrieval, Re-use Decision Trees
 
 1. Determine level of analysis (encoding, product, or system level?)
 
