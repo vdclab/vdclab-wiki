@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T16:18:15.609Z
+date: 2023-09-19T16:19:57.161Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -158,16 +158,16 @@ There are a great number of different biological data types across the many onli
 
 *<h4>What question do you want to answer and how do you want to answer it?</h4>*
 
-<b>A. Define objective (question-answer pairing)</b>
+<b>A. Define data objectives (question-answer pair)</b>
 &nbsp;&nbsp;&nbsp;&nbsp; - Define objective data visualization, inference/answer/interpretation
 &nbsp;&nbsp;&nbsp;&nbsp; - Identify optimal or possible data formats for objective outputs, visualizations
 
 
-<b>B. Determine level of analysis <font color="#90A4AE">(encoding, product, or system level?)</font></b>
-&nbsp;&nbsp; *This can be defined & informed by:*
-&nbsp;&nbsp;&nbsp;&nbsp; *- study system being used
-&nbsp;&nbsp;&nbsp;&nbsp; - research questions/hypotheses being considered
-&nbsp;&nbsp;&nbsp;&nbsp; - overall objectives of the study* *<font color="#90A4AE">(i.e., intention to perform quantitation, qualitation, or exploration?)</font>*
+<b>B. Determine appropriate level(s) of analysis <font color="#90A4AE">(encoding, product, or system level?)</font></b>
+&nbsp;&nbsp;&nbsp;&nbsp; *This can be defined & informed by:*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *- study system being used
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - research questions/hypotheses being considered
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - overall objectives of the study* *<font color="#90A4AE">(i.e., intention to perform quantitation, qualitation, or exploration?)</font>*
 
 
 &nbsp;
