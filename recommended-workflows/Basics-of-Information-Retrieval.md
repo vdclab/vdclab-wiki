@@ -2,14 +2,14 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T13:55:46.399Z
+date: 2023-09-19T14:06:46.611Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
 ---
 
 
-Next Module ![skip_forward_icon.svg](/original-figures-and-diagrams/skip_forward_icon.svg)
+![skip_forward_icon_2.png](/original-figures-and-diagrams/skip_forward_icon_2.png)
 ---
 
 # What is Bioinformatics?
