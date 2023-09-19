@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T14:36:15.001Z
+date: 2023-09-19T14:39:00.306Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -32,10 +32,12 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [MBGD](https://mbgd.nibb.ac.jp/) (Microbial Genome Database)
 - [Aliiance of Genome Resources](https://www.alliancegenome.org/)
 - [BIGSdb](https://pubmlst.org/software/bigsdb) (Bacterial Isolate Genome Sequence Database)
-- [Gramene](https://www.gramene.org/)
+- [Gramene](https://www.gramene.org/) (*plant genomes only*)
 - [PGDBj](http://pgdbj.jp/?ln=en) (Plant Genome Database Japan)
 - [BV-BRC (formerly PATRIC)](https://www.bv-brc.org/)
 - [ENCODE Project](https://www.encodeproject.org/)
+- [MicrobesOnline](http://www.microbesonline.org)
+- [Genoscope - Microscope](https://mage.genoscope.cns.fr/microscope/home/index.php)
 
 
 
@@ -72,9 +74,9 @@ Regardless of the bioinformatic subfield or practical definition, biomolecular s
 - [TCDB](https://tcdb.org/) (Transporter Classification Database)
 - [Uniclust](https://uniclust.mmseqs.com/)
 - [UniProtKB](https://www.uniprot.org/)
---- [UniParc](https://www.uniprot.org/uniparc/?query=*)
---- [UniRef](https://www.uniprot.org/uniref/?query=*)
---- [UniSave](http://www.ebi.ac.uk/uniprot/unisave/app/#/)
+&nbsp; - [UniParc](https://www.uniprot.org/uniparc/?query=*)
+&nbsp; - [UniRef](https://www.uniprot.org/uniref/?query=*)
+&nbsp; - [UniSave](http://www.ebi.ac.uk/uniprot/unisave/app/#/)
 - [CyBase](http://www.cybase.org.au/) (Database of Cyclic Proteins)
 - [MemMoRF](https://memmorf.hegelab.org/) (Database of Membrane Associated Disordered Protein Regions)
 - [MobiDB](https://mobidb.bio.unipd.it/) (Database of Protein Disorder and Mobility Annotations)
