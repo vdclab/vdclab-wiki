@@ -2,7 +2,7 @@
 title: Basics of Information Retrieval
 description: Based on the second module of the introductory bioinformatics course (UF, BSC6459), in addition to some components/themes of module 1
 published: true
-date: 2023-09-19T15:34:14.951Z
+date: 2023-09-19T15:34:22.874Z
 tags: recommended, favorites, workflows, information retrieval, databases
 editor: markdown
 dateCreated: 2023-08-22T13:54:13.003Z
@@ -139,7 +139,7 @@ There are a great number of different biological data types across the many onli
 &nbsp;&nbsp;&nbsp;&nbsp; <font color="#90A4AE">- e.g., genes encoded within a genome, transcription factor binding sites, etc.</font>
 - <u>product level</u> 
 &nbsp; - the *"what"* of biomolecular action-performing units
-&nbsp;&nbsp;&nbsp;&nbsp; <font color="#90A4AE">- e.g., proteins, metabolites. RNA/DNA molecules</font>
+&nbsp;&nbsp;&nbsp;&nbsp; <font color="#90A4AE">- e.g., proteins, metabolites, RNA/DNA molecules</font>
 - <u>system level</u> 
 &nbsp; - the *"when"* and *"how"* of biomolecules, their mechanisms, and their interactions within their larger systems
 &nbsp;&nbsp;&nbsp;&nbsp; <font color="#90A4AE">- e.g., expression data, protein-protein interactions, metabolic networks</font>
