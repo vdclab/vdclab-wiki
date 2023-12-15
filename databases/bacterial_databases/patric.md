@@ -2,7 +2,7 @@
 title: PATRIC
 description: PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases.
 published: true
-date: 2023-12-15T20:42:15.218Z
+date: 2023-12-15T20:42:25.671Z
 tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins, data capture, metabolic reconstruction, analysis tools, database, transcriptomics, data visualization, proteomics, phages
 editor: markdown
 dateCreated: 2020-03-03T21:08:41.041Z
@@ -31,8 +31,7 @@ dateCreated: 2020-03-03T21:08:41.041Z
 
 - Olson RD, Assaf R, Brettin T, Conrad N, Cucinell C, Davis JJ, Dempsey DM, Dickerman A, Dietrich EM, Kenyon RW, Kuscuoglu M, Lefkowitz EJ, Lu J, Machi D, Macken C, Mao C, Niewiadomska A, Nguyen M, Olsen GJ, Overbeek JC, Parrello B, Parrello V, Porter JS, Pusch GD, Shukla M, Singh I, Stewart L, Tan G, Thomas C, VanOeffelen M, Vonstein V, Wallace ZS, Warren AS, Wattam AR, Xia F, Yoo H, Zhang Y, Zmasek CM, Scheuermann RH, Stevens RL. Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR. Nucleic Acids Res. 2023 Jan 6;51(D1):D678-D689. doi: 10.1093/nar/gkac1003. PMID:  [36350631](https://pubmed.ncbi.nlm.nih.gov/36350631); PMCID: [PMC9825582](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9825582).
 
-- Wattam AR, Davis JJ, Assaf R, Boisvert S, Brettin T, Bun C, Conrad N, Dietrich EM, Disz T, Gabbard JL, Gerdes S, Henry CS, Kenyon RW, Machi D, Mao C, Nordberg EK, Olsen GJ, Murphy-Olson DE, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Vonstein V, Warren A, Xia F, Yoo H, Stevens RL. Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center. Nucleic Acids Res. 2017 Jan 4;45(D1):D535-D542. doi: 10.1093/nar/gkw1017. PMID: [27899627](https://www.ncbi.nlm.nih.gov/pubmed/27899627). PMCID: [PMC5210524](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4322359/).
-{.grid-list}
+
 
 ### For annotations generated using the PATRIC RASTtk-enabled Genome Annotation Service, please cite
 
