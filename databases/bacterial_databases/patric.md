@@ -2,7 +2,7 @@
 title: BV-BRC (PATRIC)
 description: PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases.
 published: true
-date: 2023-12-15T23:19:04.779Z
+date: 2023-12-15T23:20:29.371Z
 tags: annotation, genomics, genomes, metagenomics, metagenomes, genes, proteins, data capture, metabolic reconstruction, analysis tools, database, transcriptomics, data visualization, proteomics, phages
 editor: markdown
 dateCreated: 2020-03-03T21:08:41.041Z
@@ -10,7 +10,7 @@ dateCreated: 2020-03-03T21:08:41.041Z
 
 # BV-BRC (Formally PATRIC)
 
-> BV-BRC (formally PATRIC) provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases. A variety of published genome, pathway, protein family and transcriptomics data can be analyzed and mined. Users can also upload their personal data for genomic, metagenomic, transcriptomic, proteomic and metabolomic analysis and comparison.  
+>  The Bacterial and Viral Bioinformatics Resource Center (BV-BRC), an information system designed to support research on bacterial and viral infectious diseases. The BV-BRC combines the data and tools from the Legacy BRC resources: PATRIC, the bacterial BRC, and IRD and ViPR, the viral BRCs provides integrated data and analysis tools to support biomedical research on bacterial infectious diseases. A variety of published genome, pathway, protein family and transcriptomics data can be analyzed and mined. Users can also upload their personal data for genomic, metagenomic, transcriptomic, proteomic and metabolomic analysis and comparison.  
 {.is-info}
 
 ## Website
