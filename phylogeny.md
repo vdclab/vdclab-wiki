@@ -2,7 +2,7 @@
 title: Phylogeny
 description: List of the websites to do phylogeny
 published: true
-date: 2020-09-10T18:33:26.526Z
+date: 2023-12-15T23:25:38.103Z
 tags: 
 editor: markdown
 dateCreated: 2020-04-30T02:40:17.242Z
@@ -12,7 +12,7 @@ dateCreated: 2020-04-30T02:40:17.242Z
 
 ## Phylogeny Related Resources
 
-- [proGenomes2 *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
+- [:star: proGenomes *Consistently annotated bacterial and archaeal genomes*](https://vdclab-wiki.herokuapp.com/annotation/prokaryotic/proGenomes2/)
 - [ToLWeb *Tree of Life Web Project is a collection of information about biodiversity*](https://vdclab-wiki.herokuapp.com/en/phylogeny/resources/ToLWeb)
 {.links-list}
 
