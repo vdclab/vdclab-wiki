@@ -2,7 +2,7 @@
 title: Wiki and Online Resources
 description: Non exhautive list of useful wiki and resources
 published: true
-date: 2020-09-19T16:16:36.091Z
+date: 2023-12-16T23:34:28.333Z
 tags: wiki, resource reference, resource center, literature
 editor: markdown
 dateCreated: 2020-09-10T22:18:55.482Z
@@ -19,6 +19,10 @@ dateCreated: 2020-09-10T22:18:55.482Z
 
 - Makita Y, de Hoon MJ, Danchin A. [Hon-yaku: a biology-driven Bayesian methodology for identifying translation initiation sites in prokaryotes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1805508). BMC Bioinformatics. 2007;8:47. Published 2007 Feb 8. doi:10.1186/1471-2105-8-47
 {.grid-list}
+
+## Enzymes databases compilation
+
+- Prešern U, Goličnik M. Enzyme Databases in the Era of Omics and Artificial Intelligence. Int J Mol Sci. 2023 Nov 29;24(23):16918. doi: 10.3390/ijms242316918. PMID: 38069254; PMCID: PMC10707154.
 
 # Online Resources
 
