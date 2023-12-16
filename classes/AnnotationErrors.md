@@ -2,13 +2,13 @@
 title: Source errors in automated  functionnal annotations of proteins
 description: 
 published: true
-date: 2023-12-16T20:33:36.920Z
+date: 2023-12-16T20:44:29.755Z
 tags: protein, function
 editor: markdown
 dateCreated: 2023-12-16T20:33:36.920Z
 ---
 
-# Sources of mistakes in Functional annoations 
+# Sources of mistakes in Functional annotations 
 
 > False unknows: Annotated as unknown or general but function is known and published 
 - failure in capturing literature  
