@@ -2,8 +2,10 @@
 title: PaperBLAST
 description: Curated BLAST allowing the retrieval of published data starting from BLAST of a protein sequence
 published: true
-date: 2020-04-10T13:29:19.001Z
-tags: 
+date: 2023-12-16T19:53:52.902Z
+tags: reference, annotation, tool, sequence analysis, proteins, sequence similarity, specialized search, data capture, homolog discovery, literature
+editor: markdown
+dateCreated: 2020-04-02T00:28:36.724Z
 ---
 
 # PaperBLAST
@@ -23,7 +25,7 @@ This should be the first step to be done when working a new gene. It allows to e
 
 ## Ease of use 
 
-No specific help, but very easy to use and self-explanatory 
+No specific help, but very easy to use and self-explanatory. The search using [family ids](https://papers.genomics.lbl.gov/cgi-bin/hmmSearch.cgi) not sequence is not totally intutive to find.
 
 
 ## Citation
