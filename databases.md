@@ -2,7 +2,7 @@
 title: Databases
 description: Here you will found the link to the wiki's pages of databases 
 published: true
-date: 2020-09-10T18:40:41.968Z
+date: 2023-12-16T19:44:34.274Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-29T20:55:11.424Z
@@ -171,6 +171,7 @@ dateCreated: 2020-04-29T20:55:11.424Z
 - [Harmonizome *Comprehensive resource of knowledge about genes and proteins*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/Harmonizome)
 - [NCBI *Gene Expression Omnibus (GEO)*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/NCBI-GEO)
 - [qTeller for MaizeGDB *Comparative RNA-seq expression platform for Zea mays genome*](https://vdclab-wiki.herokuapp.com/en/databases/microarray-rnaseq/qTeller-for-MaizeGDB)
+- [:star: iModulon *Expression and modulons for bacteria*](/imodulon)
 {.links-list}
 
 ## Ortholog Databases
