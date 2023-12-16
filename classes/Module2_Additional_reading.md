@@ -2,7 +2,7 @@
 title: Additional reading for M2 
 description: 
 published: true
-date: 2023-12-16T21:49:02.994Z
+date: 2023-12-16T21:50:00.383Z
 tags: annotation, comparative genomics, protein, functional annotation
 editor: markdown
 dateCreated: 2023-12-16T21:21:28.898Z
