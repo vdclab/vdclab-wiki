@@ -2,8 +2,10 @@
 title: BLAST
 description: The Basic Local Alignment Search Tool (BLAST) finds regions of local similarity between sequences, which can be used to infer functional and evolutionary relationships between sequences as well as help identify members of gene families.
 published: true
-date: 2020-05-21T17:48:16.949Z
+date: 2023-12-16T20:11:24.661Z
 tags: genomes, tool, genes, proteins
+editor: markdown
+dateCreated: 2020-05-13T16:34:36.869Z
 ---
 
 # Basic Local Alignment Search Tool (BLAST)
@@ -13,12 +15,13 @@ tags: genomes, tool, genes, proteins
 
 ## Website
 
-- [KEGG *BlastKOALA page*](https://www.kegg.jp/blastkoala/)
 - [GenomeNET *BLAST page*](https://www.genome.jp/tools/blast/)
 - [NCBI *BLAST page*](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-- [PATRIC *BLAST page*](https://www.patricbrc.org/app/BLAST)
+- [BV-BRC *BLAST page*](https://www.patricbrc.org/app/BLAST)
 - [Phylogeny *BLAST page*](http://www.phylogeny.fr/one_task.cgi?task_type=blast)
 - [UniProt *BLAST page*](https://www.uniprot.org/blast/)
+- [KEGG *BLAST Page*](https://www.genome.jp/tools/blast/)
+- [KEGG *BlastKOALA page*](https://www.kegg.jp/blastkoala/)
 {.links-list}
 
 ## Notes from User
