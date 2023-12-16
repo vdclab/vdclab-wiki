@@ -2,7 +2,7 @@
 title: Literature Search
 description: Tools use to find literature connected to biological sequences
 published: true
-date: 2020-09-10T18:10:59.072Z
+date: 2023-12-16T19:48:21.999Z
 tags: category
 editor: markdown
 dateCreated: 2020-05-06T18:16:19.494Z
@@ -17,5 +17,4 @@ dateCreated: 2020-05-06T18:16:19.494Z
 - [:star: PubMed Advanced Search Builder *Builder to do advanced search on PubMed*](https://vdclab-wiki.herokuapp.com/en/literature-search/PubMed-Advanced-Search-Builder)
 - [Pubtator *Web-based tool for accelerating manual literature curation*](https://vdclab-wiki.herokuapp.com/en/literature-search/pubtator)
 - [Semantic Scholar *AI-powered Tool for Navigating the Scientific Literature*](https://vdclab-wiki.herokuapp.com/literature-search/Semantic-Scholar)
-- [Seq2Ref *Functional interpretation by retrieving and ranking the reference proteins*](https://vdclab-wiki.herokuapp.com/en/literature-search/Seq2Ref)
 {.links-list}
