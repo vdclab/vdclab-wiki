@@ -2,7 +2,7 @@
 title: iModulon
 description: Integration of transcriptomic data to predict regulatory units (Palsson Lab)
 published: true
-date: 2023-12-16T19:23:58.210Z
+date: 2023-12-16T19:25:01.343Z
 tags: bacteria, transcriptomics, regulation
 editor: markdown
 dateCreated: 2023-12-16T19:23:58.210Z
@@ -10,22 +10,22 @@ dateCreated: 2023-12-16T19:23:58.210Z
 
 # iModulon
 
-> Welcome to iModulonDB! This is a web-based tool for accessing a database of transcriptomic dataset decompositions. If you are a biologist interested in what machine learning can tell us about the regulation of bacterial gene expression, this site will provide very valuable tools for you.  See General introduction on the iModulon [Intro link}(https://imodulondb.org/about.html)
+> Welcome to iModulonDB! This is a web-based tool for accessing a database of transcriptomic dataset decompositions. If you are a biologist interested in what machine learning can tell us about the regulation of bacterial gene expression, this site will provide very valuable tools for you.  See General introduction on the iModulon [Intro link](https://imodulondb.org/about.html)
 {.is-info}
 
 
 ## Website 
 
-- [iModulon *Entrance in different the bacterial data set](https://imodulondb.org/index.html)
+- [iModulon *Entrance in different the bacterial data set*](https://imodulondb.org/index.html)
  {.links-list}
  
  ## Notes from the user
- - This database is  constarntky beeing updated with new organisms and new datasets .
+ - This database is  constantly beeing updated with new organisms and new datasets. .
 
  
  ## Ease of use
 
-Very user friendly  and good tutorials 
+Very user friendly  and good tutorials. 
 
 
 ## Citation 
