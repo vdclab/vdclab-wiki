@@ -2,8 +2,10 @@
 title: ATTED - II
 description: ATTED - II provides co-regulated gene relationships to estimate gene function.
 published: true
-date: 2020-05-21T01:20:11.094Z
-tags: tool, genes, functional association, data capture, analysis tools, database, co-expression, browser, data visualization, eukaryota, network, interaction, protein-protein, correlation
+date: 2023-12-16T19:42:15.117Z
+tags: tool, genes, functional association, data capture, analysis tools, database, transcriptomics, co-expression, browser, data visualization, eukaryota, network, interaction, protein-protein, correlation, plant
+editor: markdown
+dateCreated: 2020-04-07T18:54:43.878Z
 ---
 
 # ATTED-II
