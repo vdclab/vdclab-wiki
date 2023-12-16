@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-06-20T18:58:43.061Z
+date: 2023-12-16T12:34:11.189Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -15,6 +15,11 @@ dateCreated: 2020-02-19T19:09:02.550Z
 Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Valerie de Crecy.
 
 Below, you will find an interactive table providing an overview of primary content.
+
+## VDC Teaching
+
+- [Material to accompany the UF VDC Classes *List of Class module add-ons*](https://vdclab-wiki.herokuapp.com/en/classes)
+{.links-list}
 
 ## Alignment
 
