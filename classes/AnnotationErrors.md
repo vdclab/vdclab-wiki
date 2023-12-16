@@ -2,7 +2,7 @@
 title: Source errors in automated  functionnal annotations of proteins
 description: 
 published: true
-date: 2023-12-16T20:44:29.755Z
+date: 2023-12-16T20:45:20.228Z
 tags: protein, function
 editor: markdown
 dateCreated: 2023-12-16T20:33:36.920Z
