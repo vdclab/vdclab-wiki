@@ -2,11 +2,14 @@
 title: RDP - Ribosomal Database Project
 description: RDP provides a suite of analysis tools to the scientific community, including Sequence Match (SeqMatch) which is similar to BLASTn, but chooses nearest neighbors based on 7mer/"word" matches rather than alignment-based methods. 
 published: true
-date: 2020-04-30T02:42:56.068Z
-tags: 
+date: 2023-12-16T02:44:56.138Z
+tags: archaea, bacteria, taxonomy, ecology, tool, sequence analysis, sequence matching, sequence alignment, genes, 16s rrna, fungi, phylogeny, rdna
+editor: markdown
+dateCreated: 2020-04-01T23:12:09.309Z
 ---
 
 # RDP - Ribosomal Database Project
+## WARNING No longer active (Dec 2023)
 
 > RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. Analysis tools include: Hierarchy Browser, Classifier, Probe Match, FunGene, MlxS GoogleSheets, Library Compare, Sequence Match, RDPipeline, Aligner, Tree Builder and RDP Open Source. 
 {.is-info}
