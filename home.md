@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-12-16T12:34:11.189Z
+date: 2023-12-16T13:26:13.237Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -18,7 +18,7 @@ Below, you will find an interactive table providing an overview of primary conte
 
 ## VDC Teaching
 
-- [Material to accompany the UF VDC Classes *List of Class module add-ons*](https://vdclab-wiki.herokuapp.com/en/classes)
+- [Material to accompany the UF VDC Class MCB6318 *List of Class module add-ons*](https://vdclab-wiki.herokuapp.com/e/en/classes/MCB6318)
 {.links-list}
 
 ## Alignment
