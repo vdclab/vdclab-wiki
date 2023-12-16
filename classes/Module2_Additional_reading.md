@@ -2,27 +2,11 @@
 title: Additional reading for M2 
 description: 
 published: true
-date: 2023-12-16T21:21:28.898Z
+date: 2023-12-16T21:32:46.880Z
 tags: annotation, comparative genomics, protein, functional annotation
 editor: markdown
 dateCreated: 2023-12-16T21:21:28.898Z
 ---
-
-# Module 2 Supplemental Reading-2 
-
-> False unknows: Annotated as unknown or general but function is known and published 
-- failure in capturing literature  
-- Not captured in any database
-- Captured in some databases but not others
-- Naming problem (inconsistent naming of same entities)
-- Failure in progagating to orthologs ( captured for one member of a family but not propagated to others)
->False knowns: Annotated as precise but wrong ( should be general or another annotation) or incomplete 
-- Naming problem (inconsistent naming of same entities)
-- Fusions (only one of the functional roles is called)
-- Multiple functions  (Moonlighting or  Promiscuity only one of the  functional call is called)
-- Curation mistake ( the data was incorrectly captured by biocurator)
-- Experimental mistake, poor science or finding has been refuted by other studies (the published data  does not make sense or is easily  challenged by an expert , or new data shows it was wrong) 
-- Over-annotation of paralogs
 
 
 > Foundational reviews
@@ -30,6 +14,7 @@ dateCreated: 2023-12-16T21:21:28.898Z
 - Osterman A., Overbeek R. 2003. Missing genes in metabolic pathways: a comparative genomics approach. Curr Opin Chem Biol 7: 238-251.
 - Galperin M. Y., Koonin E. V. 2010. From complete genome sequence to 'complete' understanding? Trends Biotechnol 28: 398-406.
 - Sorokina M., Stam M., Medigue C., Lespinet O., Vallenet D. 2014. Profiling the orphan enzymes. Biol Direct 9: 10. 
+- Danchin A, Ouzounis C, Tokuyasu T, Zucker JD. No wisdom in the crowd: genome annotation in the era of big data - current status and future prospects. Microb Biotechnol. 2018;11(4):588-605. doi:10.1111/1751-7915.13284
 
 >Annotation pipelines: issues and solutions
 
@@ -46,7 +31,7 @@ dateCreated: 2023-12-16T21:21:28.898Z
 - de Crécy-Lagard V. 2014. Variations in metabolic pathways create challenges for automated metabolic reconstructions: Examples from the tetrahydrofolate synthesis pathway. Comput Struct Biotechnol J 10: 41-50.
 - Zallot R, Harrison KJ, Kolaczkowski B, de Crécy-Lagard V. Functional Annotations of Paralogs: A Blessing and a Curse. Life (Basel). 2016 Sep 8;6(3). pii: E39. doi: 10.3390/life6030039.  PMID: 27618105 (Links to an external site.).
 - Griesemer M, Kimbrel JA, Zhou CE, Navid A, D'haeseleer P. Combining multiple functional annotation tools increases coverage of metabolic annotation. BMC Genomics. 2018 Dec 19;19(1):948. doi: 10.1186/s12864-018-5221-9. PMID: 30567498 
-- Rembeza E, and Engqvist M. K. M. Experimental investigation of enzyme functional annotations reveals extensive annotation error bioRxiv, p. 2020.12.18.423474, Jan. 2020.
+- Rembeza E, and Engqvist M. K. M. Experimental investigation of enzyme functional annotations reveals extensive annotation error bioRxiv,doi: https://doi.org/10.1101/2020.12.18.423474  p. 2020.12.18.423474, Jan. 2020.
 - Lobb B, Tremblay BJ, Moreno-Hagelsieb G, Doxey AC. An assessment of genome annotation coverage across the bacterial tree of life. Microb Genom. 2020 Mar;6(3):e000341. doi: 10.1099/mgen.0.000341. PMID: 32124724.
 - Rembeza E, Engqvist M. K. M. Experimental and computational Investigation of enzyme functional annotations uncovers misannotation in the EC 1.1.3.15 enzyme class. PLoS Comput Biol 2021, 17 (9), e1009446. https://doi.org/10.1371/journal.pcbi.1009446 PMID: 34555022.
 
