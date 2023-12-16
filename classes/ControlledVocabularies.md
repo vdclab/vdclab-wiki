@@ -1,25 +1,19 @@
 ---
-title: Source errors in automated  functionnal annotations of proteins
+title: Controlled Vocabularies For Protein Function
 description: Explain what GO and EC are
 published: true
-date: 2023-12-16T23:03:35.367Z
+date: 2023-12-16T23:31:01.695Z
 tags: protein, functional annotation
 editor: markdown
 dateCreated: 2023-12-16T23:03:35.367Z
 ---
 
-# Sources of mistakes in Functional annotations 
+# Controlled vocabularies to describe protein function 
 
-> False unknows: Annotated as unknown or general but function is known and published 
-- failure in capturing literature  
-- Not captured in any database
-- Captured in some databases but not others
-- Naming problem (inconsistent naming of same entities)
-- Failure in progagating to orthologs ( captured for one member of a family but not propagated to others)
->False knowns: Annotated as precise but wrong ( should be general or another annotation) or incomplete 
-- Naming problem (inconsistent naming of same entities)
-- Fusions (only one of the functional roles is called)
-- Multiple functions  (Moonlighting or  Promiscuity only one of the  functional call is called)
-- Curation mistake ( the data was incorrectly captured by biocurator)
-- Experimental mistake, poor science or finding has been refuted by other studies (the published data  does not make sense or is easily  challenged by an expert , or new data shows it was wrong) 
-- Over-annotation of paralogs
+> EC Numbers. The IUBMB enzyme classification system, available at the IUBMB ExplorEnz website, uses a four-component number (the EC number) that identifies an enzyme in terms of reaction catalysed. 
+- [Recent Review](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16274)
+- [Explore Enzyme](https://www.enzyme-database.org/)
+
+> The Gene Ontology Consortium. The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. This knowledge is both human-readable and machine-readable, and is a foundation for computational analysis of large-scale molecular biology and genetics experiments in biomedical research. 
+- 
+- [Gene Ontology Resource](https://geneontology.org/)
