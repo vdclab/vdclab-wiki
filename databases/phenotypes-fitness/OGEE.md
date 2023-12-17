@@ -2,8 +2,10 @@
 title: Online Gene Essentiality (OGEE)
 description: OGEE aims to enhance our understanding of the essentiality of genes.
 published: true
-date: 2020-05-21T18:27:35.613Z
+date: 2023-12-17T15:56:39.792Z
 tags: projects, project library, genes, database, browser, data export, essentiality
+editor: markdown
+dateCreated: 2020-04-08T20:31:23.237Z
 ---
 
 # Online Gene Essentiality (OGEE)
@@ -13,7 +15,7 @@ tags: projects, project library, genes, database, browser, data export, essentia
 
 ## Website
 
-- [OGEE *Main Page*](http://ogee.medgenius.info/browse/)
+- [OGEE *Main Page*](https://v3.ogee.info/#/home)
 {.links-list}
 
 ## User Notes
