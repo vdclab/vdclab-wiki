@@ -2,7 +2,7 @@
 title: Additional reading for MCB6318_M1 
 description: 
 published: true
-date: 2023-12-17T11:16:28.599Z
+date: 2023-12-17T11:58:54.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-17T11:16:28.599Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-17T11:16:28.599Z
 - Danchin A, Ouzounis C, Tokuyasu T, Zucker JD. No wisdom in the crowd: genome annotation in the era of big data - current status and future prospects. Microb Biotechnol. 2018;11(4):588-605. doi:10.1111/1751-7915.13284
 - Chen C, Huang H, Wu CH. Protein Bioinformatics Databases and Resources. Methods Mol Biol. 2017;1558:3-39. doi: 10.1007/978-1-4939-6783-4_1. PMID: 28150231.
 - Zhulin IB. Databases for Microbiologists. J Bacteriol. 2015 Aug1;197(15):2458-67. doi: 10.1128/JB.00330-15. Epub 2015 May 26. Review. PMID: 26013493
-- Rigden DJ, Fernández XM. The 2021 Nucleic Acids Research database issue and the online molecular biology database collection. Nucleic Acids Res. 2021 Jan 8;49(D1):D1-D9. doi: 10.1093/nar/gkaa1216. PMID: 33396976
+- Rigden DJ, Fernández XM. The 2024 Nucleic Acids Research database issue and the online molecular biology database collection. Nucleic Acids Res. 2023 Nov 30:gkad1173. doi: 10.1093/nar/gkad1173. Epub ahead of print. PMID: 38035367.
 
 > Introduction on the Genomic revolution in Microbiology
 
