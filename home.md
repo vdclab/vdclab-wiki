@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-12-16T19:38:33.624Z
+date: 2023-12-18T14:58:08.156Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -16,10 +16,11 @@ Welcome to the Bioinformatic Resource Wiki organized by the laboratory of Dr. Va
 
 Below, you will find an interactive table providing an overview of primary content.
 
-## VDC Teaching
+##  Teaching Comparative Genomics to Biologists
 
 
-- [Material to accompany the UF VDC Class MCB6318 *List of Class module add-ons*](https://vdclab-wiki.herokuapp.com/en/classes/MCB6318)
+- [**MCB6318***Summary of class modules*](https://vdclab-wiki.herokuapp.com/en/classes/MCB6318)
+- [UF Classes in Bioinformatics](https://vdclab-wiki.herokuapp.com/en/classes/UF_Overview)
 {.links-list}
 
 ## Alignment
