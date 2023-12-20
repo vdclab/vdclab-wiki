@@ -2,7 +2,7 @@
 title: EggNOG Database
 description: EggNOG orthology database, orthologous cluster browser, orthology tools
 published: true
-date: 2023-12-20T17:39:48.274Z
+date: 2023-12-20T17:40:03.691Z
 tags: orthology, protein family, orthologs, phyletic pattern, functional annotation, favorites, phylogenomic, phylogenetic, phylogenomics, phylogenetics, orthologous groups, paralogs
 editor: markdown
 dateCreated: 2023-12-20T17:33:59.033Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-20T17:33:59.033Z
 ## Website(s) <- 's' if more than one
 
 - [EggNOG *Orthology Predictions and Functional Annotations*](http://eggnog6.embl.de)
-- [Phylogenetic Profile *Phylogenetic profile visual using COGs and Tax IDs*](http://eggnog6.embl.de/app/phyloprofile/)
+- [EggNOG Phylogenetic Profile *Phylogenetic profile visual using COGs and Tax IDs*](http://eggnog6.embl.de/app/phyloprofile/)
 {.links-list}
 
 
