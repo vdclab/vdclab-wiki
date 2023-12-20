@@ -2,16 +2,14 @@
 title: EggNOG Database
 description: EggNOG orthology database, orthologous cluster browser, orthology tools
 published: true
-date: 2023-12-20T18:11:46.954Z
+date: 2023-12-20T18:16:52.216Z
 tags: orthology, protein family, orthologs, phyletic pattern, functional annotation, favorites, phylogenomic, phylogenetic, phylogenomics, phylogenetics, orthologous groups, paralogs
 editor: markdown
 dateCreated: 2023-12-20T17:33:59.033Z
 ---
 
 # EggNOG Database
-> Orthology database that was built on adapting and expanding the original COG Database system
->
-> Plus if you need a blank line in the description you just put `>` and you have a blank line. 
+> Orthology database that was built on adapting and expanding the original COG Database system, further developing the classification approach through recognizing hierarchical relations between orthologous groups (OGs). Functional annotations from various sources (e.g., SMART, KEGG Orthology, GO) are aggregated per OG for improved functional prediction informed at the global level of a given OG's annotation.
 {.is-info}
 
 
