@@ -1,14 +1,14 @@
 ---
-title: Resources
+title: Additional Resources
 description: This page list all the pages of the wiki of the resources
 published: true
-date: 2020-09-10T18:21:39.763Z
+date: 2023-12-23T17:58:48.803Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-30T01:33:14.513Z
 ---
 
-# Resources
+# Additional Resources
 
 ## Analysis Resources
 
