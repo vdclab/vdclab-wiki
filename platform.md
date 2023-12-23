@@ -1,14 +1,14 @@
 ---
-title: Platform
-description: Lost of the website that are online platform
+title: Analytic Suites
+description: Resources for handling, analyzing various biomolecular data all within a single suite
 published: true
-date: 2020-09-10T18:37:44.784Z
+date: 2023-12-23T17:54:58.103Z
 tags: category
 editor: markdown
 dateCreated: 2020-04-30T01:43:09.442Z
 ---
 
-# Platform
+# Analytic Suites
 
 ## General Integration Platforms
 
