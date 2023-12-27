@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2023-12-27T18:14:49.081Z
+date: 2023-12-27T18:15:37.495Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -522,8 +522,8 @@ dateCreated: 2020-04-15T18:50:25.064Z
 ## Venn Diagram Tools
 
 - [BEG-Venn *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/BEG-Venn)
-- [BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/tools/venn-diagram/BioVenn)
+- [BioVenn *Comparison and visualization of biological lists using area-proportional Venn diagrams*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/BioVenn)
 - [OrthoVenn2 *Platform for comparison and annotation of orthologous gene clusters among multiple species*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/OrthoVenn2)
 - [Stefanjol Venny *Online venn diagram generator*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/Stefanjol-Venny)
-- [Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/tools/venn-diagram/Venny/)
+- [Venny *An interactive tool for comparing lists with Venn's diagrams*](https://vdclab-wiki.herokuapp.com/en/visualization/venn-diagram/Venny)
 {.links-list}
