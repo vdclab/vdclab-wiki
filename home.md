@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-12-27T18:02:13.898Z
+date: 2023-12-27T18:02:40.126Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -65,7 +65,7 @@ Below, you will find an interactive table providing an overview of primary conte
 
 ## Resources
 
-- [Resources websites on the wiki *List of resources across the wiki*](https://vdclab-wiki.herokuapp.com/en/resources)
+- [Resources websites on the wiki *List of resources across the wiki*](https://vdclab-wiki.herokuapp.com/en/additional-resources)
 {.links-list}
 
 ## Sequence Manipulation/Clean-up
