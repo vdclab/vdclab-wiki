@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2023-12-27T18:08:48.246Z
+date: 2023-12-27T18:10:38.292Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -248,7 +248,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 
 ## Predicting Protein-Protein Interactions
 
-- [ArDock *Detect interaction sites by docking arbitrary proteins*](https://vdclab-wiki.herokuapp.com/ArDock)
+- [ArDock *Detect interaction sites by docking arbitrary proteins*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/ArDock)
 - [Skolnick Tools Suite *Suite of tools designed, produced, and made available by the Skolnick Lab*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Skolnick-Lab-Tools)
 - [Zhou Group Tools *Suite of tools for prediction of protein-protein interactions*](https://vdclab-wiki.herokuapp.com/en/prediction/protein-protein-interaction/Zhou-Group-Tools)
 {.links-list}
