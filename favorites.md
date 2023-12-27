@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2023-12-27T18:12:46.187Z
+date: 2023-12-27T18:13:46.816Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -360,7 +360,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [ETviewer *Relative rank of functional and structural importance among protein homologs sequence positions*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/ETviewer)
 - [Genoscope - MicroScope *MicroScope offers many useful data-exploring functionalities*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Genoscope-Microscope)
 - [MolBiol-Tools *Online tools and resources for molecular biologists*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MolBiol-Tools)
-- [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/sequence-logos/The-MEME-Suite)
+- [MEME-Suite *Discover novel motifs in collections of unaligned nucleotide or protein sequences*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/The-MEME-Suite)
 - [MitoMiner *Database of mammalian mitochondrial localisation evidence, phenotypes, and diseases*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/MitoMiner)
 - [NCBI *Conserved-Domains*](https://vdclab-wiki.herokuapp.com/tools/analysis/NCBI-Conserved-Domains/)
 - [NPS@ *An interactive web server dedicated to protein sequence analysis.*](https://vdclab-wiki.herokuapp.com/en/tools/analysis/NPS@)
