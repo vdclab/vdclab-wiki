@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2023-12-27T18:10:38.292Z
+date: 2023-12-27T18:11:52.955Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -268,7 +268,7 @@ dateCreated: 2020-04-15T18:50:25.064Z
 - [FAIRsharing *A curated, informative and educational resource on data and metadata standards*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/FAIRsharing)
 - [NCBI *All Resources*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-All-Resources)
 - [NCBI *Search engine*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NCBI-Search)
-- [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/resources/general_ressources/NAR-cat-list/)
+- [NAR Database Summary *Category list*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/NAR-cat-list)
 - [Online Bioinformatics Resources Collection *Contains annotations and links for 2449 bioinformatics databases and software tools*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/OBRC)
 - [RTH *Analysis of the mammalian genome for non-coding RNAs in relation to (inflammatory) diseases*](https://vdclab-wiki.herokuapp.com/en/resources/general_resources/RTH)
 {.links-list}
