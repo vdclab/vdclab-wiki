@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-12-27T17:10:59.703Z
+date: 2023-12-27T18:02:13.898Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -55,7 +55,7 @@ Below, you will find an interactive table providing an overview of primary conte
 
 ## Analytic Platforms
 
-- [Platform websites on the wiki *List of websites hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/platform)
+- [Platform websites on the wiki *List of websites hosting a platform to do analysis*](https://vdclab-wiki.herokuapp.com/en/analytic-suites)
 {.links-list}
 
 ## Prediction
