@@ -2,7 +2,7 @@
 title: Additional reading for MCB6318_M2 
 description: 
 published: true
-date: 2023-12-17T11:19:25.031Z
+date: 2023-12-27T19:59:07.865Z
 tags: annotation, comparative genomics, protein, functional annotation
 editor: markdown
 dateCreated: 2023-12-16T21:21:28.898Z
