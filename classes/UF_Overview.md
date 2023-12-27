@@ -2,7 +2,7 @@
 title: Bioinfo Classes overview
 description: Bioinfo classes at UF
 published: true
-date: 2023-12-27T17:59:10.847Z
+date: 2023-12-27T20:30:29.924Z
 tags: teaching
 editor: markdown
 dateCreated: 2023-12-16T13:17:09.816Z
