@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2023-12-18T17:51:28.049Z
+date: 2023-12-27T17:08:36.298Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -19,7 +19,7 @@ Below, you will find an interactive table providing an overview of primary conte
 ##  Teaching Comparative Genomics to Biologists
 
 
-- [**UF_MCB6318***Comparative Microbial Genomics*](https://vdclab-wiki.herokuapp.com/en/classes/MCB6318)
+- [**UF_MCB6318***Comparative Microbial Genomics*](https://vdclab-wiki.herokuapp.com/e/en/home/MCB6318)
 - [**UF Classes in Bioinformatics**](https://vdclab-wiki.herokuapp.com/en/classes/UF_Overview)
 {.links-list}
 
