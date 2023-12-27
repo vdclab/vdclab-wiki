@@ -2,7 +2,7 @@
 title: VDC Favorites
 description: A selection of the favorite websites of the VDC Lab
 published: true
-date: 2021-11-23T14:49:29.844Z
+date: 2023-12-27T18:08:48.246Z
 tags: reference, resource reference
 editor: markdown
 dateCreated: 2020-04-15T18:50:25.064Z
@@ -126,12 +126,12 @@ dateCreated: 2020-04-15T18:50:25.064Z
 
 #### Archaeal Databases
 
-- [UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/UCSC-AGB)
+- [UCSC Archaeal Genome Browser *Basic gene annotation of 100 archaeal species*](https://vdclab-wiki.herokuapp.com/en/databases/archaeal_databases/UCSC-AGB)
 {.links-list}
 
 ### Virus Databases
 
-- [JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/databases/bacterial_databases/JGI-IMG-VR/)
+- [JGI-IMG/Virus *Community resource for analysis and annotation of genome*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/JGI-IMG-VR)
 - [PHASTER *Rapid identification and annotation of prophage sequences within bacterial genomes and plasmids*](https://vdclab-wiki.herokuapp.com/en/databases/virus_databases/PHASTER)
 {.links-list}
 
