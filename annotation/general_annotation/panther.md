@@ -2,7 +2,7 @@
 title: PANTHER
 description: Database dedicated to an evolutionary perspective of functional annotations of protein-coding genes across taxa
 published: true
-date: 2023-12-28T19:33:29.031Z
+date: 2023-12-28T19:34:16.476Z
 tags: annotation, proteins, protein, functional annotation, phylogenomic, phylogenetic, phylogenomics, phylogenetics, protein annotation, domain, domains
 editor: markdown
 dateCreated: 2023-12-28T19:33:29.031Z
@@ -27,8 +27,7 @@ dateCreated: 2023-12-28T19:33:29.031Z
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Exports are relatively limited unless data is extracted for local use/via FTP
 
 
 ## Help
