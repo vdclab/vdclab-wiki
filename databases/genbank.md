@@ -2,7 +2,7 @@
 title: GenBank
 description: NIH genetic sequence data bank, member of the International Nucleotide Sequence Database Collaboration
 published: true
-date: 2023-12-28T17:56:06.351Z
+date: 2023-12-28T17:56:33.954Z
 tags: genomes, genes, dna, gene, genome
 editor: markdown
 dateCreated: 2023-12-28T17:56:06.351Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-28T17:56:06.351Z
 {.links-list}
 
 
-## Notes from the user
+## User Notes
  
  - Major resource (source) of nucleotide sequence data in the US.
  - Stands as a useful steward of nucleotide data provenance, data versioning.
