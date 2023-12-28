@@ -1,9 +1,11 @@
 ---
 title: NCBI  Conserved Domains and Protein Classification
-description: Contains resources that can be used to help elucidate protein function.
+description: Contains resources that can be used to help elucidate protein function, including but not limited to CDD, CD-Search, CDtree, and CDART.
 published: true
-date: 2020-05-20T23:38:29.645Z
+date: 2023-12-28T18:44:48.363Z
 tags: annotation tools, sequence analysis, analysis tools, resource center, protein family, protein domain
+editor: markdown
+dateCreated: 2020-04-06T19:00:09.734Z
 ---
 
 # NCBI  Conserved Domains and Protein Classification
