@@ -2,7 +2,7 @@
 title: TIGRFams
 description: Protein sequence classification database and system;; (similar to Pfam ca. Jan. 2023) has been largely decommissioned and integrated into InterPro
 published: true
-date: 2023-12-28T19:57:13.318Z
+date: 2023-12-28T19:57:52.060Z
 tags: proteins, protein, protein family, protein domain, functional annotation, protein families, protein domains, protein annotation
 editor: markdown
 dateCreated: 2023-12-28T19:57:13.318Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-28T19:57:13.318Z
 > As of September 2014, annotations per the legacy website have not been updated, but system has been integrated into the InterPro Database.
 {.is-warning}
 
-## Link(s) <- 's' if more than one
+## Link
 
 - [TIGRFam *Legacy Website*](https://tigrfams.jcvi.org/cgi-bin/index.cgi)
 - [InterPro *Destination of TIGRFam Annotations*](https://www.ebi.ac.uk/interpro/)
