@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: false
-date: 2023-12-28T17:56:45.834Z
+date: 2023-12-28T17:56:57.251Z
 tags: template, help
 editor: markdown
 dateCreated: 2020-03-23T15:34:55.130Z
@@ -18,7 +18,7 @@ dateCreated: 2020-03-23T15:34:55.130Z
 > Month, Day, Year: Warning this a warning box in case there is a problem with the website like that we can see (explain the problem you encounter)
 {.is-warning}
 
-## Website(s) <- 's' if more than one
+## Link(s) <- 's' if more than one
 
 - [Website name *Description that will be here*](https://url_of_the_website)
 - [If two website *Short description of the link*](https://url_of_the_website)
