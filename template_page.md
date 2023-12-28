@@ -2,7 +2,7 @@
 title: Template page
 description: Template for markdown for a page
 published: false
-date: 2023-09-18T11:47:11.578Z
+date: 2023-12-28T17:56:45.834Z
 tags: template, help
 editor: markdown
 dateCreated: 2020-03-23T15:34:55.130Z
@@ -25,7 +25,7 @@ dateCreated: 2020-03-23T15:34:55.130Z
 {.links-list}
 
 
-## Notes from the user
+## User Notes
  
  - All in bullet points
  - What are the main features of the website.
