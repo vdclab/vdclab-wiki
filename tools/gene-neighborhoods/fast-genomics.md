@@ -2,7 +2,7 @@
 title: fast.genomics
 description: A child-feature of the PaperBLAST suite and, thus, a partner of the MicrobesOnline Database, the fast.genomics tool allows for swift sequence-based phylogenetic analyses.
 published: true
-date: 2023-12-29T16:22:55.890Z
+date: 2023-12-29T16:23:37.791Z
 tags: gene neighborhood, co-occurrence, phylogenomic, phylogenetic, phylogenomics, phylogenetics, gene neighborhoods
 editor: markdown
 dateCreated: 2023-12-28T20:24:08.309Z
@@ -14,7 +14,7 @@ dateCreated: 2023-12-28T20:24:08.309Z
 > --Gene neighborhoods
 > --Which taxa contain homologs
 > --Compare the presence/absence of two proteins
-> --see which taxa have two genes nearby"
+> --See which taxa have two genes nearby"
 {.is-info}
 
 
