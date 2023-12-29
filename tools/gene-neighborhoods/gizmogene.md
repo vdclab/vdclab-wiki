@@ -2,7 +2,7 @@
 title: GizmoGene
 description: Independent platform that extends the neighborhood viewer features, etc., available via BV-BRC (formerly PATRIC)
 published: true
-date: 2023-12-29T18:50:49.549Z
+date: 2023-12-29T18:57:08.248Z
 tags: database, gene neighborhood, visualization, phylogenomic, phylogenetic, phylogenomics, phylogenetics, physical clustering
 editor: markdown
 dateCreated: 2023-12-29T18:50:49.549Z
@@ -21,32 +21,28 @@ dateCreated: 2023-12-29T18:50:49.549Z
 
 ## Link(s) <- 's' if more than one
 
-- [Website name *Description that will be here*](https://url_of_the_website)
-- [If two website *Short description of the link*](https://url_of_the_website)
+- [GizmoGene *main landing page*](http://www.gizmogene.com)
 {.links-list}
 
 
 ## User Notes
  
- - All in bullet points
- - What are the main features of the website.
+ - User account required; to be used in-tandem with BV-BRC account.
+ - Useful for overview level analyses; predetermined targets may be necessary (tool may be less useful for exploratory analyses)
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
+- Can be challenging for novice users if target IDs are not defined beforehand
 
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+- [Quickstart Guide](http://www.gizmogene.com/GizmoGene_Quickstart_Guide.pdf)
 {.links-list}
 
 
 ## Citation(s) <- 's' if more than one
 
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
+- No publication available for citation.
 {.grid-list}
