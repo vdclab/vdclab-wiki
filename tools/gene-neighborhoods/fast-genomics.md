@@ -2,7 +2,7 @@
 title: fast.genomics
 description: A child-feature of the PaperBLAST suite and, thus, a partner of the MicrobesOnline Database, the fast.genomics tool allows for swift sequence-based phylogenetic analyses.
 published: true
-date: 2023-12-28T20:24:08.309Z
+date: 2023-12-29T16:22:55.890Z
 tags: gene neighborhood, co-occurrence, phylogenomic, phylogenetic, phylogenomics, phylogenetics, gene neighborhoods
 editor: markdown
 dateCreated: 2023-12-28T20:24:08.309Z
@@ -10,18 +10,17 @@ dateCreated: 2023-12-28T20:24:08.309Z
 
 # fast.genomics
 
-> Short description of the website. You can copy paste the description in the website itself if you don't want to do ine yourself. 
->
-> Plus if you need a blank line in the description you just put `>` and you have a blank line. 
+> Sequence-based gene neighborhood search tool. Also one of few sequence-based tools that allow for examining pairs of families and their respective co-occurrence. As the website describes: "Once the homologs are identified, fast.genomics can quickly show:
+> --Gene neighborhoods
+> --Which taxa contain homologs
+> --Compare the presence/absence of two proteins
+> --see which taxa have two genes nearby"
 {.is-info}
 
-> Month, Day, Year: Warning this a warning box in case there is a problem with the website like that we can see (explain the problem you encounter)
-{.is-warning}
 
-## Link(s) <- 's' if more than one
+## Link
 
-- [Website name *Description that will be here*](https://url_of_the_website)
-- [If two website *Short description of the link*](https://url_of_the_website)
+- [fast.genomics *main landing page*](https://fast.genomics.lbl.gov/cgi/search.cgi)
 {.links-list}
 
 
