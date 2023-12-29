@@ -2,7 +2,7 @@
 title: fast.genomics
 description: A child-feature of the PaperBLAST suite and, thus, a partner of the MicrobesOnline Database, the fast.genomics tool allows for swift sequence-based phylogenetic analyses.
 published: true
-date: 2023-12-29T16:29:35.520Z
+date: 2023-12-29T16:33:47.080Z
 tags: gene neighborhood, co-occurrence, phylogenomic, phylogenetic, phylogenomics, phylogenetics, gene neighborhoods
 editor: markdown
 dateCreated: 2023-12-28T20:24:08.309Z
@@ -36,13 +36,11 @@ dateCreated: 2023-12-28T20:24:08.309Z
 
 ## Help
 
-- [Help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
-- [If two help section *The kind of help section FAQ/github issue*](https://url_of_the_help_page)
+- [Source Code *GitHub*](https://github.com/morgannprice/fast.genomics)
 {.links-list}
 
 
-## Citation(s) <- 's' if more than one
+## Citation
 
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal, Something, Date
-- Name et. al., [title in bracket](link_link_to_the_paper_in_parenthesis), Journal 2, Something, Date
+- Price and Arkin, [A fast comparative genome browser for diverse bacteria and archaea](https://www.biorxiv.org/content/10.1101/2023.08.23.554478v2), bioRxiv, 2023
 {.grid-list}
