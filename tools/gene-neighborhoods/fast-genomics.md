@@ -2,7 +2,7 @@
 title: fast.genomics
 description: A child-feature of the PaperBLAST suite and, thus, a partner of the MicrobesOnline Database, the fast.genomics tool allows for swift sequence-based phylogenetic analyses.
 published: true
-date: 2023-12-29T16:23:37.791Z
+date: 2023-12-29T16:29:35.520Z
 tags: gene neighborhood, co-occurrence, phylogenomic, phylogenetic, phylogenomics, phylogenetics, gene neighborhoods
 editor: markdown
 dateCreated: 2023-12-28T20:24:08.309Z
@@ -26,15 +26,13 @@ dateCreated: 2023-12-28T20:24:08.309Z
 
 ## User Notes
  
- - All in bullet points
- - What are the main features of the website.
+ - Useful for fast analysis of gene neighborhoods among bacteria.
+ - Query of two families requires two independent runs of the sequence-based submission within the same browser window; these queries are then useable in a subsequent two-family analysis.
 
  
 ## Ease of use
 
-- What the users need to know about the website : problem you encounter, data format of the input...
-- Short Paragraph or bullet points
-
+- Most of the outputs are exportable as either tables and/or svg files (the latter if the output is graphical)
 
 ## Help
 
