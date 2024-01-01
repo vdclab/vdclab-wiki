@@ -1,8 +1,8 @@
 ---
-title: M1 Additional Reading
+title: Module 1 Additional Reading
 description: Additional recommended reading intended to accompany the contents of MCB6318 Module 1
 published: true
-date: 2024-01-01T22:30:40.448Z
+date: 2024-01-01T22:36:52.829Z
 tags: teaching, classes
 editor: markdown
 dateCreated: 2024-01-01T22:30:40.448Z
