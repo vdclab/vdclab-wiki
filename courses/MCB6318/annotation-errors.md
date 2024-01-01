@@ -2,13 +2,13 @@
 title: Annotation Errors
 description: Discussion of annotations errors and key sources of these errors among functional annotation databases
 published: true
-date: 2024-01-01T22:41:34.360Z
+date: 2024-01-01T22:41:54.783Z
 tags: teaching, classes
 editor: markdown
 dateCreated: 2024-01-01T22:41:34.360Z
 ---
 
-# Sources of mistakes in Functional annotations 
+# Sources of Mistakes in Functional Annotations 
 
 > False unknows: Annotated as unknown or general but function is known and published 
 - failure in capturing literature  
