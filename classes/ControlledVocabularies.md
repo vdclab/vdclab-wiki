@@ -2,13 +2,13 @@
 title: Controlled Vocabularies For Protein Function
 description: Explain what GO and EC are
 published: true
-date: 2023-12-16T23:38:01.022Z
+date: 2024-01-01T23:26:39.813Z
 tags: protein, functional annotation
 editor: markdown
 dateCreated: 2023-12-16T23:03:35.367Z
 ---
 
-# Controlled vocabularies to describe protein function 
+# Controlled Vocabularies to Describe Protein Function 
 
 > EC Numbers. The IUBMB enzyme classification system, available at the IUBMB ExplorEnz website, uses a four-component number (the EC number) that identifies an enzyme in terms of reaction catalysed. 
 - [Recent Review on the Enzyme Nomenclature](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16274)
