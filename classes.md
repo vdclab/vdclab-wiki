@@ -2,7 +2,7 @@
 title: Classes
 description: Overview of UF Bioinformatics Courses
 published: true
-date: 2023-12-28T16:59:36.342Z
+date: 2024-01-01T21:46:55.733Z
 tags: teaching, classes
 editor: markdown
 dateCreated: 2023-12-28T16:59:36.342Z
