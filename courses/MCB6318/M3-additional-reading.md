@@ -1,8 +1,8 @@
 ---
-title: M3 Additional Reading
+title: Module 3 Additional Reading
 description: Additional reading intended to accompany the contents of MCB6318 Module 3
 published: true
-date: 2024-01-01T22:34:03.803Z
+date: 2024-01-01T22:37:17.330Z
 tags: teaching, classes
 editor: markdown
 dateCreated: 2024-01-01T22:34:03.803Z
