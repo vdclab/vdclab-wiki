@@ -2,14 +2,14 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-04T21:05:11.458Z
+date: 2024-02-04T21:05:43.259Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
 ---
 
 # BSC64659 - Fundamentals of Bioinformatics
-> T.
+> general summary to write
 {.is-info}
 
 ### Module 1 - Bioinformatics: definitions and database primer
