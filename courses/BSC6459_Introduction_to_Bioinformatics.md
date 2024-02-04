@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-04T21:29:25.711Z
+date: 2024-02-04T21:30:05.164Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -24,14 +24,14 @@ dateCreated: 2024-01-23T19:14:46.497Z
 
 
 #### Despositories of online resources for biologists
-> general summary to write
+> general summary to write on databases
 {.is-info}
 
 - [**Biotools**](https://vdclab-wiki.herokuapp.com/databases/database_searches/biotools)
 - [**MolBiol_Tools**](http://molbiol-tools.ca/)
 - [NAR database issue]
 
-#### Searching biolohical litterature
+#### Searching biological litterature
 > general summary to write
 {.is-info}
 
