@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-04T21:22:29.864Z
+date: 2024-02-04T21:24:31.924Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -37,6 +37,5 @@ dateCreated: 2024-01-23T19:14:46.497Z
 {.is-info}
 
 - [**Bioinfo_courses I**](http://jacques.van-helden.perso.luminy.univmed.fr/bioinfo_intro/)
-
 - [**Bioinfo_courses I**](http://lectures.molgen.mpg.de/online_lectures.html) 
 - [**A lecture series covering contemporary areas in genomics and bioinformatics**](http://www.genome.gov/12514288)
