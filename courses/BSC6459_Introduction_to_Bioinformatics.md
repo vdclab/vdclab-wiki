@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-04T21:05:43.259Z
+date: 2024-02-04T21:06:57.557Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -13,7 +13,7 @@ dateCreated: 2024-01-23T19:14:46.497Z
 {.is-info}
 
 ### Module 1 - Bioinformatics: definitions and database primer
-> Bioinfornatics definition: [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics) gives a good summary in one sentence "Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex". Modern biology has become a "big data" science and computational tools are needed to analyze  and makse sense of all the different data types that are being generated. 
+> Bioinfornatics definition: [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics) gives a good summary in one sentence "Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex". Modern biology has become a ["big data"](https://www.liebertpub.com/doi/full/10.1089/big.2020.0383) science and computational tools are needed to analyze  and makse sense of all the different data types that are being generated. 
 {.is-info}
 
 **Module Objectives**
