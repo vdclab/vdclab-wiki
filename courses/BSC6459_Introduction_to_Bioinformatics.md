@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T13:06:04.347Z
+date: 2024-02-05T13:12:23.609Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -39,11 +39,12 @@ dateCreated: 2024-01-23T19:14:46.497Z
 
 
 #### Searching biological literature with Pubmed
-> Pubmed is one of the databases that almost all biologists use to search and access biomedical literature.  It is also a good starting point for beginners to learn the basics of database searches such as the use of boolean operators, issues with names and spelling, or the use of advanced search tools.
+> Pubmed is one of the databases that almost all biologists use to search and access biomedical literature.  It is also a good starting point for beginners to learn the basics of database searches such as the use of boolean operators, issues with names and spelling, or the use of advanced search tools. 
 {.is-info}
 
+- [**Litterature search Primer**](https://figshare.com/articles/presentation/Literature_Searching_Skills_and_Tools/7228721)
 - [**Pubmed training**](https://learn.nlm.nih.gov/documentation/training-packets/T0042010P/)
 - [**IntroPubmed Videos**](https://www.youtube.com/playlist?list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj)
 
-https://vdclab-wiki.herokuapp.com/en/literature-search
+For users who want to explore other literature resources than Pubmed a few are listed in this [Wiki](https://vdclab-wiki.herokuapp.com/en/literature-search).
 
