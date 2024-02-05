@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T12:43:58.652Z
+date: 2024-02-05T12:53:51.809Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -30,12 +30,12 @@ dateCreated: 2024-01-23T19:14:46.497Z
 - [**A lecture series covering contemporary areas in genomics and bioinformatics**](http://www.genome.gov/12514288)
 
 #### Depositories of online resources for biologists
->[Biological databases](https://en.wikipedia.org/wiki/Biological_database) are libraries of biological sciences, collected from scientific experiments, published literature, high-throughput experiment technology, and computational analysis. They can be classified by  many different criteria such as the types of data they cover, if they are primary data or curated, if they are general or specialized. The quality of the database depends on how often they are updated, the curation effort that goes in to them or how well they respond to user feedback. The perinity of databases is an [issue](https://academic.oup.com/nar/article/48/22/12523/6018434) as this requires long-term funding that is very difficult to secure.  Finding the best database to perform a task or access information is not easy
+>[Biological databases](https://en.wikipedia.org/wiki/Biological_database) are libraries of biological sciences, collected from scientific experiments, published literature, high-throughput experiment technology, and computational analysis. They can be classified by  many different criteria such as the types of data they cover, if they are primary data or curated, if they are general or specialized. The quality of the database depends on how often they are updated, the curation effort that goes in to them or how well they respond to user feedback. The perinity of databases is an [issue](https://academic.oup.com/nar/article/48/22/12523/6018434) as this requires long-term funding that is very difficult to secure.  Finding the best database to perform a task or access information is not easy a few staring points are listed below but generally, biologists have a set of databases they use on a regular basis for the majority of their tasks.
 {.is-info}
 
 - [**Biotools**](https://vdclab-wiki.herokuapp.com/databases/database_searches/biotools)
 - [**MolBiol_Tools**](http://molbiol-tools.ca/)
-- [NAR database issue]
+- [NAR database issue](https://www.oxfordjournals.org/nar/database/c/)
 
 
 #### Searching biological litterature
