@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T12:58:25.150Z
+date: 2024-02-05T13:01:22.428Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -38,9 +38,10 @@ dateCreated: 2024-01-23T19:14:46.497Z
 - [**NAR database issue**](https://www.oxfordjournals.org/nar/database/c/)
 
 
-#### Searching biological litterature with Pubmed
-> Pubmed is one the database that almost all biologists use to search and access the biomedical literature.  It also a good starting points for beginners to leran the basic of database searches such as the use of boleen operators, issues with names and spelling the use of advanced search tools
+#### Searching biological literature with Pubmed
+> Pubmed is one of the databases that almost all biologists use to search and access biomedical literature.  It is also a good starting point for beginners to learn the basics of database searches such as the use of boolean operators, issues with names and spelling, or the use of advanced search tools.
 {.is-info}
 
+- [**Pubmed training**](https://learn.nlm.nih.gov/documentation/training-packets/T0042010P/)
 https://vdclab-wiki.herokuapp.com/en/literature-search
 
