@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T13:01:22.428Z
+date: 2024-02-05T13:06:04.347Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -43,5 +43,7 @@ dateCreated: 2024-01-23T19:14:46.497Z
 {.is-info}
 
 - [**Pubmed training**](https://learn.nlm.nih.gov/documentation/training-packets/T0042010P/)
+- [**IntroPubmed Videos**](https://www.youtube.com/playlist?list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj)
+
 https://vdclab-wiki.herokuapp.com/en/literature-search
 
