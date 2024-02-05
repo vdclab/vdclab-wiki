@@ -2,15 +2,25 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T13:12:40.547Z
+date: 2024-02-05T13:15:54.989Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
 ---
 
 # BSC64659 - Fundamentals of Bioinformatics
-> general summary to write
+>  This course is an introduction to the basic bioinformatics tools used in computational biology for life science research. The course uses web-based resources that analyze gene and protein sequences as pertinent data examples. No programming skills are needed.
 {.is-info}
+
+**Student Learning Outcomes – After successful completion of this course, students will be able to:**
+1) Retrieve information on genes and proteins from biological and genomic databases.
+2) Predict genes from DNA sequences.
+3) Identify promoters and regulatory elements in DNA sequences
+4) Analyze protein sequences
+5) Compare protein and DNA sequences
+6) Visualize and analyze protein structures
+7) Construct and interpret simple phylogenies
+
 
 ### Module 1 - Bioinformatics: definitions and database primer
 
