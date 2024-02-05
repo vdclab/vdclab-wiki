@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-05T12:53:51.809Z
+date: 2024-02-05T12:55:30.773Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -35,11 +35,11 @@ dateCreated: 2024-01-23T19:14:46.497Z
 
 - [**Biotools**](https://vdclab-wiki.herokuapp.com/databases/database_searches/biotools)
 - [**MolBiol_Tools**](http://molbiol-tools.ca/)
-- [NAR database issue](https://www.oxfordjournals.org/nar/database/c/)
+- [**NAR database issue**](https://www.oxfordjournals.org/nar/database/c/)
 
 
 #### Searching biological litterature
-> general summary to write
+> Pubmed is one the database that almost all biologists use to search and access the biomeical literature. general summary to write
 {.is-info}
 
 https://vdclab-wiki.herokuapp.com/en/literature-search
