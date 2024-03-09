@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-02-14T19:14:52.790Z
+date: 2024-03-09T15:23:49.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -58,3 +58,30 @@ dateCreated: 2024-01-23T19:14:46.497Z
 
 For users who want to explore other literature resources than Pubmed a few are listed in this [Wiki](https://vdclab-wiki.herokuapp.com/en/literature-search).
 
+
+### Module 2 - Information retrieval
+
+**Module Objectives**
+- Navigate a GenBank or SwissProt entry  and explore other databases from these entries 
+- Extract DNA and Protein sequences from NCBI based on different criteria 
+- Design complex queries to identify groups of entries at NCBI  ( and other databases)
+- Find the genes of a specific  metabolic pathway in a specific  organism
+
+> Extracting protein/gene sequences from databases is not trivial. First, names are  not unique identifiers, mapping between different databases and/or objects is not well-done or intuitive.
+{.is-info}
+
+#### Test
+> test
+{.is-info}
+
+
+### Module 3 - 
+
+**Module Objectives**
+
+> Test 
+{.is-info}
+
+#### Test
+> test
+{.is-info}
