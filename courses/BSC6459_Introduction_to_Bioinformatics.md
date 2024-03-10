@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T23:03:35.948Z
+date: 2024-03-10T23:14:21.887Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -87,7 +87,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 
 ### Module 3 - Pairwise Alignment
-> Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good over all summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/).
+> Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good over all summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/). We will focus first on pairwise sequence alignmemnts that are use to compare two sequences and search databases.  
 {.is-info}
 
 **Module Objectives**
@@ -101,12 +101,13 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**DotLet** (for proteins only)](https://dotlet.vital-it.ch/)
 - [**DotPlot tool 2**](https://en.vectorbuilder.com/tool/sequence-dot-plot.html)
 
-> Many sequence paiwise alignment programs have been developed. They can be global/local, use different similarity matrices ( for computing similarity scores between amino acids), be exact or heuristic  
+> Many sequence pairwise alignment programs have been developed. They can be [**global or local**](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/03%3A_Rapid_Sequence_Alignment_and_Database_Search/3.03%3A_Global_alignment_vs._Local_alignment_vs._Semi-global_alignment),use [**different matrices**](https://en.wikipedia.org/wiki/BLOSUM) or computing similarity scores between amino acids), be exact or heuristic.  
 {.is-info}
 
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
 - **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
+- Align two sequences using Blast
 
-#### Test
-> test
+#### Warning 
+> Any sequence can be aligned with any other sequence if enough gaps are allowed. 
 {.is-info}
