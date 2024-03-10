@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T20:31:09.993Z
+date: 2024-03-10T22:10:16.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -85,16 +85,22 @@ For users who want to explore other literature resources than Pubmed a few are l
 > Advanced booleen searches are very powerful to find sets of genes/proteins using a wide variety of filters (taxonomy, size, annotation)  both in [Uniprot](https://www.uniprot.org/help/advanced_search) and NCBI. Every different database at NCBI has slightly different fields tgat can be searched see the one for [proteins](https://www.ncbi.nlm.nih.gov/protein/advanced) or [genes](https://www.ncbi.nlm.nih.gov/gene/advanced). All entries Uniprot and NCBI have multiple links to the same entry in other databases that can  provide similar or additional information such as [PDB](/structure/visualization-platforms/RCSB-PDB) or [BRENDA](/databases/data-integration/BRENDA-ENZYMES) or [KEGG](/databases/enzyme-pathway/KEGG-PATHWAY).
 {.is-info}
 
-#### Test
-> test.
-{.is-info}
-### Module 3 - 
-
+### Module 3 - Pairwise Alignment
 **Module Objectives**
 
-> Test 
+-  Compare and contrast the different methods used to align two sequences 
+- Evaluate the validity of an alignment
+- Perform sequence database searches and  interpret the results
+
+#### Test
+> Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good over all summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/).
 {.is-info}
 
+
+
+> Similarity matrices are the simplest way to align two sequences. These are called [**DotPlots**](https://en.wikipedia.org/wiki/Dot_plot_bioinformatics)
+{.is-info}
+- (/tools/analysis/SynMap)
 #### Test
 > test
 {.is-info}
