@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T17:47:38.406Z
+date: 2024-03-10T18:44:32.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -67,14 +67,24 @@ For users who want to explore other literature resources than Pubmed a few are l
 - Design complex queries to identify groups of entries at NCBI  ( and other databases)
 - Find the genes of a specific  metabolic pathway in a specific  organism
 
-> Extracting protein/gene sequences from databases is not trivial. First, names are  not unique identifiers, mapping between different databases and/or objects is not well-done or intuitive.
+> Extracting protein/gene sequences from databases is not trivial. First, names are not unique identifiers, and mapping between different databases and/or objects is not well done or intuitive. This module focuses on extracting protein and gene sequences from NCBI and UniProt resources.
 {.is-info}
+- [**NCBI**](/resources/general_resources/NCBI-All-Resources)
+- [**UniProt**](https://www.uniprot.org/)
 
-#### Input and Output format
+#### Dealing with Input and Output formats
 > The format of your input file is critical as most bioinformatic tools cannot deal with format errors. Tools to clan sequences up or convert one format to the other are therefore critical.
 {.is-info}
 - [**Sequence Massager**](https://vdclab-wiki.herokuapp.com/e/en/sequence-manipulation/changing-format/NA-Sequence-Massager) is used  to clean up nucleic acid sequences
-- [ **EMBOSS Seqret**](https://www.ebi.ac.uk/jdispatcher/sfc/emboss_seqret) is used to change formats of sequences is part of the  [**Job Dispatcher**](https://www.ebi.ac.uk/jdispatcher/) platform provided by the EBI.
+- [ **EMBOSS Seqret**](http-[**Uniprot**]s://www.ebi.ac.uk/jdispatcher/sfc/emboss_seqret) is used to change formats of sequences is part of the  [**Job Dispatcher**](https://www.ebi.ac.uk/jdispatcher/) platform provided by the EBI.
+
+#### Dealing with redundancy
+> With the ease of sequencing, some genomes get sequenced many times generating identical gene and protein objects. Databases have dealt with this in different ways. UniProt has [eliminated redundancy](https://www.uniprot.org/help/proteome_redundancy) by combining identical protein sequences in one unique entry. 
+{.is-info}
+
+#### Test
+> test.
+{.is-info}
 ### Module 3 - 
 
 **Module Objectives**
