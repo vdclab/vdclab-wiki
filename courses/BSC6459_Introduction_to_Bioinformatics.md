@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T22:10:16.476Z
+date: 2024-03-10T22:11:29.307Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -98,7 +98,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 
 
-> Similarity matrices are the simplest way to align two sequences. These are called [**DotPlots**](https://en.wikipedia.org/wiki/Dot_plot_bioinformatics)
+> Similarity matrices are the simplest way to align two sequences. These are called [**DotPlots**](https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics))
 {.is-info}
 - (/tools/analysis/SynMap)
 #### Test
