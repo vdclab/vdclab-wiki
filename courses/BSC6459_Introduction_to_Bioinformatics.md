@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T23:14:21.887Z
+date: 2024-03-10T23:17:17.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -101,7 +101,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**DotLet** (for proteins only)](https://dotlet.vital-it.ch/)
 - [**DotPlot tool 2**](https://en.vectorbuilder.com/tool/sequence-dot-plot.html)
 
-> Many sequence pairwise alignment programs have been developed. They can be [**global or local**](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/03%3A_Rapid_Sequence_Alignment_and_Database_Search/3.03%3A_Global_alignment_vs._Local_alignment_vs._Semi-global_alignment),use [**different matrices**](https://en.wikipedia.org/wiki/BLOSUM) or computing similarity scores between amino acids), be exact or heuristic.  
+> Many sequence pairwise alignment programs have been developed. They can be [**global or local**](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.)/03%3A_Rapid_Sequence_Alignment_and_Database_Search/3.03%3A_Global_alignment_vs._Local_alignment_vs._Semi-global_alignment),use [**different matrices**](https://en.wikipedia.org/wiki/BLOSUM) for computing similarity scores between amino acids), be [**exact**](https://science.umd.edu/labs/delwiche/bsci348s/lec/Align.html) or [**heuristic**](https://science.umd.edu/labs/delwiche/bsci348s/lec/AlignHeuristic.html).  
 {.is-info}
 
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
