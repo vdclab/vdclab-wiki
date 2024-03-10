@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T17:41:07.654Z
+date: 2024-03-10T17:47:38.406Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
