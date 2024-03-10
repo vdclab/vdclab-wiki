@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T22:14:55.201Z
+date: 2024-03-10T22:30:56.790Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -76,6 +76,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 - [**Sequence Massager**](https://vdclab-wiki.herokuapp.com/e/en/sequence-manipulation/changing-format/NA-Sequence-Massager) is used  to clean up nucleic acid sequences
 - [ **EMBOSS Seqret**](http-[**Uniprot**]s://www.ebi.ac.uk/jdispatcher/sfc/emboss_seqret) is used to change formats of sequences is part of the  [**Job Dispatcher**](https://www.ebi.ac.uk/jdispatcher/) platform provided by the EBI.
+- [The SMS suite](http://www.bioinformatics.org/sms2/index.html) has reformatting tools
 
 #### Dealing with redundancy
 > With the ease of sequencing, some genomes get sequenced many times generating identical gene and protein objects. Databases have dealt with this in different ways. UniProt has [eliminated redundancy](https://www.uniprot.org/help/proteome_redundancy) by combining identical protein sequences in one unique entry. 
@@ -96,7 +97,14 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 > Similarity matrices are the simplest way to align two sequences. These are called [**DotPlots**](https://en.wikipedia.org/wiki/Dot_plot_bioinformatics). 
 {.is-info}
-- (/tools/analysis/SynMap)
+- [**DotLet** (for proteins only)](https://dotlet.vital-it.ch/)
+- [**DotPlot tool 2**](https://en.vectorbuilder.com/tool/sequence-dot-plot.html)
+
+> MAny sequence alignment programs have been developed . Thet can be global/local use differnt alignment Matrices 
+
+
+- [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
+(/tools/analysis/SynMap)
 #### Test
 > test
 {.is-info}
