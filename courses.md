@@ -2,7 +2,7 @@
 title: Classes
 description: Overview of UF Bioinformatics Courses
 published: true
-date: 2024-01-23T19:16:03.460Z
+date: 2024-03-10T17:45:37.231Z
 tags: teaching, classes
 editor: markdown
 dateCreated: 2023-12-28T16:59:36.342Z
@@ -15,7 +15,8 @@ Bioinformatic classes taught at UF for biologists
 
 ## UF MCS BIOINFO
 Bioinformatic classes for biologists taught at the UF Microbiology and Cell Science ([MCS](https://microcell.ufl.edu/academics--teaching/)) department.
-
+- [MCB 6318 Comparative Microbial Genomics *VDC class*](https://vdclab-wiki.herokuapp.com/en/courses/MCB6318)
+- [ BSC 6459 Fundamentals of Bioinformatics *VDC class*](https://vdclab-wiki.herokuapp.com/e/en/courses/BSC6459_Introduction_to_Bioinformatics)
 - [PCB1051	Exploring Your Genome]
 - [MCB 4320c The Microbiome]
 - [BSC 2891 Python Programming for Biologists]
@@ -26,9 +27,7 @@ Bioinformatic classes for biologists taught at the UF Microbiology and Cell Scie
 - [ALS 3200C AI In Agriculture and Life Sciences]
 - [MCB 4325C R for Life Sciences]
 - [BSC4913/14 	Independent Research in Bioinformatics]
-- [MCB 6318 Comparative Microbial Genomics *VDC class*](https://vdclab-wiki.herokuapp.com/en/courses/MCB6318)
 
-- [ BSC 6459 Fundamentals of Bioinformatics *VDC class*](https://vdclab-wiki.herokuapp.com/e/en/courses/BSC6459_Introduction_to_Bioinformatics)
 {.links-list}
 
 ## UF MCS BIOINFO
