@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2024-01-01T22:51:30.314Z
+date: 2024-03-10T17:44:02.887Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -20,7 +20,8 @@ Below, you will find an interactive table providing an overview of primary conte
 
 
 - [**UF_MCB6318***Comparative Microbial Genomics*](https://vdclab-wiki.herokuapp.com/en/courses/MCB6318)
-- [**UF Classes in Bioinformatics**](https://vdclab-wiki.herokuapp.com/en/courses)
+- [**UF_BSC6959** *Fundamentals of Bioinformatics*](https://vdclab-wiki.herokuapp.com/en/courses/BSC6459_Introduction_to_Bioinformatics)
+- [**List of UF Classes in Bioinformatics**](https://vdclab-wiki.herokuapp.com/en/courses)
 {.links-list}
 
 ## Alignment
@@ -31,7 +32,7 @@ Below, you will find an interactive table providing an overview of primary conte
 ## Annotation
 
 - [Annotation websites on the wiki *List of the annotation websites*](https://vdclab-wiki.herokuapp.com/en/annotation)
-{.links-list}
+{.links-list}6559
 
 ## Databases
 
