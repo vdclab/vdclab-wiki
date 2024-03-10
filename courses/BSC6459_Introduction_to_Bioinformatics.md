@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-09T15:23:49.344Z
+date: 2024-03-10T16:34:46.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -70,10 +70,10 @@ For users who want to explore other literature resources than Pubmed a few are l
 > Extracting protein/gene sequences from databases is not trivial. First, names are  not unique identifiers, mapping between different databases and/or objects is not well-done or intuitive.
 {.is-info}
 
-#### Test
-> test
+#### Input and Output format
+> The format of your input file is critical as mots bioinformatic tools cannot deal with format errors
 {.is-info}
-
+https://biomodel.uah.es/en/lab/cybertory/analysis/massager.htm
 
 ### Module 3 - 
 
