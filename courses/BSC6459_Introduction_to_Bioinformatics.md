@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T18:44:32.212Z
+date: 2024-03-10T19:51:59.829Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -73,7 +73,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**UniProt**](https://www.uniprot.org/)
 
 #### Dealing with Input and Output formats
-> The format of your input file is critical as most bioinformatic tools cannot deal with format errors. Tools to clan sequences up or convert one format to the other are therefore critical.
+> The format of your input file is critical as most bioinformatic tools cannot deal with format errors. Make sure to understand the popular FASTA adn [GenBank](https://www.futurelearn.com/info/courses/bacterial-genomes-bioinformatics/0/steps/47012) Formats Tools to clean sequences up or convert one format to the other are therefore critical.
 {.is-info}
 - [**Sequence Massager**](https://vdclab-wiki.herokuapp.com/e/en/sequence-manipulation/changing-format/NA-Sequence-Massager) is used  to clean up nucleic acid sequences
 - [ **EMBOSS Seqret**](http-[**Uniprot**]s://www.ebi.ac.uk/jdispatcher/sfc/emboss_seqret) is used to change formats of sequences is part of the  [**Job Dispatcher**](https://www.ebi.ac.uk/jdispatcher/) platform provided by the EBI.
