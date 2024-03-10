@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T23:17:17.369Z
+date: 2024-03-10T23:18:55.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -106,7 +106,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
 - **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
-- Align two sequences using Blast
+- Align two sequences using [**Blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch)
 
 #### Warning 
 > Any sequence can be aligned with any other sequence if enough gaps are allowed. 
