@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T19:57:54.253Z
+date: 2024-03-10T20:18:32.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -58,7 +58,6 @@ dateCreated: 2024-01-23T19:14:46.497Z
 
 For users who want to explore other literature resources than Pubmed a few are listed in this [Wiki](https://vdclab-wiki.herokuapp.com/en/literature-search).
 
-
 ### Module 2 - Information retrieval
 
 **Module Objectives**
@@ -67,7 +66,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - Design complex queries to identify groups of entries at NCBI  ( and other databases)
 - Find the genes of a specific  metabolic pathway in a specific  organism
 
-> Extracting protein/gene sequences from databases is not trivial. First, names are not unique identifiers and mapping between different databases and/or objects is not well done or intuitive. This module focuses on extracting protein and gene sequences from NCBI and UniProt resources.
+> Extracting protein/gene sequences from databases is not trivial. First, names are not unique identifiers and mapping between different databases and/or objects is not well done or intuitive. [Ontology resources](https://geneontology.org/) are trying to homogenize names or give numbering systems such as the [EC](https://enzyme.expasy.org/) numbers for enzymes or the [TC](https://www.tcdb.org/) numbers for transporters.  This module focuses on extracting protein and gene sequences from NCBI and UniProt resources.
 {.is-info}
 - [**NCBI**](/resources/general_resources/NCBI-All-Resources)
 - [**UniProt**](https://www.uniprot.org/)
@@ -83,7 +82,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 
 #### Advanced searches and Cross-referencing  
-> Advanced booleen searches are very powerful to find sets of genes/proteins using a wide variety of filters (taxonomy, size, annotation)  both in [Uniprot](https://www.uniprot.org/help/advanced_search) and NCBI. Every different database at NCBI has slightly different fields tgat can be searched see the one for [proteins](https://www.ncbi.nlm.nih.gov/protein/advanced) or [genes](https://www.ncbi.nlm.nih.gov/gene/advanced). All entries Uniprot and NCBI have multiple links to the same entry in other databases that can  provide similar or additional information  such as [PDB](/structure/visualization-platforms/RCSB-PDB) or [BRENDA](/databases/data-integration/BRENDA-ENZYMES) or [KEGG](/databases/enzyme-pathway/KEGG-PATHWAY).
+> Advanced booleen searches are very powerful to find sets of genes/proteins using a wide variety of filters (taxonomy, size, annotation)  both in [Uniprot](https://www.uniprot.org/help/advanced_search) and NCBI. Every different database at NCBI has slightly different fields tgat can be searched see the one for [proteins](https://www.ncbi.nlm.nih.gov/protein/advanced) or [genes](https://www.ncbi.nlm.nih.gov/gene/advanced). All entries Uniprot and NCBI have multiple links to the same entry in other databases that can  provide similar or additional information such as [PDB](/structure/visualization-platforms/RCSB-PDB) or [BRENDA](/databases/data-integration/BRENDA-ENZYMES) or [KEGG](/databases/enzyme-pathway/KEGG-PATHWAY).
 {.is-info}
 
 #### Test
