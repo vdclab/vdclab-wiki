@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T22:39:11.586Z
+date: 2024-03-10T23:03:35.948Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -89,9 +89,10 @@ For users who want to explore other literature resources than Pubmed a few are l
 ### Module 3 - Pairwise Alignment
 > Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good over all summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/).
 {.is-info}
+
 **Module Objectives**
 
--  Compare and contrast the different methods used to align two sequences 
+- Compare and contrast the different methods used to align two sequences 
 - Evaluate the validity of an alignment
 - Perform sequence database searches and  interpret the results
 
@@ -100,12 +101,12 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**DotLet** (for proteins only)](https://dotlet.vital-it.ch/)
 - [**DotPlot tool 2**](https://en.vectorbuilder.com/tool/sequence-dot-plot.html)
 
-> MAny sequence alignment programs have been developed . Thet can be global/local, use different  similarity Matrices 
-
+> Many sequence paiwise alignment programs have been developed. They can be global/local, use different similarity matrices ( for computing similarity scores between amino acids), be exact or heuristic  
+{.is-info}
 
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
-[**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at SRS
-(/tools/analysis/SynMap)
+- **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
+
 #### Test
 > test
 {.is-info}
