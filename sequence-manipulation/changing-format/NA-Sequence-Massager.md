@@ -2,8 +2,10 @@
 title: Nucleic Acid Sequence Massager
 description: Reformatting tool for nucleic acid sequences
 published: true
-date: 2020-04-21T17:29:00.926Z
-tags: 
+date: 2024-03-10T16:36:21.657Z
+tags: tool, genes, sequence format, dna, rna
+editor: markdown
+dateCreated: 2020-04-02T01:39:18.149Z
 ---
 
 # Nucleic Acid Sequence Massager
@@ -13,7 +15,7 @@ tags:
 
 ## Website
 
-- [Nucleic Acid Sequence Massager *Main page*](https://www.cmbn.no/tonjum/seqMassager-saf.htm)
+- [Nucleic Acid Sequence Massager *Main page*](https://biomodel.uah.es/en/lab/cybertory/analysis/massager.htm)
 {.links-list}
 
 ## Notes from user
