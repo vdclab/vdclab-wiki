@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:55:32.705Z
+date: 2024-03-11T03:23:12.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -145,6 +145,18 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [Multialin](http://multalin.toulouse.inra.fr/multalin/)
 - [Compilation of MSA programs @EBI](https://www.ebi.ac.uk/jdispatcher/msa)
 
-> Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. To isualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
+> Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. 
+{.is-info}
 
+To isualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
+
+
+>Multiple allignments are the foundational tools to  classify pritein into families classification 
+- [**Prosite**](/tools/analysis/ExPASy-PROSITE)
+- [**InterPro**](https://www.ebi.ac.uk/interpro/)
+- [**CDD**](/tools/analysis/NCBI-Conserved-Domains)
+
+- [**WebLogo**](http://weblogo.berkeley.edu/)
+- [**WebLogo3**](/tools/sequence-logos/WebLogo3)
+- [**MEME**](/tools/analysis/The-MEME-Suite)
 
