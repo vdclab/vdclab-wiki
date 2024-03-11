@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:48:26.672Z
+date: 2024-03-11T02:55:32.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -145,6 +145,6 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [Multialin](http://multalin.toulouse.inra.fr/multalin/)
 - [Compilation of MSA programs @EBI](https://www.ebi.ac.uk/jdispatcher/msa)
 
->Visualize alignments: http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
+> Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. To isualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
 
 
