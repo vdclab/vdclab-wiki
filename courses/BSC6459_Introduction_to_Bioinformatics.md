@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:18:50.992Z
+date: 2024-03-11T02:21:43.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -91,7 +91,6 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 
 **Module Objectives**
-
 - Compare and contrast the different methods used to align two sequences 
 - Evaluate the validity of an alignment
 - Perform sequence database searches and  interpret the results
@@ -126,9 +125,13 @@ For users who want to explore other literature resources than Pubmed a few are l
 > WARNING: With the number of sequences deposited in Genbank, using Blast with default parameters is nearly useless. Using smaller databases, excluding specific taxa  or focusing on reference or model oragnisms are different ways to get around this issue.
 {.is-info}
 
-> Akternatives to blast to search database exist, The best known is FASTA that actulaly preceded Blast historicaly.
+> Akternatives to blast to search database exist, The best known is  [**FASTA**](https://www.ebi.ac.uk/jdispatcher/sss/fasta) that actulaly preceded Blast historicaly.
 {.is-info}
-- [FASTA](https://www.ebi.ac.uk/jdispatcher/sss/fasta)
 
 
 ### Module 4 - Multiple Sequence Alignment (MSA)
+
+**Module Objectives**
+- Use different methods to capture sequences, build and edit a Multiple Sequence Alignment (MSA) 
+- Interpret the biological meaning of a MSA 
+- Identify domains, profiles and motifs in sequences and build logos - - Find distant homologs of a specific protein
