@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T03:45:26.684Z
+date: 2024-03-11T03:46:32.531Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -168,4 +168,4 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**HHMER**](https://www.ebi.ac.uk/Tools/hmmer/search/phmmer)
 - [**PsiBlast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE=Proteins&PROGRAM=blastp&RUN_PSIBLAST=on)
 
-- [PhiBlast]
+
