@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T03:34:44.193Z
+date: 2024-03-11T03:45:26.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -148,8 +148,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 > Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. 
 {.is-info}
 
-To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
-
+To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/  .
 
 >Multiple alignments are the foundational tools to classify proteins A good primer on [protein classification @EBI](https://www.ebi.ac.uk/training/online/courses/protein-classification-intro-ebi-resources/) 
 {.is-info}
@@ -158,11 +157,15 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**InterPro**](https://www.ebi.ac.uk/interpro/)
 - [**CDD**](/tools/analysis/NCBI-Conserved-Domains)
 - HHMER
-> Tools 
+> Tools to visualize conserved motifs  in proteins and DNA 
 {.is-info}
 - [**WebLogo**](http://weblogo.berkeley.edu/)
 - [**WebLogo3**](/tools/sequence-logos/WebLogo3)
 - [**MEME**](/tools/analysis/The-MEME-Suite)
 
-> Using Profiles, Motifs or HMMs allow to find remore homolgs in database searches 
+> The Profiles, Motifs, or HMMs allow to find remote homologs in database searches.
+{.is-info}
+- [**HHMER**](https://www.ebi.ac.uk/Tools/hmmer/search/phmmer)
+- [**PsiBlast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE=Proteins&PROGRAM=blastp&RUN_PSIBLAST=on)
 
+- [PhiBlast]
