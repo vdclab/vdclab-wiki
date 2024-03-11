@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T03:46:32.531Z
+date: 2024-03-11T03:49:11.529Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -156,7 +156,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Prosite**](/tools/analysis/ExPASy-PROSITE)
 - [**InterPro**](https://www.ebi.ac.uk/interpro/)
 - [**CDD**](/tools/analysis/NCBI-Conserved-Domains)
-- HHMER
+
 > Tools to visualize conserved motifs  in proteins and DNA 
 {.is-info}
 - [**WebLogo**](http://weblogo.berkeley.edu/)
