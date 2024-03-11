@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T00:59:25.735Z
+date: 2024-03-11T01:26:07.029Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -114,6 +114,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 
 #### Searching databases
-> Blast is the most popular program to search databases. Input can be DNA or protein sequences.  Different databases can be sercahes and filters can be added to focus on specific taxonomic groups. This [**BLastFactSheet**](https://ftp.ncbi.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf)
+> Blast is the most popular program for searching databases. Input can be DNA or protein sequences.  Different databases can be sercahes and filters can be added to focus on specific taxonomic groups. This [**BLastFactSheet**](https://ftp.ncbi.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf)
 {.is-info}
 - [**BLast@NCBI**](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+- [**Blast@Uniprot**](https://www.uniprot.org/blast)
