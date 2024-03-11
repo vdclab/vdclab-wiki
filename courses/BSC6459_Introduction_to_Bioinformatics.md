@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T01:59:59.214Z
+date: 2024-03-11T02:03:43.820Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -123,5 +123,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 > Two scores are given for every output sequence; the Bit score is a similarity score. The e-value is the probability of getting this score by chance and it will vary with the size of the queried database. More details in these videos: BLAST Results: Expect Values, [Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM)  & [Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4).
 {.is-info}
 
-> With the number of sequences deposited in Genbank,  using blast with default parameters is nearly useless
+> WARNING: With the number of sequences deposited in Genbank, using Blast with default parameters is nearly useless. Using smaller databases, excluding specific taxa  or focusing on reference or model oragnisms are different ways to get around this issue.
 {.is-info}
+
+### Module 4 - Multiple Sequence Alignment (MSA)
