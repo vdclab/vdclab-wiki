@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T03:23:12.179Z
+date: 2024-03-11T03:24:21.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -140,10 +140,10 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 > To generate a useful alignment a set of phylogenetically diverse homologous sequences have to be gathered in Fasta format and used as input in the alignment programs. (Note: headers that are too long can get cut and if the beginning are identical this might lead to errors. Hidden characters can also cause errors. It is always useful to use text editors such as TextEdit or Notepad++).
 {.is-info}
-- [CustalOmega](http://www.ebi.ac.uk/Tools/msa/clustalo/)
-- [T-coffee](/alignment/multiple-alignment/T-COFFEE)
-- [Multialin](http://multalin.toulouse.inra.fr/multalin/)
-- [Compilation of MSA programs @EBI](https://www.ebi.ac.uk/jdispatcher/msa)
+- [**CustalOmega**](http://www.ebi.ac.uk/Tools/msa/clustalo/)
+- [**T-coffee**](/alignment/multiple-alignment/T-COFFEE)
+- [**Multialin**](http://multalin.toulouse.inra.fr/multalin/)
+- [**Compilation of MSA programs @EBI**](https://www.ebi.ac.uk/jdispatcher/msa)
 
 > Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. 
 {.is-info}
