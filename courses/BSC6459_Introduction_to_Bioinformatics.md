@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T01:45:51.196Z
+date: 2024-03-11T01:59:59.214Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -110,16 +110,18 @@ For users who want to explore other literature resources than Pubmed a few are l
 - Align two sequences using [**Blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch)
 
 #### Similarity scores are not homology scores 
-> Any sequence can be aligned with any other sequence if enough gaps are allowed.  An alignment score is a measure of the similarity of the two sequences using a specific algorithm and parameters. It is  NOT a measure of homology even if it can be used to infer homology.
+> Any sequence can be aligned with any other sequence if enough gaps are allowed.  An alignment score is a measure of the similarity of the two sequences using a specific algorithm and parameters. It is  NOT a measure of homology even if it can be used as one of many criteria to infer [**homology, orthology. or paralogy**](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/07%3A_Microbial_Genetics/7.13%3A_Bioinformatics/7.13C%3A_Homologs_Orthologs_and_Paralogs)
 {.is-info}
 
 #### Searching databases
-> Blast is the most popular program for searching databases. Input can be DNA or protein sequences.  Different databases can be sercahes and filters can be added to focus on specific taxonomic groups. This [**BLastFactSheet**](https://ftp.ncbi.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf)
+> Blast is the most popular program for searching databases. Input can be DNA or protein sequences.  The output gives the top-scoring pairwise alignment between the input sequence and individual database sequences. Different databases can be searched and filters can be added to focus on specific taxonomic groups. This [**BLastFactSheet**](https://ftp.ncbi.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf) is a good starting point. 
 {.is-info}
 - [**BLast@NCBI**](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 - [**Blast@Uniprot**](https://www.uniprot.org/blast)
 
-BLAST Results: Expect Values, [Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM)  & [Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4).
+
+> Two scores are given for every output sequence; the Bit score is a similarity score. The e-value is the probability of getting this score by chance and it will vary with the size of the queried database. More details in these videos: BLAST Results: Expect Values, [Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM)  & [Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4).
+{.is-info}
 
 > With the number of sequences deposited in Genbank,  using blast with default parameters is nearly useless
 {.is-info}
