@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-10T23:18:55.842Z
+date: 2024-03-11T00:58:01.728Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -87,7 +87,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 
 ### Module 3 - Pairwise Alignment
-> Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good over all summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/). We will focus first on pairwise sequence alignmemnts that are use to compare two sequences and search databases.  
+> Alignments are a powerful way to compare related DNA or protein sequences. They can be used to capture various facts about the sequences aligned, such as common evolutionary descent or common structural function. See good overall summary [HERE](https://www.ncbi.nlm.nih.gov/books/NBK464187/). We will focus first on pairwise sequence alignmemnts that are used to compare two sequences and search databases.  
 {.is-info}
 
 **Module Objectives**
@@ -96,6 +96,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - Evaluate the validity of an alignment
 - Perform sequence database searches and  interpret the results
 
+#### Comparing two sequences
 > Similarity matrices are the simplest way to align two sequences. These are called [**DotPlots**](https://en.wikipedia.org/wiki/Dot_plot_bioinformatics). 
 {.is-info}
 - [**DotLet** (for proteins only)](https://dotlet.vital-it.ch/)
@@ -110,4 +111,8 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 #### Warning 
 > Any sequence can be aligned with any other sequence if enough gaps are allowed. 
+{.is-info}
+
+#### Searching databases
+> Blast is the most popular program to search databases. Input can be DNA or protein sequences.  Different databases can be sercahes and filters can be added to focus on specific taxonomic groups. This [**BLastFactSheet**](https://ftp.ncbi.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf)
 {.is-info}
