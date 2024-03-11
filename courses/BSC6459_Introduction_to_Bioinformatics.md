@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:03:43.820Z
+date: 2024-03-11T02:06:42.248Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -125,5 +125,10 @@ For users who want to explore other literature resources than Pubmed a few are l
 
 > WARNING: With the number of sequences deposited in Genbank, using Blast with default parameters is nearly useless. Using smaller databases, excluding specific taxa  or focusing on reference or model oragnisms are different ways to get around this issue.
 {.is-info}
+
+> Alternative to BLast are available. 
+{.is-info}
+- FASTA
+-PRSSB
 
 ### Module 4 - Multiple Sequence Alignment (MSA)
