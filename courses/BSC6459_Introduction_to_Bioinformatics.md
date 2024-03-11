@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T01:26:32.573Z
+date: 2024-03-11T01:45:51.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -109,8 +109,8 @@ For users who want to explore other literature resources than Pubmed a few are l
 - **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
 - Align two sequences using [**Blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch)
 
-#### Warning 
-> Any sequence can be aligned with any other sequence if enough gaps are allowed. 
+#### Similarity scores are not homology scores 
+> Any sequence can be aligned with any other sequence if enough gaps are allowed.  An alignment score is a measure of the similarity of the two sequences using a specific algorithm and parameters. It is  NOT a measure of homology even if it can be used to infer homology.
 {.is-info}
 
 #### Searching databases
@@ -118,3 +118,8 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 - [**BLast@NCBI**](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 - [**Blast@Uniprot**](https://www.uniprot.org/blast)
+
+BLAST Results: Expect Values, [Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM)  & [Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4).
+
+> With the number of sequences deposited in Genbank,  using blast with default parameters is nearly useless
+{.is-info}
