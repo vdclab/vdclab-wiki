@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:21:43.813Z
+date: 2024-03-11T02:48:26.672Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -107,7 +107,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
 - **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
 - Align two sequences using [**Blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch)
-- [PRSS](/alignment/two-sequences-alignment/PRSS) 
+- [**PRSS**](/alignment/two-sequences-alignment/PRSS) computes the statistical significance of an alignment
 #### Similarity scores are not homology scores 
 > Any sequence can be aligned with any other sequence if enough gaps are allowed.  An alignment score is a measure of the similarity of the two sequences using a specific algorithm and parameters. It is  NOT a measure of homology even if it can be used as one of many criteria to infer [**homology, orthology. or paralogy**](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/07%3A_Microbial_Genetics/7.13%3A_Bioinformatics/7.13C%3A_Homologs_Orthologs_and_Paralogs)
 {.is-info}
@@ -117,6 +117,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 - [**BLast@NCBI**](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 - [**Blast@Uniprot**](https://www.uniprot.org/blast)
+- [**Blast@Kegg**](https://www.genome.jp/tools/blast/)
 
 
 > Two scores are given for every output sequence; the Bit score is a similarity score. The e-value is the probability of getting this score by chance and it will vary with the size of the queried database. More details in these videos: BLAST Results: Expect Values, [Part 1](https://www.youtube.com/watch?v=ZN3RrXAe0uM)  & [Part 2](https://www.youtube.com/watch?v=dzRq-5BrGD4).
@@ -125,13 +126,25 @@ For users who want to explore other literature resources than Pubmed a few are l
 > WARNING: With the number of sequences deposited in Genbank, using Blast with default parameters is nearly useless. Using smaller databases, excluding specific taxa  or focusing on reference or model oragnisms are different ways to get around this issue.
 {.is-info}
 
-> Akternatives to blast to search database exist, The best known is  [**FASTA**](https://www.ebi.ac.uk/jdispatcher/sss/fasta) that actulaly preceded Blast historicaly.
+> Alternatives to blast to search database exist, The best known is  [**FASTA**](https://www.ebi.ac.uk/jdispatcher/sss/fasta) that actually preceeded Blast .
 {.is-info}
 
+> Cool tool to find the litterature on potential homologs of a given imput sequence by using  [PaperBlast](/literature-search/PaperBLAST) 
 
 ### Module 4 - Multiple Sequence Alignment (MSA)
 
 **Module Objectives**
 - Use different methods to capture sequences, build and edit a Multiple Sequence Alignment (MSA) 
-- Interpret the biological meaning of a MSA 
-- Identify domains, profiles and motifs in sequences and build logos - - Find distant homologs of a specific protein
+- Interpret the biological meaning of an MSA 
+- Identify domains, profiles, and motifs in sequences and build logos -  Find distant homologs of a specific protein
+
+> To generate a useful alignment a set of phylogenetically diverse homologous sequences have to be gathered in Fasta format and used as input in the alignment programs. (Note: headers that are too long can get cut and if the beginning are identical this might lead to errors. Hidden characters can also cause errors. It is always useful to use text editors such as TextEdit or Notepad++).
+{.is-info}
+- [CustalOmega](http://www.ebi.ac.uk/Tools/msa/clustalo/)
+- [T-coffee](/alignment/multiple-alignment/T-COFFEE)
+- [Multialin](http://multalin.toulouse.inra.fr/multalin/)
+- [Compilation of MSA programs @EBI](https://www.ebi.ac.uk/jdispatcher/msa)
+
+>Visualize alignments: http://www.ebi.ac.uk/Tools/msa/mview/  (Links to an external site.)Links to an external site.
+
+
