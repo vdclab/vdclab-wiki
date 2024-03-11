@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T02:06:42.248Z
+date: 2024-03-11T02:18:50.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -108,7 +108,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**Pairwise Sequence Alignment**](https://www.ebi.ac.uk/jdispatcher/psa) tools at EBI
 - **Pairwise Sequence Alignment** for [**DNA**](http://www.bioinformatics.org/sms2/pairwise_align_dna.html) or [**Proteins**](http://www.bioinformatics.org/sms2/pairwise_align_protein.html)  tools at SMS
 - Align two sequences using [**Blast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?BLAST_SPEC=blast2seq&LINK_LOC=align2seq&PAGE_TYPE=BlastSearch)
-
+- [PRSS](/alignment/two-sequences-alignment/PRSS) 
 #### Similarity scores are not homology scores 
 > Any sequence can be aligned with any other sequence if enough gaps are allowed.  An alignment score is a measure of the similarity of the two sequences using a specific algorithm and parameters. It is  NOT a measure of homology even if it can be used as one of many criteria to infer [**homology, orthology. or paralogy**](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/07%3A_Microbial_Genetics/7.13%3A_Bioinformatics/7.13C%3A_Homologs_Orthologs_and_Paralogs)
 {.is-info}
@@ -126,9 +126,9 @@ For users who want to explore other literature resources than Pubmed a few are l
 > WARNING: With the number of sequences deposited in Genbank, using Blast with default parameters is nearly useless. Using smaller databases, excluding specific taxa  or focusing on reference or model oragnisms are different ways to get around this issue.
 {.is-info}
 
-> Alternative to BLast are available. 
+> Akternatives to blast to search database exist, The best known is FASTA that actulaly preceded Blast historicaly.
 {.is-info}
-- FASTA
--PRSSB
+- [FASTA](https://www.ebi.ac.uk/jdispatcher/sss/fasta)
+
 
 ### Module 4 - Multiple Sequence Alignment (MSA)
