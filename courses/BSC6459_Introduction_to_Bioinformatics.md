@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-11T03:58:05.806Z
+date: 2024-03-15T01:30:33.532Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -76,10 +76,10 @@ For users who want to explore other literature resources than Pubmed a few are l
 {.is-info}
 - [**Sequence Massager**](https://vdclab-wiki.herokuapp.com/e/en/sequence-manipulation/changing-format/NA-Sequence-Massager) is used  to clean up nucleic acid sequences
 - [ **EMBOSS Seqret**](http-[**Uniprot**]s://www.ebi.ac.uk/jdispatcher/sfc/emboss_seqret) is used to change formats of sequences is part of the  [**Job Dispatcher**](https://www.ebi.ac.uk/jdispatcher/) platform provided by the EBI.
-- [The SMS suite](http://www.bioinformatics.org/sms2/index.html) has reformatting tools
+- [**The SMS suite**](http://www.bioinformatics.org/sms2/index.html) has reformatting tools
 
 #### Dealing with redundancy
-> With the ease of sequencing, some genomes get sequenced many times generating identical gene and protein objects. Databases have dealt with this in different ways. UniProt has [eliminated redundancy](https://www.uniprot.org/help/proteome_redundancy) by combining identical protein sequences in one unique entry. 
+> With the ease of sequencing, some genomes get sequenced many times generating identical gene and protein objects. Databases have dealt with this in different ways. UniProt has [eliminated redundancy](https://www.uniprot.org/help/proteome_redundancy) by combining identical protein sequences in one unique entry. NCBI has  dealt by using [WP records](https://ftp.ncbi.nlm.nih.gov/refseq/release/announcements/WP-proteins-06.10.2013.pdf), then [Identical Protein Reports](https://www.ncbi.nlm.nih.gov/books/NBK431037/#news_09-09-2014-identical-protein-report-display-setting) and finally [Identical Protein Groups (IPG)](https://ncbiinsights.ncbi.nlm.nih.gov/2017/07/26/identical-protein-groups-non-redundant-access-to-protein-records/).
 {.is-info}
 
 #### Advanced searches and Cross-referencing  
