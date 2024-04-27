@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T15:16:41.340Z
+date: 2024-04-27T15:45:21.375Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -202,19 +202,21 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 - [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
 
-
-### Module 5-DNA analysispart 2
+### Module 5-DNA analysis part 2
 **Module Objectives**
 - Compare the issues of CDS identification in eukaryotes and prokaryotes using plant genes as examples
 - Identify motifs in DNA sequences (Promoters and Regulator binding sites)
 
-> test
+> Identification of CDS in plants as additional challenges (introns, contamination by bacterial DNA) discussed [HERE](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5726e48e01ad92114dd137af6c7ca32be66349d4) but many resources for plant genome resources area available. 
 {.is-info}
-- Model Arabidopsis [**TAIR**]
-- Crop pLants [**Gramene**)](https://www.gramene.org/)
-- Plaza  []
+- Model Arabidopsis [**TAIR**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/TAIR)
+- Crop  and model plants [**Gramene**](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/Gramene/)
+- Plant Comparative genomics  [**PLAZA**](https://vdclab-wiki.herokuapp.com/en/platform/plant-comparative-genomic-tools/PLAZA)
 
 > test
 {.is-info}
 - [**RegulonDB**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 - [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
+
+> test
+{.is-info}
