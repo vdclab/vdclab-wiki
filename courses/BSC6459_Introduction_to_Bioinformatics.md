@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:24:19.765Z
+date: 2024-04-27T15:16:41.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -203,11 +203,16 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
 
 
-### Module 5-DNA analysis part 2
+### Module 5-DNA analysispart 2
 **Module Objectives**
-- Compare the issues of CDS identification in eukaryotes and prokaryotes 
-- Identify motifs in DNA sequences
+- Compare the issues of CDS identification in eukaryotes and prokaryotes using plant genes as examples
+- Identify motifs in DNA sequences (Promoters and Regulator binding sites)
 
+> test
+{.is-info}
+- Model Arabidopsis [**TAIR**]
+- Crop pLants [**Gramene**)](https://www.gramene.org/)
+- Plaza  []
 
 > test
 {.is-info}
