@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T15:45:21.375Z
+date: 2024-04-27T16:02:43.559Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -201,6 +201,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 - [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
+- [**Bacterial gene and operon prediction tool**](http://www.softberry.com/berry.phtml?topic=fgenesb&group=programs&subgroup=gfindb)
 
 ### Module 5-DNA analysis part 2
 **Module Objectives**
@@ -215,8 +216,17 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 > test
 {.is-info}
+
+*E. coli* resources for regulation data
 - [**RegulonDB**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 - [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
+- [**Mapping RNAseq data to E. coli browser**](https://www.nichd.nih.gov/research/atNICHD/Investigators/storz/data-protocols/browsers#TSS)
+
+Tools for promoter identification
+- Predicting bacterial promoters [**Bprom**](http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb)
+- [**Compilation of Promoter identification tools**]  (https://molbiol-tools.ca/Promoters.htm)
+
+Tools for regulatory site identification
 
 > test
 {.is-info}
