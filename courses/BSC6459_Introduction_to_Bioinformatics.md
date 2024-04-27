@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T02:04:33.213Z
+date: 2024-04-27T02:20:00.733Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -185,7 +185,13 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 {.is-info}
 
 - Archaeal Genome Browsers [UCSC-AGB](/databases/archaeal_databases/UCSC-AGB)
+
+
+
+> Predicting coding sequences .
+{.is-info}
 -[**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
+-Gene
 
 ### Module 5-DNA analysis part 2
 **Module Objectives**
