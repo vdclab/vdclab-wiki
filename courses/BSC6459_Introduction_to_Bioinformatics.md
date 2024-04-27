@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-03-15T01:30:33.532Z
+date: 2024-04-27T01:11:08.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -136,7 +136,8 @@ For users who want to explore other literature resources than Pubmed a few are l
 **Module Objectives**
 - Use different methods to capture sequences, build and edit a Multiple Sequence Alignment (MSA) 
 - Interpret the biological meaning of an MSA 
-- Identify domains, profiles, and motifs in sequences and build logos -  Find distant homologs of a specific protein
+- Identify domains, profiles, and motifs in sequences and build logos
+-  Find distant homologs of a specific protein
 
 > To generate a useful alignment a set of phylogenetically diverse homologous sequences have to be gathered in Fasta format and used as input in the alignment programs. (Note: headers that are too long can get cut and if the beginning are identical this might lead to errors. Hidden characters can also cause errors. It is always useful to use text editors such as TextEdit or Notepad++).
 {.is-info}
@@ -168,4 +169,26 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**HHMER**](https://www.ebi.ac.uk/Tools/hmmer/search/phmmer)
 - [**PsiBlast**](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE=Proteins&PROGRAM=blastp&RUN_PSIBLAST=on)
 
+### Module 5-DNA analysis part 1
+**Module Objectives**
 
+- Navigate the information found in Genome browsers 
+- Extract DNA sequence from a given genome sequence 
+- Compare whole genome sequences
+- Predict genes in a DNA sequence
+- Evaluate the validity of coding sequence start site predictions
+
+> To
+{.is-info}
+
+
+
+### Module 5-DNA analysis part 2
+**Module Objectives**
+
+- Compare the issues of CDS identification in eukaryotes and prokaryotes 
+- Identify motifs in DNA sequences
+
+
+> To
+{.is-info}
