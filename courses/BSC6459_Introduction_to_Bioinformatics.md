@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T16:41:42.435Z
+date: 2024-04-27T17:10:17.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -214,15 +214,14 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - Crop  and model plants [**Gramene**](https://vdclab-wiki.herokuapp.com/en/databases/plant_databases/Gramene/)
 - Plant Comparative genomics  [**PLAZA**](https://vdclab-wiki.herokuapp.com/en/platform/plant-comparative-genomic-tools/PLAZA)
 
-> test
+> As one of the most utilized bacterial model ( see nice paper [HERE](https://elifesciences.org/articles/05826)), many resources are availabel compiling experimental evidence on regulation in *E. coli*
 {.is-info}
 
-*E. coli* resources for regulation data
 - [**RegulonDB**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
 - [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
 - [**Mapping RNAseq data to E. coli browser**](https://www.nichd.nih.gov/research/atNICHD/Investigators/storz/data-protocols/browsers#TSS)
 
->Tools for promoter identification
+>Tools for promoter identification were not very efficient
 {.is-info}
 
 In Bacteria
