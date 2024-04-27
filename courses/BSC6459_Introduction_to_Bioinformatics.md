@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T13:24:42.793Z
+date: 2024-04-27T13:32:33.350Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -178,13 +178,14 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - Predict genes in a DNA sequence
 - Evaluate the validity of coding sequence start site predictions
 
-> [Genome browsers](https://en.wikipedia.org/wiki/Genome_browser) show different types of information mapped to a given genome. They can be very simple with hust the organization of the genes like on a [gene page](https://www.ncbi.nlm.nih.gov/gene/20948792) at NCBI or more complex with many tracks like the [UCSC genome browsers](https://genome.ucsc.edu/cgi-bin/hgGateway). 
+> [Genome browsers](https://en.wikipedia.org/wiki/Genome_browser) show different types of information mapped to a given genome. They can be very simple with hust the organization of the genes like on the genomic contect section of a [gene page @NCBI](https://www.ncbi.nlm.nih.gov/books/NBK3841/#EntrezGene.Quick_Start)  or more complex with many tracks like the [UCSC genome browsers](https://genome.ucsc.edu/cgi-bin/hgGateway). 
 {.is-info}
 
-> Most integrative database such as [JGI-IMG](https://vdclab-wiki.herokuapp.com/en/databases/prokaryote_databases/JGI-IMG) or [BV-BRC](/databases/bacterial_databases/patric) have simple genome browsers as well as organisms specific databases such as [SGD](/databases/organism_specific/SGD).
+> Most integrative database such as [JGI-IMG](https://vdclab-wiki.herokuapp.com/en/databases/prokaryote_databases/JGI-IMG) or [BV-BRC](/databases/bacterial_databases/patric) have simple genome browsers as well as organisms specific databases such as [SGD genome browser](https://www.yeastgenome.org/blog/updated-genome-browser).
 {.is-info}
 
-- Archaeal Genome Browsers [UCSC-AGB](/databases/archaeal_databases/UCSC-AGB)
+- [**UCSC genome browsers**](https://genome.ucsc.edu/cgi-bin/hgGateway).
+- **Archaeal Genome Browsers** [**UCSC-AGB**](/databases/archaeal_databases/UCSC-AGB)
 
 
 
