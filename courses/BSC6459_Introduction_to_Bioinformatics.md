@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:10:07.367Z
+date: 2024-04-27T14:12:10.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -174,7 +174,6 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 - Navigate the information found in Genome browsers 
 - Extract DNA sequence from a given genome sequence 
-- Compare whole genome sequences
 - Predict genes in a DNA sequence
 - Evaluate the validity of coding sequence start site predictions
 
@@ -192,18 +191,17 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html) with an [**Example**](http://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
 - [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html) with an [**Example**](http://bacteria.ensembl.org/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/Gene/Summary?g=b0095;r=Chromosome:105305-106456;t=AAC73206;db=core)
 
-
-> Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many pipelines annotation pipelines
+> Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many  annotation pipelines.
 {.is-info}
 - [**tRNAscan-SE**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 - [**Rfam**](https://rfam.org/search)
 
-> Predicting coding sequences (CDS) from open reading frames (ORFs) .
+> Predicting coding sequences (CDS) from open reading frames (ORFs) is not trivial and struggle with start sites prediction.
 {.is-info}
 
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 - [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
-- [**tRNAscan**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
+-
 ### Module 5-DNA analysis part 2
 **Module Objectives**
 
