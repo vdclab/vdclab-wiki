@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:05:23.886Z
+date: 2024-04-27T14:10:07.367Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -178,17 +178,18 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - Predict genes in a DNA sequence
 - Evaluate the validity of coding sequence start site predictions
 
-> [Genome browsers](https://en.wikipedia.org/wiki/Genome_browser) show different types of information mapped to a given genome. They can be very simple with hust the organization of the genes like on the genomic contect section of a [gene page @NCBI](https://www.ncbi.nlm.nih.gov/books/NBK3841/#EntrezGene.Quick_Start)  or more complex with many tracks like the [UCSC genome browsers](https://genome.ucsc.edu/cgi-bin/hgGateway). 
+> [Genome browsers](https://en.wikipedia.org/wiki/Genome_browser) show different types of information mapped to a given genome. They can be very simple with hust the organization of the genes like on the genomic contect section of a [gene page @NCBI](https://www.ncbi.nlm.nih.gov/books/NBK3841/#EntrezGene.Quick_Start)  or more complex with many tracks like the UCSC or Ensembl Browsers. 
 {.is-info}
 
 > Most integrative database such as [JGI-IMG](https://vdclab-wiki.herokuapp.com/en/databases/prokaryote_databases/JGI-IMG) or [BV-BRC](/databases/bacterial_databases/patric) have simple genome browsers as well as organisms specific databases such as [SGD genome browser](https://www.yeastgenome.org/blog/updated-genome-browser).
 {.is-info}
 
+- [**GenePage@NCBI**](https://www.ncbi.nlm.nih.gov/gene/) with [**Example**](https://www.ncbi.nlm.nih.gov/gene/948792)
 - [**UCSC genome browsers**](https://genome.ucsc.edu/cgi-bin/hgGateway).
 - **Archaeal Genome Browsers** [**UCSC-AGB**](/databases/archaeal_databases/UCSC-AGB)
 - [**Pseudomonas database GB**](https://www.pseudomonas.com/strain/browser)
 - [**Yeast SGD GB**](https://jbrowse.yeastgenome.org/?loc=chrI%3A178500..215180&tracks=DNA%2CAll%20Annotated%20Sequence%20Features%2CDoube_strand_break_hotspots%2CXrn1-sensitive_unstable%20transcripts_XUTs%2CScGlycerolMedia%2C3%27UTRs%2CPolII_occupancy_WT&highlight=)
-- [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html) with an [**Example**]
+- [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html) with an [**Example**](http://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
 - [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html) with an [**Example**](http://bacteria.ensembl.org/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/Gene/Summary?g=b0095;r=Chromosome:105305-106456;t=AAC73206;db=core)
 
 
