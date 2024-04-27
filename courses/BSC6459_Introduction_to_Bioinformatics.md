@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T13:59:12.419Z
+date: 2024-04-27T14:00:39.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -187,7 +187,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**UCSC genome browsers**](https://genome.ucsc.edu/cgi-bin/hgGateway).
 - **Archaeal Genome Browsers** [**UCSC-AGB**](/databases/archaeal_databases/UCSC-AGB)
 - [**Pseudomonas database GB**](https://www.pseudomonas.com/strain/browser)
-- [**Yeast SGG GB**](http://browse.yeastgenome.org/fgb2/gbrowse/scgenome/)
+- [**Yeast SGG GB**](https://jbrowse.yeastgenome.org/?loc=chrI%3A178500..215180&tracks=DNA%2CAll%20Annotated%20Sequence%20Features%2CDoube_strand_break_hotspots%2CXrn1-sensitive_unstable%20transcripts_XUTs%2CScGlycerolMedia%2C3%27UTRs%2CPolII_occupancy_WT&highlight=)
 - [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html)
 - [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html)
 
