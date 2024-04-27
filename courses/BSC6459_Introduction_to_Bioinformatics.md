@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T17:45:00.146Z
+date: 2024-04-27T17:45:46.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -191,7 +191,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html) with an [**Example**](http://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
 - [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html) with an [**Example**](http://bacteria.ensembl.org/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/Gene/Summary?g=b0095;r=Chromosome:105305-106456;t=AAC73206;db=core)
 
-> Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many  annotation pipelines.
+> Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many  annotation pipelines as discussed [HERE](https://plants.ensembl.org/info/genome/annotation/ncrna.html).
 {.is-info}
 - [**tRNAscan-SE**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 - [**Rfam**](https://rfam.org/search)
