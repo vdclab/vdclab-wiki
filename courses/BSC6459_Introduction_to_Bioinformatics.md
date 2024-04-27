@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:00:39.333Z
+date: 2024-04-27T14:05:23.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -187,9 +187,9 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**UCSC genome browsers**](https://genome.ucsc.edu/cgi-bin/hgGateway).
 - **Archaeal Genome Browsers** [**UCSC-AGB**](/databases/archaeal_databases/UCSC-AGB)
 - [**Pseudomonas database GB**](https://www.pseudomonas.com/strain/browser)
-- [**Yeast SGG GB**](https://jbrowse.yeastgenome.org/?loc=chrI%3A178500..215180&tracks=DNA%2CAll%20Annotated%20Sequence%20Features%2CDoube_strand_break_hotspots%2CXrn1-sensitive_unstable%20transcripts_XUTs%2CScGlycerolMedia%2C3%27UTRs%2CPolII_occupancy_WT&highlight=)
-- [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html)
-- [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html)
+- [**Yeast SGD GB**](https://jbrowse.yeastgenome.org/?loc=chrI%3A178500..215180&tracks=DNA%2CAll%20Annotated%20Sequence%20Features%2CDoube_strand_break_hotspots%2CXrn1-sensitive_unstable%20transcripts_XUTs%2CScGlycerolMedia%2C3%27UTRs%2CPolII_occupancy_WT&highlight=)
+- [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html) with an [**Example**]
+- [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html) with an [**Example**](http://bacteria.ensembl.org/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/Gene/Summary?g=b0095;r=Chromosome:105305-106456;t=AAC73206;db=core)
 
 
 > Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many pipelines annotation pipelines
