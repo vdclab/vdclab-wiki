@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T17:10:17.831Z
+date: 2024-04-27T17:34:47.742Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -221,7 +221,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
 - [**Mapping RNAseq data to E. coli browser**](https://www.nichd.nih.gov/research/atNICHD/Investigators/storz/data-protocols/browsers#TSS)
 
->Tools for promoter identification were not very efficient
+>Tools for promoter identification were are not vaey efficient but we might see improvements in the future as [Machine learning]( gets in incorporated in web-tool
 {.is-info}
 
 In Bacteria
@@ -231,8 +231,7 @@ In Bacteria
 In Plants
 - Predicting Plant Promoters [**TSSS**](http://www.softberry.com/berry.phtml?topic=tssp&group=programs&subgroup=promoter)
 - [**Plant Promoter database**](https://ppdb.agr.gifu-u.ac.jp/ppdb/cgi-bin/index.cgi)
-(PlantPAN; http://PlantPAN2.itps.ncku.edu.tw) p
-
+- [**PlantPAN**](http://PlantPAN2.itps.ncku.edu.tw)
 
 >Tools for regulatory site identification in Bacteria
 {.is-info}
