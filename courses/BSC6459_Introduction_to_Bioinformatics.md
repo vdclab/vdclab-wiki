@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:12:10.245Z
+date: 2024-04-27T14:18:57.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -196,7 +196,7 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**tRNAscan-SE**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 - [**Rfam**](https://rfam.org/search)
 
-> Predicting coding sequences (CDS) from open reading frames (ORFs) is not trivial and struggle with start sites prediction.
+> Predicting coding sequences (CDS) from open reading frames (ORFs) is not trivial and most algorithm struggle with start sites prediction as discussed [HERE](https://pubmed.ncbi.nlm.nih.gov/31532487/). 
 {.is-info}
 
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
