@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T14:18:57.581Z
+date: 2024-04-27T14:24:19.765Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -201,13 +201,15 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
 - [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
--
+
+
 ### Module 5-DNA analysis part 2
 **Module Objectives**
-
 - Compare the issues of CDS identification in eukaryotes and prokaryotes 
 - Identify motifs in DNA sequences
 
 
-> To
+> test
 {.is-info}
+- [**RegulonDB**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegulonDB)
+- [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
