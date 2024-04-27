@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T17:34:47.742Z
+date: 2024-04-27T17:45:00.146Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -221,12 +221,13 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Ecocyc**](https://vdclab-wiki.herokuapp.com/en/databases/organism_specific/EcoCyc)
 - [**Mapping RNAseq data to E. coli browser**](https://www.nichd.nih.gov/research/atNICHD/Investigators/storz/data-protocols/browsers#TSS)
 
->Tools for promoter identification were are not vaey efficient but we might see improvements in the future as [Machine learning]( gets in incorporated in web-tool
+>Bioinformatic tools for promoter identification were  not very efficient butare  improving    with the arrival of AI as discussed [HERE](https://pubs.acs.org/doi/10.1021/acs.jcim.3c02017)
 {.is-info}
 
 In Bacteria
 - Predicting bacterial promoters [**Bprom**](http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb)
 - [**Compilation of Promoter identification tools**](https://molbiol-tools.ca/Promoters.htm)
+AI Based bacterial promoter prediction tool [**Streamlit**](https://mldspp-app-promoter.streamlit.app/)
 
 In Plants
 - Predicting Plant Promoters [**TSSS**](http://www.softberry.com/berry.phtml?topic=tssp&group=programs&subgroup=promoter)
