@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T02:20:00.733Z
+date: 2024-04-27T13:24:42.793Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -190,9 +190,10 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 > Predicting coding sequences .
 {.is-info}
--[**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
--Gene
 
+- [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
+- [**GeneMark**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/GeneMark)
+- [**tRNAscan**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
 ### Module 5-DNA analysis part 2
 **Module Objectives**
 
