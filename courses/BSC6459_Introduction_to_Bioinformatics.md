@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T16:11:01.146Z
+date: 2024-04-27T16:34:54.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -224,14 +224,14 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 Tools for promoter identification
 - Predicting bacterial promoters [**Bprom**](http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb)
-- [**Compilation of Promoter identification tools**]  (https://molbiol-tools.ca/Promoters.htm)
+- [**Compilation of Promoter identification tools**](https://molbiol-tools.ca/Promoters.htm)
 - Predicting Plant Promoters [**TSSS**](http://www.softberry.com/berry.phtml?topic=tssp&group=programs&subgroup=promoter)
+- [**Plant Promoter database**](https://ppdb.agr.gifu-u.ac.jp/ppdb/cgi-bin/index.cgi)
 
-Tools for regulatory site identification
-- [**Regprecise**] 
-- [**Prodoric**]
+Tools for regulatory site identification in Bacteria
+- [**Regprecise**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegPrecise)
+- [**Prodoric**](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 
 
-http://www.softberry.com/berry.phtml?topic=tssp&group=programs&subgroup=promoter
 > test
 {.is-info}
