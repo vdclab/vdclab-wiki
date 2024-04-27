@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T13:32:33.350Z
+date: 2024-04-27T13:58:00.396Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -186,10 +186,18 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 
 - [**UCSC genome browsers**](https://genome.ucsc.edu/cgi-bin/hgGateway).
 - **Archaeal Genome Browsers** [**UCSC-AGB**](/databases/archaeal_databases/UCSC-AGB)
+- [**Pseudomonas database GB**](http://www.pseudomonas.com/gbrowse_index.jsp)
+- [**Yeast SGG GB**](http://browse.yeastgenome.org/fgb2/gbrowse/scgenome/)
+- [**Eukaryotic GB at e!Ensembl**](http://useast.ensembl.org/index.html)
+- [**Prokaryotic GB  b!Ensembl**](http://bacteria.ensembl.org/index.html)
 
 
+> Predicting ncRNAs requires specific tools such as tRNAScan for tRNAs. For rRNAs, the widely used RNAmmer is no longer available and is being replaced by Rfam in many pipelines annotation pipelines
+{.is-info}
+- [**tRNAscan-SE**](https://vdclab-wiki.herokuapp.com/en/tools/prediction/tRNAscan-SE)
+- [**Rfam**](https://rfam.org/search)
 
-> Predicting coding sequences .
+> Predicting coding sequences (CDS) from open reading frames (ORFs) .
 {.is-info}
 
 - [**ORFfinder**](https://vdclab-wiki.herokuapp.com/en/annotation/general_annotation/ORFfinder)
