@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T16:34:54.565Z
+date: 2024-04-27T16:39:45.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -223,15 +223,28 @@ To visualize alignments this tool for EBI  http://www.ebi.ac.uk/Tools/msa/mview/
 - [**Mapping RNAseq data to E. coli browser**](https://www.nichd.nih.gov/research/atNICHD/Investigators/storz/data-protocols/browsers#TSS)
 
 Tools for promoter identification
+In Bacteria
 - Predicting bacterial promoters [**Bprom**](http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb)
 - [**Compilation of Promoter identification tools**](https://molbiol-tools.ca/Promoters.htm)
+
+In Plants
 - Predicting Plant Promoters [**TSSS**](http://www.softberry.com/berry.phtml?topic=tssp&group=programs&subgroup=promoter)
 - [**Plant Promoter database**](https://ppdb.agr.gifu-u.ac.jp/ppdb/cgi-bin/index.cgi)
+(PlantPAN; http://PlantPAN2.itps.ncku.edu.tw) p
 
 Tools for regulatory site identification in Bacteria
 - [**Regprecise**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegPrecise)
 - [**Prodoric**](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 
-
+### Module 6-
+**Module Objectives**
+> test
+{.is-info}
+### Module 7-
+**Module Objectives**
+> test
+{.is-info}
+### Module 8-
+**Module Objectives**
 > test
 {.is-info}
