@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T19:04:20.346Z
+date: 2024-04-28T20:23:01.171Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -295,5 +295,25 @@ In Plants
 -  Identify ligand binding site and compare structures 
 - Predict 2D and 3D structures.
 
-> test
+> The coordinates of all experimentatly validated structures are deposited in central depository Protein Data Bank that can ve accessed from different Knoweledge base platforms that help analyze and mine this structural data.
 {.is-info}
+
+- [**RCSB_PDB**](https://vdclab-wiki.herokuapp.com/en/structure/visualization-platforms/RCSB-PDB)
+- [**PDBe**](https://www.ebi.ac.uk/pdbe/)
+- [**PDBsum**](https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/)
+- [**PDBj**](https://pdbj.org/) link not working....
+- [**List of structure databases**](https://en.wikipedia.org/wiki/Protein_structure_database)
+
+ Superfamily databases that combine structure and evolutionnary relatioships are available
+{.is-info}
+
+- [**SCOPe**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
+- [**CATHdb**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
+
+
+> Predicting 2D and 3D structures
+{.is-info}
+
+https://molbiol-tools.ca/Protein_secondary_structure.htm
+
+aplha fold
