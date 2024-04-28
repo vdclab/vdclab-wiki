@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T16:16:47.731Z
+date: 2024-04-28T16:25:10.214Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -254,22 +254,21 @@ In Plants
 - [**Primer3**  & **Primer3PLus**](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer3Plus)
 
 
-
-
 > test
 {.is-info}
 
 - [**Compute MW and PI @Expasy**](https://web.expasy.org/compute_pi/)
 - [**Compute AA parameters @Expasy**](https://web.expasy.org/protscale/)
-
-- SignalP-6
-- DEEPTMHMM
+- [**SignalP**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/SignalP)
+- [**DeepTMHMM**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/TMHMM)
 - Phobius
+
 
 ### Module 7-
 **Module Objectives**
 > test
 {.is-info}
+
 ### Module 8-
 **Module Objectives**
 > test
