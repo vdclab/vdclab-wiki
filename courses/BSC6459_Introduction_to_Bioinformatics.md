@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T19:01:14.377Z
+date: 2024-04-28T19:04:20.346Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -285,10 +285,15 @@ In Plants
 - [**MAFFT**](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MAFFT)
 - [**Tool to visualize or compare trees**](https://phylo.io/)
 
-> test
-{.is-info}
 
-### Module 8-
+### Module 8-Visualizing and Comparing structures
+
 **Module Objectives**
+-  Explain why solving and analyze three-dimensional (3D) proteins structures is important in many aspects of biology 
+- Describe the main methods used to determine 3D structures for Proteins, and the advantages and drawbacks of each methods 
+- Employ the PDB tools or NCBI (iCn3D) tools to visualize and manipulate structures 
+-  Identify ligand binding site and compare structures 
+- Predict 2D and 3D structures.
+
 > test
 {.is-info}
