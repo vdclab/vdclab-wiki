@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T20:23:01.171Z
+date: 2024-04-28T20:34:49.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -304,16 +304,17 @@ In Plants
 - [**PDBj**](https://pdbj.org/) link not working....
 - [**List of structure databases**](https://en.wikipedia.org/wiki/Protein_structure_database)
 
- Superfamily databases that combine structure and evolutionnary relatioships are available
-{.is-info}
 
+> Superfamily databases that combine structure and evolutionnary relatioships are available
+{.is-info}
 - [**SCOPe**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
 - [**CATHdb**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
 
 
-> Predicting 2D and 3D structures
+> Predicting 2D structures was one of the  first application of bioonformatics followed by suite of  and 3D structures
 {.is-info}
 
-https://molbiol-tools.ca/Protein_secondary_structure.htm
 
-aplha fold
+- [list of 2D structure predictions tools](https://molbiol-tools.ca/Protein_secondary_structure.htm)
+- [**CATHdb**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
+- [Access to alpha-fold predictions of all proteins in Uniprot](https://alphafold.ebi.ac.uk/)
