@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-27T17:46:56.692Z
+date: 2024-04-28T16:03:38.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -234,18 +234,28 @@ In Plants
 - [**Plant Promoter database**](https://ppdb.agr.gifu-u.ac.jp/ppdb/cgi-bin/index.cgi)
 - [**PlantPAN**](http://PlantPAN2.itps.ncku.edu.tw)
 
->Tools for regulatory site identification in Bacteria
+>Tools for regulatory site identification in Bacteria. This [review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2643304/) can provide good background.
 {.is-info}
 
 - [**Regprecise**](https://vdclab-wiki.herokuapp.com/en/databases/transciription_factor/RegPrecise)
 - [**Prodoric**](https://vdclab-wiki.herokuapp.com/en/databases/bacterial_databases/PRODORIC)
 
-
-
-### Module 6-
+### Module 6- Practical DNA and Protein analyses
 **Module Objectives**
+-  Generate and interpret restriction maps of DNA sequences 
+- Design PCR primers and basic cloning strategies 
+- Determine the Molecular Weight (MW), and other physical and chemical properties of a given protein 
+- Predict protein localization and transmembrane domains
+
+
+- [**NEBCutter**](https://vdclab-wiki.herokuapp.com/e/en/resources/experimental-planning/NEBcutter)
+
 > test
 {.is-info}
+
+
+
+
 ### Module 7-
 **Module Objectives**
 > test
