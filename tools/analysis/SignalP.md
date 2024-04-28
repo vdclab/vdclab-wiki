@@ -1,8 +1,8 @@
 ---
-title: SignalP -
+title: SignalP 
 description: Signal peptide and cleavage sites in gram+, gram- and eukaryotic amino acid sequences.
 published: true
-date: 2024-04-28T16:24:06.166Z
+date: 2024-04-28T16:28:46.724Z
 tags: tool, sequence analysis, proteins, prediction, protein domain
 editor: markdown
 dateCreated: 2020-04-28T18:25:09.509Z
