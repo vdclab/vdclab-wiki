@@ -2,7 +2,7 @@
 title: TMHMM Server 
 description: Prediction of transmembrane helices in proteins.
 published: true
-date: 2024-04-28T16:19:28.518Z
+date: 2024-04-28T16:20:07.755Z
 tags: tool, sequence analysis, proteins, prediction, protein domain
 editor: markdown
 dateCreated: 2020-04-28T18:16:37.414Z
