@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T16:46:49.522Z
+date: 2024-04-28T17:22:42.642Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -247,22 +247,26 @@ In Plants
 - Determine the Molecular Weight (MW), and other physical and chemical properties of a given protein 
 - Predict protein localization and transmembrane domains
 
-> Analyze enzymes restriction profiles  and designing PCR primers were some  of te first use of bioinformatic tools for molecular biologists
+> The analysis of enzymes restriction profiles in DNA for traditional  [cloning](https://nebcloner.neb.com/#!/) and the design  of primers for [PCR ammplification](https://www.neb.com/en-us/applications/cloning-and-synthetic-biology/pcr-cloning)  were the bioinformatic tools to be developped for molecular biologists.
 {.is-info}
 
 - [**NEBCutter**](https://vdclab-wiki.herokuapp.com/e/en/resources/experimental-planning/NEBcutter)
 - [**Primer3**  & **Primer3PLus**](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer3Plus)
 
 
-> test
+> General biophysical properties can be derived from protein sequences. Many can be found [@EXPASY](https://www.expasy.org/) or at [@DTU](https://services.healthtech.dtu.dk/).
 {.is-info}
 
 - [**Compute MW and PI @Expasy**](https://web.expasy.org/compute_pi/)
 - [**Compute AA parameters @Expasy**](https://web.expasy.org/protscale/)
+
+
+> Many Protein Localization prediction tools are [available](https://en.wikipedia.org/wiki/List_of_protein_subcellular_localization_prediction_tools) and this can be quite overwhelming. Below are the ones heavily used for bacterial proteins  
+{.is-info}
 - [**SignalP**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/SignalP)
 - [**DeepTMHMM**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/TMHMM)
 - [**Phobius**](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
-
+- [**Wolf-Psort**] (https://www.genscript.com/wolf-psort.html)
 
 ### Module 7-
 **Module Objectives**
