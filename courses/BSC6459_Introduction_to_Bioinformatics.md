@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T17:22:42.642Z
+date: 2024-04-28T18:22:35.008Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -266,10 +266,20 @@ In Plants
 - [**SignalP**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/SignalP)
 - [**DeepTMHMM**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/TMHMM)
 - [**Phobius**](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
-- [**Wolf-Psort**] (https://www.genscript.com/wolf-psort.html)
+- [**Wolf-Psort**](https://www.genscript.com/wolf-psort.html)
 
-### Module 7-
+### Module 7- Phylogenetics basics
 **Module Objectives**
+- Define phylogeny and the terms required to interpret phylogenetic studies 
+- Give examples in which phylogenetic studies can help answer biological questions 
+- Build a taxonomic tree based on DNA sequences 
+- Build a protein family tree and identify paralogs 
+- Compare and contrast different tools and sequences used to build trees and their influence on the outcome 
+
+- Phylogeny.fr 
+- NGPhylogeny.fr
+- MAFFT
+- 
 > test
 {.is-info}
 
