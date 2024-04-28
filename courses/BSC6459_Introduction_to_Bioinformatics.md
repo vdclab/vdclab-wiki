@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T20:34:49.700Z
+date: 2024-04-28T21:16:58.791Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -310,11 +310,15 @@ In Plants
 - [**SCOPe**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/SCOPe)
 - [**CATHdb**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
 
+>  Simple Tools to visualize and compare  3D structures are available through web interfaces even if the more elaborate analysis requires programs that are downloaded on the user's desktop such as [Pymol](/visualization/structure_platform/PyMOL) or [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) that we do no cover in this class.
+{.is-info}
+- [**iCn3D viewer**](https://www.ncbi.nlm.nih.gov/Structure/icn3d/docs/icn3d_about.html)
+- [**PDB viewer**](https://www.rcsb.org/3d-view)
+- [**Tool to  look for structural homologs**](https://topsearch.services.came.sbg.ac.at/)
 
-> Predicting 2D structures was one of the  first application of bioonformatics followed by suite of  and 3D structures
+> Predicting 2D structures was one of the  first applications of bioinformatics followed by worldwide competitions starting in 1994 to [predict 3D structures](https://predictioncenter.org/)  that led to the AI-based [Alpha-fold2](https://academic.oup.com/nar/article/50/D1/D439/6430488?login=false) platform that revolutionized the field.
 {.is-info}
 
-
-- [list of 2D structure predictions tools](https://molbiol-tools.ca/Protein_secondary_structure.htm)
+- [**list of 2D structure predictions tools**](https://molbiol-tools.ca/Protein_secondary_structure.htm)
 - [**CATHdb**](https://vdclab-wiki.herokuapp.com/en/databases/data-integration/CATH)
-- [Access to alpha-fold predictions of all proteins in Uniprot](https://alphafold.ebi.ac.uk/)
+- [**Access to alpha-fold predictions of all proteins in Uniprot**](https://alphafold.ebi.ac.uk/)
