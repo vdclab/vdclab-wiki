@@ -2,12 +2,13 @@
 title: NEBcutter V2.0
 description: This tool will take a DNA sequence and find the large, non-overlapping open reading frames using the E.coli genetic code and the sites for all Type II and commercially available Type III restriction enzymes that cut the sequence just once.
 published: true
-date: 2020-07-22T16:10:55.574Z
+date: 2024-04-28T16:02:08.021Z
 tags: bacteria, tool, sequence analysis, sequence matching, dna, phages
 editor: markdown
+dateCreated: 2020-04-27T21:34:48.040Z
 ---
 
-# NEBcutter V2.0
+# NEBcutter V3.0
 
 > This tool will take a DNA sequence and find the large, non-overlapping open reading frames using the E.coli genetic code and the sites for all Type II and commercially available Type III restriction enzymes that cut the sequence just once. By default, only enzymes available from NEB are used, but other sets may be chosen.The maximum size of the input file is 1 MByte, and the maximum sequence length is 300 KBases. 
 {.is-info}
@@ -16,7 +17,7 @@ editor: markdown
 
 ## Website 
 
-- [NEBcutter V2.0 *Main Page*](http://nc2.neb.com/NEBcutter2/)
+- [NEBcutter V3.0 *Main Page*](https://nc3.neb.com/NEBcutter/)
  {.links-list}
 
 ## Notes from User 
