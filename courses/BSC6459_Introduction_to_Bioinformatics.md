@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T16:03:38.062Z
+date: 2024-04-28T16:16:47.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -247,14 +247,24 @@ In Plants
 - Determine the Molecular Weight (MW), and other physical and chemical properties of a given protein 
 - Predict protein localization and transmembrane domains
 
+> test
+{.is-info}
 
 - [**NEBCutter**](https://vdclab-wiki.herokuapp.com/e/en/resources/experimental-planning/NEBcutter)
+- [**Primer3**  & **Primer3PLus**](https://vdclab-wiki.herokuapp.com/en/resources/experimental-planning/Primer3Plus)
+
+
+
 
 > test
 {.is-info}
 
+- [**Compute MW and PI @Expasy**](https://web.expasy.org/compute_pi/)
+- [**Compute AA parameters @Expasy**](https://web.expasy.org/protscale/)
 
-
+- SignalP-6
+- DEEPTMHMM
+- Phobius
 
 ### Module 7-
 **Module Objectives**
