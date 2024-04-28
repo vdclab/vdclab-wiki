@@ -1,13 +1,14 @@
 ---
-title: TMHMM Server v. 2.0
+title: TMHMM Server 
 description: Prediction of transmembrane helices in proteins.
 published: true
-date: 2020-07-16T17:29:48.338Z
+date: 2024-04-28T16:19:28.518Z
 tags: tool, sequence analysis, proteins, prediction, protein domain
 editor: markdown
+dateCreated: 2020-04-28T18:16:37.414Z
 ---
 
-# TMHMM Server v. 2.0
+# TMHMM Server 
 
 > This server is for prediction of transmembrane helices in proteins along with a list of the location of the predicted transmembrane helices and the predicted location of the intervening loop regions.
 {.is-info}
@@ -17,6 +18,7 @@ editor: markdown
 ## Website 
 
 - [TMHMM Server v. 2.0 *Main Page*](https://services.healthtech.dtu.dk/service.php?TMHMM-2.0)
+- [DeepTMHMM Server *Main Page*](https://dtu.biolib.com/DeepTMHMM)
  {.links-list}
 
 ## Notes from the user
