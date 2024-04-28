@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T18:22:35.008Z
+date: 2024-04-28T19:01:14.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -276,10 +276,15 @@ In Plants
 - Build a protein family tree and identify paralogs 
 - Compare and contrast different tools and sequences used to build trees and their influence on the outcome 
 
-- Phylogeny.fr 
-- NGPhylogeny.fr
-- MAFFT
-- 
+> [Phylogenetic trees](https://en.wikipedia.org/wiki/Phylogenetic_tree) are used to visualize the evolutionary relationships between protein or DNA sequences that derive from a [common ancestor](https://en.wikipedia.org/wiki/Molecular_phylogenetics). Building and interpreting trees is not easy. It requires that the set of sequences and the [algorithm](https://en.wikipedia.org/wiki/Computational_phylogenetics) used to construct the trees are chosen appropriately to answer the specific question that is asked. 
+{.is-info}
+
+- [**Simple phylogeny @EBI**](https://www.ebi.ac.uk/jdispatcher/phylogeny/simple_phylogeny)
+- [**Phylogeny.fr**](http://phylogeny.lirmm.fr/phylo_cgi/index.cgi) 
+- [**NGPhylogeny.fr**](https://vdclab-wiki.herokuapp.com/en/phylogeny/tools/NGPhylogeny)
+- [**MAFFT**](https://vdclab-wiki.herokuapp.com/en/alignment/multiple-alignment/MAFFT)
+- [**Tool to visualize or compare trees**](https://phylo.io/)
+
 > test
 {.is-info}
 
