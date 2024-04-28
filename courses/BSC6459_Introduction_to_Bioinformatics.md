@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T16:25:10.214Z
+date: 2024-04-28T16:46:49.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -247,7 +247,7 @@ In Plants
 - Determine the Molecular Weight (MW), and other physical and chemical properties of a given protein 
 - Predict protein localization and transmembrane domains
 
-> test
+> Analyze enzymes restriction profiles  and designing PCR primers were some  of te first use of bioinformatic tools for molecular biologists
 {.is-info}
 
 - [**NEBCutter**](https://vdclab-wiki.herokuapp.com/e/en/resources/experimental-planning/NEBcutter)
@@ -261,7 +261,7 @@ In Plants
 - [**Compute AA parameters @Expasy**](https://web.expasy.org/protscale/)
 - [**SignalP**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/SignalP)
 - [**DeepTMHMM**](https://vdclab-wiki.herokuapp.com/e/en/tools/analysis/TMHMM)
-- Phobius
+- [**Phobius**](https://vdclab-wiki.herokuapp.com/en/tools/analysis/Phobius)
 
 
 ### Module 7-
