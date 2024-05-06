@@ -2,7 +2,7 @@
 title: BSC6459 Introduction to Bioinformatics
 description: 
 published: true
-date: 2024-04-28T21:16:58.791Z
+date: 2024-05-06T20:59:44.247Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T19:14:46.497Z
@@ -144,6 +144,7 @@ For users who want to explore other literature resources than Pubmed a few are l
 - [**CustalOmega**](http://www.ebi.ac.uk/Tools/msa/clustalo/)
 - [**T-coffee**](/alignment/multiple-alignment/T-COFFEE)
 - [**Multialin**](http://multalin.toulouse.inra.fr/multalin/)
+- [**Muscle**](https://www.ebi.ac.uk/jdispatcher/msa/muscle)
 - [**Compilation of MSA programs @EBI**](https://www.ebi.ac.uk/jdispatcher/msa)
 
 > Different tools can be used to edit alignments. [JalView](/visualization/data-visualization/Jalview) is a popular option. 
