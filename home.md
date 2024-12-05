@@ -2,7 +2,7 @@
 title: Vdc Lab Wiki
 description: wiki of all the useful website that we can use
 published: true
-date: 2024-03-10T17:44:02.887Z
+date: 2024-12-05T14:41:54.661Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-19T19:09:02.550Z
@@ -32,7 +32,7 @@ Below, you will find an interactive table providing an overview of primary conte
 ## Annotation
 
 - [Annotation websites on the wiki *List of the annotation websites*](https://vdclab-wiki.herokuapp.com/en/annotation)
-{.links-list}6559
+{.links-list}
 
 ## Databases
 
