@@ -2,8 +2,10 @@
 title: SEEK
 description: SEEK is a computational gene co-expression search engine.
 published: true
-date: 2020-05-21T02:05:51.735Z
+date: 2025-12-03T15:34:03.973Z
 tags: genes, transcriptomics, co-expression, gene expression
+editor: markdown
+dateCreated: 2020-04-07T20:22:44.533Z
 ---
 
 # SEEK
@@ -13,7 +15,7 @@ tags: genes, transcriptomics, co-expression, gene expression
 
 ## Website
 
-- [SEEK *Main Page*](http://seek.princeton.edu/index.jsp)
+- [SEEK *Main Page*](https://seek.princeton.edu/seek/)
 {.links-list}
 
 ## Notes from user
